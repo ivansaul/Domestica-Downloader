@@ -78,6 +78,8 @@ async def fetch_course(url: str, context: BrowserContext) -> Course:
         f"{title}_content.pdf",
     )
 
+    await page.close()
+
     return Course(
         title=title,
         sections=sections,
