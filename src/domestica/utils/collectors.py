@@ -1,3 +1,4 @@
+import asyncio
 import json
 import re
 from typing import Optional
@@ -57,14 +58,15 @@ async def fetch_course(url: str, context: BrowserContext) -> Course:
     title = await get_course_title(page)
 
     try:
-        sections_locator = page.locator("ul.units-list h4.unit-item__title a")
+        tasks = []
         sections: list[Section] = []
+        sections_locator = page.locator("ul.units-list h4.unit-item__title a")
         for i in range(await sections_locator.count()):
             section_url = await sections_locator.nth(i).get_attribute("href")
             if section_url is None:
                 raise Exception("Could not get section url")
-            section = await fetch_section(section_url, context)
-            sections.append(section)
+            tasks.append(fetch_section(section_url, context))
+        sections = await asyncio.gather(*tasks)
     except TimeoutError:
         raise Exception("Could not get sections")
     except Exception as e:
