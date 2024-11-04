@@ -1,0 +1,158 @@
+{
+    "id": null,
+    "title": " Fotografía profesional para Instagram",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/300/e786cf9fda0055e6a950cd799f00b2b0/master.m3u8?1676383118"
+                },
+                {
+                    "id": null,
+                    "title": "Instagrammers geniales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/301/e7812977006632b2abe06b50c43ebce7/master.m3u8?1676383120"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/355acf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Antes de la foto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/302/821dfcdfa3e61be51472ae3d25359fd5/master.m3u8?1676383121"
+                },
+                {
+                    "id": null,
+                    "title": "Conseguir la máxima calidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/303/0ef6645d31e867e7f9fae1d3d49fff27/master.m3u8?1676383124"
+                },
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/304/43d724b4bdb61c1b19e2582f1a5a5cfd/master.m3u8?1676383124"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/913lyc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La toma",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/305/fe465e3770168aa8aa97c172f09ad09d/master.m3u8?1676383124"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un ambiente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/306/8618bd2160da1d2681f5d377caa5f5f1/master.m3u8?1676383126"
+                },
+                {
+                    "id": null,
+                    "title": "Componer un Flatlay",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/307/da2e046ef005051c594a38056dd22d7e/master.m3u8?1676383124"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía de interiores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/308/a0b43476b50526cc3d1a7d2122631f02/master.m3u8?1676383123"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas creativas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/309/0a49762c5926ace332f282a156640fa4/master.m3u8?1676383126"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oieroi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La edición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Edición de fotos con Snapseed",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/310/601a38add2bd1c70717892c0e1e26af4/master.m3u8?1676383131"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de fotos con VSCO",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/828/46314b189ee9b0e22e3cfb8e886be6a1/master.m3u8?1676413599"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de fotos con Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/829/1b229d53bf4ac61c8c2c0f1945216d97/master.m3u8?1676413594"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo manejarte por Instagram y programar publicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/830/57813de5de07cb238f257082560ee427/master.m3u8?1676413597"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/75jxrm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Instagram Stories",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hacer las fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/833/4efbb87d5633616c70ec328388bdf9e8/master.m3u8?1676413596"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas de Stories",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/834/3f5290e05cbc716c3843eebdd3fd32c7/master.m3u8?1676413601"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0cc8iu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rmayqp.pdf"
+        }
+    ]
+}

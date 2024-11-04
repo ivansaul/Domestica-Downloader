@@ -1,0 +1,136 @@
+{
+    "id": null,
+    "title": " Usar Chat GPT para trabajar",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/841/37e09c860699254ef0f80632fb125aa5/master.m3u8?1725027337"
+                },
+                {
+                    "id": null,
+                    "title": "Contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/842/dfa58344007c5f85302f0d85310c584a/master.m3u8?1705945026"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e4n55w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Contexto, metodología y preparación del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo funcionan la Inteligencia Artificial y el Machine Learning",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/843/6f221c08de8a629a932bba3309023b01/master.m3u8?1705945091"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo funciona el Chat GPT",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/844/727487736e39418de3734b8fd5fde29e/master.m3u8?1715004023"
+                },
+                {
+                    "id": null,
+                    "title": "La primera interacción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/845/78673862e343c0ca2d6ccde988b95796/master.m3u8?1705945205"
+                },
+                {
+                    "id": null,
+                    "title": "Cuándo usar el ChatGPT",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/846/b9711907c726f03ee4a7cfdc3b22fda9/master.m3u8?1705945271"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j1mxsn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Interactuar con el ChatGPT",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La primera conversación: la presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/847/5bcd7949f41ad21baf6451e0d8c2a7ac/master.m3u8?1705945325"
+                },
+                {
+                    "id": null,
+                    "title": "Cuáles son las tareas en las que te puede ayudar el Chat GPT",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/848/e56aa83be078ccb3f8fb7b092351b745/master.m3u8?1705945374"
+                },
+                {
+                    "id": null,
+                    "title": "Generar prompts: dar contexto 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/849/3b1fb985c05d045da5e6ec37fe3da599/master.m3u8?1705945420"
+                },
+                {
+                    "id": null,
+                    "title": "Generar prompts: dar contexto 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/850/14d7be66633246eaaa211225cc052ab2/master.m3u8?1705945458"
+                },
+                {
+                    "id": null,
+                    "title": "Generar prompts: estructura y datos de salida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/855/2b6303a3db06d46039e33dc8cb88b839/master.m3u8?1715004136"
+                },
+                {
+                    "id": null,
+                    "title": "Mejorar los prompts",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/851/0cf7122619c9f4b96c92a36af16b76c4/master.m3u8?1715004463"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dif29t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consejos profesionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La suscripción ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/852/8fe4fad543616a72884f02713d784479/master.m3u8?1705945634"
+                },
+                {
+                    "id": null,
+                    "title": "Filosofía y mentalidad para trabajar con la IA: análisis, iteración y criterio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/854/e2815e19a5d4c73f0da8af71a3ec3312/master.m3u8?1705945701"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/osdx4n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/d6wza4.pdf"
+        }
+    ]
+}

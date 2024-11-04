@@ -1,0 +1,203 @@
+{
+    "id": null,
+    "title": " Google Ads y Facebook Ads desde cero",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/210/f121f95a78ecd5f4c4748dca22fe1c2f/master.m3u8?1676386760"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/211/0a296615c28c15a1164a6be90c667abb/master.m3u8?1676386760"
+                },
+                {
+                    "id": null,
+                    "title": "¿Qué haremos durante el curso?",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/212/b95f2555d5bd9e8b45945fee35fe0126/master.m3u8?1676386758"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/la6b3b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Marketing Digital ",
+            "videos": [
+                {
+                    "id": null,
+                    "title": " ¿Qué es el marketing digital? ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/213/392a4b387eda28e4442c4791e775e816/master.m3u8?1676386758"
+                },
+                {
+                    "id": null,
+                    "title": "Canales y principales plataformas ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/214/eada8cfb3adbf105f46e7b5b172731fb/master.m3u8?1676386759"
+                },
+                {
+                    "id": null,
+                    "title": "Objetivos, métricas y medición en marketing digital ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/215/611d396d43b01f2b144edcef63939536/master.m3u8?1676386760"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tgr1rj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando nuestro plan de marketing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Identifica tu cliente y mercado potencial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/216/61ee67a3a66e2b43ce60022a0ae9d14e/master.m3u8?1676386761"
+                },
+                {
+                    "id": null,
+                    "title": "¿Qué plataformas son más afines a mi negocio? ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/217/d68472d2e87ad4f7da581e4e253684e1/master.m3u8?1676386770"
+                },
+                {
+                    "id": null,
+                    "title": "Entorno competitivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/218/e360c5395b021c20f7d95e725d8a97da/master.m3u8?1676386763"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0kitxf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Google Ads",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a Google Ads ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/219/770b5775f5aa4be5193dffde34c9ce35/master.m3u8?1676386761"
+                },
+                {
+                    "id": null,
+                    "title": "Primeros Pasos en Google Ads ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/220/2cdff477320f70bacd2390e19275ed14/master.m3u8?1676386770"
+                },
+                {
+                    "id": null,
+                    "title": "Campañas de búsqueda I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/221/5c8d3dabcd3bad6c30fc5edb9fae4ff6/master.m3u8?1676386765"
+                },
+                {
+                    "id": null,
+                    "title": "Campañas de búsqueda II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/222/8b30332ea6c0f81f2dd24b0db61107a2/master.m3u8?1676386762"
+                },
+                {
+                    "id": null,
+                    "title": "Google Display Network",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/226/d7b2eb60b303ebc22484ccd669bf9e26/master.m3u8?1676386768"
+                },
+                {
+                    "id": null,
+                    "title": "Youtube - Campañas de vídeo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/227/6a9fd2ddec206e9a7de882b68cf3daec/master.m3u8?1676386766"
+                },
+                {
+                    "id": null,
+                    "title": "Otros productos de Google Ads",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/228/9db933d102d2d9ee5e558da58c625331/master.m3u8?1676386766"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ntsgxz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Facebook & Instagram Ads",
+            "videos": [
+                {
+                    "id": null,
+                    "title": " Introducción a Facebook e Instagram ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/229/68690c2cdef8dcc921c4857e52cfd34d/master.m3u8?1676386765"
+                },
+                {
+                    "id": null,
+                    "title": "Primeros pasos para crear anuncios en Facebook",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/230/5419fe333d6f50ac86d68779167703dd/master.m3u8?1676386769"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura y Objetivos de las Campañas en Facebook e Instagram Ads",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/231/680108ac7f38ca9d1565512e7d362992/master.m3u8?1676386770"
+                },
+                {
+                    "id": null,
+                    "title": "Targeting y Audiencias I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/232/513adfe88e51f2d12f2a9f9cf9663dc2/master.m3u8?1676386775"
+                },
+                {
+                    "id": null,
+                    "title": "Targeting y Audiencias II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/233/39ebd8622c875b56cb5e17001964b0c3/master.m3u8?1676386776"
+                },
+                {
+                    "id": null,
+                    "title": "Formatos de anuncios I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/234/862d36dfd1c6355d90c692bd5721d475/master.m3u8?1676386778"
+                },
+                {
+                    "id": null,
+                    "title": "Formatos de anuncios II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/235/8870977718dc84cbd79d42763ebf1606/master.m3u8?1676386776"
+                },
+                {
+                    "id": null,
+                    "title": "Seguimiento de resultados y optimización de las campañas de Facebook e Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/236/94492740f0f15a9d94564e65da12cd26/master.m3u8?1676386781"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y recursos adicionales en Facebook Ads",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/237/73857ce68fc6fc3f67feaa0f5d23d5b4/master.m3u8?1676386781"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lkjte4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3ey8vc.pdf"
+        }
+    ]
+}

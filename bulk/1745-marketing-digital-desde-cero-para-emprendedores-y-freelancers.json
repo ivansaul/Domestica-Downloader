@@ -1,0 +1,126 @@
+{
+    "id": null,
+    "title": " Marketing digital desde cero para emprendedores y freelancers",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/737/85f5eaecde8fb45b89afd29bd362df5b/master.m3u8?1676402703"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/738/faedb7983b69a4617be3af2fe7c383a0/master.m3u8?1676402705"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xfijdy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo crear una estrategia ",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al marketing digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/739/281b5a070c2784f6f9e3d49e4438aa34/master.m3u8?1676402705"
+                },
+                {
+                    "id": null,
+                    "title": "Definir tu target",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/740/c41ac0c75a5f3ba49c62c927135af4ab/master.m3u8?1676402705"
+                },
+                {
+                    "id": null,
+                    "title": "Definir los objetivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/741/38574572659a43791df3ca60beea338d/master.m3u8?1676402706"
+                },
+                {
+                    "id": null,
+                    "title": "El embudo de conversión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/742/2f34800a9846b80d240ca189e57b63ba/master.m3u8?1676402705"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xro3b1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "¿Qué transmitir y cómo hacerlo?",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fase de conocimiento y sus canales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/743/65ce41a105f634d3e4c0bfe35caf0063/master.m3u8?1676402712"
+                },
+                {
+                    "id": null,
+                    "title": "Fase de conocimiento y sus canales  2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/744/99567cd1f3550d15dac592c4b66253cc/master.m3u8?1676402708"
+                },
+                {
+                    "id": null,
+                    "title": "Fase de interés y sus canales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/745/e5513572a26ea7f5f680b274cdff2ee6/master.m3u8?1676402714"
+                },
+                {
+                    "id": null,
+                    "title": "Fase de fidelización y sus canales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/746/a290ef9c0dc80d09146024fdd6f144cd/master.m3u8?1676402711"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8roipv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Medición, estrategia y tácticas para alcanzar tus objetivos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Métricas para medir el éxito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/747/61a8c0942d78b914a4f69102b5ae423a/master.m3u8?1676402712"
+                },
+                {
+                    "id": null,
+                    "title": "Plan básico de acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/748/11850af19cc2d618374b64b6ed78b8de/master.m3u8?1676402717"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x4m9d7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/jfn34h.pdf"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "id": null,
+    "title": " Creación de contenidos con IA",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/285/93208b83098411de5a40ed7f6232089b/master.m3u8?1697563808"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/286/5790e752e2ee1dd88f0e24afef9b482a/master.m3u8?1697563823"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e13xrb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a la IA",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la Inteligencia Artificial Generativa (IAG)",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/287/31e936edbc629a35f1ea4813b8df9338/master.m3u8?1697563867"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a herramientas de IAG",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/288/bdaa1d34e2dc343c63be15fa218c437f/master.m3u8?1697563884"
+                },
+                {
+                    "id": null,
+                    "title": "Consideraciones sobre los prompts",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/289/6937ee1286fdc3e16ab63aed46065b24/master.m3u8?1697563898"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ag3712.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear los contenidos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/290/f46b4f132995678ed1bae4b7a56cc014/master.m3u8?1697563920"
+                },
+                {
+                    "id": null,
+                    "title": "Generar ideas: brainstorming",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/291/af44a557370400f0925cc6b04bcc6a49/master.m3u8?1697563937"
+                },
+                {
+                    "id": null,
+                    "title": "Los textos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/292/4108040b8fc60cb310f9188907e862c1/master.m3u8?1697563954"
+                },
+                {
+                    "id": null,
+                    "title": "Los textos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/293/4b52577ee66750efed8b9958e52bb8de/master.m3u8?1697564062"
+                },
+                {
+                    "id": null,
+                    "title": "Imágenes y videos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/294/df68305d32e82994aa65164d14406103/master.m3u8?1697564102"
+                },
+                {
+                    "id": null,
+                    "title": "Otros formatos y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/295/f7a98366b6d00f46da930ae8454f43dd/master.m3u8?1697564119"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rceh85.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Gestionar, analizar y reciclar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Planificación y gestión de contenidos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/296/c8cc3567017e17cf4f38393cd38a6c6c/master.m3u8?1697564139"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación y gestión de contenidos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/297/f1c491642ff96ff85c6c51c9775a631d/master.m3u8?1697564180"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de resultados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/298/47f7363347abc8fb141104b747b44bf5/master.m3u8?1697564202"
+                },
+                {
+                    "id": null,
+                    "title": "Reciclaje de contenidos y consideraciones finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/299/d65a9abd7b5c805fe7ff9f0c86bfdeb9/master.m3u8?1697564229"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gezg8h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1t65tq.pdf"
+        }
+    ]
+}

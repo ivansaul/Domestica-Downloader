@@ -1,0 +1,153 @@
+{
+    "id": null,
+    "title": " Creación de videos con smartphone para Instagram y TikTok",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/075/ae6f33314808096840abcba2d28d836f/master.m3u8?1676406653"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/076/1e94f4d2f7aa9824ccf2aeba03ce92fc/master.m3u8?1676406657"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fbw79j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estrategia creativa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "¿Por qué es tan importante el contenido de vídeo?",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/077/32d3175f04ff206bd9a44b43096bc259/master.m3u8?1676406656"
+                },
+                {
+                    "id": null,
+                    "title": "El proceso de investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/078/124f2798cd9b6fc50feb7562da4afc44/master.m3u8?1676406657"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación y filmación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/079/b1623aae3b05fbf39abe6e5e5f59bea1/master.m3u8?1676406656"
+                },
+                {
+                    "id": null,
+                    "title": "Música y sonidos de moda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/080/b396b6bed0de5ffd134d1b0cfbbcce99/master.m3u8?1676406657"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pcolxv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición de video móvil",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "CapCut: conceptos básicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/081/e08585907d2b248b61ce57267f89a7fa/master.m3u8?1676406660"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo editar un buen video",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/082/52a460a52254213150a1c2b1c64e28e6/master.m3u8?1676406659"
+                },
+                {
+                    "id": null,
+                    "title": "Crear y editar videos con aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/138/49aa7bc706339e8e70d89e034902aea8/master.m3u8?1676406685"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/60uzc8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Adobe Premiere Pro: creación de vídeos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los básicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/083/a921ed77a9bb184696bfebaa44fe3bb0/master.m3u8?1676406664"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de vídeos verticales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/084/c5c088831a435c3a715ac6c76fdf6ca4/master.m3u8?1676406660"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos adicionales para mejores vídeos verticales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/085/050ea6da8dba9ae441c5474af139a3e2/master.m3u8?1676406662"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ef9lel.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Transiciones y compartir tu trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Haciendo transiciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/086/8a1e01f2e338c1dfe20fd3809ab642bb/master.m3u8?1676406661"
+                },
+                {
+                    "id": null,
+                    "title": "Subiendo el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/087/9fba88e351a3b7a8451cf18c9bf50097/master.m3u8?1676406666"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión de Analytics",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/088/7568032f885c9374c32f4cb676ed75dc/master.m3u8?1676406663"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wiyl3i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8r7cek.pdf"
+        }
+    ]
+}

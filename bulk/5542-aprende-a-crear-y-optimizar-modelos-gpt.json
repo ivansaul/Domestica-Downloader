@@ -1,0 +1,116 @@
+{
+    "id": null,
+    "title": " Aprende a crear y optimizar modelos GPT",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/707/646d44618b272b8ed3a9692ce8ed3578/master.m3u8?1725028274"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/708/94ed64c135ac1c9f70750eea2cc46278/master.m3u8?1720538302"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/um8kwk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos de GPT y tecnología RAG",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué son los GPTs",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/709/cb74dd8631bb83823773f8b682cf0c2a/master.m3u8?1720435268"
+                },
+                {
+                    "id": null,
+                    "title": "Explorando la Tecnología RAG",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/710/66e3553763c8739829c2a4868b8b079a/master.m3u8?1720435402"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m6yvd3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación y personalización de Custom GPT",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando nuestro primer GPT",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/711/1ba7abd43d32efe8c29e15f733d0e606/master.m3u8?1720436490"
+                },
+                {
+                    "id": null,
+                    "title": "Añadiendo herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/712/c08d5c4ea76a5367f29cdbab311d225a/master.m3u8?1720436551"
+                },
+                {
+                    "id": null,
+                    "title": "Añadiendo información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/713/806a9125300cf00ca8b116a871ba085d/master.m3u8?1720436585"
+                },
+                {
+                    "id": null,
+                    "title": "Añadiendo acciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/714/b2ec381bcd2554be5d43c1eb76033950/master.m3u8?1720436612"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hiswnn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Publicación y uso de GPTs",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Completar un flujo entero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/715/194d3745f28ff9a2b782ce3e5b744636/master.m3u8?1720437631"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es la GPT Store",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/716/45dc5d9d15c2b7bf0498c69ce9c7f236/master.m3u8?1720437661"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/isnvdv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/0y6b0j.pdf"
+        }
+    ]
+}
