@@ -1,0 +1,37 @@
+{
+    "editor.formatOnSave": true,
+    "cSpell.language": "en,es",
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.ruff": "explicit",
+            "source.organizeImports": "explicit",
+        },
+    },
+    "cSpell.words": [
+        "acodec",
+        "aiohttp",
+        "autouse",
+        "catbox",
+        "ffprobe",
+        "fileupload",
+        "firefox",
+        "github",
+        "ivansaul",
+        "libx",
+        "pacman",
+        "pydantic",
+        "pypa",
+        "pypi",
+        "reqtype",
+        "typer",
+        "userhash",
+        "vcodec",
+        "vidpack"
+    ],
+    "python.testing.pytestArgs": [
+        "src/tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+}
