@@ -1,9 +1,14 @@
 import asyncio
 import os
+import shutil
+import sys
+import tarfile
+import zipfile
 
 import aiohttp
 
 from ..models import Quality
+from . import appdirs
 
 
 async def download_m3u8_video(
@@ -145,3 +150,74 @@ async def upload_from_bytes(file_data: bytes, filename: str) -> str:
                 return await response.text()
             else:
                 raise Exception(f"Failed to upload file: {filename}")
+
+
+async def download_dependencies() -> None:
+    """
+    Downloads the required dependencies for the application.
+    """
+    app_dir = appdirs.get_app_dir()
+    bin_dir = os.path.join(app_dir, "bin")
+    dependencies_dir = os.path.join(app_dir, "dependencies")
+
+    os.makedirs(app_dir, exist_ok=True)
+    os.makedirs(bin_dir, exist_ok=True)
+    os.makedirs(dependencies_dir, exist_ok=True)
+
+    version = "v0.2.1-beta"
+    name = "N_m3u8DL-RE_Beta"
+    build = "20240828"
+    format = "tar.gz"
+    platform = "osx-arm64"
+
+    m3u8dl_bin_path = os.path.join(bin_dir, "N_m3u8DL-RE")
+    # TODO: add support for arm architecture
+    if sys.platform.startswith("darwin"):
+        pass
+
+    elif sys.platform.startswith("linux"):
+        platform = "linux-x64"
+
+    elif sys.platform.startswith("win"):
+        platform = "win-x64"
+        format = "zip"
+        m3u8dl_bin_path = os.path.join(bin_dir, "N_m3u8DL-RE.exe")
+
+    else:
+        raise RuntimeError("Unsupported platform")
+
+    m3u8dl_url = f"https://github.com/nilaoda/N_m3u8DL-RE/releases/download/{version}/{name}_{platform}_{build}.{format}"
+
+    # Download m3u8dl binary
+    if not os.path.exists(m3u8dl_bin_path):
+        zip_name = f"{name}_{version}.{format}"
+        await download_file(m3u8dl_url, dependencies_dir, zip_name)
+
+        zip_path = os.path.join(dependencies_dir, zip_name)
+
+        if format == "zip":
+            with zipfile.ZipFile(zip_path, "r") as zip:
+                zip.extractall(dependencies_dir)
+
+        if format == "tar.gz":
+            with tarfile.open(zip_path, "r") as tar:
+                tar.extractall(dependencies_dir)
+
+        os.remove(zip_path)
+
+        # Move binary to bin directory
+        for dir, subdirs, files in os.walk(dependencies_dir):
+            for file in files:
+                if file in ["N_m3u8DL-RE", "N_m3u8DL-RE.exe"]:
+                    bin_src = os.path.join(dir, file)
+                    shutil.move(bin_src, bin_dir)
+
+        # Set executable permission
+        if not os.access(m3u8dl_bin_path, os.X_OK):
+            os.chmod(m3u8dl_bin_path, 0o744)
+
+    # Add bin directory to PATH
+    if "PATH" not in os.environ:
+        os.environ["PATH"] = bin_dir
+    elif bin_dir not in os.environ["PATH"]:
+        os.environ["PATH"] = bin_dir + os.pathsep + os.environ["PATH"]
