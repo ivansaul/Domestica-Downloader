@@ -68,8 +68,9 @@ class CourseInfo(BaseModel):
 class Course(BaseModel):
     """course model"""
 
-    id: Optional[str] = None
+    id: str
     title: str
+    url: str
     sections: list[Section]
     assets: list[Media] = []
     info: Optional[CourseInfo] = None
