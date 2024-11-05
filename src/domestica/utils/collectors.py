@@ -10,6 +10,14 @@ from ..models import Course, CourseInfo, Media, Section, Video
 from ..utils import tools
 
 
+def get_course_id(url: str) -> str:
+    pattern = r"/(\d+)-"
+    match = re.search(pattern, url)
+    if not match:
+        raise Exception("Could not get course id")
+    return match.group(1)
+
+
 def _parse_course_info(content: str) -> CourseInfo:
     pattern = r"window\.Domestika\.courses_controller\.course\((.*?)\);"
     match = re.search(pattern, content)
@@ -85,6 +93,7 @@ async def fetch_course(url: str, context: BrowserContext) -> Course:
     await page.close()
 
     return Course(
+        id=get_course_id(url),
         title=title,
         sections=sections,
         assets=[
