@@ -5,6 +5,7 @@ from typing import Optional
 
 from playwright.async_api import BrowserContext, Page
 
+from .. import helpers
 from ..models import Course, CourseInfo, Media, Section, Video
 from ..utils import tools
 
@@ -38,7 +39,7 @@ async def get_course_title(page: Page) -> str:
 
     if title is None:
         raise Exception("Could not get course title")
-    return title
+    return helpers.clean_string(title)
 
 
 async def page_to_img(page: Page, path: Optional[str] = None) -> bytes:
@@ -108,6 +109,8 @@ async def fetch_section(url: str, context: BrowserContext) -> Section:
     if section_title is None:
         raise Exception("Could not get section title")
 
+    section_title = helpers.clean_string(section_title)
+
     pattern = r"window\.__INITIAL_PROPS__ = JSON\.parse\('(.*?)'\)"
     match = re.search(pattern, await page.content())
     if not match:
@@ -119,7 +122,7 @@ async def fetch_section(url: str, context: BrowserContext) -> Section:
     try:
         for video in json_data["videos"]:
             media = Video(
-                title=video["video"]["title"],
+                title=helpers.clean_string(video["video"]["title"]),
                 m3u8_url=video["video"]["playbackURL"],
             )
             videos.append(media)
