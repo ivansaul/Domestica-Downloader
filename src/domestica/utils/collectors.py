@@ -10,25 +10,26 @@ from ..models import Course, CourseInfo, Media, Section, Video
 from ..utils import tools
 
 
+def _parse_course_info(content: str) -> CourseInfo:
+    pattern = r"window\.Domestika\.courses_controller\.course\((.*?)\);"
+    match = re.search(pattern, content)
+    if not match:
+        raise Exception("Could not get course info")
+    try:
+        json_str = match.group(1)
+        json_data = json.loads(json_str)
+        json_info = json_data["amplitude_event"]["event_properties"][
+            "product_attributes"
+        ][0]
+        return CourseInfo(**json_info)
+    except Exception as e:
+        raise Exception("Could not parse course info") from e
+
+
 async def fetch_course_info(url: str, context: BrowserContext) -> CourseInfo:
     page = await context.new_page()
     await page.goto(url)
-    title = await get_course_title(page)
-    stats = []
-    items = page.locator(".course-content-stats .row li")
-    count = await items.count()
-    for i in range(count):
-        text = await items.nth(i).text_content()
-        if text is not None:
-            clean_text = text.strip().replace("\n", " ")
-            stats.append(clean_text)
-
-    await page.close()
-
-    return CourseInfo(
-        title=title,
-        stats=stats,
-    )
+    return _parse_course_info(await page.content())
 
 
 async def get_course_title(page: Page) -> str:
@@ -79,6 +80,8 @@ async def fetch_course(url: str, context: BrowserContext) -> Course:
         f"{title}_content.pdf",
     )
 
+    info = _parse_course_info(await page.content())
+
     await page.close()
 
     return Course(
@@ -87,6 +90,7 @@ async def fetch_course(url: str, context: BrowserContext) -> Course:
         assets=[
             Media(name="content", url=pdf_content_url),
         ],
+        info=info,
     )
 
 

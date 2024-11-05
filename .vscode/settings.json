@@ -13,6 +13,7 @@
         "aiohttp",
         "autouse",
         "catbox",
+        "Domestika",
         "ffprobe",
         "fileupload",
         "firefox",
