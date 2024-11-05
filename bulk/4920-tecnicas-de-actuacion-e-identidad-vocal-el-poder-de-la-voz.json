@@ -1,0 +1,121 @@
+{
+    "id": null,
+    "title": " Técnicas de actuación e identidad vocal: el poder de la voz",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/784/42edb67192a135263b483ede8b63d0c9/master.m3u8?1721209954"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/785/1c6e9cc146a4c6d79c25ea953c4dce31/master.m3u8?1719846936"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3jqba2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La voz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "¿Qué es la voz?",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/786/457c972000baf655f84b41a3821ab59d/master.m3u8?1702489015"
+                },
+                {
+                    "id": null,
+                    "title": "¿Cómo se produce la voz?",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/787/3f3ad89a6159fec332e4f035833ae1a3/master.m3u8?1702489030"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/788/856df7c17855fff1728c59a32b0246ba/master.m3u8?1702489044"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y0lt6b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Emociones, texto y voz ",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Antes de trabajar con un texto ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/789/d4db5a621a00093328be876cbcf285fe/master.m3u8?1702489062"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de texto y sus características",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/790/aa7a61dc4ea93151b9314623eb4a866f/master.m3u8?1702489080"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de las emociones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/791/1912e5ab21c01bfb78a855506ed7b405/master.m3u8?1702489095"
+                },
+                {
+                    "id": null,
+                    "title": " Encontrar tu propia voz ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/792/f337f421c0ff2b60fd3f517c5dd4ac47/master.m3u8?1702489114"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r4ziyx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El poder de la voz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Jugar a usar la voz ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/793/ac3f6c842221b52727acd4c66dc64043/master.m3u8?1702489152"
+                },
+                {
+                    "id": null,
+                    "title": "Integrar los aprendizajes en la vida cotidiana",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/794/4ee7f9a775c2eb5640d2d1f49121f393/master.m3u8?1702489167"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hafm3w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7eayz6.pdf"
+        }
+    ]
+}

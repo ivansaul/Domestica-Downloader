@@ -1,0 +1,158 @@
+{
+    "id": null,
+    "title": " Oratoria: encuentra tu voz para hablar en público",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/640/5bb4c2d38af544b7f3b7956e2ff05967/master.m3u8?1676402096"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/641/168810362d80faa90475721efa508217/master.m3u8?1676402098"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s0dzqj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Familiarización con sus herramientas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué hace que un gran orador público",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/642/3c9799e995609461e30386b5d37ad595/master.m3u8?1676402097"
+                },
+                {
+                    "id": null,
+                    "title": "Entender cómo funciona la voz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/643/51888a6b4519a9581efbddf4bc661a64/master.m3u8?1676402097"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de respiración para ayudar con la proyección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/644/6bd5a1584f73285dbbadf25f55d82b89/master.m3u8?1676402099"
+                },
+                {
+                    "id": null,
+                    "title": "Dicción: ejercicios de calentamiento para los trabalenguas y la cara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/645/8e7a24cae65d69d2c776960c0532be6c/master.m3u8?1676402100"
+                },
+                {
+                    "id": null,
+                    "title": "Cuerpo y ocupar espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/646/3b1a516eb10aa6c6db695151fd34f1e2/master.m3u8?1676641248"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rt6k3a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Encontrar las palabras adecuadas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "¿Qué hace que una charla sea eficaz y persuasiva?",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/647/1aedd7151da34f08de05fee16b793373/master.m3u8?1676402104"
+                },
+                {
+                    "id": null,
+                    "title": "Clave el objetivo de su presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/648/445706e3e8d11889f0c37b9ce56ab9cf/master.m3u8?1676402103"
+                },
+                {
+                    "id": null,
+                    "title": "Mapear y adaptar su contenido a su audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/649/17b8b7928e91a612dad36c823f8980e7/master.m3u8?1676402107"
+                },
+                {
+                    "id": null,
+                    "title": "Poniendo estructura a su alrededor: la secuencia motivada de Monroe",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/650/653e9c57570ee84daf7fe65410c72a85/master.m3u8?1676402104"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2bvqxa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Añadiendo las campanas y los silbidos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Técnicas de narración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/651/d241b4a2b48995cd3fc071e7b428ae72/master.m3u8?1676402106"
+                },
+                {
+                    "id": null,
+                    "title": "Storyboarding",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/652/1eb4655e49a69307855c7b355bf7447d/master.m3u8?1676402103"
+                },
+                {
+                    "id": null,
+                    "title": "Ensayo y técnicas para memorizar su contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/653/f7f09146c39d0f593e74a6835023298b/master.m3u8?1676402104"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a1vxki.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cinco minutos antes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/654/48d2166f3ccdb38edbbe5361b0377f40/master.m3u8?1676402108"
+                },
+                {
+                    "id": null,
+                    "title": "Manejo de sus nervios: técnicas para conectarse a tierra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/655/1e1605625253b949d4e05d5f8d198d79/master.m3u8?1676402107"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r874fx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/u9f0kr.pdf"
+        }
+    ]
+}

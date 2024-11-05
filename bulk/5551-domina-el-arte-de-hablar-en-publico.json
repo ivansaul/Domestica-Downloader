@@ -1,0 +1,230 @@
+{
+    "id": null,
+    "title": " Domina el arte de hablar en público",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introduction to Public Speaking",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "How Public Speaking Can Make an Impact",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/736/9ed13d8c18146ee64d984f97b4f66698/master.m3u8?1721724501"
+                },
+                {
+                    "id": null,
+                    "title": "Looking at the History of Greek and Roman Oratory",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/737/6c52852f18fbd00b53446471ef527bb2/master.m3u8?1721724791"
+                },
+                {
+                    "id": null,
+                    "title": "How Public Speaking Has Evolved: The TED Effect",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/738/88535b6c9c5ab33ed1654f84e2217be6/master.m3u8?1727695912"
+                },
+                {
+                    "id": null,
+                    "title": "What Makes an Amazing Public Speaker Today",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/739/6ad19d018a7ca3123719ce563b8eea12/master.m3u8?1721725993"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t6do1d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Putting Your Talk Together",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Where Do You Start? What Do You Talk About, and What’s Your Objective? 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/740/2ca85ec8c92e2b40d13c117e7a05010e/master.m3u8?1727695988"
+                },
+                {
+                    "id": null,
+                    "title": "Where Do You Start? What Do You Talk About, and What’s Your Objective? 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/741/c88409c0b186002646fa3982780b736d/master.m3u8?1727696046"
+                },
+                {
+                    "id": null,
+                    "title": "Building Up the Narrative from Your Audience's Point of View 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/743/af0f5b163079d01b91777b1951acc3d5/master.m3u8?1727696182"
+                },
+                {
+                    "id": null,
+                    "title": "Building Up the Narrative from Your Audience's Point of View 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/742/1dd82f7a6fbe8e38f0af6f84d1458d8e/master.m3u8?1727696116"
+                },
+                {
+                    "id": null,
+                    "title": "Structuring Your Talk",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/744/8b29d7f8a2479e8a2174cadbac58fecc/master.m3u8?1721128029"
+                },
+                {
+                    "id": null,
+                    "title": "The Power of Storytelling",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/745/2977c12aa1e940a2b95d8c02b8adbcbd/master.m3u8?1721128045"
+                },
+                {
+                    "id": null,
+                    "title": "How to Slide? 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/746/747e02cd6229e8662b78688ad833bcd1/master.m3u8?1721128078"
+                },
+                {
+                    "id": null,
+                    "title": "How to Slide? 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/747/93d2f952816850010ff9a6ff9a03b8e6/master.m3u8?1721128119"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3o8na4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparing for the Presentation, Performance 101",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Principles of Performance",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/748/30a8dd28196581c6bd7b540d5508a37d/master.m3u8?1721128158"
+                },
+                {
+                    "id": null,
+                    "title": "The Voice and How to Use It Effectively",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/749/9c28c20327687d289df5e598aefa6144/master.m3u8?1721128179"
+                },
+                {
+                    "id": null,
+                    "title": "Body Language. What Do I Do with My Hands?",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/750/8460aefd0637998505c44abd617357bd/master.m3u8?1721128191"
+                },
+                {
+                    "id": null,
+                    "title": "Where Do I Look? How to Engage with Your Audience",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/751/1e7e64be3a6c73e2d91b650bd56d33da/master.m3u8?1721128205"
+                },
+                {
+                    "id": null,
+                    "title": "Managing Public Speaking Anxiety",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/752/133f5ffe7eeb27dc5eff5f853f373828/master.m3u8?1721128240"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u5ha33.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Your First Speaking Opportunity",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Building Up Your Speaker Profile Through Thought Leadership",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/753/8bb00148218db8193f44bc936b269466/master.m3u8?1721128261"
+                },
+                {
+                    "id": null,
+                    "title": "Different Types of Speaking Opportunities",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/754/c38a596de115171ca9389b369b8052b4/master.m3u8?1721128278"
+                },
+                {
+                    "id": null,
+                    "title": "Creating Your Own Speaking Event",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/755/b4536b3522976b78fc18edffa385fbf4/master.m3u8?1721128292"
+                },
+                {
+                    "id": null,
+                    "title": "Speaking Agencies",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/756/fabc796ad8dd2b76d51bffae01083e6c/master.m3u8?1721128308"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mku4oq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dealing with the Logistics of the Day",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "How to Work in Different-Sized Spaces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/757/db8cb36a649c6fa4583e1d8af962dbee/master.m3u8?1721128327"
+                },
+                {
+                    "id": null,
+                    "title": "Dealing with the Tech",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/758/10d7aea42bad0691abaeb8cc2c6806af/master.m3u8?1721128340"
+                },
+                {
+                    "id": null,
+                    "title": "Presenting Online",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/759/6a94e9e43cd75a1cbb6ace13fab085ce/master.m3u8?1721128356"
+                },
+                {
+                    "id": null,
+                    "title": "How to Deal with Different Types of Crises",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/760/0034b769c6f6efd3748ff378f4626225/master.m3u8?1721128370"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0kxamm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Growing Your Career as a Public Speaker",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Career Growth and Finding Speaking Opportunities",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/762/6a18feaf91333f9cc713aa128b73e063/master.m3u8?1721128605"
+                },
+                {
+                    "id": null,
+                    "title": "Effective Networking and Collaboration",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/763/675e925c6f044a5559f734c5654ce328/master.m3u8?1721128620"
+                },
+                {
+                    "id": null,
+                    "title": "Continuing Training Beyond",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/764/c365f83477e69684ec26e58b37d61c58/master.m3u8?1721128635"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/en6dpd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7i3c6l.pdf"
+        }
+    ]
+}

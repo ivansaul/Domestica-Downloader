@@ -1,0 +1,158 @@
+{
+    "id": null,
+    "title": " Design Thinking para gestión de proyectos",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/797/11fd0244e7ba9806cab5c591adaee466/master.m3u8?1676409141"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/798/a7cac26c06a568f2358c6b7a6bb4e19b/master.m3u8?1676409142"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/421adw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al design thinking",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cambiar el proyecto tradicional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/821/ce35adafc0fc8dcd425d7597f770b9c8/master.m3u8?1676409157"
+                },
+                {
+                    "id": null,
+                    "title": "¿Por qué design thinking?",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/822/0decd3f42ed03fb50625aa8fcd883c9d/master.m3u8?1676409159"
+                },
+                {
+                    "id": null,
+                    "title": "La metodología",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/823/5ce0e9413659638dd883334d5073edd2/master.m3u8?1676409161"
+                },
+                {
+                    "id": null,
+                    "title": "Pensamiento y herramientas ágiles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/824/f1f2c3252729b56484e4f8c4e64e2c67/master.m3u8?1676409159"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8oiwc2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empatizar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/825/96c762ef549131ad8151bcc4c1e5b2fd/master.m3u8?1676409163"
+                },
+                {
+                    "id": null,
+                    "title": "Identificar oportunidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/827/ea620fe8d5f9f52378895744a1995362/master.m3u8?1676409164"
+                },
+                {
+                    "id": null,
+                    "title": "Descubrir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/053/f21c4efde030aec4bcbf5a2af03f7103/master.m3u8?1676409393"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zq9vl2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Punto de vista e idear soluciones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Seleccionar el punto de vista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/829/4cf0554658c60920fb7fc38ea435a6a3/master.m3u8?1676409161"
+                },
+                {
+                    "id": null,
+                    "title": "Idear",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/830/26af3f9f79d10f4700490d15d6fbb6eb/master.m3u8?1676409173"
+                },
+                {
+                    "id": null,
+                    "title": "Seleccionar y priorizar ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/831/53f1d6f3a121c3fed8ee8124c4fb2d2e/master.m3u8?1676409166"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ki6drn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prototipo y validación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear el prototipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/833/fc4493745d8204378a769e64a801c194/master.m3u8?1676409165"
+                },
+                {
+                    "id": null,
+                    "title": "Validar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/834/b78eeaffac98472849c67e7534a45773/master.m3u8?1676409167"
+                },
+                {
+                    "id": null,
+                    "title": "Aprendizajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/835/c45343f01023d252f087070e3ba109f6/master.m3u8?1676409166"
+                },
+                {
+                    "id": null,
+                    "title": "Integrar e iterar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/836/0200c12fea5d682130286e6672ab634c/master.m3u8?1676409164"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ae26bm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/fpw812.pdf"
+        }
+    ]
+}

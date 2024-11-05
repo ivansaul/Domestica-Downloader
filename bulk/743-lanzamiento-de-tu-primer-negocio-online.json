@@ -1,0 +1,131 @@
+{
+    "id": null,
+    "title": " Lanzamiento de tu primer negocio online",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/515/5c8dcd8de51763cee251702830120ea1/master.m3u8?1676386876"
+                },
+                {
+                    "id": null,
+                    "title": "Motivaciones e influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/516/32cd62308f25737038fa7f9c65f4d2cf/master.m3u8?1676386886"
+                },
+                {
+                    "id": null,
+                    "title": "¿Qué haremos en el curso?",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/517/b9ab5c754b844991787221cb87c823ee/master.m3u8?1676386875"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0gjm0b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Saliendo de tu zona de confort",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tengo una idea pero... ¿cómo sé que es una buena idea?",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/518/b26441e422ab9386a66503e55a849155/master.m3u8?1676386878"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestro cliente objetivo y su contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/519/1f3728b7e39f3ed69902010a2b0aa52f/master.m3u8?1676386878"
+                },
+                {
+                    "id": null,
+                    "title": "Primer prototipo y flujo de caja proyectado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/520/1d719765bfff1cde527e018efb831439/master.m3u8?1676386882"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1gbixz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "¡Manos a la obra!",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Identificación de mis palabras clave",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/521/290d4dfae4a05258e312fb4e95b3c843/master.m3u8?1676386880"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de mi primera página web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/522/848dbfbe9ac48f7038fdcdf97313cbfd/master.m3u8?1676386881"
+                },
+                {
+                    "id": null,
+                    "title": "Elaboración de un mapa de contenidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/523/ac400e07a3a6a0098276f48453a5b42e/master.m3u8?1676386878"
+                },
+                {
+                    "id": null,
+                    "title": "Activación de redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/524/22a9f40924a5ef2f61a4e2fe160290e7/master.m3u8?1676386879"
+                },
+                {
+                    "id": null,
+                    "title": "Activación del plan de medios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/525/b599b606c7bac3e6675b9085a89e667f/master.m3u8?1676386883"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3oxnnv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "¡Ya estamos online!",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis de los primeros resultados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/526/55ac3e4e407094843a4527e3783971a8/master.m3u8?1676386890"
+                },
+                {
+                    "id": null,
+                    "title": "Crecimiento del modelo ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/527/0c2a9e9ef20e41c7c1faa2924382b31a/master.m3u8?1676386881"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5ja87n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/b1zcxl.pdf"
+        }
+    ]
+}

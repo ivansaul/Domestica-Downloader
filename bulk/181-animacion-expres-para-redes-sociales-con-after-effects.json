@@ -1,0 +1,222 @@
+{
+    "id": null,
+    "title": " Animación exprés para redes sociales con After Effects",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/274/8b14d5470fcdd43da3ba827244b99bb7/master.m3u8?1676382529"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/275/ff6e028cf0e46a564d0c4f5e271d73c7/master.m3u8?1676382531"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u328cl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Videoresumen",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Formatos y Restricciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/259/7ebb5c54debe79c80863505db2a5b126/master.m3u8?1676382522"
+                },
+                {
+                    "id": null,
+                    "title": "El Intro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/278/b991ccedfd7ff93026e437f42c4b1a1c/master.m3u8?1676382532"
+                },
+                {
+                    "id": null,
+                    "title": "Transiciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/279/3457a87690c355b8e6712d6511b85867/master.m3u8?1678436145"
+                },
+                {
+                    "id": null,
+                    "title": "Mosca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/270/cc3beea7f00d6f2f3680871c02824f44/master.m3u8?1676382526"
+                },
+                {
+                    "id": null,
+                    "title": "Template",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/260/d91b2ac6429da8c98729dbf347a03414/master.m3u8?1676382525"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t3jxta.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Storyboard",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Idea y storyboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/282/4f68afa8234c7bc4753636d38845e531/master.m3u8?1676382534"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/283/613944d803f518d51382de4cb1d09e4c/master.m3u8?1676382534"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0kamfa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Animación de la Tierra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ilustrar planeando la animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/261/dc9a407804a3d52c18ef8613694befaa/master.m3u8?1676382524"
+                },
+                {
+                    "id": null,
+                    "title": "Importando a After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/262/7550cca38a74835784dc64e87824120e/master.m3u8?1676382523"
+                },
+                {
+                    "id": null,
+                    "title": "Creando el Rig de la Tierra ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/263/c096784bfc9f61928ea48a117069ec93/master.m3u8?1676382524"
+                },
+                {
+                    "id": null,
+                    "title": "Animación de la Tierra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/264/e02a32a04d553133ee023abfe0dbcf0c/master.m3u8?1676382525"
+                },
+                {
+                    "id": null,
+                    "title": "Animación del Counter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/271/ebe0449cd9d20e1c2dd476b8ee5c92ef/master.m3u8?1676382526"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jkc7hu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Animación de UI",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ilustrando la UI",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/265/5084589e93c75773ae2ad7381d58429f/master.m3u8?1676382529"
+                },
+                {
+                    "id": null,
+                    "title": "Creando la escena ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/267/fdb6bd6314017b1b236ec754f6ade78b/master.m3u8?1676382525"
+                },
+                {
+                    "id": null,
+                    "title": "Animando la UI ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/268/1fac2adbeead233e5d325d784b735c19/master.m3u8?1676382534"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sg5qzc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Animación de Personaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ilustrando nuestro personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/269/da2ab69cc2d1aa00eb671b65775a4175/master.m3u8?1676382530"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando la Escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/272/01df63d4cc0c3994a3eca75def85ad24/master.m3u8?1676382527"
+                },
+                {
+                    "id": null,
+                    "title": "Rig de brazos con el efecto “Beam”",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/273/79dd648625faf7bc1a52f79b19a08b7b/master.m3u8?1676382526"
+                },
+                {
+                    "id": null,
+                    "title": "Animación del personaje ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/280/272d19b40e0812edb19938393b040c07/master.m3u8?1676382536"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3giuxf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos Detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Detalles en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/281/b49b237dfc80609f9939bea1e3b7ac79/master.m3u8?1676382535"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles Finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/276/338e9d103cca13d5ee690c0733fa2ebe/master.m3u8?1676382531"
+                },
+                {
+                    "id": null,
+                    "title": "Renders finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/277/cdd93586015afea63c6bb64658c03d70/master.m3u8?1676382535"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/734i4m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/0gnx5t.pdf"
+        }
+    ]
+}
