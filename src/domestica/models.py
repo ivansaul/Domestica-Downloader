@@ -39,6 +39,32 @@ class Section(BaseModel):
     assets: list[Media] = []
 
 
+class CourseInfo(BaseModel):
+    """course info model"""
+
+    product_id: int
+    product_name: str
+    teacher_name: str
+    category_id: int
+    category_name: str
+    course_level: str
+    course_number_of_lessons: int
+    course_total_duration_sec: int
+    total_units: int
+    subtitles_language: list[str]
+    audio_language: list[str]
+    original_language: str
+
+    @property
+    def slug(self) -> str:
+        product_name = self.product_name.strip().lower().replace(" ", "-")
+        return f"{self.product_id}-{product_name}"
+
+    @property
+    def url(self) -> str:
+        return f"https://www.domestika.org/courses/{self.slug}/course"
+
+
 class Course(BaseModel):
     """course model"""
 
@@ -46,10 +72,4 @@ class Course(BaseModel):
     title: str
     sections: list[Section]
     assets: list[Media] = []
-
-
-class CourseInfo(BaseModel):
-    """course info model"""
-
-    title: str
-    stats: list[str]
+    info: Optional[CourseInfo] = None
