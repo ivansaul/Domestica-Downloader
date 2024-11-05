@@ -95,6 +95,7 @@ async def fetch_course(url: str, context: BrowserContext) -> Course:
     return Course(
         id=get_course_id(url),
         title=title,
+        url=url,
         sections=sections,
         assets=[
             Media(name="content", url=pdf_content_url),
