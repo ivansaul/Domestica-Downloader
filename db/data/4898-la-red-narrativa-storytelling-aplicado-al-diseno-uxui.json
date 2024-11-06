@@ -1,0 +1,158 @@
+{
+    "id": "4898",
+    "title": "La red narrativa storytelling aplicado al diseño UXUI",
+    "url": "https://www.domestika.org/es/courses/4898-la-red-narrativa-storytelling-aplicado-al-diseno-uxui/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/382/1950046475122351be57e3e5cea5f132/master.m3u8?1676413933"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/383/4976d50cf93dc1fcb7f34d024158491f/master.m3u8?1676413933"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j13p32.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La anatomía de una gran historia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Storytelling para UX y UI Design",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/384/fcc125d31240dd70daac4a206043a87e/master.m3u8?1676413935"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de la narración audiencia propósito personajes y contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/385/6b292bc78a3e7d26b04c944eb266a22d/master.m3u8?1690523711"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de la narración la estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/386/b440a8f3d66c10f66cee8be5d0f8abe7/master.m3u8?1676413939"
+                },
+                {
+                    "id": null,
+                    "title": "El poder de contar historias emociones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/387/b89ac76f6c41379cec03422f168c8c8b/master.m3u8?1676413941"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7zhd89.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "A Mad Tea Party pongamos la narración en acción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrar los elementos de la historia 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/388/69ed71010357083c47745f6b21facdc3/master.m3u8?1715177479"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar los elementos de la historia 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/389/64800cdb6500a015ee37c67b5c161c20/master.m3u8?1676413939"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración visual para activar la imaginación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/390/61fc1da72704e9cb1b9a6b7638642cff/master.m3u8?1676413944"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo la Narrativa y el Wireframe 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/391/90f682b70fc8f203b655d5928e68091f/master.m3u8?1690524261"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo la Narrativa y Wireframe 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/392/78edeec20e7ec442c6776e4e9528617c/master.m3u8?1676413940"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mmjynd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vender tus ideas a través de la narración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Apoyando la narrativa estructura alámbrica versus maqueta de alta fidelidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/393/86f6f8e7b984da2034f595648d23044b/master.m3u8?1676413940"
+                },
+                {
+                    "id": null,
+                    "title": "Involucrar a la audiencia con la narrativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/394/9f509e1f63903f8fb6f8e4c5ff81b438/master.m3u8?1676413939"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aop63n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/yf33xl.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4898,
+        "product_name": "The Narrative Web: storytelling applied to UX/UI design",
+        "teacher_name": "Chiara Aliotta",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8982,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

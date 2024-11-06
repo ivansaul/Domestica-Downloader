@@ -1,0 +1,163 @@
+{
+    "id": "2723",
+    "title": "Diseño de periódicos da vida a historias",
+    "url": "https://www.domestika.org/es/courses/2723-diseno-de-periodicos-da-vida-a-historias/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/605/040f53d2fe52b7ebb5ad8e22e4b711c8/master.m3u8?1676402074"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/606/ddae7e954a9f704d78039481e841056f/master.m3u8?1676402075"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ukaqdk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El brief",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al diseño de periódicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/607/b3f76292ed368d5419d8cb1846322344/master.m3u8?1676402075"
+                },
+                {
+                    "id": null,
+                    "title": "El resumen y planificación de nuestras páginas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/608/2bdd2ba4d3a2bd456603667c8b2d6a21/master.m3u8?1676402077"
+                },
+                {
+                    "id": null,
+                    "title": "Activos disponibles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/609/e7e921510faed671e930e21589ee6aaa/master.m3u8?1676402081"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vwxoer.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando Nuestras Páginas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración de nuestras páginas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/630/53f746d9e858edbdca39f9adc67a2423/master.m3u8?1676402092"
+                },
+                {
+                    "id": null,
+                    "title": "Cuadrículas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/631/25f52b1def093cadd752862edd567489/master.m3u8?1676402093"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/632/f7cb9f59ddce1d3ce8e04398efb0d33a/master.m3u8?1676402097"
+                },
+                {
+                    "id": null,
+                    "title": "Disposición 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/634/6250e9ee7aeafa50a360a8e459c300ef/master.m3u8?1676402102"
+                },
+                {
+                    "id": null,
+                    "title": "Disposición 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/635/9a9ce09a2353ed4dfde4410809a0d3d5/master.m3u8?1676402098"
+                },
+                {
+                    "id": null,
+                    "title": "Equilibrio y revisión de todos los elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/636/96e8820b9423feea35620c8178ab1add/master.m3u8?1676402102"
+                },
+                {
+                    "id": null,
+                    "title": "Disposición 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/716/cffc87ffc682f57685c0a39aba827397/master.m3u8?1676402143"
+                },
+                {
+                    "id": null,
+                    "title": "Disposición 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/717/a1009579c0f4fa2ae8dec1f9bab1ebdf/master.m3u8?1676402142"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2vvtzo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalizando el Proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación de sus archivos para imprimir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/637/ea525d58b80e161713c298a201ed1eb2/master.m3u8?1676402098"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1kehwg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xnvrvz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2723,
+        "product_name": "Newspaper Design: Bring Stories to Life",
+        "teacher_name": "Harry Hepburn",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 9126,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "id": "3255",
+    "title": "Creación de un manual de identidad visual desde cero",
+    "url": "https://www.domestika.org/es/courses/3255-creacion-de-un-manual-de-identidad-visual-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/015/f8293a5369ca5d5a40b49707bc2b762c/master.m3u8?1676403309"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/016/fe12112a1cdcfdd97fddbcf8db9fabd8/master.m3u8?1676403310"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1je1ow.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación del manual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un manual de identidad visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/032/1575af6214bdee0e7706e3a6fe7ad5bc/master.m3u8?1676403320"
+                },
+                {
+                    "id": null,
+                    "title": "Entendiendo las nomenclaturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/033/4da0130de8f276c33139b270da3c7601/master.m3u8?1676403321"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de manuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/034/f52d3742b8a338e59bf33d46f49ecc21/master.m3u8?1676403322"
+                },
+                {
+                    "id": null,
+                    "title": "Explorando otros manuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/035/cbe62823f5b67a031857bde178d84d21/master.m3u8?1676403324"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vobmy7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Es hora de producir tu proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dónde y cómo crear tu manual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/036/f926954aaf68958cc7c2903800d7fe86/master.m3u8?1676403324"
+                },
+                {
+                    "id": null,
+                    "title": "Resumen y temas iniciales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/037/442c1a19c8b4848edbeb20aedefd4f5c/master.m3u8?1676403323"
+                },
+                {
+                    "id": null,
+                    "title": "Principales elementos y versiones del logo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/038/b4c8a677af87ce60e8a4b0b48ae96e33/master.m3u8?1676403325"
+                },
+                {
+                    "id": null,
+                    "title": "Patrón cromático",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/039/701cb9bfd2ec1cf4365fea05e83aaeda/master.m3u8?1676403324"
+                },
+                {
+                    "id": null,
+                    "title": "Aspectos técnicos de la reproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/040/829293f38dbf0df3a3e0c58fabf73f0e/master.m3u8?1676403324"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos visuales y aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/041/4835cd072247eeb1509be1b3f21d2b8d/master.m3u8?1676403325"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zs77u3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mostrar tu trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo entregar el MIV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/043/20de0f4ab9e19219ad511ffe5c333b43/master.m3u8?1676403323"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo enviar los archivos de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/044/890eed9029d0d49de4942785e498e121/master.m3u8?1676403323"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ldiety.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qiwlvf.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3255,
+        "product_name": "Creating a Visual Identity Manual from Scratch",
+        "teacher_name": "Gilian Gomes",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4737,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

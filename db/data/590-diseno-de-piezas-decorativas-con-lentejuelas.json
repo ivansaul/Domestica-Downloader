@@ -1,0 +1,158 @@
+{
+    "id": "590",
+    "title": "Diseño de piezas decorativas con lentejuelas",
+    "url": "https://www.domestika.org/es/courses/590-diseno-de-piezas-decorativas-con-lentejuelas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "De lentejas a lentejuelas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/423/4e8cd0f87046f9dec96ab5f21a14e57e/master.m3u8?1676385715"
+                },
+                {
+                    "id": null,
+                    "title": "Me inspira todo lo que no brilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/424/2ebd88e341ee0798402846dbce247030/master.m3u8?1676385720"
+                },
+                {
+                    "id": null,
+                    "title": "La creatividad sin trabajo es solo imaginación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/425/b30dc6fc676c83fb53fc934c2116f737/master.m3u8?1676385714"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/50l24v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comida para los ojos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hay muchos materiales que brillan descubre cuál es el indicado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/426/71bcdc67dc3ffbe75ceb67468622794f/master.m3u8?1676385718"
+                },
+                {
+                    "id": null,
+                    "title": "Las lentejuelas y sus colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/428/94dbfb69f87073a9b9de0cbfcbdc1a01/master.m3u8?1676385718"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de pegado Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/429/d9f129568e4403fba56b77b4317a4b77/master.m3u8?1676385720"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de pegado Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/430/e680f409bde69eafd11aeb65fcf1a5ea/master.m3u8?1676385719"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/45x35b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Paso a paso de una hamburguesa brillante",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referencias moldes estructura base y pintura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/431/8162a5fb9631181cd49ece4a132afcf6/master.m3u8?1676385724"
+                },
+                {
+                    "id": null,
+                    "title": "El gran secreto del pegado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/432/c139580d1c88faf85e6172d10aad365e/master.m3u8?1676385726"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles que hacen la diferencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/433/423ed9137f553b8a5c4102fddf525fe6/master.m3u8?1676385723"
+                },
+                {
+                    "id": null,
+                    "title": "Ensamblado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/303/7f2700176e3a0db7ee43a510d1181f40/master.m3u8?1676386079"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cselmi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Una buena pieza merece ser mostrada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Set y composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/434/51a6987a275ed8e68dfaa65e1bc8424c/master.m3u8?1676385719"
+                },
+                {
+                    "id": null,
+                    "title": "Emprende y vende",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/435/ebe8e99e9c0558756975a7ebbc22ccb9/master.m3u8?1676385719"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lwuvk1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/q2p50e.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 590,
+        "product_name": "Design of Decorative Pieces with Sequins",
+        "teacher_name": "Paola Alonso",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7080,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "id": "3180",
+    "title": "Diseño de portadas de discos para bandas y solistas",
+    "url": "https://www.domestika.org/es/courses/3180-diseno-de-portadas-de-discos-para-bandas-y-solistas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/355/a5496e706b47162b950fed6295e73f08/master.m3u8?1676405786"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/436/ec69c36fd1116b94fa72652e0b28b9ff/master.m3u8?1676405824"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h2rxt7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Reunión con los músicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/356/338f3f68c427d62dc5dc7009d6200e99/master.m3u8?1676405786"
+                },
+                {
+                    "id": null,
+                    "title": "Idea 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/357/a296fc6b2bb0515cda21432f8c24e216/master.m3u8?1676405789"
+                },
+                {
+                    "id": null,
+                    "title": "Idea 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/358/fa84e6b4d0e8b318b2a4b5408c35eb75/master.m3u8?1676405787"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/359/83a6159b544154f97a3c524c15829eed/master.m3u8?1676405787"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/360/013eb92fc934997e13e3272a2cb0a42b/master.m3u8?1676405786"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h11dqp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/361/be4cd8a242af1b786786d19287ef320e/master.m3u8?1676405787"
+                },
+                {
+                    "id": null,
+                    "title": "Sesión fotográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/362/5ae73b8cdb0cb79e02915bffc5acd0d9/master.m3u8?1676405786"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2b6ljp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Realización de los originales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elegir la foto y la tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/363/56c6f1bf62f6b2ff93edf53be2796445/master.m3u8?1676405786"
+                },
+                {
+                    "id": null,
+                    "title": "Armar el original",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/364/0467bb340ad469921df876c87ce1ba00/master.m3u8?1676405787"
+                },
+                {
+                    "id": null,
+                    "title": "Lanzamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/365/bbc7577b8594537e39994a2b7a758f5b/master.m3u8?1676405788"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/spl2z1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/wmf60l.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3180,
+        "product_name": "Album-Cover Design for Bands and Solo Artists",
+        "teacher_name": "Alejandro Ros",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5949,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

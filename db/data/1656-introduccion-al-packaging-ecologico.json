@@ -1,0 +1,158 @@
+{
+    "id": "1656",
+    "title": "Introducción al packaging ecológico",
+    "url": "https://www.domestika.org/es/courses/1656-introduccion-al-packaging-ecologico/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/836/4b09bc8086bcbe0d8ac79c8482d68205/master.m3u8?1676393666"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/837/6b1058c06c4af80fc039f2de9f49d6e7/master.m3u8?1676393668"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/838/0d3c0e6caeba9e5501330187d7bbf248/master.m3u8?1676393666"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6fcyw5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el ecodiseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/839/53bffbdf538fe30327666e688c918da7/master.m3u8?1676393668"
+                },
+                {
+                    "id": null,
+                    "title": "Qué son los materiales sostenibles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/840/93a326a3a9f77b2de77d7eb8e325a5af/master.m3u8?1676393677"
+                },
+                {
+                    "id": null,
+                    "title": "Encargo e investigaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/841/5bbc82945c7af07fa51cb717da3cebcd/master.m3u8?1676393670"
+                },
+                {
+                    "id": null,
+                    "title": "Concepto sensorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/842/51d6eb63159d12b4dc10152a76537eba/master.m3u8?1676393669"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7b9i4y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elección de materiales prototipos y decisiones gráficas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis y elección de materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/843/e9a05756acb5a785951027ce1ff98973/master.m3u8?1676393672"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipos y experimentaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/844/aa582926c4a4e68b8a7c0445cf9c9928/master.m3u8?1676393674"
+                },
+                {
+                    "id": null,
+                    "title": "Decisiones gráficas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/845/b5c4984d115c17322289c5dcbb3e7add/master.m3u8?1676393670"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wu1a6s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalización del packaging fabricación transporte y fin de vida",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Finalización del packaging",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/846/109bea606b70bcf3112614bb485017e2/master.m3u8?1676393673"
+                },
+                {
+                    "id": null,
+                    "title": "Distribución y transporte cómo reducir CO2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/847/f87bab47b613f4f701718517205ddc0f/master.m3u8?1676393670"
+                },
+                {
+                    "id": null,
+                    "title": "Consumo fin de vida ecoestrategias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/848/fee12730105c0cf58dce486cfd774876/master.m3u8?1676393672"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r7mn1b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6h08qa.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1656,
+        "product_name": "Introduction to Ecological Packaging",
+        "teacher_name": "Tati Guimarães",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6715,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

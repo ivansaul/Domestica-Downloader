@@ -1,0 +1,154 @@
+{
+    "id": "4535",
+    "title": "Storytelling para presentaciones ganadoras",
+    "url": "https://www.domestika.org/es/courses/4535-storytelling-para-presentaciones-ganadoras/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/695/41b35f915524e37e9c0863a3eb7d20c4/master.m3u8?1720623675"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/696/744f524758328cc8e5158ce04f7d4893/master.m3u8?1676412300"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r321d5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos de la narración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué la narración es tan poderosa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/697/729fa73610b08c021135cd7e97d1bffe/master.m3u8?1676412302"
+                },
+                {
+                    "id": null,
+                    "title": "El triángulo retórico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/698/b313a423f947cbfcb8129cc028a79277/master.m3u8?1676412300"
+                },
+                {
+                    "id": null,
+                    "title": "Cuál es el viaje del héroe y por qué es relevante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/699/f7f70a2934622e81a3b6c6ab82716147/master.m3u8?1676412304"
+                },
+                {
+                    "id": null,
+                    "title": "Comprender a sus audiencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/700/7f4d935d4f32bd6b3766e8bc28092caa/master.m3u8?1676412301"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u7ztlz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comprender la historia del estudio de caso",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Taller de descubrimiento el estudio de caso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/701/8c750d1502bc078e9c0631970c164c44/master.m3u8?1676412300"
+                },
+                {
+                    "id": null,
+                    "title": "Comprender a la audiencia y sus desafíos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/702/93673a9dd5c9f5ec95b34a03e0cf812c/master.m3u8?1676412300"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicando los Doce Pasos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/703/7d62c061d9059e9af7360e105c18a18c/master.m3u8?1676412303"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo abrir y finalizar una presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/704/0058e8d72c5f6b0e4df82c67c96771ed/master.m3u8?1676412310"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w4mvir.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño y presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mejores prácticas para decisiones de diseño y contenido de diapositivas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/705/a735ee8c369c5f361d72ea61675f8f90/master.m3u8?1676412305"
+                },
+                {
+                    "id": null,
+                    "title": "Presentando tu idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/731/e3d6d47973036e3e03b252392629a41d/master.m3u8?1676412321"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m3q27r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/gihpnf.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4535,
+        "product_name": "Storytelling for Winning Presentations",
+        "teacher_name": "Chris Tomlin",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6160,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}

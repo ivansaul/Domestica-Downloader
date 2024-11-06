@@ -1,0 +1,190 @@
+{
+    "id": "429",
+    "title": "Diseño de letras y alfabetos con técnicas digitales",
+    "url": "https://www.domestika.org/es/courses/429-diseno-de-letras-y-alfabetos-con-tecnicas-digitales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/338/974dfc70863ae4869cdb49954298c5b9/master.m3u8?1676384505"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias personales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/339/6dcf2c1b8a2ea5d2df24700e5e568864/master.m3u8?1676384507"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/noyb57.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Buenas prácticas experimentales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referentes experimentales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/340/aaa11922447c83cdfd196a904a6657d5/master.m3u8?1676384507"
+                },
+                {
+                    "id": null,
+                    "title": "Preparar tus documentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/341/428a67a1e09ddad06dd6593b55de1a5f/master.m3u8?1676384506"
+                },
+                {
+                    "id": null,
+                    "title": "Metodologías ágiles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/342/2c1085fa41e1016b52c359261c4310c8/master.m3u8?1676384507"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lkonxl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "A experimentar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conociendo nuestras herramientas Illustrator  Pt I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/343/296b044e65ebcc75e116692c0de6864c/master.m3u8?1676384509"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo nuestras herramientas Illustrator  Pt II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/344/dff8b1a7c43a68c465893b1ccdc82a34/master.m3u8?1676384507"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo nuestras herramientas Illustrator  Pt III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/345/b985051f3165fefe95284340bd8e302c/master.m3u8?1676384529"
+                },
+                {
+                    "id": null,
+                    "title": "Remix",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/346/bda24e081f2f1751d42697688497417d/master.m3u8?1676384507"
+                },
+                {
+                    "id": null,
+                    "title": "Acabados especiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/347/fc4e7bcf8a2a0128ce6e3198f849038d/master.m3u8?1676384509"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pg5a49.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El factor wow",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Experimentando con nuestras herramientas Photoshop Pt I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/348/fb740ddb1659ec492e799c2b5597ea13/master.m3u8?1676384516"
+                },
+                {
+                    "id": null,
+                    "title": "Experimentando con nuestras herramientas Photoshop Pt II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/349/e0aad41574292779753d6c5defb0fe27/master.m3u8?1676384513"
+                },
+                {
+                    "id": null,
+                    "title": "Experimentando con nuestras herramientas Photoshop Pt III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/372/75aca00fa894ddd62af7a8cd76960ef4/master.m3u8?1676384522"
+                },
+                {
+                    "id": null,
+                    "title": "Acabados especiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/399/d8312804be6f190b813d38241904d46a/master.m3u8?1676384529"
+                },
+                {
+                    "id": null,
+                    "title": "Remix",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/401/2d8497ec06d0e955f4557a2685eef0dd/master.m3u8?1676384522"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eu89hg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparando nuestro alfabeto completo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "ID maps",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/402/33ca14c9e160e2437c9cc974d139f2cc/master.m3u8?1676384524"
+                },
+                {
+                    "id": null,
+                    "title": "Composición completa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/403/7b6a0479b0a275d19fb2a2fea3590b2d/master.m3u8?1676384526"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/am7zsu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hjerou.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 429,
+        "product_name": "Design of Letters and Alphabets with Digital Techniques",
+        "teacher_name": "Domingo Betancur",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 8942,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

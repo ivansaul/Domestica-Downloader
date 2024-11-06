@@ -1,0 +1,193 @@
+{
+    "id": "2992",
+    "title": "Renderizado fotorrealista con SketchUp y VRay Next",
+    "url": "https://www.domestika.org/es/courses/2992-renderizado-fotorrealista-con-sketchup-y-v-ray-next/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/755/cbe4d41cce190ad3263d24edf3221010/master.m3u8?1676402714"
+                },
+                {
+                    "id": null,
+                    "title": "Fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/756/bbdaa2de3b39439b74ab93615d312be5/master.m3u8?1676402714"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/10p081.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación para la planificación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El entorno de trabajo doméstico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/764/1d352edb4a9aacf9a988c0d2c3c27d46/master.m3u8?1676402719"
+                },
+                {
+                    "id": null,
+                    "title": "El cliente y el entorno del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/765/14df41a06550600861a36fc5dc5d0822/master.m3u8?1676402720"
+                },
+                {
+                    "id": null,
+                    "title": "Encuestas y análisis del plan",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/766/058f3d6123585fd5aa44dae801c467c8/master.m3u8?1676402726"
+                },
+                {
+                    "id": null,
+                    "title": "Estilo virtual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/767/20f4bda8d25812939e200a6260f355db/master.m3u8?1676402724"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zfzvd9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado 3D con SketchUp",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El volumen de la habitación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/810/547db2d98fdba6ac363e31c85f4c180f/master.m3u8?1676402747"
+                },
+                {
+                    "id": null,
+                    "title": "Asignar colores y materiales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/811/ade21c2302257037d3d34bb98f02b97f/master.m3u8?1676402754"
+                },
+                {
+                    "id": null,
+                    "title": "Asignar colores y materiales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/813/f42283f6317e53811e5c74ced38cc7a0/master.m3u8?1676402751"
+                },
+                {
+                    "id": null,
+                    "title": "Objetos y mobiliario 3D 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/814/da965e68e7fa2740433a5e48bb4b5630/master.m3u8?1676402754"
+                },
+                {
+                    "id": null,
+                    "title": "Objetos y mobiliario 3D 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/815/d9ae859f206d094050aaa2e7ce5338eb/master.m3u8?1676402750"
+                },
+                {
+                    "id": null,
+                    "title": "Los muebles a medida el escritorio 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/816/8acd488029ba04cfde532a889a9741fd/master.m3u8?1676402754"
+                },
+                {
+                    "id": null,
+                    "title": "Los muebles a medida el escritorio 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/817/9a6d8bc0a052df27f8ec77e3a44fc8c2/master.m3u8?1676402754"
+                },
+                {
+                    "id": null,
+                    "title": "La elección de la iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/818/b4ebfd2658ee6714a830be1dc2f2a66d/master.m3u8?1676402753"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia del tiro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/819/adfda8ea7569a336e6fced60b3a027e4/master.m3u8?1676402757"
+                },
+                {
+                    "id": null,
+                    "title": "El volumen de la habitación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/918/29663aebea1c680cdcd1fc6f6f5b5c52/master.m3u8?1676402809"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/urvah8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Renderizado con Vray NEXT",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/820/57f6860040b52a87024c6d547d489525/master.m3u8?1676402752"
+                },
+                {
+                    "id": null,
+                    "title": "Luz artificial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/821/b3674b1d0d5697a8bed7870c93fbe1d1/master.m3u8?1676402756"
+                },
+                {
+                    "id": null,
+                    "title": "Toques finales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/822/89ccacd4c72be9099a7c20296f1b65ee/master.m3u8?1676402754"
+                },
+                {
+                    "id": null,
+                    "title": "Toques finales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/823/19130512f5e1a5bfdeb410793ae8af04/master.m3u8?1676402756"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rg13mt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ieqohc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2992,
+        "product_name": "Photorealistic Rendering with SketchUp and V-Ray Next",
+        "teacher_name": "Lia Lovisolo",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 16297,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

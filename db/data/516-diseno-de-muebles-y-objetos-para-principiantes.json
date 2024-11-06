@@ -1,0 +1,158 @@
+{
+    "id": "516",
+    "title": "Diseño de muebles y objetos para principiantes",
+    "url": "https://www.domestika.org/es/courses/516-diseno-de-muebles-y-objetos-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Quién soy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/202/95dd194c0c7c8e7c740758218b3bc287/master.m3u8?1676385230"
+                },
+                {
+                    "id": null,
+                    "title": "Mis influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/203/cf2e08f485114fa99a81dc002f41208f/master.m3u8?1676385231"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aipofs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el diseño industrial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/198/ee90ce7e2e3da7852db9fc67e8f19c22/master.m3u8?1676385228"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es un concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/199/6d695cd133d41aad6031c9cc37ae0f53/master.m3u8?1676385230"
+                },
+                {
+                    "id": null,
+                    "title": "Del concepto a la colección un solo paso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/200/b079da3541bf0acd01b3bd0e854255f5/master.m3u8?1676385230"
+                },
+                {
+                    "id": null,
+                    "title": "A buscar referentes investiguemos el mercado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/201/d6946514311f2c523506609e9a52a605/master.m3u8?1676385231"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1nzelm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "A diseñar se ha dicho",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué diseñaremos Unidad o colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/204/26d8e47194d4438867aee6b227494778/master.m3u8?1676385233"
+                },
+                {
+                    "id": null,
+                    "title": "Moodboard lectura y decisiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/206/8f0a8c6e3099b8575bef1da66fd961c0/master.m3u8?1676385232"
+                },
+                {
+                    "id": null,
+                    "title": "Todos podemos dibujar créeme",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/207/afb0a7e8fdff28bc209fadcce75e7bf7/master.m3u8?1676385238"
+                },
+                {
+                    "id": null,
+                    "title": "Ya tenemos nuestro diseño Qué ilusión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/208/c5dab85e52f91bbaf8559ce8f828d590/master.m3u8?1676385240"
+                },
+                {
+                    "id": null,
+                    "title": "Moodboard desarrollo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/209/8feb3acb74cf24b369985ee3ee0229f7/master.m3u8?1676385238"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jqcmfa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De dos a tres dimensiones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollamos los planos de lectura y presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/210/10f74a102e48ade93084552da9cba1a4/master.m3u8?1676385237"
+                },
+                {
+                    "id": null,
+                    "title": "Demos volumen a nuestro diseño Una maqueta la mejor solución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/211/e18e9c8392ccfefd4fd2f6ad7e4329e1/master.m3u8?1676385237"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dxyhxk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xzka5u.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 516,
+        "product_name": "Furniture and Object Design for Beginners",
+        "teacher_name": "Juan Pablo Fuentes",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8747,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

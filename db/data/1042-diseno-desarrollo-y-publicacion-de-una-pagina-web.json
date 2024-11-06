@@ -1,0 +1,265 @@
+{
+    "id": "1042",
+    "title": "Diseño desarrollo y publicación de una página web",
+    "url": "https://www.domestika.org/es/courses/1042-diseno-desarrollo-y-publicacion-de-una-pagina-web/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/783/6926f79d072734663197f64a149a999d/master.m3u8?1676390210"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/784/957b1abccc8bc56a9ff0bda116388145/master.m3u8?1676390213"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/811/92e841b50cac061784bb2743b3a8cc34/master.m3u8?1676390223"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rhcrxd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ideación de una web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Objetivos del diseño marco de trabajo y referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/785/0f0065750733745f9ff2bd2a6b1fb08e/master.m3u8?1676390213"
+                },
+                {
+                    "id": null,
+                    "title": "Inventario de contenidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/786/238aa528f3ae0b983b8c44436d1e4e76/master.m3u8?1676390211"
+                },
+                {
+                    "id": null,
+                    "title": "Arquitectura de la información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/787/b814a41f5f4b057e66abfb174fe9b239/master.m3u8?1676390211"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7fmvuj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Principios y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/788/81a6abd9bf0fa80cd6a298c58e9bbcb3/master.m3u8?1676390215"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/789/f77a1f8536769af39d1da05f08daa8eb/master.m3u8?1676390215"
+                },
+                {
+                    "id": null,
+                    "title": "Composición tipográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/790/7ac91d2c0894b8c410b271058c4a2e63/master.m3u8?1676390214"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de colores en una interfaz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/791/11dfefb779bcfee993d634be6291a0ab/master.m3u8?1676390214"
+                },
+                {
+                    "id": null,
+                    "title": "Retícula y ritmo vertical",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/792/8842cbdc875f54a9958e69381b86f72b/master.m3u8?1676390213"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustración e iconografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/793/128e404face1eddc8b7fa9a43069fa5d/master.m3u8?1676390216"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lidrvx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sistema de plantillas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación del entorno y editores de código",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/794/57a66b620b9265f2ed1e214e66b0075d/master.m3u8?1676390217"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura de archivos y funcionamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/795/c5d13759ff4af9fb0e5d6624d560d4ae/master.m3u8?1676390216"
+                },
+                {
+                    "id": null,
+                    "title": "Páginas maestras y creación de nuevas páginas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/796/4377b488f4af9439559fcf88abcba947/master.m3u8?1676390220"
+                },
+                {
+                    "id": null,
+                    "title": "Condicionales y parciales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/798/ce36b07f03373388b21da92f5d17c1b3/master.m3u8?1676390225"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/peze8b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo frontend",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Organización del código",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/799/66af2e3b7757edda39fabbac1e5bdc16/master.m3u8?1676390218"
+                },
+                {
+                    "id": null,
+                    "title": "Composición tipográfica y color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/800/f071a1d6653178fd90540cb68fb05518/master.m3u8?1676390219"
+                },
+                {
+                    "id": null,
+                    "title": "Sistema de retícula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/801/6317e157b4e81521948f161c4abcc212/master.m3u8?1676390221"
+                },
+                {
+                    "id": null,
+                    "title": "Componentes de interfaz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/802/9499755e654116f0c7a5fa77e0ba14fd/master.m3u8?1676390220"
+                },
+                {
+                    "id": null,
+                    "title": "Completando la interfaz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/803/198595367cbf46de290ac3084b8afa63/master.m3u8?1676390219"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rjj42q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Interacción web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Menús interactivos y desplegables",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/804/8ef6f28ab6ada52920d5162f934449c6/master.m3u8?1676390222"
+                },
+                {
+                    "id": null,
+                    "title": "Implementando una galería",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/805/12e71e46200b58d142ccfb7dd573b3b2/master.m3u8?1676390220"
+                },
+                {
+                    "id": null,
+                    "title": "Completando la interacción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/806/8f4bcc6d2e92f93c9f33295731ddbb68/master.m3u8?1676390220"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/flcys8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Publicación de una web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Gestión de versiones de código",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/807/2621856982f985ba03d442a7db520cc2/master.m3u8?1676390221"
+                },
+                {
+                    "id": null,
+                    "title": "Servicios de publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/808/7d238af3bf3dbe448c180883ab4054b4/master.m3u8?1676390222"
+                },
+                {
+                    "id": null,
+                    "title": "Recursos adicionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/809/68caf0c96ca76ce720e4158b1130ff0e/master.m3u8?1676390221"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v08p29.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/h383wz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1042,
+        "product_name": "Design, Development, and Launch of a Website",
+        "teacher_name": "Javier Usobiaga Ferrer",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 27,
+        "course_total_duration_sec": 10715,
+        "total_units": 7,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

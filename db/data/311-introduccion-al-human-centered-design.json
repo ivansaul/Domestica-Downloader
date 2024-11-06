@@ -1,0 +1,227 @@
+{
+    "id": "311",
+    "title": "Introducción al HumanCentered Design",
+    "url": "https://www.domestika.org/es/courses/311-introduccion-al-human-centered-design/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/853/1faeb5485ced268f012cc4179f660a7c/master.m3u8?1676385109"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/026/8ff5286c74d5df5cd053ac381960f13f/master.m3u8?1676385174"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w57m4u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño estratégico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El diseño como estrategia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/142/8cd71a852e6f121f5ecf6b6e1f8766c2/master.m3u8?1676384841"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño no es uno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/920/756517bd8d2f0cbdbdcef10dabfa217c/master.m3u8?1676385125"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño centrado en las personas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/921/6cee716b89d1041508fd674198eb5933/master.m3u8?1676385126"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kk051l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La mentalidad y el trabajo de ser diseñador",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Poner a las personas primero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/922/3d138ad13722b0162f2986c8eab26aa1/master.m3u8?1676385126"
+                },
+                {
+                    "id": null,
+                    "title": "Abordar los problemas con curiosidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/923/58e72a49153c4746ce5141fcbca55c3a/master.m3u8?1676385129"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño nunca está terminado convergencia y divergencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/924/70646cfbd2ae716b933d1dc1c5989bad/master.m3u8?1676385127"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de la colaboración en el proceso  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/147/acf9cd12b701f2eed043fac3254e75c8/master.m3u8?1676384848"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de la colaboración en el proceso  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/148/dd1d71bca11ba125b521329759c132ee/master.m3u8?1676384846"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3ju7zi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El diseño empieza con un problema que resolver",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El espacio del problema y el espacio de la solución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/149/6ab310a70e0c929871c268cba1854450/master.m3u8?1676384842"
+                },
+                {
+                    "id": null,
+                    "title": "Empieza investigando el problema  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/150/4ba28cfb77cfb5c6dd19eb25a220f33d/master.m3u8?1676384844"
+                },
+                {
+                    "id": null,
+                    "title": "Empieza investigando el problema  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/151/6b9dbfde9321bd312834431141b84265/master.m3u8?1676384844"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zxnqv8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Encontrando el verdadero problema",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Genera empatía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/960/310fd8f41afba6b1491b459a8bd4838b/master.m3u8?1676385148"
+                },
+                {
+                    "id": null,
+                    "title": "Indaga de forma empática",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/961/80bc9d1051c2f4760b8bc1b683c34bb1/master.m3u8?1676385151"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xpepf7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Visualizando el problema",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Visualizando a tus posibles usuarios User persona Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/964/19160a8eed919cc1b0934db42a0f032c/master.m3u8?1676385155"
+                },
+                {
+                    "id": null,
+                    "title": "Visualizando a tus posibles usuarios User persona Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/965/1ba25f744e06384233a08a54081b6bd4/master.m3u8?1676385149"
+                },
+                {
+                    "id": null,
+                    "title": "Visualizando la experiencia de tus posibles usuarios Experience map  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/966/b02b2d3aa951463d64a639fa8f2004bd/master.m3u8?1676385149"
+                },
+                {
+                    "id": null,
+                    "title": "Visualizando la experiencia de tus posibles usuarios Eexperience map  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/967/2aa6edd065ea87da379ebb4a1c72fd93/master.m3u8?1676385149"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrando puntos de dolor y oportunidades Pains u0026 gains",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/968/5e85faef0ca9c15c41835d036be06864/master.m3u8?1676385153"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrando soluciones actuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/969/4517f4f426477ea6ae48735cff086cfe/master.m3u8?1676385151"
+                },
+                {
+                    "id": null,
+                    "title": "Problem map",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/970/5f2ef8dd3fd5ecfcba654f4d952e8db8/master.m3u8?1676385153"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i41uet.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3c6qtm.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 311,
+        "product_name": "Introduction to Human-Centered Design",
+        "teacher_name": "23 Design",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 22,
+        "course_total_duration_sec": 14328,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

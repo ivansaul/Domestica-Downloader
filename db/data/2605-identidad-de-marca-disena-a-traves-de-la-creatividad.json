@@ -1,0 +1,158 @@
+{
+    "id": "2605",
+    "title": "Identidad de marca diseña a través de la creatividad",
+    "url": "https://www.domestika.org/es/courses/2605-identidad-de-marca-disena-a-traves-de-la-creatividad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/432/e5e40f071c55d932fe15a9c3cd82c378/master.m3u8?1676404442"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/433/1fe361c7e84882f289143bdf7caebbcd/master.m3u8?1676404442"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/74w6t3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La idea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los bloques de construcción de una identidad visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/434/092a59c5243aee3dd20f2448be36c7db/master.m3u8?1676404441"
+                },
+                {
+                    "id": null,
+                    "title": "Primeros pasos investigar y explorar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/435/43c2364d4e755e457dd9a9cfc7771c1c/master.m3u8?1676404447"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/05jerb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proceso",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "u0026 Jugando con iconos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/436/e35bed1864cd0c50d431d357c5d912b0/master.m3u8?1676404444"
+                },
+                {
+                    "id": null,
+                    "title": "u0026 Explorando la tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/437/b768acd36121547ed0f55de8a4c791b6/master.m3u8?1676404448"
+                },
+                {
+                    "id": null,
+                    "title": "u0026 Elección de formas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/438/716753b50504edbb7007bb11402d41df/master.m3u8?1676404442"
+                },
+                {
+                    "id": null,
+                    "title": "u0026 Encontrar colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/439/025a93ff062a92b712dbfc0ac9678b77/master.m3u8?1676404442"
+                },
+                {
+                    "id": null,
+                    "title": "u0026 Jugando con el lenguaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/440/f0ab92c3de034c747bcd7a586d0ec8d2/master.m3u8?1676404444"
+                },
+                {
+                    "id": null,
+                    "title": "u0026 Creación de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/441/3c7d6248deec860509343734db46f006/master.m3u8?1676404445"
+                },
+                {
+                    "id": null,
+                    "title": "u0026 Empujando ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/442/cde4eecf17a3afe1787627cd39f4a105/master.m3u8?1676404444"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0e64cz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recopilación u0026 selección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/443/9c2b8eefa1c3d62cc8307872c144067a/master.m3u8?1676404447"
+                },
+                {
+                    "id": null,
+                    "title": "Presentando las ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/444/38b5b37ee7bb3b588f03caa99be0e15d/master.m3u8?1676404448"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/onhqmq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/lkhjsh.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2605,
+        "product_name": "Brand Identity Design: Building Through Creativity",
+        "teacher_name": "Jim Sutherland",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 9224,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

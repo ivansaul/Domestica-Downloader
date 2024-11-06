@@ -1,0 +1,176 @@
+{
+    "id": "280",
+    "title": "Diseño de carteles para eventos musicales",
+    "url": "https://www.domestika.org/es/courses/280-diseno-de-carteles-para-eventos-musicales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/237/a8493235665e73acac2c15813e9a1122/master.m3u8?1676383699"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/238/a725755ce008f4258678dcaeef4fc178/master.m3u8?1676383704"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oxromt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño electrónica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El briefing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/239/968861865cd0242d107a831b8b31ce87/master.m3u8?1676383698"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del cartel electrónica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/240/bad8bb1762a18dc6f2cde5ff554e7d58/master.m3u8?1676383701"
+                },
+                {
+                    "id": null,
+                    "title": "El estilo electrónica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/241/8e61967b5f116b0f760de21feb31eb6f/master.m3u8?1676383699"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ggmlt3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño folk",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación del cartel folk",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/242/2de89ff444bc2f3155b701e062e50967/master.m3u8?1676383704"
+                },
+                {
+                    "id": null,
+                    "title": "El estilo folk",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/243/e8ec62c9f1273a1c1f19bbd6ac5fde7e/master.m3u8?1676383702"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jykmxi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño jazz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación del cartel jazz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/246/c16f7f34c3d3c06496f30cdea6d26e75/master.m3u8?1676383704"
+                },
+                {
+                    "id": null,
+                    "title": "El estilo jazz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/244/d0755e6768cf95eac01ba10b63cfcc46/master.m3u8?1676383703"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fx2u2t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño indie rock",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El estilo indie rock",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/247/c0fa98c7c469bdb50ffc8ceafa005225/master.m3u8?1676383704"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del cartel indie rock",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/285/465a022726b5b73fed8db8ac4baa7897/master.m3u8?1676383720"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/28fxm4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Resumen",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Comparativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/248/832b6164e7da8580a27c3b49ca495959/master.m3u8?1676383704"
+                },
+                {
+                    "id": null,
+                    "title": "Variaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/249/d9c26f2b85adc694b023539ad8b94699/master.m3u8?1676383706"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jtlqaj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/s4p6pa.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 280,
+        "product_name": "Design of Posters for Musical Events",
+        "teacher_name": "Quim Marin Marín",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7943,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

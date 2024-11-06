@@ -1,0 +1,153 @@
+{
+    "id": "41",
+    "title": "Serigrafía en papel",
+    "url": "https://www.domestika.org/es/courses/41-serigrafia-en-papel/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Empezamos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Quiénes somos y qué hacemos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/760/af4be09bf6773ea9c76f7d4e727148d7/master.m3u8?1676380807"
+                },
+                {
+                    "id": null,
+                    "title": "Referentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/761/bf8db59260970f4dae7cee0929c52e4d/master.m3u8?1676380810"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2qtmd7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Espacio de trabajo y materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Espacio de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/762/4284643f5a69af5cf518e442f9f786c0/master.m3u8?1676380807"
+                },
+                {
+                    "id": null,
+                    "title": "Espacio de emulsionado e insolado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/763/e91066ce9eaa6dcf30296b11c97eecd2/master.m3u8?1676380808"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/764/12ef21d020291a313e863e18f829431c/master.m3u8?1676380813"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/axmhs1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El fotolito y posibilidades de la serigrafía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El fotolito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/765/f7410b8a291a997b14fcd3ceebc27df5/master.m3u8?1676380813"
+                },
+                {
+                    "id": null,
+                    "title": "Explorando las posibilidades de la serigrafía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/766/0f4936be2af63aee81cb4a2d8b0553f2/master.m3u8?1676380814"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lyt0lx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La estampación y sus trucos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño y preparación del fotolito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/767/be6b0d2d2f4f67721aa9cb9df3d80c41/master.m3u8?1676380815"
+                },
+                {
+                    "id": null,
+                    "title": "Emulsionado e insolado de la pantalla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/768/04bed15e360c284fe5050414fefcf97c/master.m3u8?1676380812"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de la pantalla y del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/769/ed2f691781fb0e8548cffeb69748c17d/master.m3u8?1676380813"
+                },
+                {
+                    "id": null,
+                    "title": "Estampación y registro de los dos colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/770/cada8ff9750e741a821c6269202b6bf4/master.m3u8?1676380815"
+                },
+                {
+                    "id": null,
+                    "title": "Pieza final Limpieza y recuperado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/771/df6ce2e2efc3c9a39235bfd853306715/master.m3u8?1676380813"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x5o8my.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/bh04o5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 41,
+        "product_name": "Screen Printing on Paper",
+        "teacher_name": "Barba",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 3672,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "id": "4035",
+    "title": "Diseño de páginas web interactivas con Figma",
+    "url": "https://www.domestika.org/es/courses/4035-diseno-de-paginas-web-interactivas-con-figma/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/816/37fe8221e03d17a2136908c775211a34/master.m3u8?1676406988"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/817/afbfa884b6fe4f53248d6e3ecbd8b688/master.m3u8?1676406989"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r7b21e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Entender y definir el proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El contexto del diseño web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/818/d0e60af187bcf0e36ef371471da79a48/master.m3u8?1676406991"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia del briefing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/819/bb45179459aad7039ff5916c9508a316/master.m3u8?1676406991"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de referencias y el mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/820/02a732ed7d79b2715ba753f100362836/master.m3u8?1676406995"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5vf2gq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñar la experiencia web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "UX estructura y contenido de la web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/821/419dcbdeb1b9c2dc3f6ad21a365118fd/master.m3u8?1676406995"
+                },
+                {
+                    "id": null,
+                    "title": "Color tipografía y composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/822/7fd2da4a097385bbf2998fe647abdabb/master.m3u8?1676406999"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñar para un contexto mobile first",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/823/ea9c5f3cee053990d63c4d1b05f961b4/master.m3u8?1676406994"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/89x3lh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prototipar animar y refinar el diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Prototipado básico en Figma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/826/245a12f445c402b0f091efa3b04d6a48/master.m3u8?1676406998"
+                },
+                {
+                    "id": null,
+                    "title": "Animar elementos en After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/827/889f1acaa76fde1514baa101a9a08b73/master.m3u8?1676406994"
+                },
+                {
+                    "id": null,
+                    "title": "Preparar el archivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/828/166e774cc769db380c31f3b07679e2cf/master.m3u8?1676406995"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xbdr7a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentar comunicar y colaborar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El proceso de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/829/6bfeeca980e5dd96d0c330098eca2d2d/master.m3u8?1676406997"
+                },
+                {
+                    "id": null,
+                    "title": "Orquestar un proyecto web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/830/45d6b85386d83683e99bf5296514a264/master.m3u8?1676406998"
+                },
+                {
+                    "id": null,
+                    "title": "Pixel pushing cuidar de tu proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/831/405db6a8077023a07f5ddfc88ec8d6ff/master.m3u8?1676406996"
+                },
+                {
+                    "id": null,
+                    "title": "Publicar y promocionar tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/839/b6da85ef8fa50a0b252fcbef1bcdf054/master.m3u8?1676407000"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/keldev.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/pprln2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4035,
+        "product_name": "Designing Interactive Web Pages with Figma",
+        "teacher_name": "Eva Sánchez Clemente",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8617,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

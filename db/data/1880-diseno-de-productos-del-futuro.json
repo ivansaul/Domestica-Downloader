@@ -1,0 +1,175 @@
+{
+    "id": "1880",
+    "title": "Diseño de productos del futuro",
+    "url": "https://www.domestika.org/es/courses/1880-diseno-de-productos-del-futuro/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/268/7f1af29c7bd14449056c8bf936981272/master.m3u8?1676394861"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias e introducción al tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/269/632f38ee5d16c8e99bca2b69460caade/master.m3u8?1676394865"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/270/586e056d1b05bcb2f1a84616348e1773/master.m3u8?1676394865"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gz7d6x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mapeo del espacio del futuro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Punto de partida y meta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/271/ca0a22377bfc13f327bd6db0858bb96e/master.m3u8?1676394870"
+                },
+                {
+                    "id": null,
+                    "title": "Rueda de futuros mapeo del contexto y las consecuencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/272/a6520626ca2997186563fd010ac032b5/master.m3u8?1676394868"
+                },
+                {
+                    "id": null,
+                    "title": "Cono de futuros categorización de futuros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/273/f707dd06e252c8d9dab770f4f7e80ecc/master.m3u8?1676394869"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/frdyc8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Escenario Construyendo el mundo del futuro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Componentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/274/64144006775ee593b9ae10c8e89dd5f4/master.m3u8?1676394867"
+                },
+                {
+                    "id": null,
+                    "title": "Detalle del mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/275/d99157425b15071becc29c4c1ad655cf/master.m3u8?1676394867"
+                },
+                {
+                    "id": null,
+                    "title": "El viaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/276/69e7dc158c5a1078f73d449dd7b9feaa/master.m3u8?1676394868"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cxteaz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Artefacto diseñando un artefacto futuro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Detallar la lista de funciones para futuros artefactos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/277/ed62b2e72cedf6b9fda2b864af08e2e0/master.m3u8?1676394868"
+                },
+                {
+                    "id": null,
+                    "title": "Crea tu mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/278/ecf5312105cee861565e6b910b35e70a/master.m3u8?1676394867"
+                },
+                {
+                    "id": null,
+                    "title": "De cero a uno Prototipo de su artefacto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/279/18bd2589cafc9b0f587d2dc93548cf78/master.m3u8?1676394869"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zqm11c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Backcasting",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hoja de ruta y rutas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/280/ec872b0fac99d81386c46e349e5ac081/master.m3u8?1676394871"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de causa raíz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/281/0babe234309f8fcb18d048a753e4c9c7/master.m3u8?1676394873"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/se4msn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cd3yvx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1880,
+        "product_name": "Designing Products of the Future",
+        "teacher_name": "Cecilia Tham",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6871,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

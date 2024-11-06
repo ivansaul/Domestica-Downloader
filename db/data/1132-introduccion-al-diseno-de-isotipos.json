@@ -1,0 +1,185 @@
+{
+    "id": "1132",
+    "title": "Introducción al diseño de isotipos",
+    "url": "https://www.domestika.org/es/courses/1132-introduccion-al-diseno-de-isotipos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/365/06b7e3a76254c6b3c1dfb1d5d2fd0e96/master.m3u8?1676390037"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/366/0008a91ac99a7ed57b7bedc3b30541ea/master.m3u8?1676390034"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/367/4a3113812dd76f293941203f3ec36111/master.m3u8?1676390036"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jw4vim.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a los conceptos de marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al isotipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/368/9df617d12c5841726b6cf2844ddac6ea/master.m3u8?1676390036"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de identificadores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/369/47006f5f47bec25b3139b934caa5ffe9/master.m3u8?1676390035"
+                },
+                {
+                    "id": null,
+                    "title": "Características de un buen identificador de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/370/3e3bdcb2a0e596783246c42cbbe27f8d/master.m3u8?1676390036"
+                },
+                {
+                    "id": null,
+                    "title": "La síntesis gráfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/371/e264ddb8702bf213d8ab18146ef07937/master.m3u8?1676390035"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9td60d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Brief y conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/372/0254d7198decae35d7243afd8306149b/master.m3u8?1676390038"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del Moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/373/387ecb3922da4c29e5096d2db4db90d6/master.m3u8?1676390039"
+                },
+                {
+                    "id": null,
+                    "title": "Realizando el boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/374/a98104625671b1312e322ff03dc80b24/master.m3u8?1676390039"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/da78ds.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trabajo digital",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación del isotipo en vector",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/376/1313e5b318df8412c4d1500b5ca10642/master.m3u8?1676390039"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/377/dcb219f2e9e38e0a6d5d596603736982/master.m3u8?1676390039"
+                },
+                {
+                    "id": null,
+                    "title": "Testeo y correcciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/395/c4a9efae3e5acd5225b2d77040359f6f/master.m3u8?1676390045"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/396/915d00534fad53c2b7cd996be15bd605/master.m3u8?1676390045"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hh80hx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación al cliente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación del imagotipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/378/ed0523fce111c94c3a83516c001a2210/master.m3u8?1676390043"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando la presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/159/9f24109817a2c8b7e5094f769a1f1681/master.m3u8?1676390866"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tq3or3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7c4jg8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1132,
+        "product_name": "Introduction to Pictogram Design",
+        "teacher_name": "Andrés Ávila",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 7132,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

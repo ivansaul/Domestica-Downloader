@@ -1,0 +1,237 @@
+{
+    "id": "562",
+    "title": "El color aplicado al diseño gráfico",
+    "url": "https://www.domestika.org/es/courses/562-el-color-aplicado-al-diseno-grafico/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/157/6856fe53f12d3f1d0a062985a7db9878/master.m3u8?1676387742"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/158/d1bf4e218e42f4a38b3bcbb861665635/master.m3u8?1676387744"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/159/f402e8cf0f72959dfefb5caabe0fb2ec/master.m3u8?1676387742"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eaw0ox.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consideraciones previas sobre el color y el diseño gráfico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Color y comunicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/160/6b0b8da26e3cd67db6cf8ccc883af97c/master.m3u8?1676387747"
+                },
+                {
+                    "id": null,
+                    "title": "Contraste",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/162/c544b3ef01c1dad5dc9789667fcb3806/master.m3u8?1676387748"
+                },
+                {
+                    "id": null,
+                    "title": "Una clasificación funcional del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/163/0a4a11a1f360a7dadf89a45775b49a9e/master.m3u8?1676387748"
+                },
+                {
+                    "id": null,
+                    "title": "Armonía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/164/4f03c3fd7729b9af0c8034304a76d503/master.m3u8?1676387751"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ocbdf7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Función denotativa del color el mundo de la representación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Color naturalista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/165/40bdbe9cb9f56948d80c9d84f01ca049/master.m3u8?1676387749"
+                },
+                {
+                    "id": null,
+                    "title": "Color fantasioso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/168/d82c42206125001f800924d95fd28333/master.m3u8?1676387752"
+                },
+                {
+                    "id": null,
+                    "title": "Color exaltado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/169/038ba738b73031183b2908964b598e19/master.m3u8?1676387750"
+                },
+                {
+                    "id": null,
+                    "title": "Color expresionista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/170/02427461cc257ce3d13dd38e8913724f/master.m3u8?1676387750"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a6pja6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Función connotativa del color el mundo de las evocaciones psicológicas y simbólicas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Color psicológico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/187/52fd441028ac4bdb014af81432c35fc3/master.m3u8?1676387760"
+                },
+                {
+                    "id": null,
+                    "title": "Color simbólico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/188/f11e344e710fccdadd78da7925d10808/master.m3u8?1676387758"
+                },
+                {
+                    "id": null,
+                    "title": "Colores rojo naranja y amarillo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/189/0953d71847ac6e8cbb195eb8d7690a88/master.m3u8?1676387761"
+                },
+                {
+                    "id": null,
+                    "title": "Colores verde y azul",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/190/225158463d0dc87ede16d22d0d3dc373/master.m3u8?1676387761"
+                },
+                {
+                    "id": null,
+                    "title": "Color violeta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/191/4cde14fdabff73e5e484e6a13c26ff52/master.m3u8?1676387760"
+                },
+                {
+                    "id": null,
+                    "title": "Colores marrón blanco negro y gris",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/192/b84dce6f777b2db3185945d94e8e6fe9/master.m3u8?1676387760"
+                },
+                {
+                    "id": null,
+                    "title": "Colores pastel y metálicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/193/84c7f37cdee481934fe7f33ee1962fbc/master.m3u8?1676387762"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9lzgaz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Función sígnica del color el mundo de la codificación y la funcionalidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Color esquemático",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/194/13a39e5a51f7028eff91bb0ca13c2c94/master.m3u8?1676387762"
+                },
+                {
+                    "id": null,
+                    "title": "Color señalético",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/195/687fde61cb897d04f650ed9bfeffbf69/master.m3u8?1676387764"
+                },
+                {
+                    "id": null,
+                    "title": "Color emblemático",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/196/2708ce590f7841ce16e44cacd90719ca/master.m3u8?1676387764"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/up31zf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estudio de casos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis de proyectos personales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/197/bb0a5c229a71a15f0bf0dbcd59217160/master.m3u8?1676387762"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de proyectos personales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/198/8069d9a348638280b2fd06928d61484d/master.m3u8?1676387762"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo valorar una propuesta de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/547/765f29682eac1c903fe6206055b740ba/master.m3u8?1676387895"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9vo06y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/l61q7x.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 562,
+        "product_name": "Color Applied to Graphic Design",
+        "teacher_name": "Leire y Eduardo",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 17945,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

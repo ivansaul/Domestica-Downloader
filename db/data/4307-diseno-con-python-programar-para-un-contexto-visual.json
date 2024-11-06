@@ -1,0 +1,178 @@
+{
+    "id": "4307",
+    "title": "Diseño con Python programar para un contexto visual",
+    "url": "https://www.domestika.org/es/courses/4307-diseno-con-python-programar-para-un-contexto-visual/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/506/c200acfa0f839d6209b7dfe16975bb3b/master.m3u8?1676412792"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/507/22fd0243c60fb90d8199153252f120d4/master.m3u8?1676412793"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qs4884.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Motivación herramientas y primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Motivaciones para la programación creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/508/7784bc1015988aae8a5af5ef3273ebdf/master.m3u8?1676412802"
+                },
+                {
+                    "id": null,
+                    "title": "El lenguaje Python y la biblioteca py5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/509/95ee7aaf283bb24be3a25fa351f646d0/master.m3u8?1676412794"
+                },
+                {
+                    "id": null,
+                    "title": "Workbench y Thonny IDE con el complemento py5mode",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/510/c31d2c12a1791b54b44779ee85ef3537/master.m3u8?1676412794"
+                },
+                {
+                    "id": null,
+                    "title": "Vocabulario inicial de dibujo de py5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/511/a831c6a26e06621a7ca323eb3f2cde18/master.m3u8?1676412798"
+                },
+                {
+                    "id": null,
+                    "title": "Repetir bucles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/512/69c6caa32826f62821d6fc90edaef066/master.m3u8?1676412797"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo definir y utilizar nuevas funciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/513/550719e4fec8a6e6173c671ec4a8ab7e/master.m3u8?1676412797"
+                },
+                {
+                    "id": null,
+                    "title": "Función para dibujar estrellas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/514/aba847e2ef02b551e298ee1122e577f6/master.m3u8?1676412800"
+                },
+                {
+                    "id": null,
+                    "title": "Aleatoriedad infinitas opciones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/515/25e91ca37d14c39eb6344e42be780812/master.m3u8?1676412799"
+                },
+                {
+                    "id": null,
+                    "title": "Aleatoriedad Opciones infinitas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/516/385179cc717f2213415e000ff38b6a66/master.m3u8?1676412802"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d189pi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Iniciar un póster basado en cuadrícula",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bocetos para estudiar y planificar el cartel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/517/4787d34a0213f24ece83ab7a0feb808f/master.m3u8?1676412799"
+                },
+                {
+                    "id": null,
+                    "title": "Una grilla de elementos ordenados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/518/99da72e9ebfc2586ca7d581356f95ace/master.m3u8?1676412804"
+                },
+                {
+                    "id": null,
+                    "title": "Cuadrícula de elementos y variación aleatoria",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/519/9e382f45a3326f4dfb13e0e8e1495f63/master.m3u8?1676412805"
+                },
+                {
+                    "id": null,
+                    "title": "Generar rápidamente variaciones de carteles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/520/2db1e560cd2bf86f2f9220d2501db520/master.m3u8?1676412804"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qub139.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Más complejidad en la exportación de imágenes y vectores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cuadrícula recursiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/521/acb576f8a182e4495dec6811b9001a85/master.m3u8?1676412803"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar a PDF o SVG",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/522/b4d4da430cd29dad7e45c864d7160d7c/master.m3u8?1676412806"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2p2ke9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/2wog2g.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4307,
+        "product_name": "Designing with Python: Programming for a Visual Context",
+        "teacher_name": "Alexandre B A Villares",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 10586,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

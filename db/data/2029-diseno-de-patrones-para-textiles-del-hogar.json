@@ -1,0 +1,153 @@
+{
+    "id": "2029",
+    "title": "Diseño de patrones para textiles del hogar",
+    "url": "https://www.domestika.org/es/courses/2029-diseno-de-patrones-para-textiles-del-hogar/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/253/59361f23399a6d1a73e3bb9f85a8040b/master.m3u8?1676394855"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/254/94c3d408d5ab293db84f1426b0ab7783/master.m3u8?1676394854"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/255/4adad14a13a624d00b32c9a450085884/master.m3u8?1676394856"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rjmj1l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ideas y preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/256/0a42db4fc7701be32f022caa1a2f0b27/master.m3u8?1676394857"
+                },
+                {
+                    "id": null,
+                    "title": "Comenzar con una forma simple",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/257/b37644520d1f6b364b9232847d44d2e0/master.m3u8?1676394861"
+                },
+                {
+                    "id": null,
+                    "title": "Combinar formas y finalizar nuestro patrón 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/258/2e5e6348a1610926d3658c721fc84d5c/master.m3u8?1676394862"
+                },
+                {
+                    "id": null,
+                    "title": "Combinar formas y finalizar nuestro patrón 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/259/9736bfa663296fb49f611045038b4e5f/master.m3u8?1676394860"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j1phtu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trabajar con nuestras plantillas de productos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hacer el paño de cocina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/260/13ee4733f1fd22d7ede38d0292d20a2c/master.m3u8?1676394862"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer el guante para horno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/261/4441fe51d93f62634b2ee7832657e2b3/master.m3u8?1676394862"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer el delantal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/262/335167008cff79d19629787eba82a1a5/master.m3u8?1676394863"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oi9o6o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Envío de nuestros productos a impresión y consejos de ventas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Envío de nuestros productos para impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/263/f9373bb6dcdd2df67e92d52daef226ea/master.m3u8?1676394863"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos e ideas útiles para comercializar tus productos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/264/21df61421d0cb5e5b9c05c1752252abc/master.m3u8?1676394862"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/515t59.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ome9v8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2029,
+        "product_name": "Textile Pattern Design for Home Interiors ",
+        "teacher_name": "Tatiana Nedialkova",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 8032,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "2454",
+    "title": "Creatividad y tecnología transforma el mundo con soluciones innovadoras",
+    "url": "https://www.domestika.org/es/courses/2454-creatividad-y-tecnologia-transforma-el-mundo-con-soluciones-innovadoras/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/692/fa923acd9cf3a6d94cd458c926fa3886/master.m3u8?1676397834"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/693/e1eca6f9edb27f1d7d0f781b39ba00cf/master.m3u8?1676397833"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r9jtj4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tecnocreatividad y definición del reto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y conocimientos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/694/f40cbfdb5b1c09413688192b76252026/master.m3u8?1676397833"
+                },
+                {
+                    "id": null,
+                    "title": "Historia de la tecnocreatividad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/695/a1c4ab0496387937adb2b8c2118d8199/master.m3u8?1676397834"
+                },
+                {
+                    "id": null,
+                    "title": "Definiendo el reto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/696/b70f2181c9ffc10dd8df3f26f637085f/master.m3u8?1676397835"
+                },
+                {
+                    "id": null,
+                    "title": "Descomponiendo nuestro smartphone",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/697/414cafc62da738681529db79f84a09f2/master.m3u8?1676397836"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mujs3j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Buscando soluciones tecnocreativas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Imaginando soluciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/698/14d434f985147d9f086046b545ea1ad2/master.m3u8?1676397837"
+                },
+                {
+                    "id": null,
+                    "title": "Matriz de priorización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/699/e70c799f2795dbfad5390f83684d2cb9/master.m3u8?1676397837"
+                },
+                {
+                    "id": null,
+                    "title": "Mejora tecnológica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/700/a6bdd1e9893a0a5e19975dfc06d7bfb3/master.m3u8?1676397837"
+                },
+                {
+                    "id": null,
+                    "title": "Describiendo la solución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/701/ae49922998cd12ccfff216205c0adc28/master.m3u8?1676397838"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kpmfba.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De principiante a avanzado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revisión y presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/702/ea322abbabcf3c9859e41f9feb2479f6/master.m3u8?1676397840"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipado y herramientas Low Code y No Code",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/703/e75291e7147cfe852de9cfaa494400d0/master.m3u8?1676397840"
+                },
+                {
+                    "id": null,
+                    "title": "Mindset tecnocreativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/704/6b576095add95a4dd8b02d1674b66af4/master.m3u8?1676397837"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0j77el.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/01683k.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2454,
+        "product_name": "Creativity and Tech: Transform the World with Innovation",
+        "teacher_name": "David Alayón",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4609,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

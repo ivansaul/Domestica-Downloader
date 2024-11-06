@@ -1,0 +1,202 @@
+{
+    "id": "72",
+    "title": "Programación de apps para iPhone",
+    "url": "https://www.domestika.org/es/courses/72-programacion-de-apps-para-iphone/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/460/d601f8b94f1053d567a4fa56743db049/master.m3u8?1676381164"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/461/12bd9cee783aead198dcba5ee20e9532/master.m3u8?1676381163"
+                },
+                {
+                    "id": null,
+                    "title": "El mundo de las Apps",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/462/5475605a38c03a675200c066a44d1445/master.m3u8?1676381165"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pu9a3r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeras pruebas con XCode",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Abrimos el XCode",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/463/ff6df9b4f64f2ef4d9d0527610aa8382/master.m3u8?1676381164"
+                },
+                {
+                    "id": null,
+                    "title": "Simulador de iPhone",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/464/e1bd60301dacebd9632285c4988656b2/master.m3u8?1676381164"
+                },
+                {
+                    "id": null,
+                    "title": "Pruebas Interface Builder",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/465/4d344dfe0474a6dfd4a550d6136183e7/master.m3u8?1676381165"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestro primer Hello World",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/466/6fd429a7dfe915ee87e1a557d75c997b/master.m3u8?1676381166"
+                },
+                {
+                    "id": null,
+                    "title": "NSLogs",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/467/5e9fd0c11e6bd2c9ad351b9e850a21c5/master.m3u8?1676381167"
+                },
+                {
+                    "id": null,
+                    "title": "UILabel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/468/d6617c695ab921e9f64147521f665a90/master.m3u8?1676381168"
+                },
+                {
+                    "id": null,
+                    "title": "UIImageView",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/469/844b4197cae8011bb5d9752af0c921a5/master.m3u8?1676381169"
+                },
+                {
+                    "id": null,
+                    "title": "UIButton",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/470/880cab2a3b7cc2139e5787334c6ba578/master.m3u8?1676381169"
+                },
+                {
+                    "id": null,
+                    "title": "UITextField",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/471/892de557d3e3ac6e04861529bb64779e/master.m3u8?1676381170"
+                },
+                {
+                    "id": null,
+                    "title": "UISwitch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/472/642f1b551576d3271da780add6633d7e/master.m3u8?1676381168"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o3yo7o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear la App",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué vamos a hacer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/473/0aa3a333b739987246cd8f85483119de/master.m3u8?1676381167"
+                },
+                {
+                    "id": null,
+                    "title": "Nuevo Proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/474/e7c36a22441a07c554e2b83a41dc232a/master.m3u8?1676381171"
+                },
+                {
+                    "id": null,
+                    "title": "TabbarController",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/475/66eb2b32ae8697a3b740986a6270a379/master.m3u8?1676381171"
+                },
+                {
+                    "id": null,
+                    "title": "TableView",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/476/cd08ea87fd35eb5a6357594d996b29f3/master.m3u8?1676381172"
+                },
+                {
+                    "id": null,
+                    "title": "MapView",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/477/09de16986ed5394b5a6bddc2d40a0120/master.m3u8?1676381171"
+                },
+                {
+                    "id": null,
+                    "title": "Pantalla de detalle",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/478/9e88f2aa9aab88548a87139e785c4b4a/master.m3u8?1676381178"
+                },
+                {
+                    "id": null,
+                    "title": "Profile View",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/479/c8b6f211d5edf713778bb265724270d6/master.m3u8?1676381172"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k7v2mi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Subir la App",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Poner el icono",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/480/7e436c33d13dbb3a559ec318efe79303/master.m3u8?1676381172"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles de publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/481/22c2152dcfdf02ea7ede910016c3b5df/master.m3u8?1676381173"
+                },
+                {
+                    "id": null,
+                    "title": "Interfaz de publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/482/c9d911f67eede6a00b6d1b96146e1217/master.m3u8?1676381173"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zsvpz8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3lnb4i.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 72,
+        "product_name": "Programming apps for iPhone",
+        "teacher_name": "Valentí Freixanet Genís",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 23,
+        "course_total_duration_sec": 7485,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}
