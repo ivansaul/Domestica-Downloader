@@ -1,0 +1,173 @@
+{
+    "id": "609",
+    "title": "Fotografías de retrato que cuentan historias",
+    "url": "https://www.domestika.org/es/courses/609-fotografias-de-retrato-que-cuentan-historias/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/969/f3f7b86e33bd012d92ec97612e8f858c/master.m3u8?1676386341"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/970/b532e078478f450a6fdae2d641c40896/master.m3u8?1676386338"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/971/1c7f00b7286b042ea12d796f05779f08/master.m3u8?1676386336"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/olffvm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La asignación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Asignación Editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/972/cd1330df0f1a608194eb31a9b69068f6/master.m3u8?1676386338"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo buscar la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/973/72667a9e6539007854628587f0d90e78/master.m3u8?1676386341"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/974/82bc1fcd24ed26315f479a251e2a5ca7/master.m3u8?1676386340"
+                },
+                {
+                    "id": null,
+                    "title": "La preproducción del retrato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/975/4637ad187a8a30f8230754a911eb3e31/master.m3u8?1676386339"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ujgqnc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Día de fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/976/2e82927434e6a5ec9b05dc79310ec0bc/master.m3u8?1676386342"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/977/0321e1a7bec951df745528ac2e218d46/master.m3u8?1676386341"
+                },
+                {
+                    "id": null,
+                    "title": "Manejo de modelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/978/116413b597e0d70f4d2c957517508b5f/master.m3u8?1676386341"
+                },
+                {
+                    "id": null,
+                    "title": "Disparando iluminación y composición I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/979/3e434686e4d797005350d17cabb1e1f5/master.m3u8?1676386343"
+                },
+                {
+                    "id": null,
+                    "title": "Disparando iluminación y composición II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/980/39b6a710e84f7c337361516f049dbb53/master.m3u8?1676386341"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pczz0v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de fotos I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/981/6d8da3db31154c2db0429f48aec34262/master.m3u8?1676386343"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de fotos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/982/e7211ae29083c3411a731e3ba613a419/master.m3u8?1676386341"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque y revelado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/983/f7254db59a43d85722b73198dde209e3/master.m3u8?1676386344"
+                },
+                {
+                    "id": null,
+                    "title": "Diagramación editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/984/11eea91f41cec015f367ebade1e7ee63/master.m3u8?1676386342"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/43c285.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/54e23t.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 609,
+        "product_name": "Portrait Photographs that Tell a Story",
+        "teacher_name": "Ricardo Pinzón Hidalgo",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 9317,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

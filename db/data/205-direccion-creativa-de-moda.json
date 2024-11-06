@@ -1,0 +1,164 @@
+{
+    "id": "205",
+    "title": "Dirección creativa de moda",
+    "url": "https://www.domestika.org/es/courses/205-direccion-creativa-de-moda/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/882/a8d4da6c1110ac46a1938c183d132001/master.m3u8?1676382859"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/883/b1783d6d70d20f8629d1f522391cc09f/master.m3u8?1676382864"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ovu7a2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La inspiración y los elementos de composición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/886/9f0cd799bb63c60e63ab5f391895f621/master.m3u8?1676382859"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de composición color línea y material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/885/5b858e1963aa59d2619f1f441e1128ed/master.m3u8?1676382864"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cwdgrh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Carta de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/887/5b77a45e21b20c8e736a2b22f0375abb/master.m3u8?1676382860"
+                },
+                {
+                    "id": null,
+                    "title": "Líneas y siluetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/888/26adee3a6173d2b965589701eed25966/master.m3u8?1676382862"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/889/aa0f439e3b5e10f7934959f6ce4dde3e/master.m3u8?1676382863"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9v6893.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Realización de las prendas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ficha técnica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/890/260d9be842b2414528b8c3a593cc20d4/master.m3u8?1676382869"
+                },
+                {
+                    "id": null,
+                    "title": "Patrón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/891/085eb1e85e4f16da90245726498e6e9a/master.m3u8?1676382866"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/892/0ecb9de8226ecdd56dcd4874003abe63/master.m3u8?1676382869"
+                },
+                {
+                    "id": null,
+                    "title": "Prendas finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/893/d95931bd34af7259b2bc8242cfb44eb4/master.m3u8?1676382865"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e8bd7c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Colecciones prendas y acabados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acabados de prendas y técnicas diferentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/894/00591aeb69226d5530cb4f27662adf47/master.m3u8?1676382866"
+                },
+                {
+                    "id": null,
+                    "title": "Colecciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/895/0c83fea9ceeba7a4d132d096072d1c44/master.m3u8?1676382866"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3ya4xw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ss0usf.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 205,
+        "product_name": "Creative Fashion Directing",
+        "teacher_name": "la casita de wendy",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8536,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

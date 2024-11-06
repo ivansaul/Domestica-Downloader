@@ -1,0 +1,153 @@
+{
+    "id": "3171",
+    "title": "Marketing de contenidos desde cero impulsa tu negocio",
+    "url": "https://www.domestika.org/es/courses/3171-marketing-de-contenidos-desde-cero-impulsa-tu-negocio/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/579/77527023210b91daf28954b79e092bb9/master.m3u8?1676400952"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/580/f21a3a61a790c946a2959e2073a16255/master.m3u8?1676400952"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bn2w3y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo su marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tu cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/582/0550ebae10182a5b09d5567b6f8bc0fd/master.m3u8?1676400956"
+                },
+                {
+                    "id": null,
+                    "title": "Tu paisaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/583/c1fd1fabc3d9ca3a3becb5e4bef3680a/master.m3u8?1676400957"
+                },
+                {
+                    "id": null,
+                    "title": "Tu marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/584/06c21f29e5a3a0ab7ae532b846968ecb/master.m3u8?1676400966"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo su identidad visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/586/aa6c832c1a538c974df20789ead410d1/master.m3u8?1676400958"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rjrw4v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de su calendario de contenido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrar tu nicho",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/590/6982888542e744ef76fbdb521581dea1/master.m3u8?1676400958"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/591/02a987b18670da2aabd0285f6045dca1/master.m3u8?1676400959"
+                },
+                {
+                    "id": null,
+                    "title": "Momentos que importan",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/592/123cf16dcc4f098b515bdbfbce6f641f/master.m3u8?1676400960"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zvo1dg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Promoción de su contenido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Publicación y promoción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/597/7371c8dfd7c119c2aac7259fb43e3dce/master.m3u8?1676400962"
+                },
+                {
+                    "id": null,
+                    "title": "Analizando los datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/598/ab9aa3d0e79d9fedc36cfc11a4ae109f/master.m3u8?1676400962"
+                },
+                {
+                    "id": null,
+                    "title": "Más sugerencias de contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/599/c72cecdf91c7f9fccff645eb9d988265/master.m3u8?1676400966"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wgrzwo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/bjof2z.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3171,
+        "product_name": "Content Marketing 101: Boost Your Business",
+        "teacher_name": "Helena Pearce",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7192,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

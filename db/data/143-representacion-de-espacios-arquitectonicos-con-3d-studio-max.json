@@ -1,0 +1,254 @@
+{
+    "id": "143",
+    "title": "Representación de espacios arquitectónicos con 3D Studio Max",
+    "url": "https://www.domestika.org/es/courses/143-representacion-de-espacios-arquitectonicos-con-3d-studio-max/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/303/4696ee25e0454a9967050e403c8b5676/master.m3u8?1676381981"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/304/1fe1d8af9f80a1449da8fba4a5b7eb1a/master.m3u8?1676381984"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x9bxvs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importación de planos 2D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/305/81f662b73c388da1d5438b3a51d82aaa/master.m3u8?1676381982"
+                },
+                {
+                    "id": null,
+                    "title": "Modelaje básico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/306/6899376ba4f58598a5179828e52570a5/master.m3u8?1676381988"
+                },
+                {
+                    "id": null,
+                    "title": "Muro cortina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/307/4c097b381cd2c7dd69ee3108d1b8ffea/master.m3u8?1676381984"
+                },
+                {
+                    "id": null,
+                    "title": "Carpinterías correderas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/308/022a318a8af4966c7451926832fa8906/master.m3u8?1676381985"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/309/51f1623425eee9b8a608759363756f62/master.m3u8?1676381996"
+                },
+                {
+                    "id": null,
+                    "title": "Entorno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/310/442ab0839dfcc8cfc03c2c08d7613a6c/master.m3u8?1676381987"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nid68t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Composición e iluminación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referencias concretas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/311/865a1fb15f7302a62aac6410983ba7b9/master.m3u8?1676381985"
+                },
+                {
+                    "id": null,
+                    "title": "Posicionamiento de la cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/312/ba8e9f46b89d0849295f6d0b8b95288a/master.m3u8?1676381986"
+                },
+                {
+                    "id": null,
+                    "title": "Presets básicos de VRay e iluminación general",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/313/0830383d78489f6d7d1647ffec7587dc/master.m3u8?1676381989"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p0y7yj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Texturización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Plugins",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/314/1ec1c2378edfacfb83c73dd4afaca088/master.m3u8?1676381986"
+                },
+                {
+                    "id": null,
+                    "title": "Texturización de la arquitectura 01",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/315/07c8e5a9529767ec16451093e94d9b04/master.m3u8?1676381993"
+                },
+                {
+                    "id": null,
+                    "title": "Texturización de la arquitectura 02",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/316/e01e7c0eebd56ba56d9df36d3e02b767/master.m3u8?1676381998"
+                },
+                {
+                    "id": null,
+                    "title": "Texturización del entorno I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/317/b0a965f7abfab89b9bacaf77ee292b36/master.m3u8?1676381989"
+                },
+                {
+                    "id": null,
+                    "title": "Texturización del entorno II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/318/e28de9d743a6bfa7871eca56d5bd2fed/master.m3u8?1676381992"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/53zytz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ambientación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación Interior  Ajustar iluminación I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/319/90151c4669f3916959c8ad69fbd04c68/master.m3u8?1676381994"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación Interior  Ajustar iluminación II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/320/3dc34c9a04137773e6ef368e2ac63201/master.m3u8?1676381993"
+                },
+                {
+                    "id": null,
+                    "title": "Ambientación Exterior",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/321/9947b566f186b978e8a6339c93b0a307/master.m3u8?1676381991"
+                },
+                {
+                    "id": null,
+                    "title": "Ambientación Interior",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/322/c1560721010172d6c0851be65773f617/master.m3u8?1676381992"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2z0vt3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ajustes finales de la escena",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presets finales y configuración de los elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/323/4324b9d1a97629f2f3a6d4ac70c22723/master.m3u8?1676381996"
+                },
+                {
+                    "id": null,
+                    "title": "Importación EXR y organización general de Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/324/f7cf839bf6108dd6533ef142372e7bb5/master.m3u8?1676381992"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c7xlwe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción en Photoshop",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ajustes generales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/325/96968aa787339738c0a62bb967006c78/master.m3u8?1676382000"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/326/2b0cb65cbc561d3285ad1bf90eaeb478/master.m3u8?1676382011"
+                },
+                {
+                    "id": null,
+                    "title": "Integración personas y ajustes finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/327/ee2d9ae2f8a7d6cdbc5199c19e695731/master.m3u8?1676381997"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l2xx8d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/avdh0b.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 143,
+        "product_name": "Representation of Architectural Spaces with 3D Studio Max",
+        "teacher_name": "Phrame",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 25,
+        "course_total_duration_sec": 16994,
+        "total_units": 7,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,305 @@
+{
+    "id": "223",
+    "title": "Fotografía creativa y retrato conceptual",
+    "url": "https://www.domestika.org/es/courses/223-fotografia-creativa-y-retrato-conceptual/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/063/1d778be474f33ab0047b893381d9ffa6/master.m3u8?1676382987"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/108/d6372a3ddec355f1ca2c95c3ec07b6e6/master.m3u8?1676383023"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zku9lf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación del concepto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/064/7f226b169a43e61b4a291e5ad36363fe/master.m3u8?1676382990"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de los 3 conceptos fotográficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/065/587a68eb5fd5d965b653d112677c5bdc/master.m3u8?1676383007"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cdd88g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La luz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conociendo los flashes de estudio y sus modificadores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/066/cdb7e6a68c26260715d10008a50b763e/master.m3u8?1676383001"
+                },
+                {
+                    "id": null,
+                    "title": "Comprendiendo el lenguaje de la luz I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/109/6d635ae6d15d9ef22194de62c1ab5ba7/master.m3u8?1676383022"
+                },
+                {
+                    "id": null,
+                    "title": "Comprendiendo el lenguaje de la luz II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/110/73e8b9aec77a94df13bbe2ed6f13a028/master.m3u8?1676383022"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cbwze2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "PreProducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cámara lentes y casting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/068/a6ff40325849b52eb7d548c26f8eb264/master.m3u8?1676382991"
+                },
+                {
+                    "id": null,
+                    "title": "Preproducción Escena 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/069/e32e7d67df2b0dbc085548a69d318a75/master.m3u8?1676382998"
+                },
+                {
+                    "id": null,
+                    "title": "Preproducción Escena 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/070/814188bfc7007d5be6b6c188671921ed/master.m3u8?1676382995"
+                },
+                {
+                    "id": null,
+                    "title": "Preproducción Escena 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/071/a9519d2c9cc7c8648702546c1ce38d65/master.m3u8?1676383005"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g83iw4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Guerrera urbana 1 flash",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/072/811e454b1c72d7ad8ff3f101b7dc52aa/master.m3u8?1676383000"
+                },
+                {
+                    "id": null,
+                    "title": "Me llamo Flor 2 flashes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/111/a2a499a1ecb0fa742decf6f69b9711ed/master.m3u8?1676383025"
+                },
+                {
+                    "id": null,
+                    "title": "Desde mi ventana 3 flashes I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/132/f433bda681f570b6a29b0428f27c95a0/master.m3u8?1676383037"
+                },
+                {
+                    "id": null,
+                    "title": "Desde mi Ventana 3 flashes II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/133/fe99cfaef4819aafee9dfde7ee19f055/master.m3u8?1676383032"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hdjc0d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción Escena 1",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de imágenes y revelado raw",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/134/6624ee3677d515abae6fa0aa7d5eb4b2/master.m3u8?1676383034"
+                },
+                {
+                    "id": null,
+                    "title": "Separación de frecuencias I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/135/f561e254384ee8974ac759c9b198b81c/master.m3u8?1676383031"
+                },
+                {
+                    "id": null,
+                    "title": "Separación de frecuencias II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/136/2a86f1222531905d5bbda362fd7e7fe8/master.m3u8?1676383036"
+                },
+                {
+                    "id": null,
+                    "title": "Maquillaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/073/77b622b243cc2401c32efc8afc61407f/master.m3u8?1676383003"
+                },
+                {
+                    "id": null,
+                    "title": "Wheathereado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/137/ec63b7d8b23107724c69e0ad196fd8cc/master.m3u8?1676383032"
+                },
+                {
+                    "id": null,
+                    "title": "Reemplazo de fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/074/010b38bb7b6bac2fa6e3d96b0b291728/master.m3u8?1676383004"
+                },
+                {
+                    "id": null,
+                    "title": "Dodge u0026 Burn",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/075/da6e9034c8f9f6e41b581bdc9cb317a9/master.m3u8?1676383000"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/076/3d079c23cb19dd2d042bdd5c2f29198a/master.m3u8?1676382998"
+                },
+                {
+                    "id": null,
+                    "title": "Color grading I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/077/d0784847344e40b66f70cb98e34f4284/master.m3u8?1676383000"
+                },
+                {
+                    "id": null,
+                    "title": "Color grading II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/138/2b9bef2e0b8a2f229908da8decfbb561/master.m3u8?1676383037"
+                },
+                {
+                    "id": null,
+                    "title": "Extra escena 1 Mash up de 3 imágenes I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/139/848e8a11c5bbb93dee4f6e11e6fabd91/master.m3u8?1676383037"
+                },
+                {
+                    "id": null,
+                    "title": "Extra escena 1 Mash up de 3 imágenes II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/140/c82612992af1c94fad7c68e17829484d/master.m3u8?1676383038"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kyer2r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción Escena 2",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Blanco y negro con Raw",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/141/b1abb10e42413b797f34d9ad834d659c/master.m3u8?1676383037"
+                },
+                {
+                    "id": null,
+                    "title": "Blanco y negro con Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/142/6d4a77743e757ca2586ff15e393e5e4d/master.m3u8?1676383040"
+                },
+                {
+                    "id": null,
+                    "title": "Blanco y negro con Nik",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/143/4f172b2bc5ffabd1396ab1fae0b18762/master.m3u8?1676383041"
+                },
+                {
+                    "id": null,
+                    "title": "Tips adicionales para blanco y negro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/144/883f5973e137c459575abf15126eeab9/master.m3u8?1676383044"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v1pgtm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción Escena 3 Salida digital para distintos medios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Salida digital para imprenta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/145/955e741783a21f2b2c1bacf677330a01/master.m3u8?1676383044"
+                },
+                {
+                    "id": null,
+                    "title": "Salida digital para arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/146/95bcc83e63e2c3bf75bf848e166b9300/master.m3u8?1676383039"
+                },
+                {
+                    "id": null,
+                    "title": "Salida digital para redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/147/e23d3c118cf97fc205bb40da4f25b9ab/master.m3u8?1676383045"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uexgtv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/x8zjp8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 223,
+        "product_name": "Creative Photography and Conceptual Portrait",
+        "teacher_name": "Felix Hernandez Dreamphography",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 34,
+        "course_total_duration_sec": 27889,
+        "total_units": 8,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

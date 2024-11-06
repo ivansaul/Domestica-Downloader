@@ -1,0 +1,158 @@
+{
+    "id": "3803",
+    "title": "Introducción a la escritura creativa desde la experiencia",
+    "url": "https://www.domestika.org/es/courses/3803-introduccion-a-la-escritura-creativa-desde-la-experiencia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/875/44f160d71aed2d3ee4bc8dc764225f32/master.m3u8?1676405550"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/876/57969f9c1b4a016737116eddcd5a2cd9/master.m3u8?1676405553"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y1396j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejercicios de calentamiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la escritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/877/2ac5a62f2b7a514a0b4f822041a1c963/master.m3u8?1676405553"
+                },
+                {
+                    "id": null,
+                    "title": "Rutina y rituales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/878/6f1517fbe7882427feba082b69757b58/master.m3u8?1676405552"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios de escritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/879/cf18eaba8591f9f2c307fab7312d117e/master.m3u8?1676405558"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo definir un tema e iniciar un borrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/880/1a8c8bf568b9e81e54195da67a0e81db/master.m3u8?1676405553"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qadrjd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Escribiendo el relato",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El primer borrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/881/43fddef650973e62de9976600f1817e6/master.m3u8?1676405556"
+                },
+                {
+                    "id": null,
+                    "title": "Editar y leer en voz alta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/882/2020cb2a1a36eaa4669f1e896a98d7cf/master.m3u8?1676405560"
+                },
+                {
+                    "id": null,
+                    "title": "La elección del título",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/883/3506c4af02b196e6fd3025652729e521/master.m3u8?1676405556"
+                },
+                {
+                    "id": null,
+                    "title": "El final del relato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/884/829aa1157356f879672257dde6e43646/master.m3u8?1676405557"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/etjoxm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Y ahora qué hago con mi cuento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/885/bca0fbc72c1b6fa0322deedd4fccf4ef/master.m3u8?1676405554"
+                },
+                {
+                    "id": null,
+                    "title": "Del texto al libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/886/2d89d6420eb03f0fdb0688f57322f0ed/master.m3u8?1676405557"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/887/3cd24062dc7aec33aebcca985786224c/master.m3u8?1676405555"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ftpdi6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/riwms4.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3803,
+        "product_name": "Introduction to Creative Writing from Personal Experience",
+        "teacher_name": "Aloma Rodríguez",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6870,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

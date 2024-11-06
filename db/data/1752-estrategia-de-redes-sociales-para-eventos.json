@@ -1,0 +1,158 @@
+{
+    "id": "1752",
+    "title": "Estrategia de redes sociales para eventos",
+    "url": "https://www.domestika.org/es/courses/1752-estrategia-de-redes-sociales-para-eventos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/950/067e6677884e1f3e67d87f2d695d7188/master.m3u8?1676392694"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/951/6036bbc0c7bb5ed85173b9860ec7261f/master.m3u8?1676392693"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/952/0e6fd48bd81edfabb06e2b2d8301c378/master.m3u8?1676392691"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gt15nt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación primero repasemos los conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/955/0b1841921c2c7a42756a7634966bec53/master.m3u8?1676392695"
+                },
+                {
+                    "id": null,
+                    "title": "Creatividad y comunicación visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/956/f5cac2effd871c984ac81a5c72200217/master.m3u8?1676392705"
+                },
+                {
+                    "id": null,
+                    "title": "Interactividad y networking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/957/e753cb495e4c7efb2cb4a84e54fb702b/master.m3u8?1676392698"
+                },
+                {
+                    "id": null,
+                    "title": "Visión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/958/56652b81c684c427647ef3d4a73e116a/master.m3u8?1676392697"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vpaynv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción Bienvenido a mi mundo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estrategia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/959/d06d1012869a2011523696a129879832/master.m3u8?1676392700"
+                },
+                {
+                    "id": null,
+                    "title": "Contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/960/55268be8fbb0815213c281a5627c683d/master.m3u8?1676392696"
+                },
+                {
+                    "id": null,
+                    "title": "El brief y autobrief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/961/507a37d8ed2c07d8c6148a496bd73c21/master.m3u8?1676392709"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3455i3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Posproducción ahora qué",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Promoción pagada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/962/8d64f3f4b72601fe86c97d75a3f50207/master.m3u8?1676392696"
+                },
+                {
+                    "id": null,
+                    "title": "Estadísticas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/963/905385ca27605df8e157803e2113c9fc/master.m3u8?1676392697"
+                },
+                {
+                    "id": null,
+                    "title": "Promoción en vivo  después del evento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/964/d6775c87f266a40f88c58e4ee414129a/master.m3u8?1676392697"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dyclrm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/c9jutj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1752,
+        "product_name": "Social Media Strategy for Events",
+        "teacher_name": "Nathalie Koutia",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5212,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

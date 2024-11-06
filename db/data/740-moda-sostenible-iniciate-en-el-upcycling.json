@@ -1,0 +1,163 @@
+{
+    "id": "740",
+    "title": "Moda sostenible iníciate en el upcycling",
+    "url": "https://www.domestika.org/es/courses/740-moda-sostenible-iniciate-en-el-upcycling/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/895/b51d60be0be36a1896ffbbef8d0a1e3e/master.m3u8?1676387625"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/896/47e4bb2df226c52149e0a10863a5988b/master.m3u8?1676387623"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/897/5c9ce1e9d9cda5596ab021fa448063e5/master.m3u8?1676387621"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lqb102.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a la moda sostenible",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Moda la segunda industria más contaminante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/898/bf3c04f63383b5a702c646f82397b4d4/master.m3u8?1676387623"
+                },
+                {
+                    "id": null,
+                    "title": "Algodón y materiales sostenibles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/899/7a77bd7d1056e80b1902e68e7eb645f1/master.m3u8?1676387624"
+                },
+                {
+                    "id": null,
+                    "title": "Nuevas opciones para diseñar moda sustentable",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/900/ed937f83bf19530be556ce0081ea2f29/master.m3u8?1676387624"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b1wtbu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tejiendo sobrantes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/901/87a858ff4784e25aea4acef3d59b182e/master.m3u8?1676387621"
+                },
+                {
+                    "id": null,
+                    "title": "Trazo del molde",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/902/b094fdd3f820730f67b220b032c36eea/master.m3u8?1676387622"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación del material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/903/2c0396d56201ccc48a50badbead1c84a/master.m3u8?1676556049"
+                },
+                {
+                    "id": null,
+                    "title": "Tejido base",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/904/341bdac3170462ad67330b03cd11b112/master.m3u8?1676387628"
+                },
+                {
+                    "id": null,
+                    "title": "Tejido del torso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/905/08e17d40c31fea1ad61a2436b3a21d70/master.m3u8?1676387627"
+                },
+                {
+                    "id": null,
+                    "title": "Unión del suéter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/906/9cdcb373c94c88dc5e323351ce76717d/master.m3u8?1676387632"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vcl1az.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cuidados y referencias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Aplicaciones y cuidados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/907/4709bed55ce7eaf49b4c18d48e29579a/master.m3u8?1676387628"
+                },
+                {
+                    "id": null,
+                    "title": "Otras técnicas para explorar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/908/8fc2fb578921536eac6be3b61c2cb4d8/master.m3u8?1676387628"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bcxtjg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/b2c7dc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 740,
+        "product_name": "Sustainable Fashion: Introduction to Upcycling",
+        "teacher_name": "Ximena Corcuera",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8711,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

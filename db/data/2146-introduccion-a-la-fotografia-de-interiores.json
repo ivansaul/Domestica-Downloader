@@ -1,0 +1,173 @@
+{
+    "id": "2146",
+    "title": "Introducción a la fotografía de interiores",
+    "url": "https://www.domestika.org/es/courses/2146-introduccion-a-la-fotografia-de-interiores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/665/c0ea451725b537c3b720d39aef52fec9/master.m3u8?1676394551"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/667/917e20eada185cf46553c2756eed24c8/master.m3u8?1676394555"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/696/35437d53c4da341d226c6814f2997856/master.m3u8?1676394561"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1acr15.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación para la sesión fotográfica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estilos y categorías de fotografía de interiores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/697/63291def795f8c0d46bbc03d75c8a049/master.m3u8?1676394560"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación en fotografía de interiores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/699/843125ccc9c9159aa30d143cca7aa95a/master.m3u8?1676394562"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/701/9e402b92ff8609509bd4dd04bfb85ccf/master.m3u8?1676394572"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ywdtzn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Día de la sesión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Composición y dirección artística",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/703/c9e5a307393d7be117d86de8abd936ac/master.m3u8?1676394566"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de la cámara e iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/705/31c04a6b80c7bbf37dbaa2b1bf147823/master.m3u8?1676394566"
+                },
+                {
+                    "id": null,
+                    "title": "Sesión fotográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/718/5ba33e7eb5e5ec3db83483e74dc08b9c/master.m3u8?1676394577"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x1mpk3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Posproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección y edición de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/719/7ea362009e46042972525bc28b550f6d/master.m3u8?1676394579"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con los archivos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/726/7669e0bcd9d910bba4a07f1de8a4c8f7/master.m3u8?1676394580"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con los archivos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/727/783eb7418f62555e1917cbc1671c39d2/master.m3u8?1676394579"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con los archivos 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/728/3d95ec566372a58ebb27c45dbd45c2fd/master.m3u8?1676394582"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con los archivos 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/743/050c11a7540e7be232d94b83125dd271/master.m3u8?1676394600"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con los archivos 5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/744/7d6e6b7e2d015d40af4147fe27f5b22b/master.m3u8?1676394591"
+                },
+                {
+                    "id": null,
+                    "title": "Guarda el proyecto y comparte tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/745/38e80d837786f67dd39e5996a86ebcac/master.m3u8?1676394588"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lzlsf0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/w9ndxl.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2146,
+        "product_name": "Introduction to Interior Photography",
+        "teacher_name": "James Rajotte",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 10896,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

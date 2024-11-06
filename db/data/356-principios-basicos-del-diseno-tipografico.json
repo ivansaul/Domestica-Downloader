@@ -1,0 +1,227 @@
+{
+    "id": "356",
+    "title": "Principios básicos del diseño tipográfico",
+    "url": "https://www.domestika.org/es/courses/356-principios-basicos-del-diseno-tipografico/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/853/cda8e889da4c420611357ca9ec699a4f/master.m3u8?1676384739"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/859/709ca84fd7b6b44680d7415d36737e55/master.m3u8?1676384739"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/861/6e5eeba21c455463e16ed4e754022cc1/master.m3u8?1676384740"
+                },
+                {
+                    "id": null,
+                    "title": "Por qué diseñar tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/862/12dfb01af855e873fb6c533254a32bb4/master.m3u8?1676384742"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bmc513.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de tipografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Anatomía del alfabeto latino",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/863/657635914b06a11b8801df302c1d1f0a/master.m3u8?1676384743"
+                },
+                {
+                    "id": null,
+                    "title": "Coherencia estilística ritmo forma contraforma y espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/864/5c1206627369f75264000ef26b9a627b/master.m3u8?1676384743"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n2oz1r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sistematización del alfabeto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué y cómo sistematizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/865/141ef343ae09d32ce2bc43d13bbca122/master.m3u8?1676384742"
+                },
+                {
+                    "id": null,
+                    "title": "Grupos de letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/866/3b8ecda3ef84fe0e5cb46fde2e585fda/master.m3u8?1676384742"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rh2xg7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando nuestro alfabeto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño de letras minúsculas del primer grupo o letras cuadradas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/834/c669fead732a520288a43133d96467f1/master.m3u8?1676384734"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de letras minúsculas del segundo grupo o letras circulares",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/835/2e13a0ea944d7759e73edae5f846f1a1/master.m3u8?1676384738"
+                },
+                {
+                    "id": null,
+                    "title": "Conocer los módulos y cómo se usan en la retícula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/867/3d025cbb3545de12e37132bfd4fa401d/master.m3u8?1676384745"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando las primeras letras minúsculas del alfabeto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/868/742c993e2f9bb6b4f97dd07a0cfa5cbd/master.m3u8?1676384750"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de letras minúsculas del tercer grupo o letras triangulares",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/872/e642e1a74c4277ec4973c1a46b492760/master.m3u8?1676384750"
+                },
+                {
+                    "id": null,
+                    "title": "Videospan el origen del ADN de nuestro diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/880/69a3d8b68cb9cfeeda424331127fb2bb/master.m3u8?1676384757"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uhuc97.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de mayúsculas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseñaremos nuestra primeras letra mayúscula la R",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/836/f1746feefc223f1208f6c93d05868284/master.m3u8?1676384733"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de las letras mayúsculas A H O",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/837/e5f9687da9e051d8be97ee33f81902cf/master.m3u8?1676384735"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de letras derivadas de H O R A y el resto de las mayúsculas parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/838/24a18643992b068a8c323056c41589e8/master.m3u8?1676384739"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de letras derivadas de H O R A y el resto de las mayúsculas parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/909/fce648deb4e9c47bb256798452b2b642/master.m3u8?1676384762"
+                },
+                {
+                    "id": null,
+                    "title": "Números",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/869/a7c25a3863cb1c0f75f74975ef06ed07/master.m3u8?1676384750"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qvd7eu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Espécimen tipográfico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al diseño de un espécimen tipográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/875/3f2b0d4c93f42de8aec3fc28056bdbf8/master.m3u8?1676384747"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de un espécimen tipográfico parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/876/8a29a45372e40b70bff97fbb09835ca2/master.m3u8?1676384761"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de un espécimen tipográfico parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/878/49e438156992beb9fa0e1bf6187512d2/master.m3u8?1676384749"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6em5nj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/80r46c.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 356,
+        "product_name": "Basic Principles of Typographic Design",
+        "teacher_name": "Latinotype",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 22,
+        "course_total_duration_sec": 10947,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

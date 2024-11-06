@@ -1,0 +1,163 @@
+{
+    "id": "783",
+    "title": "Introducción a la fotografía macro",
+    "url": "https://www.domestika.org/es/courses/783-introduccion-a-la-fotografia-macro/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Soy Sergi Encantado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/141/522749f86a56f691a853a1f60a0efd08/master.m3u8?1676388536"
+                },
+                {
+                    "id": null,
+                    "title": "Mis influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/142/367b5d23c740e865b408f162429abe41/master.m3u8?1676388533"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/143/138392e067a23f8962ac335ddad6f02c/master.m3u8?1676388530"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g5jz6s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Todo lo que tienes que saber",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la fotografía macro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/145/45915765cbcbf0acd225bf43c2c8dcda/master.m3u8?1676388537"
+                },
+                {
+                    "id": null,
+                    "title": "El equipo macro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/146/fbc52799f64eae403169b287b2d9a929/master.m3u8?1676388536"
+                },
+                {
+                    "id": null,
+                    "title": "Los cálculos que necesitamos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/147/013de7567714ca533e15ae5f2bb4cb77/master.m3u8?1676388533"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v2c26c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El disparo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Montaje e Iluminación del escenario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/148/f7d91fcd63908b7ac197cb021fdf5542/master.m3u8?1676388533"
+                },
+                {
+                    "id": null,
+                    "title": "Disparo sin stacking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/149/d85f8ac6d079cf517a6f52496dafc349/master.m3u8?1676388535"
+                },
+                {
+                    "id": null,
+                    "title": "Disparo con stacking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/150/6c19d4070ca5a78534f5212905af7282/master.m3u8?1676388537"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xal9cu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La magia de photoshop",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Procesado raw para el stacking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/151/605bcdbfd758f07a7ecc9772258360b4/master.m3u8?1676388539"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción del stacking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/152/a6ab1a6ad1c4bc72068af0c1d631339b/master.m3u8?1676388539"
+                },
+                {
+                    "id": null,
+                    "title": "El retoque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/153/b0560d718ad6e2c7e5296f1ec415542e/master.m3u8?1676388542"
+                },
+                {
+                    "id": null,
+                    "title": "El retoque II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/154/8c69bf98f440e19204f69f94d14147d5/master.m3u8?1676388539"
+                },
+                {
+                    "id": null,
+                    "title": "Enfoque y exportación del archivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/155/ace7db8be93d46d9aba4d52b6835d588/master.m3u8?1676388539"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ndnio5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/weyw26.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 783,
+        "product_name": "Introduction to Macro Photography",
+        "teacher_name": "Sergi Gomez Garcia",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7660,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

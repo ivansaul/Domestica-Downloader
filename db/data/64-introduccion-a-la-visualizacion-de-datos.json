@@ -1,0 +1,147 @@
+{
+    "id": "64",
+    "title": "Introducción a la visualización de datos",
+    "url": "https://www.domestika.org/es/courses/64-introduccion-a-la-visualizacion-de-datos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "La Visualización de Datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Víctor Pascual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/311/f5e08a532a7ca45b2da827c989bbddf5/master.m3u8?1676381077"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a la Visualización de datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/312/08ab1098068002b318a12f1a06fd099d/master.m3u8?1676381068"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/310/a2e0516c1ed42a4cc60b0967df746728/master.m3u8?1676381067"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nulksc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo desarrollar visualizaciones efectivas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El proceso de la visualización de datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/313/144711d8bac90ebc73aa45b696219ab9/master.m3u8?1676381067"
+                },
+                {
+                    "id": null,
+                    "title": "Objetivos y ejemplos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/314/d805638b321f59c203fcf15154697fde/master.m3u8?1676381071"
+                },
+                {
+                    "id": null,
+                    "title": "Reglas básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/319/a570ec983a1c84c187195929dc5036f1/master.m3u8?1676381073"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/59249a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Recogida de datos y análisis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explicación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/317/932b166659ebbafdcfe1f4f3e08d4d35/master.m3u8?1676381070"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al scraping de datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/326/246ed526d7e9c4025ce375e785b685f7/master.m3u8?1676381074"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza y procesado de datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/320/c4cefa8f9029dac9279fbb6969cdeaa9/master.m3u8?1676381073"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando los datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/321/19cef9649f6c2f83bf0075504393f171/master.m3u8?1676381074"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pn2tmz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Visualizar datos con Tableau",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a Tableau Public",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/322/a7913712939067450a5e460aa936778e/master.m3u8?1676381072"
+                },
+                {
+                    "id": null,
+                    "title": "Visualizar datos de nuestras series",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/323/b1b4f1480aa1ff18e45279fe95e42ef2/master.m3u8?1676381075"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d0orpb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/sws7js.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 64,
+        "product_name": "Introduction to Data Visualization",
+        "teacher_name": "Victor Pascual",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 10011,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "id": "265",
+    "title": "Introducción al sign painting",
+    "url": "https://www.domestika.org/es/courses/265-introduccion-al-sign-painting/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/823/47ad97cea48b1537bde1919fbb6130ee/master.m3u8?1676383430"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/824/67b8ee9f9d4a7b33956901cbffc5f312/master.m3u8?1676383432"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bk83pv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Rotulismo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Rotulismo y letras casuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/825/493316bf38cc6014699204d644952885/master.m3u8?1676383431"
+                },
+                {
+                    "id": null,
+                    "title": "Descripción de materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/826/22789c6a7ea4423bbdd24d348976ae91/master.m3u8?1676383433"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n8j1x8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Letras casuales y variantes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Trazos básicos y primeros ejercicios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/827/289e891b33547df904386d1418c8ad39/master.m3u8?1676383441"
+                },
+                {
+                    "id": null,
+                    "title": "Las mayúsculas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/828/59f38a56782cf3751240c9a6766e7c84/master.m3u8?1676383439"
+                },
+                {
+                    "id": null,
+                    "title": "Números y caracteres especiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/829/b0cb2bbbe588defbfcfa202837c991dc/master.m3u8?1676383437"
+                },
+                {
+                    "id": null,
+                    "title": "Upright  Bold",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/830/82756a27cd0236f7177d0f3d75c76365/master.m3u8?1676383435"
+                },
+                {
+                    "id": null,
+                    "title": "Script",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/831/1a54a8e86dcf8a1cc7b5def83ebc186c/master.m3u8?1676383439"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ecd511.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elaborando tu pieza",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición del proyecto y referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/832/3c3089bd966d829aef51c3154c588b4f/master.m3u8?1676383434"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/833/019a0bca46eddc8dbab27dc7531a4c28/master.m3u8?1676383437"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo del cartel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/834/34b23adba55c8ae073111f0d19d4e50e/master.m3u8?1676383439"
+                },
+                {
+                    "id": null,
+                    "title": "Refinamiento y pieza final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/835/a1976e04271627e711f0111e1b00b89b/master.m3u8?1676383446"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8rcfsi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ewrfur.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 265,
+        "product_name": "Introduction to Sign Painting",
+        "teacher_name": "Miguel Reyes",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7571,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

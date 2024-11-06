@@ -1,0 +1,158 @@
+{
+    "id": "2799",
+    "title": "Introducción al reportaje visual",
+    "url": "https://www.domestika.org/es/courses/2799-introduccion-al-reportaje-visual/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/328/60405221d06988da7c37144342662bc8/master.m3u8?1676403938"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/329/d197caa2eef8059635aa48dda73f8097/master.m3u8?1676403940"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q347v9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La importancia de las historias periodísticas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La importancia de contar historias periodísticas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/330/a5006a53ce0ea0702ed4c3e4e2578231/master.m3u8?1676403942"
+                },
+                {
+                    "id": null,
+                    "title": "Los géneros en el periodismo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/331/06d1531c06a08994a5cf559e704df2cb/master.m3u8?1676403942"
+                },
+                {
+                    "id": null,
+                    "title": "Los pasos para contar una historia periodística visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/332/90b71ed069743f091ca9480115fcc0c5/master.m3u8?1676403940"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oqqkk6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trabajo en campo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo seleccionar una historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/333/ee53b32a5d157c03662ed4431badc984/master.m3u8?1676403941"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo aproximarse a la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/334/3b78d54c66b245c3c29853169ca03b92/master.m3u8?1676403945"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos técnicos para realizar tu historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/335/6b66209da056971f9a6062cafbcdb761/master.m3u8?1676403942"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos básicos de seguridad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/336/b924c61724ea0a2546f7884bdbd40760/master.m3u8?1676403942"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0d7gv4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dando forma a nuestro proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Seleccionando las imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/337/f28056a218814103b1c486a24951208c/master.m3u8?1676403948"
+                },
+                {
+                    "id": null,
+                    "title": "Seleccionando y editando los audios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/338/c12aa005ebc895bc2c3e0dcea5a99de5/master.m3u8?1676403942"
+                },
+                {
+                    "id": null,
+                    "title": "Dando forma a la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/339/d5b3d6f9f0979b85e02be8954733d60b/master.m3u8?1676403943"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo compartir tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/340/1522658c4d40781b27153cd5af40656a/master.m3u8?1676403943"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uk6xcv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/o52zn2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2799,
+        "product_name": "Introduction to Visual Journalism",
+        "teacher_name": "Gladys Serrano",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6159,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

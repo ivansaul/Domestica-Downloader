@@ -1,0 +1,163 @@
+{
+    "id": "3295",
+    "title": "Fotografía de alimentos crea tu propio estilo",
+    "url": "https://www.domestika.org/es/courses/3295-fotografia-de-alimentos-crea-tu-propio-estilo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/224/9bdc4a9da1fe479cd71e2dc1ac3ced8b/master.m3u8?1676407191"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/319/084c0d741c1260b17e1d9791c3c832c9/master.m3u8?1676407243"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sfire9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La iluminación en la fotografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El equipo básico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/230/dc4559dadb14b191ee3c17efc0d5cbb9/master.m3u8?1676407195"
+                },
+                {
+                    "id": null,
+                    "title": "La luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/225/5ec09ec27be1a34b44aee7700cc5da7f/master.m3u8?1676407193"
+                },
+                {
+                    "id": null,
+                    "title": "La luz artificial simple",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/226/399d7491b1e06432af48a3bd77bb09f7/master.m3u8?1676407193"
+                },
+                {
+                    "id": null,
+                    "title": "La luz artificial doble",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/227/519fc380ef1aa1b1900487b03d305670/master.m3u8?1676407192"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8c3i77.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El estilo y la composición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/231/826510271ab4222c9c7d9847b458e1f3/master.m3u8?1676407195"
+                },
+                {
+                    "id": null,
+                    "title": "Los ángulos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/232/78b8e4e5eb6a102db538f39cec7e31a5/master.m3u8?1676407196"
+                },
+                {
+                    "id": null,
+                    "title": "Food styling",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/235/6cc92fd988c66a0b09df3811523cc22d/master.m3u8?1676407201"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nw5ebr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mood board y tomas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/236/b5113218e5fe465aa6d4e8c1b11f7e2f/master.m3u8?1676407198"
+                },
+                {
+                    "id": null,
+                    "title": "Armado de plato food styling y primera foto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/238/2a8f44724a83f72ee59d2402de73eecf/master.m3u8?1676407199"
+                },
+                {
+                    "id": null,
+                    "title": "Armado de plato food styling y segunda foto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/239/1ffe2196c6ed261eac727a75cc2becca/master.m3u8?1676407200"
+                },
+                {
+                    "id": null,
+                    "title": "Armado de plato food styling y tercera foto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/240/8bc6ec16f21f94f4108f99363d203f15/master.m3u8?1676407200"
+                },
+                {
+                    "id": null,
+                    "title": "Editar y exportar las fotografías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/241/9cb34e140931167bf645cfca31aac877/master.m3u8?1676407202"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gd8neg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/fni533.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3295,
+        "product_name": "Food Photography: Find Your Artistic Taste",
+        "teacher_name": "Jimena Agois Sanchez",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4979,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

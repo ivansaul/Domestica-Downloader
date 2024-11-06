@@ -1,0 +1,205 @@
+{
+    "id": "1648",
+    "title": "Lettering 3D animado con XParticles",
+    "url": "https://www.domestika.org/es/courses/1648-lettering-3d-animado-con-x-particles/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/616/faca9d6bfb314eea0234b302bf0c744e/master.m3u8?1676393045"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/617/cc6cfa48efb9984d9d5e28367f0a84d7/master.m3u8?1676393050"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/618/b388a0fd778539a15cde3e03c61601ac/master.m3u8?1676393043"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/opah6m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conociendo XParticles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué XParticles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/619/ab7814741a8a06e5a87fb929e8319c4b/master.m3u8?1676393052"
+                },
+                {
+                    "id": null,
+                    "title": "X tour System Object",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/620/dd46862046db3d90c8d2a38fd6898e04/master.m3u8?1676393050"
+                },
+                {
+                    "id": null,
+                    "title": "X tour emisores 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/621/96dcd01a0945b156d53cb4d24088b186/master.m3u8?1676393046"
+                },
+                {
+                    "id": null,
+                    "title": "X tour emisores 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/622/040f12ab01ac8ad6428d45269d45a084/master.m3u8?1676393051"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/54uu8u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bubble F de flow",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escogiendo fuentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/623/157448112c0afafe0a0ba9e7979ee0bb/master.m3u8?1676393055"
+                },
+                {
+                    "id": null,
+                    "title": "Primero el boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/624/96947d8cf74d6a5918cd72b60ccd1c35/master.m3u8?1676393049"
+                },
+                {
+                    "id": null,
+                    "title": "Emitters  Noise buena fórmula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/625/5656379d5d2a61bd31a71b6132dce369/master.m3u8?1676393051"
+                },
+                {
+                    "id": null,
+                    "title": "Usemos las dinámicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/626/34f70a17dab0571c173cab72b9f0b48d/master.m3u8?1676393054"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/77vf9v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Liquid O",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Liquid O",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/627/d997b788cf312df73c1c3d835d9e714e/master.m3u8?1676393050"
+                },
+                {
+                    "id": null,
+                    "title": "xpFluidFX y su lógica 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/628/65105be5c1dd56ab8160a2caeb8fa0a5/master.m3u8?1676393050"
+                },
+                {
+                    "id": null,
+                    "title": "xpFluidFX y su lógica 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/629/ddc2098fe2bd6a825781af0621db1c93/master.m3u8?1676393054"
+                },
+                {
+                    "id": null,
+                    "title": "Revisando nuestro lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/630/55e02d26e5f50b2b21b8bd1431e0ad3b/master.m3u8?1676393050"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d23aeg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproduccion",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Set de estudio teoría y práctica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/631/47e530bd8764db826b8a32bf67f0c242/master.m3u8?1676393057"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/632/9dce13f3414c5fde59a5351349c36c4b/master.m3u8?1676393053"
+                },
+                {
+                    "id": null,
+                    "title": "Color User Data",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/633/3f1745a90669ed4100e99d80a0ff88ae/master.m3u8?1676393056"
+                },
+                {
+                    "id": null,
+                    "title": "Render  1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/634/bb5df8ffe1b6a11994e9cc8986d45cc5/master.m3u8?1676393059"
+                },
+                {
+                    "id": null,
+                    "title": "Render 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/635/31a0d2de77279cb59d25dfa2f6052701/master.m3u8?1676393066"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/22t1r1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/glp86f.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1648,
+        "product_name": "Animated 3D Lettering with X-Particles",
+        "teacher_name": "Erich Gordon",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 14562,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

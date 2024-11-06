@@ -1,0 +1,157 @@
+{
+    "id": "3372",
+    "title": "Edición con Lightroom para fotografía arquitectónica",
+    "url": "https://www.domestika.org/es/courses/3372-edicion-con-lightroom-para-fotografia-arquitectonica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/213/d85a8947c033a2380ff2ec2a58bcff38/master.m3u8?1676403891"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/214/1fe1aec0256472cfc0f71ec5e135c713/master.m3u8?1676403891"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qyhbjj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de edición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a Lightroom",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/218/e439f98047839fe0d1860fc87aabb202/master.m3u8?1676403893"
+                },
+                {
+                    "id": null,
+                    "title": "Lightroom y fotografía arquitectónica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/225/2614cb8f9dff14b5da45cf10186fcd50/master.m3u8?1676403900"
+                },
+                {
+                    "id": null,
+                    "title": "Composición perspectiva recorte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/227/636132f5ccc8c1db43969047b04b5e21/master.m3u8?1678441486"
+                },
+                {
+                    "id": null,
+                    "title": "Curvas gradación de color ajustes preestablecidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/241/56d2712d767b3a184186fce9928f5b4c/master.m3u8?1678441524"
+                },
+                {
+                    "id": null,
+                    "title": "Nitidez reducción de ruido geometría y óptica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/688/c3e915bfdd1098bbf4c9627a3281d871/master.m3u8?1678442078"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3ec3pk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición de sus fotos arquitectónicas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Edición de los aspectos técnicos de una foto de ángulo bajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/243/927c7a0040a4630177823992585c4a4c/master.m3u8?1678441584"
+                },
+                {
+                    "id": null,
+                    "title": "Mejorar la estética de una foto de ángulo bajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/244/e81d2c7fd5b22548ba3953a409b0b842/master.m3u8?1676403907"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de los aspectos técnicos de una foto de vista frontal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/245/d80d390b08a86673eeaa69dd33150844/master.m3u8?1678441621"
+                },
+                {
+                    "id": null,
+                    "title": "Mejorar la estética de una foto de vista frontal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/246/666d40112833552b0e113dec208d8f44/master.m3u8?1676403908"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9z4u2p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Compartir su trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Compartir su trabajo en Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/247/71a572a5176a447e7eb5d01f5329acfb/master.m3u8?1676403908"
+                },
+                {
+                    "id": null,
+                    "title": "Compartir su trabajo en otras plataformas de redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/248/7b8d8c67a3c630d2bce58408eabae395/master.m3u8?1676403908"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3jx03n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/iesgz0.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3372,
+        "product_name": "Editing in Lightroom for Architectural Photography",
+        "teacher_name": "Tobi Shinobi",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7646,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

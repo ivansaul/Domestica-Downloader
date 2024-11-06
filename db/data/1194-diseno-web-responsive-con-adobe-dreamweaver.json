@@ -1,0 +1,272 @@
+{
+    "id": "1194",
+    "title": "Diseño web responsive con Adobe Dreamweaver",
+    "url": "https://www.domestika.org/es/courses/1194-diseno-web-responsive-con-adobe-dreamweaver/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/301/7c5e2b003e0a8bd2f1eadd12561dcc1e/master.m3u8?1676389044"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/302/655d97fde404abec9a86a61b23f4e9d9/master.m3u8?1676389049"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/303/184c19a2947eed41379e2cfb48968463/master.m3u8?1676389044"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t4lj2a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Principios de diseño web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué son la UX y UI",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/305/0dd5f18134c8217ca1a5ab0dce6a9d28/master.m3u8?1676389048"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/306/28e7636922b7c7a43db9e97d040c1ca4/master.m3u8?1676389047"
+                },
+                {
+                    "id": null,
+                    "title": "La ventaja de estandarizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/307/57c0bd73d5a538a39b411ad298bbe44d/master.m3u8?1676389059"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/drry8m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Perdiendo el miedo a Dreamweaver construyendo una página web básica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Porque usar Dreamweaver",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/395/41ed9d1478f75cdbe0f8045f584d1a5b/master.m3u8?1676389093"
+                },
+                {
+                    "id": null,
+                    "title": "Descripción general del área de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/396/26f271cdd4b98f4de68c5962600f7b98/master.m3u8?1676389095"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de carpetas de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/397/3ceb3331dd7a12a8059313962307e798/master.m3u8?1676389094"
+                },
+                {
+                    "id": null,
+                    "title": "Sintaxis HTML usando etiquetas atributos y valores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/398/2fb77e3029a015761bc696e097938c9d/master.m3u8?1676389096"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura general de una página web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/399/2b14bc07ad1f55a127a94aa178617787/master.m3u8?1676389108"
+                },
+                {
+                    "id": null,
+                    "title": "Colocando texto e imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/400/df09132cb67a7743e61d63195faea2c6/master.m3u8?1676389107"
+                },
+                {
+                    "id": null,
+                    "title": "Enlaces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/401/5e05a934cb4bb88edecccc5e2d5ee70c/master.m3u8?1676389097"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/scfkqa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Agregando estilo  a una página web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Vinculación de un archivo CSS  y su Sintaxis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/404/250f332d34749263401a6936220cdc5f/master.m3u8?1676389102"
+                },
+                {
+                    "id": null,
+                    "title": "Selectores y valores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/405/9dce62103f830c20e492cffdb1e9bff2/master.m3u8?1676389100"
+                },
+                {
+                    "id": null,
+                    "title": "El modelo de caja y  reinicio de una hoja de estilos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/406/f823c09f33a974a5fc3013b1abfa9544/master.m3u8?1676389104"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos tipográficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/407/e561a1c7dca5782ff35664f29499f16c/master.m3u8?1676389105"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos para el diseño de cajas P1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/408/a6a4c20a8faeabc36ca2faa3251abab4/master.m3u8?1676389107"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos para el diseño de cajas P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/409/8259ba54e637e0e4023a39880d9f179b/master.m3u8?1676389104"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicando position display y floats P1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/410/2656f488a3209ccbb1729c9cc6901117/master.m3u8?1676389107"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicando position display y floats P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/411/e87dbaf73e789c82924b9bde3ea0fa4b/master.m3u8?1676389108"
+                },
+                {
+                    "id": null,
+                    "title": "Decoración CSS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/412/e6719357af457f02c5d8354b0233d50a/master.m3u8?1676389105"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ue6cna.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Un sitio responsivo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando Media Queries",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/414/4cd3069a3440a2ddc6a87008b2a2267d/master.m3u8?1676389106"
+                },
+                {
+                    "id": null,
+                    "title": "Primero el móvil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/415/68fdba56db5381d9206ef38912ae752c/master.m3u8?1676389113"
+                },
+                {
+                    "id": null,
+                    "title": "Haciendo un menú responsivo sencillo P1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/416/b033b21ddfcdcb2c88fbaf3ffc8daa48/master.m3u8?1676389108"
+                },
+                {
+                    "id": null,
+                    "title": "Haciendo un menú responsivo sencillo P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/417/5ab8dea18cfed539dedae8eda0d566d0/master.m3u8?1676389108"
+                },
+                {
+                    "id": null,
+                    "title": "Usando las vistas previas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/418/d7ad3364af41e558a932822793eb94c3/master.m3u8?1676389107"
+                },
+                {
+                    "id": null,
+                    "title": "Revisar y corregir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/419/963665bdc898d62a5044c0425ec5c52f/master.m3u8?1676389121"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cdnhwt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Publicación de sitio web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definiendo un sitio remoto desde Dreamweaver",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/420/c99eda99501a3f41c82788bf87f72d6c/master.m3u8?1676389109"
+                },
+                {
+                    "id": null,
+                    "title": "Subiendo el sitio web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/421/d7253f8e288735ae857d89f6d588dd7e/master.m3u8?1676389110"
+                },
+                {
+                    "id": null,
+                    "title": "Sincronizar el sitio local y el sitio remoto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/422/a2aecb431411efc240f60254223c7d22/master.m3u8?1676389111"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ks6ssf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/te3rkh.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1194,
+        "product_name": "Responsive Web Design with Adobe Dreamweaver",
+        "teacher_name": "Arturo Servín",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 31,
+        "course_total_duration_sec": 18092,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

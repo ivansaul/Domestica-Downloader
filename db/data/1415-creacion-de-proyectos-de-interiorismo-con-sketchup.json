@@ -1,0 +1,251 @@
+{
+    "id": "1415",
+    "title": "Creación de proyectos de interiorismo con SketchUp",
+    "url": "https://www.domestika.org/es/courses/1415-creacion-de-proyectos-de-interiorismo-con-sketchup/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/133/e29d5813d0d0979472b9872d0e7c2b79/master.m3u8?1676390389"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/134/b174504342baaeeb8bf466b07e1db7b5/master.m3u8?1676390390"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/135/5b0a4dbeb8ff68237f399270ae8a297a/master.m3u8?1676390388"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/omkbe0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Configura tu entorno de SketchUp",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configura tu interfaz de SketchUp",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/136/93f2d848b571fd31c54ccfe998bc0720/master.m3u8?1676390390"
+                },
+                {
+                    "id": null,
+                    "title": "Creación y correcta gestión de capas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/137/4a5392bf7f9bdfa107239a70ee2a3982/master.m3u8?1676390391"
+                },
+                {
+                    "id": null,
+                    "title": "Es hora de conocer el maravilloso mundo de los plugins 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/138/f21d701acec867f7f185564e82c36469/master.m3u8?1676390395"
+                },
+                {
+                    "id": null,
+                    "title": "Es hora de conocer el maravilloso mundo de los plugins 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/139/654a1a1aada366335d9a567f5683345b/master.m3u8?1676390392"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/swnxfh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dando vida al espacio creación de un proyecto de interiorismo comercial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado 3D de la tienda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/140/607b6d6ef2210214b8e6610f4a57c89b/master.m3u8?1676390397"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado 3D de la tienda 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/141/393fc28c554aeb12fc4641e31c961e74/master.m3u8?1676390396"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de nuevos materiales y texturas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/142/399aa8785dc50071d78d370a1fa09b15/master.m3u8?1676390397"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de nuevos materiales y texturas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/143/4183e3dfe2fe17dfac0a458f870c2cd6/master.m3u8?1676390414"
+                },
+                {
+                    "id": null,
+                    "title": "Edición y modificación de las texturas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/144/d3b5a6296adc39b9ed295bc4d2258fc3/master.m3u8?1676390402"
+                },
+                {
+                    "id": null,
+                    "title": "Edición y modificación de las texturas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/145/c972a0c72500ff740eabd8a8d556a1cc/master.m3u8?1676390399"
+                },
+                {
+                    "id": null,
+                    "title": "Es hora de trabajar modelando el mobiliario 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/146/16ac157153c30c76f560f0aed7e189b3/master.m3u8?1676390400"
+                },
+                {
+                    "id": null,
+                    "title": "Es hora de trabajar modelando el mobiliario 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/147/edb808705341f0b646d5d51bbb04f742/master.m3u8?1676390412"
+                },
+                {
+                    "id": null,
+                    "title": "Es hora de trabajar modelando el mobiliario 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/148/d94f221552fc7c84a65ee64f24c89d36/master.m3u8?1676390406"
+                },
+                {
+                    "id": null,
+                    "title": "Saquemos partido de esa maravilla que es el 3D Warehouse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/149/64f08fdca1f3768f56f0506ce62d1a83/master.m3u8?1676390401"
+                },
+                {
+                    "id": null,
+                    "title": "Saquemos partido de esa maravilla que es el 3D Warehouse 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/150/01a602fbdf6c8dc0686a366d8e4ecd70/master.m3u8?1676390403"
+                },
+                {
+                    "id": null,
+                    "title": "Edita imágenes para crear elementos y productos personalizados 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/151/57e4ce589539d69439890cc730144e6a/master.m3u8?1676390404"
+                },
+                {
+                    "id": null,
+                    "title": "Edita imágenes para crear elementos y productos personalizados 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/152/35740e3f91e117bdb6e38560773d6b27/master.m3u8?1676390401"
+                },
+                {
+                    "id": null,
+                    "title": "Edita imágenes para crear elementos y productos personalizados 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/153/69db3289d3838c86fec9de034c4002e0/master.m3u8?1676390404"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ruqkgt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las escenas de presentación del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparando las vistas para realizar las escenas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/154/a63e088a1d749bba8da06d4931339ae2/master.m3u8?1676390404"
+                },
+                {
+                    "id": null,
+                    "title": "Creando nuestras primeras perspectivas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/155/4dc95102eb6261b5d67b0fd137e78fd5/master.m3u8?1676390413"
+                },
+                {
+                    "id": null,
+                    "title": "Creando nuestras primeras perspectivas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/156/30c6c9375f756a3902def7134e6f2ade/master.m3u8?1676390408"
+                },
+                {
+                    "id": null,
+                    "title": "Ahora es el turno de los planos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/157/c4f9ecf4565446720c9a10b86a674dfc/master.m3u8?1676390418"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6i0hfz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exportemos las escenas para hacer la presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Vamos a exportar las imágenes para hacer una presentación muy chula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/158/3556263a09dbde2a7b6aecf71be77ab6/master.m3u8?1676390403"
+                },
+                {
+                    "id": null,
+                    "title": "Animaciones y recorridos virtuales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/159/1c00d26f9afdd66dc34e51b43302d420/master.m3u8?1676390410"
+                },
+                {
+                    "id": null,
+                    "title": "Animaciones y recorridos virtuales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/160/c917008a59c544c8f554774c47d6de99/master.m3u8?1676390413"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos para el buen desarrollo de un proyecto de interiorismo con SketchUp",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/161/755fba7c7ffe046438617cde17a7f911/master.m3u8?1676390413"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h60pqa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/d9hezd.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1415,
+        "product_name": "Creation of Interior Design Projects on SketchUp",
+        "teacher_name": "Alexandra Proaño Gonzales",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 29,
+        "course_total_duration_sec": 24564,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

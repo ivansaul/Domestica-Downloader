@@ -1,0 +1,199 @@
+{
+    "id": "231",
+    "title": "Montaje audiovisual profesional con Adobe Premiere Pro",
+    "url": "https://www.domestika.org/es/courses/231-montaje-audiovisual-profesional-con-adobe-premiere-pro/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/485/aedafb0213f9bdaa2a733168175b4d95/master.m3u8?1676989059"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/508/525ba72aba6e3300dfaa01d0602780ef/master.m3u8?1676990049"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f4n4v1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué es el montaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El trabajo invisible el montaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/487/0af1a07f8a1d328e8fa96ba027d08653/master.m3u8?1676989180"
+                },
+                {
+                    "id": null,
+                    "title": "Los 3 principales tipos de montaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/488/c882e6465a04245c17f7ac5820fed6f2/master.m3u8?1676989231"
+                },
+                {
+                    "id": null,
+                    "title": "El efecto Kuleshov",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/489/c75484697439be791eea99ee3447e1b3/master.m3u8?1676989277"
+                },
+                {
+                    "id": null,
+                    "title": "El montaje en los géneros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/490/233bb7912b9041057ce4cd0780d6add5/master.m3u8?1676989327"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xy3gqh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Técnicas y trucos de montaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los tipos de planos y el eje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/491/c8db7c9cddb5b95fbc9a83f8be188111/master.m3u8?1676989475"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo romper la regla del eje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/492/2e388f6678991f541601ae6f304d0537/master.m3u8?1676989565"
+                },
+                {
+                    "id": null,
+                    "title": "Menos es más Aprendemos a eliminar planos y escenas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/493/7330bdc9396e27061d08207dc51509f1/master.m3u8?1676989631"
+                },
+                {
+                    "id": null,
+                    "title": "La estructura de una historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/494/d23063586b654249fe8d4d1b4272d49a/master.m3u8?1676989680"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/olm0f7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra Editamos un anuncio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El espacio de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/495/a8ba32dcc0d71e246287c7988a458040/master.m3u8?1676989720"
+                },
+                {
+                    "id": null,
+                    "title": "Preparar los materiales para montar Los transcodec en DaVinci Resolve",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/496/546ac37006a7aedb92274b3d53403dae/master.m3u8?1676989824"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del proyecto y organización del material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/497/7b90130e0cd6f1b9db8bb01c140cb311/master.m3u8?1676989569"
+                },
+                {
+                    "id": null,
+                    "title": "La selección y el timeline 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/498/e5eda5c00f89a49365fe102086a799eb/master.m3u8?1676989626"
+                },
+                {
+                    "id": null,
+                    "title": "La selección y el timeline 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/499/cf7c5f3aa307d09ee4e0b714da80f468/master.m3u8?1676989662"
+                },
+                {
+                    "id": null,
+                    "title": "Buscar recursos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/500/6e21f602a002863fa44ae7f4a3729290/master.m3u8?1676989711"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura buscando el tono y el ritmo de la peli 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/502/de017d2b693f97a4ce1625f90147e3fc/master.m3u8?1676989740"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura buscando el tono y el ritmo de la peli 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/503/6a32d637dfdb4f96b4726945cd44a72f/master.m3u8?1676989772"
+                },
+                {
+                    "id": null,
+                    "title": "Cambios 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/504/c4a8c2b33ad55d59f94777d272327641/master.m3u8?1676989825"
+                },
+                {
+                    "id": null,
+                    "title": "Cambios 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/505/ec224130715745ffdcd69756740a0433/master.m3u8?1676989866"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/506/cd184479909ebee9161f0a414d8e5a9b/master.m3u8?1676989957"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/al588y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8uy2a1.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 231,
+        "product_name": "Professional Audiovisual Editing with Adobe Premiere Pro",
+        "teacher_name": "Giacomo Prestinari",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 14931,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

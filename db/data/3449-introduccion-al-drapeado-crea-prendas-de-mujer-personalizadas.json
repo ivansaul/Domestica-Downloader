@@ -1,0 +1,158 @@
+{
+    "id": "3449",
+    "title": "Introducción al drapeado crea prendas de mujer personalizadas",
+    "url": "https://www.domestika.org/es/courses/3449-introduccion-al-drapeado-crea-prendas-de-mujer-personalizadas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/701/dde17f07148d4bf3b3f2a7b91ab30980/master.m3u8?1676403159"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/257/005f77b5becf1c45ed703dbc7f35d60f/master.m3u8?1676403415"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4vsj3g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elegir la tela adecuada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/709/35cd0a4d605e3b3973c0a32da1313428/master.m3u8?1677672112"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo colocar su cortina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/712/877d615bc828c3b22b61a25a05634694/master.m3u8?1676403165"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/258/a4604f435bfbd01d0091682dc3d0bfeb/master.m3u8?1676403416"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s2mi0v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Drapeado y Construcción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "marcas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/698/b7a1d2200369e51589832c8ed0ec2a3f/master.m3u8?1676403162"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/700/0ec694bfbb0d0b38918096601b406feb/master.m3u8?1676403167"
+                },
+                {
+                    "id": null,
+                    "title": "cortar la tela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/705/f01d93a43bed778e9f3ec618173a849e/master.m3u8?1676403164"
+                },
+                {
+                    "id": null,
+                    "title": "La capa exterior",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/706/d28f87bb5918fa1a2fb054735657bf2c/master.m3u8?1676403168"
+                },
+                {
+                    "id": null,
+                    "title": "Transferencia del Patrón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/707/0ddab68230ccb474db5e871c5104c454/master.m3u8?1676403167"
+                },
+                {
+                    "id": null,
+                    "title": "Tomando su drapeado hacia abajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/710/6f280500584bb0d2d128855307e34960/master.m3u8?1676403167"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2xxz4g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acabados de calidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cierres traseros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/702/8edef14b5ae17a708a0fb44bc1a1f0df/master.m3u8?1676403162"
+                },
+                {
+                    "id": null,
+                    "title": "Trazado de revestimientos y revestimientos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/708/663680558555a999f758f726713670cf/master.m3u8?1676403170"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l219g0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3mllnv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3449,
+        "product_name": "Introduction to Fashion Draping: Create Custom Womenswear",
+        "teacher_name": "Reagen Evans",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 9316,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

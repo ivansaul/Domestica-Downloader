@@ -1,0 +1,158 @@
+{
+    "id": "2660",
+    "title": "Creación de marca personal para artistas",
+    "url": "https://www.domestika.org/es/courses/2660-creacion-de-marca-personal-para-artistas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El inicio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/349/084ac2b2a649949c344711f51eb56820/master.m3u8?1676400298"
+                },
+                {
+                    "id": null,
+                    "title": "Marcas que nos inspiran",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/350/90a6e8594e776928e2f2bd77ba07941f/master.m3u8?1676400299"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j2sz5a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Autoconocimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Descubrir el propósito personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/351/b5a2dc44514938eaf615be9a95245c26/master.m3u8?1676400298"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de la palabra núcleo o core",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/352/9862b61b0517b9057ab24f9cab4c438d/master.m3u8?1676400300"
+                },
+                {
+                    "id": null,
+                    "title": "Estilo personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/353/4dcd77ed3d7f92d075ef6dad36b9b697/master.m3u8?1676400300"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nziwd7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la idea a la realidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Transformar el boceto a un personaje formal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/354/f8b2771bcd93e986a4f354eb2d21b15c/master.m3u8?1676400301"
+                },
+                {
+                    "id": null,
+                    "title": "Planificar la pieza estrella",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/355/d25bf08cfcae100ae8e03e7c3b2ba265/master.m3u8?1676400307"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de amenazas directas e indirectas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/356/494836dcc279ff8441326feb0ee375bf/master.m3u8?1676400301"
+                },
+                {
+                    "id": null,
+                    "title": "Planificar el lanzamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/357/7cb1d6b499ef2538cc855370dccdf7c8/master.m3u8?1676400302"
+                },
+                {
+                    "id": null,
+                    "title": "Diversificar el catálogo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/358/9ac107a2d8a7fbfc859a1c4d5b6ae9e0/master.m3u8?1676400302"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/euuc5q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Inserción y posicionamiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Plan de visibilidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/359/9e4d7e3a3c0460dfdac29665cad30644/master.m3u8?1676400303"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de best practices",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/360/7dcd6075d8fddf2869f8737acd1cdcec/master.m3u8?1676400302"
+                },
+                {
+                    "id": null,
+                    "title": "Comunicación de marca artista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/361/ee86b0b2f9b7bf16bc2a037b70814920/master.m3u8?1676400303"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n7lqmq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/dvpfu3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2660,
+        "product_name": "Personal Branding for Artists",
+        "teacher_name": "Jumping Lomo",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 3846,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

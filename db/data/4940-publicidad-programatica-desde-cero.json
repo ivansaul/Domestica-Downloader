@@ -1,0 +1,153 @@
+{
+    "id": "4940",
+    "title": "Publicidad programática desde cero",
+    "url": "https://www.domestika.org/es/courses/4940-publicidad-programatica-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/911/7d0cb2cf64e7ded83bb232c25a5efad1/master.m3u8?1676413032"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/912/026c8dcd43b23348a10c1fc41954bbba/master.m3u8?1676413032"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p3gg41.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos de la publicidad programática",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importancia de la publicidad programática",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/913/647aecbf283b1f80f861520b45deb6f4/master.m3u8?1676413032"
+                },
+                {
+                    "id": null,
+                    "title": "Evolución del marketing digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/915/0e8d713451d875c713e04eb247147053/master.m3u8?1676413034"
+                },
+                {
+                    "id": null,
+                    "title": "Trading programático",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/919/e78df5e99376d2a607a56f6622728823/master.m3u8?1676413034"
+                },
+                {
+                    "id": null,
+                    "title": "El ecosistema programático",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/921/9c2aee791c26914bb626a8b99474b150/master.m3u8?1676413037"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bo9jw7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Implementación de tecnología programática",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ganancias de eficiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/932/60a8b149fe9baf81d213e5f8b42eff35/master.m3u8?1676413042"
+                },
+                {
+                    "id": null,
+                    "title": "Beneficios del traiding",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/933/f91a612812cc7083b2328935bac7253c/master.m3u8?1676413041"
+                },
+                {
+                    "id": null,
+                    "title": "Nuevas oportunidades creativas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/934/32b406d72feea61afe11772898a00a38/master.m3u8?1676413043"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r7ilt8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Activación del proceso programático",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo empezar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/937/93fec6e4296cedbae15d9b1d6e980cc9/master.m3u8?1676413042"
+                },
+                {
+                    "id": null,
+                    "title": "Cuatro consideraciones importantes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/938/8757aa813c7938453874d46a2612f9ec/master.m3u8?1676413044"
+                },
+                {
+                    "id": null,
+                    "title": "Sistemas cerrados como alternativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/939/55a1311c9f6d8008e4546614b7cafb74/master.m3u8?1676413044"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x5jwwo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ytt6bz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4940,
+        "product_name": "Introduction to Programmatic Advertising",
+        "teacher_name": "Jannis Poestges",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 3838,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}
