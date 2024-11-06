@@ -1,0 +1,183 @@
+{
+    "id": "536",
+    "title": "Técnicas de VFX para proyectos ArchViz",
+    "url": "https://www.domestika.org/es/courses/536-tecnicas-de-vfx-para-proyectos-archviz/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Quién soy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/217/e820a46cf7f43942ad6accd2123ee511/master.m3u8?1676385629"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/218/f719149cc9014ac6e5feaa7e2592c353/master.m3u8?1676385633"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6qn7ch.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Procesos preliminares",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Planeación inicial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/219/3e5c234ea068a930fb377de22467e133/master.m3u8?1676385631"
+                },
+                {
+                    "id": null,
+                    "title": "Cotización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/220/943212afded4e4cda8e00f1578345538/master.m3u8?1676385636"
+                },
+                {
+                    "id": null,
+                    "title": "Procesos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/221/0c04a25b24c0eb620c1b25b275e68ae1/master.m3u8?1676385632"
+                },
+                {
+                    "id": null,
+                    "title": "Calendarización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/222/956f71c6ddd69b2ac05f513e6f6d0afa/master.m3u8?1676385633"
+                },
+                {
+                    "id": null,
+                    "title": "Project Management",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/223/6086cd3f798d367789d85c348c682c4d/master.m3u8?1676385633"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ynaen1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejecución",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Material en video",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/224/84c52d743a15c1d6a69e71a9dd9a7c51/master.m3u8?1676385633"
+                },
+                {
+                    "id": null,
+                    "title": "Movimientos de cámara P1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/225/5822f40d4303aff78100a9790c8fa3e1/master.m3u8?1676385639"
+                },
+                {
+                    "id": null,
+                    "title": "Movimientos de cámara P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/226/ba8a213b910e53ee30880ea1dc684e6e/master.m3u8?1676385634"
+                },
+                {
+                    "id": null,
+                    "title": "Pantalla verde",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/227/bc54ea73bd0c5cc86f5d1147dafa241f/master.m3u8?1676385638"
+                },
+                {
+                    "id": null,
+                    "title": "3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/228/e60efcdd42c78ef7de580b25a972140a/master.m3u8?1676385637"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación y look P1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/229/05d8a4867f5b58312e55edfa5e1ccfe3/master.m3u8?1676385640"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación y look P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/230/57a5934056017c3c16545ca142de2b56/master.m3u8?1676385640"
+                },
+                {
+                    "id": null,
+                    "title": "Rotoscopía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/231/c4b78b410654c17180c9c109b60fe6a7/master.m3u8?1676385638"
+                },
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/232/07e174897bde786493fd3a5766b640bd/master.m3u8?1676385639"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7mla2x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finishing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Detalle fino",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/233/56a8d7a0efa60c773fb931f83b7170fc/master.m3u8?1676385639"
+                },
+                {
+                    "id": null,
+                    "title": "Color y entrega",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/234/8c7a16cecaaacf9737829cab74f89205/master.m3u8?1676385640"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rouytj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/d345gk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 536,
+        "product_name": "VFX Techniques for ArchViz Projects",
+        "teacher_name": "Ro Bot",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 8309,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

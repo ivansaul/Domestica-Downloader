@@ -1,0 +1,159 @@
+{
+    "id": "5178",
+    "title": "Técnicas de autopromoción para creativos",
+    "url": "https://www.domestika.org/es/courses/5178-tecnicas-de-autopromocion-para-creativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/743/bf3cb66af0d0cc7de84f8d0f449eafdb/master.m3u8?1682000465"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/744/65e883e294680979bad1c15185b9d31f/master.m3u8?1682000542"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/31hgng.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mirar hacia adentro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mi relación con la autopromoción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/745/c96efab31a7cd62e005c339d802d262f/master.m3u8?1682001076"
+                },
+                {
+                    "id": null,
+                    "title": "Descubrir tus superpoderes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/746/1187fcb94018b642329e889fc351e4b2/master.m3u8?1682001205"
+                },
+                {
+                    "id": null,
+                    "title": "Abrazar tu singularidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/747/ba6dd3cd28fef10342e174c752eb3b1f/master.m3u8?1682001264"
+                },
+                {
+                    "id": null,
+                    "title": "La autopromoción no es pecado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/748/97d5edbd47d7d5d1225682e322f52378/master.m3u8?1682001346"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8rr4ou.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tu plan de autopromoción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Storytelling",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/749/9fca50f2283e7ea734a4cca248b30c9c/master.m3u8?1682001426"
+                },
+                {
+                    "id": null,
+                    "title": "Crear tu pitch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/750/2f071ecd0e8eb694f17ae3b8206bc635/master.m3u8?1696870149"
+                },
+                {
+                    "id": null,
+                    "title": "Plan intensivo de 30 días",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/751/622225c5589a13eb2220c1bd6db11946/master.m3u8?1682001791"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas para compartir en redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/752/60483e04b9976c631dba1c3ee25d7363/master.m3u8?1682001805"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9qxckn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Antídotos para el miedo a la exposición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Atrévete a no gustar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/753/54abc9e5b9531f648f33581268a0a34f/master.m3u8?1682003028"
+                },
+                {
+                    "id": null,
+                    "title": "Sentir miedo y hacerlo igual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/754/2b0876cda4e94f388dfe3c5d94f5c0e4/master.m3u8?1682003038"
+                },
+                {
+                    "id": null,
+                    "title": "Últimos consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/756/cba267f5c02b61ea64965fa2de8ecdca/master.m3u8?1682003071"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/us3slw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/a6f2y4.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5178,
+        "product_name": "Self-Promotion Techniques for Creatives",
+        "teacher_name": "Carla Bonomini",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4282,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

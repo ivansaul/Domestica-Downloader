@@ -1,0 +1,148 @@
+{
+    "id": "1861",
+    "title": "Branding digital desarrolla tu marca en el mundo online",
+    "url": "https://www.domestika.org/es/courses/1861-branding-digital-desarrolla-tu-marca-en-el-mundo-online/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/222/7c9c0b0e8469cc89e6447dbe915b87e9/master.m3u8?1676396547"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/223/f8bf210649e9e66d6609fc7a186c3026/master.m3u8?1676396561"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1cgvf0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bienvenido al digital branding",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el marketing digital 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/224/9420dd12cb9c4a4ece3bc953f8132927/master.m3u8?1676396553"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es el marketing digital 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/225/6f41e3c22ea39f6e051bcd6d6ee44bb1/master.m3u8?1676396554"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas que resuelven problemas de las personas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/226/5be43ad4f63f9cbec19febfb63cb11a5/master.m3u8?1676396557"
+                },
+                {
+                    "id": null,
+                    "title": "Principios del branding",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/227/998af865eb555f8c6517a93453f6752d/master.m3u8?1676396552"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xn5fiz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Experiencias de marca Qué cómo cuándo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Contexto digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/228/f427934d071e1e06839b171a36c23329/master.m3u8?1676396556"
+                },
+                {
+                    "id": null,
+                    "title": "Ahora vamos a lo emocional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/229/e55eb288439413ad5de5994904dfd9f3/master.m3u8?1676396554"
+                },
+                {
+                    "id": null,
+                    "title": "Salgamos a vender",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/230/633db47914d3d0cd304ae5637d5148c8/master.m3u8?1676396559"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ia3sup.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Funnel Cuál funnel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proceso de compra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/231/041ce86610f149b28fab5f62d4c88907/master.m3u8?1676396555"
+                },
+                {
+                    "id": null,
+                    "title": "Valioso relevante y consistente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/232/3be6394e77cae3172cb55f81c34802a9/master.m3u8?1676396556"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/poe9zt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/r13lqc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1861,
+        "product_name": "Digital Branding: Develop Your Online Visual Identity ",
+        "teacher_name": "Óscar Eduardo Bejarano Cabrera",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 6216,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

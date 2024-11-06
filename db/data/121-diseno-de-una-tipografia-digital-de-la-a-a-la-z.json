@@ -1,0 +1,281 @@
+{
+    "id": "121",
+    "title": "Diseño de una Tipografía digital de la A a la Z",
+    "url": "https://www.domestika.org/es/courses/121-diseno-de-una-tipografia-digital-de-la-a-a-la-z/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Pasen por aquí",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bienvenida y presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/766/758ae01fa51f6d7e50f1d582a7bfae4a/master.m3u8?1676381650"
+                },
+                {
+                    "id": null,
+                    "title": "Librería de lance y recursos salvavidas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/767/7695f3a8d0b655455777eedda122a038/master.m3u8?1676381660"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/888jtf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Antes de tocar el ratón",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Unos sabios consejos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/768/0ab3e61e98c9b4b75bc0573aa82cab7f/master.m3u8?1676381654"
+                },
+                {
+                    "id": null,
+                    "title": "Unos sabios consejos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/769/cdff88a8078e23e4e63d1b0c73e06b67/master.m3u8?1676381654"
+                },
+                {
+                    "id": null,
+                    "title": "Sobre formatos y programas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/770/3ed5f9310de5d456304da39e089838d8/master.m3u8?1676381653"
+                },
+                {
+                    "id": null,
+                    "title": "Resumen del proceso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/771/04b2a8a7fa88bb209742648d68b16f49/master.m3u8?1676381654"
+                },
+                {
+                    "id": null,
+                    "title": "Un poquito de organización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/772/04a0f23ffe87b25b6f421ff88339e28b/master.m3u8?1676381652"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zevfh7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conociendo el programa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hola soy Glyphs",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/773/5877c25e02e952f4f446fb81ba11a001/master.m3u8?1676381658"
+                },
+                {
+                    "id": null,
+                    "title": "La ventana Font Info",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/774/748a7368c71da02976fc9911e29ceb7c/master.m3u8?1676381657"
+                },
+                {
+                    "id": null,
+                    "title": "El juego de caracteres",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/775/04f48c307103e24a16f7af6c9ce9716e/master.m3u8?1676381661"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b3eatp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujar letras",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conceptos básicos y consejos utilísimos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/776/2962e13a79f6dd6a7793c5a96f59b8e5/master.m3u8?1676381654"
+                },
+                {
+                    "id": null,
+                    "title": "Las curvas Bézier",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/777/a374f752e286f23f887beca827c23998/master.m3u8?1676381659"
+                },
+                {
+                    "id": null,
+                    "title": "Illustrator y Glyphs esa extraña pareja",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/778/32bb5143ff46b2f48df2503f791fe8fa/master.m3u8?1676381660"
+                },
+                {
+                    "id": null,
+                    "title": "La métrica vertical",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/779/ec6404b410738120f0a03d50adcad935/master.m3u8?1676381670"
+                },
+                {
+                    "id": null,
+                    "title": "Las herramientas de dibujo de Glyphs 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/780/6fa5a908039edbe2cc1e618af24a0c56/master.m3u8?1676381661"
+                },
+                {
+                    "id": null,
+                    "title": "Las herramientas de dibujo de Glyphs 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/781/807d6df685afc7687b8554e4a910ddba/master.m3u8?1676381661"
+                },
+                {
+                    "id": null,
+                    "title": "Tus amigos los componentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/782/62beea81c86531275ce023313b19bb7e/master.m3u8?1676381666"
+                },
+                {
+                    "id": null,
+                    "title": "Al lío dibujando y probando letras 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/783/4f589e7e2f880f07e59bab3d3ab5749d/master.m3u8?1676381661"
+                },
+                {
+                    "id": null,
+                    "title": "Al lío dibujando y probando letras 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/784/6d5b4d19fb60bd3c02ca46962f71cbc8/master.m3u8?1676381662"
+                },
+                {
+                    "id": null,
+                    "title": "Al lío dibujando y probando letras 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/785/3e502a9695ae632357aba81ad965649f/master.m3u8?1676381663"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i8v1vc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Espaciado y Kerning",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conceptos generales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/786/4db6838bb02a47e6a4769d589fa5924d/master.m3u8?1676381662"
+                },
+                {
+                    "id": null,
+                    "title": "El Espaciado 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/787/6376ffbcfd0bfd0e8f8f552acc74f6ab/master.m3u8?1676381674"
+                },
+                {
+                    "id": null,
+                    "title": "El Espaciado 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/788/903a08d8dff98abadc0a998fc8884f4e/master.m3u8?1676381667"
+                },
+                {
+                    "id": null,
+                    "title": "Horror el kerning",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/789/31d4d8700acdde912b10acddea0bbc4f/master.m3u8?1676381666"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cbmj92.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción Vamos que nos vamos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Completando el set de caracteres Las anclas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/790/6bcde36961047ea2c442475b6d95f5c6/master.m3u8?1676381668"
+                },
+                {
+                    "id": null,
+                    "title": "Completando el set de caracteres Las anclas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/791/d171d5686a0bf3c077b7a921ad328250/master.m3u8?1676381666"
+                },
+                {
+                    "id": null,
+                    "title": "Funciones OpenType 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/792/0572915e5d693cedfdc07a354b323000/master.m3u8?1676381666"
+                },
+                {
+                    "id": null,
+                    "title": "Funciones OpenType 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/793/32c0a22d666e0cbf9104cc291dcfecb9/master.m3u8?1676381667"
+                },
+                {
+                    "id": null,
+                    "title": "Funciones OpenType 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/794/eeaa4c4e95626ed8966b5cb4f4476e64/master.m3u8?1676381666"
+                },
+                {
+                    "id": null,
+                    "title": "Python scripts básicos para crear fuentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/795/ee922c2a888c09445424f1538e51a640/master.m3u8?1676381671"
+                },
+                {
+                    "id": null,
+                    "title": "Hinting para torpes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/796/f1f2a008a2eff0cc7195b25d4e4999b7/master.m3u8?1676381670"
+                },
+                {
+                    "id": null,
+                    "title": "Fundemos una familia feliz Interpolación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/797/0aaa3a9103b08c146724c68b8010452e/master.m3u8?1676381669"
+                },
+                {
+                    "id": null,
+                    "title": "Fundemos una familia feliz Interpolación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/798/e359ad6b544fa78844d462d35dbea432/master.m3u8?1676381669"
+                },
+                {
+                    "id": null,
+                    "title": "Fundemos una familia feliz Interpolación 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/799/297641ccb4fdf541f88c6a190dc2d860/master.m3u8?1676381671"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cm0eta.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/u4apoe.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 121,
+        "product_name": "Design a Digital Font from A to Z",
+        "teacher_name": "Juanjo López",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 34,
+        "course_total_duration_sec": 31048,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

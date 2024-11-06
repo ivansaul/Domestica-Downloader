@@ -1,0 +1,153 @@
+{
+    "id": "4289",
+    "title": "Lettering expresivo de citas inspiradoras con Adobe Fresco",
+    "url": "https://www.domestika.org/es/courses/4289-lettering-expresivo-de-citas-inspiradoras-con-adobe-fresco/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/514/ed4edda2e8d0a3c0ea7f49a8c7d4c2df/master.m3u8?1676410380"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/515/41019e1e7d1e9d0887fa7f7e0ca38c02/master.m3u8?1676410383"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kykqxr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparando la cotización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elegir la frase",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/516/0ea287cfe4088e9d42efc1841101e3b3/master.m3u8?1676410382"
+                },
+                {
+                    "id": null,
+                    "title": "La composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/517/f80f33848b9e98582a6ed030b61034e7/master.m3u8?1676410382"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/518/5114c5e0b0a385c5b6d8d5f187e23708/master.m3u8?1676410384"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos de letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/519/9ffe03cf07e9425a1208f9d3c7221c98/master.m3u8?1676410383"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f23kfp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando las letras",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conceptos básicos de Adobe Fresco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/520/e281e2e28736b320fc968b50bcd28d9e/master.m3u8?1676410385"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetando thumbnails",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/521/113871a6a8e1de9139cf266a0cc88749/master.m3u8?1676410385"
+                },
+                {
+                    "id": null,
+                    "title": "Escalar refinar el boceto y configurar las guías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/522/6696d54925b066c75334a98cf8911c05/master.m3u8?1676410388"
+                },
+                {
+                    "id": null,
+                    "title": "Finalizando el Lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/523/a3a1f0db0390e2a45452b723f8031489/master.m3u8?1676410391"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f40p0h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos retoques",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Adición de detalles de acabado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/524/9ebb356a69c9f5de29b8b7e2796159df/master.m3u8?1676410389"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar y compartir su trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/525/631a619aa6ef8d93a88d54f0db98d702/master.m3u8?1676410387"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rjvas2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/awetdk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4289,
+        "product_name": "Expressive Lettering of Inspirational Quotes in Adobe Fresco",
+        "teacher_name": "Alanna Flowers",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4884,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

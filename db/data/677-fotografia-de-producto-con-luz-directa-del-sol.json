@@ -1,0 +1,163 @@
+{
+    "id": "677",
+    "title": "Fotografía de producto con luz directa del sol",
+    "url": "https://www.domestika.org/es/courses/677-fotografia-de-producto-con-luz-directa-del-sol/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hola",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/781/fc8ca2f22e2f7f87bd95cd684e837b60/master.m3u8?1676386250"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/782/4d952b791d1ed5187b62bf7cfb9cf768/master.m3u8?1676386254"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/783/7e73b982b1bdfa2ede65a4836c1b5e5e/master.m3u8?1676386249"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lv94lj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Metodología de trabajo y preproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción y planteamientos previos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/784/889a272abe668ef949810e022cb28064/master.m3u8?1676386253"
+                },
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/785/b3b1d9fb21379682701c915a86899cfb/master.m3u8?1676386253"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo utilizar las sombras como recurso creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/786/1fa659f3c3c1eea7a61e78581d5bc72a/master.m3u8?1676386254"
+                },
+                {
+                    "id": null,
+                    "title": "Sacarle partido a la escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/787/a64a3fc8f24fb5d0622b79c650aa6965/master.m3u8?1676386258"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo creativo moodboard y tratamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/788/39587783de289dbd734ed3ca3a1118db/master.m3u8?1676386256"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/789/41e596e6f8700e1174e9f38c300e1049/master.m3u8?1676386252"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6ez8p9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Disparo en set",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Disparo de la imágen con punto de vista alto cenital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/790/0f9d96fcf88f02b6d07483f05d8cfca5/master.m3u8?1676386264"
+                },
+                {
+                    "id": null,
+                    "title": "Disparo de la imágen con punto de vista bajo isométrico y frontal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/791/0c887f80b0f105e64370dd34f68e6bff/master.m3u8?1676386257"
+                },
+                {
+                    "id": null,
+                    "title": "Disparo de la imágen con punto de vista bajo isométrico y frontal II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/792/f3f7c4445184cc8562bc99c262e5f8bf/master.m3u8?1676386259"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/job67a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos toques",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Retoque y ajustes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/793/a4ea779f68727f9f217310fef9272176/master.m3u8?1676386259"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/794/d9abca1ee7de5f453ebbde4b9848f383/master.m3u8?1676386258"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l3i7b4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/uope4v.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 677,
+        "product_name": "Product Photography with Direct Sunlight",
+        "teacher_name": "Paloma Rincón",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8726,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

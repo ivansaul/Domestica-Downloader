@@ -1,0 +1,175 @@
+{
+    "id": "580",
+    "title": "Branding para marcas destino",
+    "url": "https://www.domestika.org/es/courses/580-branding-para-marcas-destino/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/895/72b6b9fe4d37b69324a0dde638efc817/master.m3u8?1676385889"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/897/e445daf7d5dff0b7e93af6c1e4828147/master.m3u8?1676385891"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/898/90217b7d07c3123b45e8e0f69e6219e0/master.m3u8?1676385895"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/by2tv2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando una estrategia de marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El brief del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/899/446f8279422b39c9a04b59750306dc65/master.m3u8?1676385891"
+                },
+                {
+                    "id": null,
+                    "title": "Diagnóstico de la región",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/900/66000276d6d079f5c541a97ad9bd3b8a/master.m3u8?1676385892"
+                },
+                {
+                    "id": null,
+                    "title": "Plataforma estratégica de la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/901/bb018a5493c55780cf4d107bec2546ca/master.m3u8?1676385891"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tapopi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigación y análisis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entendiendo la estrategia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/902/89359e465351a5685d03ba18577c4391/master.m3u8?1676385890"
+                },
+                {
+                    "id": null,
+                    "title": "Auditoría visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/903/4bce5974e363f89f038c5b3464448597/master.m3u8?1676385897"
+                },
+                {
+                    "id": null,
+                    "title": "Moodboards de referencias e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/904/3116bad6f240dac8c46dcd10529448d9/master.m3u8?1676385896"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cvlxsd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Identidad de marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/905/852b2cf821f4dd380f8a8ce4da2b0a73/master.m3u8?1676385896"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de diseño Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/906/e8e8d10b27a1c594a661ebffd09bc9b2/master.m3u8?1676385897"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de diseño Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/907/9796144f1bcc1caaed7729091454c189/master.m3u8?1676385895"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b90kd5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación y consejos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/908/1ea8215401d4752fd86b0bb820fd85ee/master.m3u8?1676385897"
+                },
+                {
+                    "id": null,
+                    "title": "Para no olvidar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/909/1c5172f708feff0d6a21a23055a2f116/master.m3u8?1676385892"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rbysmy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/gt1n3n.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 580,
+        "product_name": "Place Branding",
+        "teacher_name": "Studio A",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7124,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "id": "1724",
+    "title": "Lettering vectorizado del boceto a la pantalla",
+    "url": "https://www.domestika.org/es/courses/1724-lettering-vectorizado-del-boceto-a-la-pantalla/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Conozcámonos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/211/e331e9494825b1988225c305970130d1/master.m3u8?1676394830"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/212/1eb1900a238445416ae48eb491d08ee7/master.m3u8?1676394835"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/213/3683edf1efd4360eaf0e0115b7bf4d37/master.m3u8?1676394829"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g8tj5i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El lettering como herramienta de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diferentes estilos de lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/215/8e578664e26387897a7351011cb9d187/master.m3u8?1676394832"
+                },
+                {
+                    "id": null,
+                    "title": "Trazos y variantes del lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/216/18e2c2c5bd93a45b8eec61f54f40b970/master.m3u8?1676394838"
+                },
+                {
+                    "id": null,
+                    "title": "Preparándonos para empezar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/217/e6e249eee8cec3df2b388fda8da6ff5b/master.m3u8?1676394833"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es el lettering y para qué nos sirve",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/429/19366b5536052a45c51598d566c5641b/master.m3u8?1676394949"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rkeeuz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Nodo a nodo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a vectorización de lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/218/9e52f1636adadc48bd80644a77ed6170/master.m3u8?1676394833"
+                },
+                {
+                    "id": null,
+                    "title": "Set up y formas básicas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/219/21ec36e02a8971df6222ae48420255b5/master.m3u8?1676394834"
+                },
+                {
+                    "id": null,
+                    "title": "Set up y formas básicas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/220/ec109ce1a1df44335d96ac6509c4a114/master.m3u8?1676394835"
+                },
+                {
+                    "id": null,
+                    "title": "Extrema y líneas compuestas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/221/38c4f02d9be9eb602d87b52004e38e97/master.m3u8?1676394836"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría a la práctica 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/222/c65a7c58e411e6b025a6249ff840cee7/master.m3u8?1676394835"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría a la práctica 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/223/76fc43654ca29d515b11a5611bd8b131/master.m3u8?1676394838"
+                },
+                {
+                    "id": null,
+                    "title": "Brush scripts más alto contraste",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/224/e45c7b84c1143c7aa71bd5bf37f72a4d/master.m3u8?1676394840"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes ópticos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/225/67098143af806063e6663218373654e2/master.m3u8?1676394851"
+                },
+                {
+                    "id": null,
+                    "title": "Agregando color a nuestro lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/226/4ff224aa8dec4602480163fb6f22eace/master.m3u8?1676394838"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/227/2340169ceb7c04ea02e637f4c5daf71a/master.m3u8?1676394843"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5ea4ls.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Wow factor",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparando el archivo para producción y lanzamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/228/70cb6aeb294bda0584cdfc15a377e044/master.m3u8?1676394841"
+                },
+                {
+                    "id": null,
+                    "title": "Compartiendo el proceso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/229/5c0f990d7161cc21b6c3b17ac755615d/master.m3u8?1676394845"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lzibq2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/b8hpnu.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1724,
+        "product_name": "Vectorized Lettering: From Sketch to Screen",
+        "teacher_name": "Rebeca Anaya",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 12951,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

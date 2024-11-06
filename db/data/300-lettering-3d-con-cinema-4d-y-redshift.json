@@ -1,0 +1,193 @@
+{
+    "id": "300",
+    "title": "Lettering 3D con Cinema 4D y Redshift",
+    "url": "https://www.domestika.org/es/courses/300-lettering-3d-con-cinema-4d-y-redshift/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/324/647d279255c6482f271c771c4cd4cbd6/master.m3u8?1676384892"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/325/a3220c57b1f07256259dd8408b80c449/master.m3u8?1676384894"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2qguve.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Letra líquida",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referencias y bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/326/fa53bbf7bd900edddb0bad590e8596f4/master.m3u8?1676384893"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/327/c8136fbd4e611a7f2522cf1f257f1b99/master.m3u8?1676384897"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/329/796a6f91046ad0409a66da83b246ae85/master.m3u8?1676384897"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación materiales y renders",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/337/e379dc56d84c297bca96196a1d9d903d/master.m3u8?1676384904"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación materiales y renders II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/339/159cba1677ce6dc23b8b2942a06a2019/master.m3u8?1676384907"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación materiales y renders III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/340/73eed812c786ef8180b1ae9fc6574b06/master.m3u8?1676384903"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/338/d9ca3d0c09fd5cedab5413f9505efcc5/master.m3u8?1676384900"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ee2qh1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Letras con tentáculos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referencias y bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/341/74761735c77da81c30916ca41cbe9e34/master.m3u8?1676384901"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado y animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/342/ea4395e8b094f2033ac59686be4ffc7d/master.m3u8?1676384907"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación materiales y renders",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/343/abc00fe2ddc349d13b92d1856685c0c2/master.m3u8?1676384908"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación materiales y renders II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/344/6a51c284b457814dd658c5d1cb6a3aab/master.m3u8?1676384903"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación materiales y renders III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/345/320bfa847c2e36f483867fb00c8b9dbf/master.m3u8?1676384903"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/346/6944a0c2c78ec4c70624f9beae3bf560/master.m3u8?1676384905"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1mwi6w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lettering de humo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referencias y bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/347/4362ba5d462ad2cb849af35cb290da75/master.m3u8?1676384904"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/348/026d51e9c5fc47ecf38ace8aeaffc984/master.m3u8?1676384907"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación materiales y renders",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/349/1241dce65794d3dbf9d40ed4e85f0bfa/master.m3u8?1676384907"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación materiales y renders II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/350/3209ce77f89dee560c22864671e4d6da/master.m3u8?1676384907"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/351/5018fd84bf20489f858c1e34c654b0f2/master.m3u8?1676384907"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g6sj0n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1yac0t.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 300,
+        "product_name": "3D Lettering with Cinema 4D and Redshift",
+        "teacher_name": "Zigor Samaniego",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "advanced",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 13301,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

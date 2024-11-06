@@ -1,0 +1,180 @@
+{
+    "id": "4306",
+    "title": "Escritura y publicación de novelas de ficción desde cero",
+    "url": "https://www.domestika.org/es/courses/4306-escritura-y-publicacion-de-novelas-de-ficcion-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/145/2b9b0877bba89d2f48576aec961ec3fc/master.m3u8?1676411391"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/146/49df45abb1593c8d75eccf107b893132/master.m3u8?1676411391"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a4ia5e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La estructura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Etapas de la narración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/147/7c5c16c7b88e18cc7a50ca986a33d980/master.m3u8?1676411395"
+                },
+                {
+                    "id": null,
+                    "title": "El arco narrativo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/148/f4ec1d1299eb0abdb4575ee017688b6f/master.m3u8?1676411396"
+                },
+                {
+                    "id": null,
+                    "title": "El arco narrativo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/149/5b7a21f63a32c752a1ecd1aa5db5f532/master.m3u8?1676411395"
+                },
+                {
+                    "id": null,
+                    "title": "Componentes de la novela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/150/b8228be971607645aea8c5858d6f65a9/master.m3u8?1676411399"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/udwcy8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo llegar a la página",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Orígenes de una historia 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/151/904f4931ceaf19fce902c213611bd12d/master.m3u8?1676411399"
+                },
+                {
+                    "id": null,
+                    "title": "Orígenes de una historia 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/562/01dec96c64f02a0988f27020e775a379/master.m3u8?1699442182"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo un personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/153/cd456767c1d5b974f915c78b8125d17c/master.m3u8?1676411401"
+                },
+                {
+                    "id": null,
+                    "title": "Puntos de vista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/154/e2833faa2c575b195ffe65ebb04b0c48/master.m3u8?1676411400"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4rchh3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El diablo está en el detalle",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diálogo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/155/5353d339ec9f7c942b0a5334d99a60d0/master.m3u8?1676411400"
+                },
+                {
+                    "id": null,
+                    "title": "El arte de una escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/156/a98429a3c6bfc80fdc48a7ad03a2992d/master.m3u8?1676411400"
+                },
+                {
+                    "id": null,
+                    "title": "Editando tu escritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/157/7a5a5b3db79919ca7bc753f9f5ac9ba7/master.m3u8?1676411405"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x963lq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación del manuscrito para un editor",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Relación con los editores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/159/34f97a099a87822d2a04e5c87d2c392d/master.m3u8?1676411403"
+                },
+                {
+                    "id": null,
+                    "title": "Explorando el mercado para un editor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/160/06c2aaf7398406b05a118c4ab9e2957e/master.m3u8?1676411402"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m5n8ob.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1i9i7v.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4306,
+        "product_name": "Writing and Publishing Your First Fiction Novel",
+        "teacher_name": "João Tordo",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 12880,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

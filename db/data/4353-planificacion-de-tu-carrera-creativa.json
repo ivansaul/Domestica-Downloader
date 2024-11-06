@@ -1,0 +1,163 @@
+{
+    "id": "4353",
+    "title": "Planificación de tu carrera creativa",
+    "url": "https://www.domestika.org/es/courses/4353-planificacion-de-tu-carrera-creativa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/144/225ef933c8a086b4cbd9bf770a486521/master.m3u8?1676896510"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/145/fc94af49e0378f25da267f247ac31cf4/master.m3u8?1676896520"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0bqq8c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Habilidades blandas y redes sociales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Carrera creativa y objetivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/146/ba6ed010b7fd970d3078043bd72dfccf/master.m3u8?1676896539"
+                },
+                {
+                    "id": null,
+                    "title": "Gestión de carrera creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/147/b3bb9e801c9e7f99576f1420d470d519/master.m3u8?1676896555"
+                },
+                {
+                    "id": null,
+                    "title": "Redes empresariales y sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/148/5dc46e0cab2af62ada9ddd6d9d748675/master.m3u8?1676896570"
+                },
+                {
+                    "id": null,
+                    "title": "Habilidades duras habilidades blandas y comunicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/149/d86a8790fedbf83e234bc30e1995eba0/master.m3u8?1676896587"
+                },
+                {
+                    "id": null,
+                    "title": "Reputación y networking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/150/267cf7806676bf46a8d8415c33509059/master.m3u8?1676896604"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategia para portafolios en redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/151/baa168b3ce986089d9d673e62274863e/master.m3u8?1676896617"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nd390m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Portafolio y divulgación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referencias y proyecto personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/152/fd4e0c663a3633210ee34174dc4a9b89/master.m3u8?1676896638"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura de una pieza de portafolio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/154/fa79edfdd10b1bae229b0f031b1c1463/master.m3u8?1676896655"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo finalizar una pieza de cartera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/156/c1e5e4410dcdf6655bb1a94170fd3880/master.m3u8?1676896673"
+                },
+                {
+                    "id": null,
+                    "title": "Plan de acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/157/5d9508b2d504346ebcb826b855ffac97/master.m3u8?1676896688"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i5gxby.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pon todo en practica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Prospección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/158/b6012736fa4b37c8328f49714c49a8b1/master.m3u8?1676896706"
+                },
+                {
+                    "id": null,
+                    "title": "Mantenimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/159/4cdb240f18dd95477bae0f7165cc8701/master.m3u8?1676896723"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4ktw7n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zj6h9a.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4353,
+        "product_name": "Plan your creative career",
+        "teacher_name": "Bianca Nazari",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 5657,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

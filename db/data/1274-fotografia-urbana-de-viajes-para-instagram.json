@@ -1,0 +1,163 @@
+{
+    "id": "1274",
+    "title": "Fotografía urbana de viajes para Instagram",
+    "url": "https://www.domestika.org/es/courses/1274-fotografia-urbana-de-viajes-para-instagram/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/184/7af9494e88c3802aecd7a5903935b551/master.m3u8?1676407675"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/193/edc17b4b3475d5fe8619c720199e75cb/master.m3u8?1676407680"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o3ba2c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación para la fotografía de viajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/194/b4010f7c1bf376afde680e0fff914464/master.m3u8?1676407678"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación de ubicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/196/0ed9690634f3fe2459beb2fa1730be6f/master.m3u8?1676407680"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos de fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/197/c2ec91da8dfa29c40bb726c749936c9b/master.m3u8?1676407681"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo fotográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/198/6b1c8e79e1e87b4a3366e6db8a4c4178/master.m3u8?1676407679"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4mh5ez.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Capturando momentos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La ubicación y la primera imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/201/d255aa4cde99947507e45de4be000137/master.m3u8?1676407679"
+                },
+                {
+                    "id": null,
+                    "title": "Capturar personas y emociones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/202/cea2da33eb1b1b435381400c66489945/master.m3u8?1676407680"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografiar de noche",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/203/97ebdc58fe295d7632d67f00e4eb3485/master.m3u8?1676407681"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8j9hzv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Seleccionar y editar las imágenes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/204/4661806fa9b4a7084945c606b722095b/master.m3u8?1676407685"
+                },
+                {
+                    "id": null,
+                    "title": "Edición 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/205/1fe418a25a243335bc4bd7997edfaaf0/master.m3u8?1676407686"
+                },
+                {
+                    "id": null,
+                    "title": "Edición 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/206/f67020c8618fc92b291c4e2e7ae84cb2/master.m3u8?1676407685"
+                },
+                {
+                    "id": null,
+                    "title": "Compartir en Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/207/bb8b40582f116e66d5fe23e7f1f8737a/master.m3u8?1676407683"
+                },
+                {
+                    "id": null,
+                    "title": "Comprometerse con la audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/208/26318617793233fe10969b66ae0954e5/master.m3u8?1676407683"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gflakp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/0ne2oa.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1274,
+        "product_name": "Urban Travel Photography for Instagram",
+        "teacher_name": "Elaine Li",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 5495,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "id": "252",
+    "title": "Lettering ornamental",
+    "url": "https://www.domestika.org/es/courses/252-lettering-ornamental/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/700/ae66a458b34d8c46e54d14d27be7f5d4/master.m3u8?1676383356"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/699/b72f1b62078294a6be1e112d833873e4/master.m3u8?1676383359"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/im428t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inspiración y moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/701/915f73d4e4ccf25bf6fec2ecc31e7dbb/master.m3u8?1676383360"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/702/e7e8bc4c9aea3c2ea07bec743c17c0a1/master.m3u8?1676383358"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/le5l67.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El boceto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeros trazos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/733/514c88fec041afa70c7555c12ebc947c/master.m3u8?1676383373"
+                },
+                {
+                    "id": null,
+                    "title": "Estilo de letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/734/c3dc5df42f02780e2031149674e3d237/master.m3u8?1676383377"
+                },
+                {
+                    "id": null,
+                    "title": "Letra capital y ornamentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/735/52d45956a0c08f8e505bde97b0b65c2a/master.m3u8?1676383380"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto fino",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/736/bf8f550e7782e6842a0fc6c03ca66fc0/master.m3u8?1676383384"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q9vdpp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El vector",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Líneas guía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/737/29429a54a7a7c822617dc7d52b1716ae/master.m3u8?1676383378"
+                },
+                {
+                    "id": null,
+                    "title": "Líneas base Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/738/a9195ecd2909ae3f143b897ed777aee9/master.m3u8?1676383388"
+                },
+                {
+                    "id": null,
+                    "title": "Líneas base Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/739/353f222f32f50ae94c0b5f05c76a07e3/master.m3u8?1676383386"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas básicas blend tool",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/822/620c1551d79fe08d6de8dc6e19e9f080/master.m3u8?1676383433"
+                },
+                {
+                    "id": null,
+                    "title": "Color luces y sombras Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/741/34cdb8b2001dfe7df7fa4016de98987c/master.m3u8?1676383382"
+                },
+                {
+                    "id": null,
+                    "title": "Color luces y sombras Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/742/1b2f809d9abc2a622c51cb830e97b0ab/master.m3u8?1676383383"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/743/9f2f22449d70dee8e7b36f26edad8715/master.m3u8?1676383385"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d4vsi9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7elfvn.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 252,
+        "product_name": "Ornamental Lettering",
+        "teacher_name": "Havi Cruz",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8186,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

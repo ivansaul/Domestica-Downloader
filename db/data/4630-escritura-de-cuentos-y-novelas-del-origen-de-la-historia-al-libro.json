@@ -1,0 +1,153 @@
+{
+    "id": "4630",
+    "title": "Escritura de cuentos y novelas del origen de la historia al libro",
+    "url": "https://www.domestika.org/es/courses/4630-escritura-de-cuentos-y-novelas-del-origen-de-la-historia-al-libro/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/484/0a981f57ba2926b1796e2e02bf7c8a57/master.m3u8?1676412174"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/485/f464143a5ca49d3b005134e51faad4d4/master.m3u8?1676412172"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fztp2c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Queremos tanto contar historias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué contamos historias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/486/dcc59982de93428b7cbbb3962dfd77cd/master.m3u8?1676412176"
+                },
+                {
+                    "id": null,
+                    "title": "La forma de las historias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/487/7712632c3dbf25d6568ab6a46d02ece9/master.m3u8?1676412173"
+                },
+                {
+                    "id": null,
+                    "title": "La semilla de la narración y el mapa del invernadero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/488/334f841a5325a921bfa52e100e0f1b8f/master.m3u8?1676412176"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j1ms75.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Historia historia estás allí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/489/3125c1a5d4879f5534e4ea9b7a21e396/master.m3u8?1676412175"
+                },
+                {
+                    "id": null,
+                    "title": "Narrador trayecto y creación de un mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/490/7541f4a883a7cb674b881e9f9e891f9a/master.m3u8?1676412175"
+                },
+                {
+                    "id": null,
+                    "title": "Acción y estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/491/6ff394649f46992f46fe149e1a8158cd/master.m3u8?1676412178"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hkzzys.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La prueba final para la historia y quien la escribe",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El test del relato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/492/548ef943e8caad46335c390ccc2741e2/master.m3u8?1676412178"
+                },
+                {
+                    "id": null,
+                    "title": "Si tu resultado es cuento es momento de escribirlo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/493/63294123d5be14ed576528de9a56bda3/master.m3u8?1676412179"
+                },
+                {
+                    "id": null,
+                    "title": "Si tu resultado es novela qué esperas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/494/5a2a71eaa6f4a1bcac8e652b24588f85/master.m3u8?1676412178"
+                },
+                {
+                    "id": null,
+                    "title": "La rutina del escritor escribir corregir publicar y escribir de nuevo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/495/937bd28c487ec07189dcfb3ad291a17a/master.m3u8?1676412178"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gp1ass.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/yziqgn.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4630,
+        "product_name": "Writing Short Stories and Novels from Scratch",
+        "teacher_name": "Abril Posas",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4969,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

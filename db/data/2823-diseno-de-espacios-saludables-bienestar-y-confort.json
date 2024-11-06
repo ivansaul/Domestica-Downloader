@@ -1,0 +1,158 @@
+{
+    "id": "2823",
+    "title": "Diseño de espacios saludables bienestar y confort",
+    "url": "https://www.domestika.org/es/courses/2823-diseno-de-espacios-saludables-bienestar-y-confort/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/981/a2cead572585b0a4d9c14da7ffd788e7/master.m3u8?1676397472"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/982/8b0fdfb1a28fd4739e0fd4b0b4fa9eb7/master.m3u8?1676397472"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pveni1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estrategias proyectuales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Arquitectura y salud",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/983/ef8d1e7067047ae8f5d29572d641ec52/master.m3u8?1676397474"
+                },
+                {
+                    "id": null,
+                    "title": "Le Corbusier y Alvar Aalto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/984/05e1e3a2ce37607124b7eb36a2123874/master.m3u8?1676397475"
+                },
+                {
+                    "id": null,
+                    "title": "Neuroarquitectura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/985/c662dd1ac977b789c8920042b4a18f6c/master.m3u8?1676397475"
+                },
+                {
+                    "id": null,
+                    "title": "Disolución de límites entre vivienda y oficina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/986/5665809e8f19f07afc1a3cc47dd93c9d/master.m3u8?1676397477"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7iovq2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo abordar un proyecto casos prácticos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeras ideas y planteamiento del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/987/ae7ab9ff5190dff9b3efa60771993898/master.m3u8?1676397483"
+                },
+                {
+                    "id": null,
+                    "title": "Materialidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/988/af1c0312002bf31b68c3ffb9f7e24aeb/master.m3u8?1676397477"
+                },
+                {
+                    "id": null,
+                    "title": "Mobiliario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/989/fe7de08ddcae26e25816e07e28457fe6/master.m3u8?1676397483"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación y ahorro energético",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/990/7aad400597084d00f22c5f64eb3a4f18/master.m3u8?1676397479"
+                },
+                {
+                    "id": null,
+                    "title": "Valoración económica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/991/9ab601a27fb0fb1adebed202931fa557/master.m3u8?1676397480"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4ajsd3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Espacios proyectados y espacios habitados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Volver",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/992/ebd4fe81b98ff5686839a1f4bef8688c/master.m3u8?1676397479"
+                },
+                {
+                    "id": null,
+                    "title": "Rehabitar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/993/b1fd1e904ede7652bdf329bb1f5422c2/master.m3u8?1676397480"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8j2n7m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/tq870e.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2823,
+        "product_name": "Design of Healthy Spaces: Wellness and Comfort",
+        "teacher_name": "Ana García López",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6125,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

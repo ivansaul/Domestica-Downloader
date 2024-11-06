@@ -1,0 +1,235 @@
+{
+    "id": "718",
+    "title": "Fotografía de belleza",
+    "url": "https://www.domestika.org/es/courses/718-fotografia-de-belleza/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/467/f3bb3b308757137bb9f45d25bd86df70/master.m3u8?1676386856"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/468/cdd9a02b268c1ed948ad8519cca8e4ca/master.m3u8?1676386857"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/469/f368eb4fc25d23ebecd54bdd94d76c17/master.m3u8?1676386857"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ox8bbt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación y equipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/470/a459afd41fe24a150964f1ba78c07331/master.m3u8?1676386861"
+                },
+                {
+                    "id": null,
+                    "title": "Briefing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/471/074c881f4942ff17bee053a44bdacffd/master.m3u8?1676386860"
+                },
+                {
+                    "id": null,
+                    "title": "Hardware y software",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/472/7fe82e39dbb7f17c11ad7d5f032b10d7/master.m3u8?1676386859"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ihw8fr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Técnicas de Iluminación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Seteo de cámara y tethering workflow",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/485/a4397a1fc6d552182bbd08cbc8b7b3bb/master.m3u8?1676386867"
+                },
+                {
+                    "id": null,
+                    "title": "Luces de relleno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/487/4cfa74ee197ff80d23beae0eba8c91f8/master.m3u8?1676386864"
+                },
+                {
+                    "id": null,
+                    "title": "Luz de efecto y luz de fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/488/074bf6e3e4713eafacc9636ab90d4fb7/master.m3u8?1676386864"
+                },
+                {
+                    "id": null,
+                    "title": "Dura vs Suave",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/622/a1efb3a66e439213d1b69184d2f6961f/master.m3u8?1676386970"
+                },
+                {
+                    "id": null,
+                    "title": "Luz principal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/623/c4c71b48f8b077e93735b65364b57286/master.m3u8?1676386973"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q5b8w2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El shooting",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/489/ed7e0c628337a0001f1a867e965658fd/master.m3u8?1676386864"
+                },
+                {
+                    "id": null,
+                    "title": "Luz artificial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/490/fccafd268f14a19879fd761f26a65f54/master.m3u8?1676386864"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sk704b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Revelado fino y retoque",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Culling selección de imágenes I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/492/b7381ab44c05da00b9f860b68a951117/master.m3u8?1676386869"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado y preparación del RAW I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/494/4250458ead2ea856d25c22f71ebb2116/master.m3u8?1676386869"
+                },
+                {
+                    "id": null,
+                    "title": "Culling selección de imágenes II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/495/718b8058f4febea918b63c3f0e2dcff2/master.m3u8?1676386867"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado y preparación del RAW II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/496/bca3bb51aa8927efe08cbda3bb670e36/master.m3u8?1676386870"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado y preparación del RAW III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/497/d831724dd8099d8bc3ef710d8e44c49e/master.m3u8?1676386867"
+                },
+                {
+                    "id": null,
+                    "title": "Planear el retoque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/498/3464479bf8cf3fddda2a9e5d331a75b8/master.m3u8?1676386870"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque en Photoshop I  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/499/8caf6596f16bbd57772f0a6e28b41ffc/master.m3u8?1676386869"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque en Photoshop I  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/500/20fc29dfdff8d6a1f8d5e13dcb9663f7/master.m3u8?1676386869"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque en Photoshop II  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/501/48ac0de7e1dcba505ade6ba0688a4c6f/master.m3u8?1676386871"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque en Photoshop II  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/502/a7079e05662e23085d97bea11b2763e8/master.m3u8?1676386872"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque en Photoshop II  Parte III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/503/093c3eeb7e3e9b11125913745119dba0/master.m3u8?1676386872"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación para diferentes medios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/504/a7a54eb088b0af552bd127a9ac0ba2cf/master.m3u8?1676386871"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas para la postproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/508/eefe1e42543964297a2a1fda13b5c203/master.m3u8?1676386871"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cwujvc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zglki4.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 718,
+        "product_name": "Beauty Photography",
+        "teacher_name": "Nicolás Cuenca",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 26,
+        "course_total_duration_sec": 17428,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

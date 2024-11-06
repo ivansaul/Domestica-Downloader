@@ -1,0 +1,228 @@
+{
+    "id": "5275",
+    "title": "Patronaje con Adobe Illustrator",
+    "url": "https://www.domestika.org/es/courses/5275-patronaje-con-adobe-illustrator/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/501/72e0c08089d9f58a4fb253dc6c34c302/master.m3u8?1707403946"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/502/895d23aaa2b3fa5c5224dc46102d6dbe/master.m3u8?1707404024"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/969188.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aprender a usar el programa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear un documento y puesta a punto del programa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/503/e81875d21a20705ebf21e508efd5051d/master.m3u8?1707404142"
+                },
+                {
+                    "id": null,
+                    "title": "Capas y mesas de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/504/d79e95c887703b7c9e29ff0e6e861af1/master.m3u8?1707404189"
+                },
+                {
+                    "id": null,
+                    "title": "Trazar segmentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/505/91f469a0eb4afe14dd37669d315c50b1/master.m3u8?1686763660"
+                },
+                {
+                    "id": null,
+                    "title": "Para qué sirve Adobe Illustrator",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/524/9204626d67ddabb353e68d65db057bd3/master.m3u8?1707404096"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ka4sni.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Formas de hacer un patrón",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Digitalizar un patrón de papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/506/391cedd1a93716a323fb3b7344376b01/master.m3u8?1707404353"
+                },
+                {
+                    "id": null,
+                    "title": "Toma de medidas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/507/f34cbfda1fbffa4fb567367387384c77/master.m3u8?1686763709"
+                },
+                {
+                    "id": null,
+                    "title": "Entender el patrón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/508/a3351fbea7640f1c28dde11cd607a4ce/master.m3u8?1707404451"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c4rtgg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear el patrón desde cero",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Reglas para trazar patrones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/509/aa93089481cf80ce7944703831c44adb/master.m3u8?1707404502"
+                },
+                {
+                    "id": null,
+                    "title": "Rectángulo y traslado de medidas la construcción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/510/f687ddbea4e75a8962c6159bcb5fcaff/master.m3u8?1686763780"
+                },
+                {
+                    "id": null,
+                    "title": "Pinzas crear y trasladar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/511/02d734ff056d0781bf1e37940c364c26/master.m3u8?1707404602"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles bolsillo botones dobladillo vistas y aplomos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/512/3071892b0d6c4c468aeb3549514f1989/master.m3u8?1707404740"
+                },
+                {
+                    "id": null,
+                    "title": "Despiece escalado y margen de costura 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/513/6ea24bf541d82c8bd325d3d98548f350/master.m3u8?1707404787"
+                },
+                {
+                    "id": null,
+                    "title": "Despiece escalado y margen de costura 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/514/7b0469c61978d3dff76b2ee83ae0d36e/master.m3u8?1707404829"
+                },
+                {
+                    "id": null,
+                    "title": "Crear la solapa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/522/5f61212c7b18c1211bde1f76524737c9/master.m3u8?1686766012"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nwc7jk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparar el patrón para su impresión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La información de cada pieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/515/3cd1cc3c967442d6d5e56962a6ac0da9/master.m3u8?1707404882"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de la tela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/516/3511488fcc5f8c773b53a756b406bc09/master.m3u8?1707404937"
+                },
+                {
+                    "id": null,
+                    "title": "Preparar el patrón para imprimirlo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/517/250eb8dca920a837c0ab7a82709ae199/master.m3u8?1707404976"
+                },
+                {
+                    "id": null,
+                    "title": "Importar el patrón a InDesign e impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/518/4e8d6f80090aec3b7bc003424edb66dc/master.m3u8?1686765342"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p1yefb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Usar el patrón impreso",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Unir el patrón de papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/519/898b00e5abcf7700998d945c4d83b6d1/master.m3u8?1686765371"
+                },
+                {
+                    "id": null,
+                    "title": "Traspasar el patrón a la tela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/520/f73d11af46e363e37c8b525319dd194a/master.m3u8?1686765387"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mrtd7z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/lway9s.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5275,
+        "product_name": "Patterning with Adobe Illustrator",
+        "teacher_name": "Flor Tregnaghi",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 22,
+        "course_total_duration_sec": 11949,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

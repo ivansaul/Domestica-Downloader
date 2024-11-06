@@ -1,0 +1,179 @@
+{
+    "id": "4871",
+    "title": "Introducción al render con marcador para arquitectura y diseño de interiores",
+    "url": "https://www.domestika.org/es/courses/4871-introduccion-al-render-con-marcador-para-arquitectura-y-diseno-de-interiores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/355/60f2c158cbdc59506adf56b244e24f70/master.m3u8?1727797388"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/356/d0af70020d672829680e7fb9251a6f98/master.m3u8?1721040279"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zc48q2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pinitos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/357/5da47d5e9a1f760a50c4929ba9e21e1a/master.m3u8?1691173014"
+                },
+                {
+                    "id": null,
+                    "title": "Tablas de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/358/b833a78db3737cec0ed68001c9ee4c45/master.m3u8?1691173035"
+                },
+                {
+                    "id": null,
+                    "title": "Paletas de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/359/b1166d33256c60af0dd507b0d179fbd4/master.m3u8?1691173054"
+                },
+                {
+                    "id": null,
+                    "title": "Calentamiento Rellenos suaves",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/360/7f50b7cb6b49fdc3ebbd76b606d0038d/master.m3u8?1727797692"
+                },
+                {
+                    "id": null,
+                    "title": "Mezcla de colores y sombras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/361/61c30ba4d5b5d33ad691139629fa46f1/master.m3u8?1727797762"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gumt7d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando texturas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mármol",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/362/b6373ee106c0e5280d00dfa1e37e3954/master.m3u8?1727797830"
+                },
+                {
+                    "id": null,
+                    "title": "Madera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/363/14815837a0de649c79c446a005426fea/master.m3u8?1727797879"
+                },
+                {
+                    "id": null,
+                    "title": "Teja",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/364/55bcf1330073f60002d5a84c2bd47fdd/master.m3u8?1727797973"
+                },
+                {
+                    "id": null,
+                    "title": "Ladrillos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/365/55ff9288f1c4db1f9cc57fc289c99d79/master.m3u8?1727798052"
+                },
+                {
+                    "id": null,
+                    "title": "Concreto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/366/e9e0b1e2a01bf24aac041b5d20dac286/master.m3u8?1691173292"
+                },
+                {
+                    "id": null,
+                    "title": "Vaso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/367/b4661e4d6025ceabe22b160bd9f94a8a/master.m3u8?1727798129"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/auw8fi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Representación del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Representación de un plano 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/075/111/f9d9c74224380defcc740e389fc72375/master.m3u8?1727277226"
+                },
+                {
+                    "id": null,
+                    "title": "Plano de renderizado 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/369/83ed9147bd9bd42d24f59c722d2f2675/master.m3u8?1691173366"
+                },
+                {
+                    "id": null,
+                    "title": "Representación de una fachada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/370/1d2e451311f7f9915c7f382be28dc532/master.m3u8?1727798267"
+                },
+                {
+                    "id": null,
+                    "title": "Añadiendo árboles y figuras humanas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/371/14d48ea01b34ec36bfc56cdb80ef5ad5/master.m3u8?1691173474"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nuspl1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/64gtxr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4871,
+        "product_name": "Introduction to marker rendering for architecture and interiors",
+        "teacher_name": "Baian Shahin",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 8605,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}

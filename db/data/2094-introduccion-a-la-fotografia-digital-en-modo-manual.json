@@ -1,0 +1,163 @@
+{
+    "id": "2094",
+    "title": "Introducción a la fotografía digital en modo manual",
+    "url": "https://www.domestika.org/es/courses/2094-introduccion-a-la-fotografia-digital-en-modo-manual/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/590/dbf69732ddaacea8e82a707e5971a1ac/master.m3u8?1676395622"
+                },
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/604/60f82651d1c7cc861a3aa386a8afc65f/master.m3u8?1676395634"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ul4aks.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La cámara",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/591/297a9a083b69b1f7670a9d396c5bd40d/master.m3u8?1676395620"
+                },
+                {
+                    "id": null,
+                    "title": "Lentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/592/db9d1e18b837158212ebdbd4bd146c8c/master.m3u8?1676395621"
+                },
+                {
+                    "id": null,
+                    "title": "Enfocar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/593/fcc0712fd52983aceb3d276b750cb26b/master.m3u8?1676395621"
+                },
+                {
+                    "id": null,
+                    "title": "Modos de disparo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/594/830409b44277e4528f42f6cb68fbc204/master.m3u8?1676395621"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/twvpgu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de exposición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El triángulo de exposición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/595/0f2471a9606e0ef79d22d6ab8737df46/master.m3u8?1676395625"
+                },
+                {
+                    "id": null,
+                    "title": "Apertura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/596/6de375d1f665862e45403c142e0438a3/master.m3u8?1676395626"
+                },
+                {
+                    "id": null,
+                    "title": "Velocidad de obturación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/597/5129288f2da636dbf09929355a58fa39/master.m3u8?1676395631"
+                },
+                {
+                    "id": null,
+                    "title": "Modos de medición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/599/69a8282a7052c7eb8c9142c978638f2b/master.m3u8?1676395626"
+                },
+                {
+                    "id": null,
+                    "title": "Balance de blancos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/605/58e124356f822eb93e5c3000dee4ff46/master.m3u8?1676395626"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3bjqmd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué puede hacer la exposición manual por ti",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mirando la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/600/f39c595a56340158b25487ce1790a752/master.m3u8?1676395624"
+                },
+                {
+                    "id": null,
+                    "title": "Los elementos tiene una buena imagen el estudio de una composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/601/bab21f5712a79d982ab49bb684fe354b/master.m3u8?1676395625"
+                },
+                {
+                    "id": null,
+                    "title": "Conocimiento en acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/602/9d81e7c3baf4e799779748ec7058dd07/master.m3u8?1676395629"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qkhzm5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qbd8pm.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2094,
+        "product_name": "Introduction to Digital Photography in Manual Mode",
+        "teacher_name": "Debbie Castro",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6329,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

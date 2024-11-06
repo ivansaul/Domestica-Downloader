@@ -1,0 +1,168 @@
+{
+    "id": "4193",
+    "title": "Diseñar con números de la extracción a la visualización de datos",
+    "url": "https://www.domestika.org/es/courses/4193-disenar-con-numeros-de-la-extraccion-a-la-visualizacion-de-datos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/345/702bdf3f5e327a9f9a88876b1415f5e1/master.m3u8?1676410271"
+                },
+                {
+                    "id": null,
+                    "title": "mis influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/346/0fed55c5728dcb536198016f96b00c28/master.m3u8?1676410271"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uhsxk3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el scraping de datos web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/347/8ad86d0d7f24577a03943651f6998d98/master.m3u8?1676410273"
+                },
+                {
+                    "id": null,
+                    "title": "Eliminación de datos iniciales de la web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/348/d25f0c3859d16e28805a9021039368c4/master.m3u8?1676410275"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es la visualización de datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/349/1a3fc644f8ac84327350a3236b35d7e5/master.m3u8?1676410278"
+                },
+                {
+                    "id": null,
+                    "title": "Procesamiento y P5 para crear imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/350/36bd2f10857d804f3113049b3cd0d724/master.m3u8?1676410278"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ocaw16.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elige una página web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/351/bcd8eee2a64fed3e535bf2ea7b802672/master.m3u8?1676410275"
+                },
+                {
+                    "id": null,
+                    "title": "Extraer datos de Wikipedia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/352/27c4735a6b44b00d340fbc84e8757ddd/master.m3u8?1676410277"
+                },
+                {
+                    "id": null,
+                    "title": "Analizar y limpiar los datos obtenidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/353/0500a2e64bef359ef8d0a8de94e94597/master.m3u8?1676410277"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir la vista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/354/814302b670f8fb82df1293ea84513fc9/master.m3u8?1676410276"
+                },
+                {
+                    "id": null,
+                    "title": "Visualice datos con P5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/355/d0225a5856fc01b2df470b82d9594296/master.m3u8?1676410280"
+                },
+                {
+                    "id": null,
+                    "title": "Refinar la vista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/356/d3ee58a8233d47b51bce0b635467fd00/master.m3u8?1676410280"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ne72uj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Próximos pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Comparte la vista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/357/dea1550db53f768675fac6cff079142f/master.m3u8?1676410280"
+                },
+                {
+                    "id": null,
+                    "title": "Otras herramientas de visualización de datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/358/0539529298b6788c431b43c79e20ae8e/master.m3u8?1676410280"
+                },
+                {
+                    "id": null,
+                    "title": "Propietarios de derechos de autor y datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/359/63727ff5b7cd830b1b98cdc2490dff5f/master.m3u8?1676410281"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jyc1y1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/uhfbt4.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4193,
+        "product_name": "Designing with Numbers: from Data Scraping to DataViz",
+        "teacher_name": "Luiz Ludwig",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 6874,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

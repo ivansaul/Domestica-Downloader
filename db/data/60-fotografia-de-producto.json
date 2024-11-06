@@ -1,0 +1,168 @@
+{
+    "id": "60",
+    "title": "Fotografía de Producto",
+    "url": "https://www.domestika.org/es/courses/60-fotografia-de-producto/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/873/1771682e45716c7e1a5394fac62c6b2b/master.m3u8?1676381324"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/874/2786c078b9a3a575ed4d9acfac15f7b1/master.m3u8?1676381325"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n1wlvu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Concretando la idea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Organizar una idea Concept board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/875/1b8f3bda0b5f34b6bd74edbba0a08430/master.m3u8?1676381326"
+                },
+                {
+                    "id": null,
+                    "title": "Esbozos y documento de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/876/5ead469a6b99f866125f249428f4a3a4/master.m3u8?1676381326"
+                },
+                {
+                    "id": null,
+                    "title": "Preproducción del shooting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/877/9b88f3f82af7024c8a9900fc87069cf0/master.m3u8?1676381323"
+                },
+                {
+                    "id": null,
+                    "title": "Cámara y accesorios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/878/66cb1cfd5b7ca60d83be70fe4bd3836a/master.m3u8?1676381331"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0xttqu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación flash vs luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/879/5242945ea4a7ae7f5c22d60d3e727271/master.m3u8?1676381330"
+                },
+                {
+                    "id": null,
+                    "title": "Foto cenital I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/880/d08a2e66a5e895cb8cd97b015e2dd672/master.m3u8?1676381339"
+                },
+                {
+                    "id": null,
+                    "title": "Foto cenital II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/881/63d9c002a8168c9651c0e69ca06da51c/master.m3u8?1676381329"
+                },
+                {
+                    "id": null,
+                    "title": "Foto de producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/882/9824b22fc3e6ff85ebee05878cc4dfbb/master.m3u8?1676381329"
+                },
+                {
+                    "id": null,
+                    "title": "Foto detalle",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/883/0f13750972de81bc0beeafed04be3559/master.m3u8?1676381328"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fc6dov.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revelado I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/884/7ba0bf04e0ce26fb2ac93c7be324c42d/master.m3u8?1676381332"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/885/0a3f08a6485294fdf902af0e226bb52f/master.m3u8?1676381328"
+                },
+                {
+                    "id": null,
+                    "title": "Edición I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/886/4abb8d68b6e498057bb2a67ee8e3c921/master.m3u8?1676381336"
+                },
+                {
+                    "id": null,
+                    "title": "Edición II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/887/3130e03598ac606379b3ffa3ade5b9af/master.m3u8?1676381331"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lnpk8z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4icfwc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 60,
+        "product_name": "Product Photography",
+        "teacher_name": "Martí Sans",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8668,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

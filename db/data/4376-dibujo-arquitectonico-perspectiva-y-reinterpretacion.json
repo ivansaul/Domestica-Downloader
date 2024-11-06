@@ -1,0 +1,163 @@
+{
+    "id": "4376",
+    "title": "Dibujo arquitectónico perspectiva y reinterpretación",
+    "url": "https://www.domestika.org/es/courses/4376-dibujo-arquitectonico-perspectiva-y-reinterpretacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/575/f7458148674002fecfe34894d78bf852/master.m3u8?1676411031"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/576/9f1288ed853a19da953c3d63b64c4ac3/master.m3u8?1676411033"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g2100z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comprender y aplicar la perspectiva",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la perspectiva y por qué es importante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/577/396e1338a7fdea6c45e7b1696da1ecb8/master.m3u8?1676411034"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/578/e0db7963b5f5eac5febe0c35817aa746/master.m3u8?1676411032"
+                },
+                {
+                    "id": null,
+                    "title": "Los elementos principales de la perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/579/7e1151dfd7ede2fcf4a33bbead0111c3/master.m3u8?1676411034"
+                },
+                {
+                    "id": null,
+                    "title": "Estudiar un solo punto de fuga",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/580/8c0a59ca9f350f88cda4d5379bc17a11/master.m3u8?1676411034"
+                },
+                {
+                    "id": null,
+                    "title": "Estudia dos puntos de fuga",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/581/aaf46dd5e0128965b93f16ad623f19c6/master.m3u8?1676411035"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de la escala para dibujar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/582/711fa0929ad3275c321e1d81e652c4ea/master.m3u8?1676411035"
+                },
+                {
+                    "id": null,
+                    "title": "Encuentra inspiración en objetos cotidianos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/583/41ec856a166a1313f9c9a9ee5dfc42e3/master.m3u8?1676411037"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xc68nq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Practicar la profundidad de la imagen",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeros pasos representar el objeto en papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/584/349cd1197a0ef0d8438dc88a6abb974a/master.m3u8?1676411038"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar la forma del objeto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/585/7b88a9662832b2edb121992345ccf728/master.m3u8?1676411046"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de escala humana y contorno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/586/e967344454724b043ca35cee05acc12e/master.m3u8?1676411040"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pvcqs9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mejorar y detallar tu arte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo trabajar la luz y el color en el dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/587/5ac5173f60485ad1b9ca9dc412e0d35f/master.m3u8?1676411041"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar sombra al dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/588/103c31dac0d7583cc5f6181f64ed2842/master.m3u8?1676411040"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v21a6p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/a0czem.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4376,
+        "product_name": "Architectural Illustration: Perspective and Reinterpretation",
+        "teacher_name": "Felipe de Castro",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4667,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

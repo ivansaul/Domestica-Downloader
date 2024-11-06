@@ -1,0 +1,175 @@
+{
+    "id": "3494",
+    "title": "Iniciación a la fotografía analógica con luz natural",
+    "url": "https://www.domestika.org/es/courses/3494-iniciacion-a-la-fotografia-analogica-con-luz-natural/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/488/12bc61df45b65bea2cb48d0be29e7bdf/master.m3u8?1676406365"
+                },
+                {
+                    "id": null,
+                    "title": "Mis fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/489/d975e84a06832977aaa7e1d1c9e1bacb/master.m3u8?1676406358"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jwgcut.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La fotografía analógica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El triángulo de exposición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/490/b26bf3bb21d31e62885777e52e6b13e1/master.m3u8?1676406361"
+                },
+                {
+                    "id": null,
+                    "title": "Cámaras analógicas y formatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/491/f3c73b3dd29932b29ebfd75856d633aa/master.m3u8?1676406369"
+                },
+                {
+                    "id": null,
+                    "title": "Focales y lentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/492/127700293ade658281ecc02d29116886/master.m3u8?1676406359"
+                },
+                {
+                    "id": null,
+                    "title": "Los rollos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/493/e2776946b0c936cbee8b2bc7ffb5c2ad/master.m3u8?1676406364"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o5q0dv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis de la composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/494/7796e7ef3881417d2e1cc3745c175019/master.m3u8?1676406364"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/495/dfbee8593bb78682817c9b6f12a1e94d/master.m3u8?1676406363"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar el lugar correcto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/496/1d1734ad1a95ab3e592fd3c61ec053ec/master.m3u8?1676406364"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/793as7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotografiar un lugar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La sesión de fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/497/4de5367f434968467b4f9787361fe4ef/master.m3u8?1676406364"
+                },
+                {
+                    "id": null,
+                    "title": "Digitalización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/498/34b4c8bab883dfbe63b0f07bdbbac28a/master.m3u8?1676406375"
+                },
+                {
+                    "id": null,
+                    "title": "Elección de las imágenes finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/499/7565c24797f17a5d0d936a8242e287ad/master.m3u8?1676406366"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vc1w48.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mostrar las fotografías",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Imprimir y compartir la serie",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/500/47ea2cf2ac4d620dd78ababd36eec141/master.m3u8?1676406367"
+                },
+                {
+                    "id": null,
+                    "title": "Concursos y convocatorias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/501/71c7f8e379ecd2e93eb5e1b0fab658b8/master.m3u8?1676406368"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wp6dpr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/tfe6kk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3494,
+        "product_name": "Introduction to Analog Photography with Natural Light",
+        "teacher_name": "Fabien Dendiével",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4616,
+        "total_units": 5,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "3270",
+    "title": "Fotografía editorial la perspectiva del director de arte",
+    "url": "https://www.domestika.org/es/courses/3270-fotografia-editorial-la-perspectiva-del-director-de-arte/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/325/cb605a60507f6a21c63147e59af1e8e7/master.m3u8?1676402480"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/326/9ece99031052132e60eea3a61a79c8c7/master.m3u8?1676402488"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8eqyne.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Consejos para desarrollar su estilo único",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/327/83dea4637e810254e1df8cb8b1de7ee5/master.m3u8?1676402479"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo una plataforma conceptual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/328/71cbba666653e57b9c9666af9abfab16/master.m3u8?1676402480"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de su tripulación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/329/2245976c9129fb71fe8220641d798d03/master.m3u8?1676402480"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/330/9ff9083fe629fde1bc3c5bddf3a6de2d/master.m3u8?1676402480"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/17gyqg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La sesión de fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparando el set",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/331/46bc5bf32ae7612e422e8069afaaef5b/master.m3u8?1676402483"
+                },
+                {
+                    "id": null,
+                    "title": "Fotos con accesorios de mano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/372/3570410e9d755ac9260c0a6184fd2bad/master.m3u8?1676402504"
+                },
+                {
+                    "id": null,
+                    "title": "Exploración de accesorios de plástico  vinilo de PVC",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/449/35f998851b7ece50773c4963348e0c84/master.m3u8?1676402553"
+                },
+                {
+                    "id": null,
+                    "title": "Usar la cortina de ducha",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/741/74df83cff3de91b1b15c10ab9ef7e59d/master.m3u8?1676403181"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n2kln2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Seleccionar y editar sus imágenes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/376/4b1bb507ac524f276b34946dd97a9715/master.m3u8?1676402513"
+                },
+                {
+                    "id": null,
+                    "title": "Seleccionar y editar sus imágenes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/377/96e8bb0d4068f034c2e87f057f4ae2be/master.m3u8?1676402507"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo su cartera y encontrando clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/378/cfa1036c2af48f164019abb6e8cf84c9/master.m3u8?1676402512"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1fid39.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vlglxh.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3270,
+        "product_name": "Editorial Photography from the Art Director’s Perspective",
+        "teacher_name": "Lauren Naylor Orso",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4945,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

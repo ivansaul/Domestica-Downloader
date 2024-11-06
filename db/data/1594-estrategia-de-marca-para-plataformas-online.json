@@ -1,0 +1,163 @@
+{
+    "id": "1594",
+    "title": "Estrategia de marca para plataformas online",
+    "url": "https://www.domestika.org/es/courses/1594-estrategia-de-marca-para-plataformas-online/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/787/490363a1ed2a84a0ae4787b4382b89f7/master.m3u8?1676390696"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/789/c2eb7f97789a043175b0a0ad5c4be0b8/master.m3u8?1676390693"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/791/b4ae5c25a35b3682cdf63c42f9591bae/master.m3u8?1676390695"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s866sg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a la marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/792/5fc6def6d91b66fa418adfaa7ef22dc8/master.m3u8?1676390696"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/793/93f83fb1a362963e29554b85bf5a5688/master.m3u8?1676390697"
+                },
+                {
+                    "id": null,
+                    "title": "Diferencias visuales entre comunicación online y offline",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/794/04115ea224f358435350c1d59768faf5/master.m3u8?1676390700"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de valores fundamentales para tu marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/795/b2df061e4669920ebb8cf6fa93d9dd3d/master.m3u8?1676390699"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n7t7ib.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Interpretar y aplicar tu marca online",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Interpretar tu marca online",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/796/0fb4c73d1f7028b6d2889343d58b9a08/master.m3u8?1676390700"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/797/ddb2eaf165858968cc33124f8498524e/master.m3u8?1676390698"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un wireframe",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/798/ba78a854b20083dfd31eddf0ed040200/master.m3u8?1676390699"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicar un mood board a un esquema de página",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/799/d7b6c4597d257423093dced2234c262c/master.m3u8?1676390699"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de una guía de estilo online",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/800/e3f3dd5a26d65931909f9edcc1b59e8a/master.m3u8?1676390704"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c3upv5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Escritura para contenido online",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Consejos de escritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/802/1d41123382265ec4454f7813ff5016ee/master.m3u8?1676390698"
+                },
+                {
+                    "id": null,
+                    "title": "Tono y voz de la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/803/649d345dcdefef73987ecf2e87cab1af/master.m3u8?1676390701"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qdue0c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/et1s9k.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1594,
+        "product_name": "Brand Strategy for Online Platforms",
+        "teacher_name": "James Eccleston",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7885,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

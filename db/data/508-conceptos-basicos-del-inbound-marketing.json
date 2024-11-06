@@ -1,0 +1,180 @@
+{
+    "id": "508",
+    "title": "Conceptos básicos del Inbound Marketing",
+    "url": "https://www.domestika.org/es/courses/508-conceptos-basicos-del-inbound-marketing/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/119/9fc320616f478a6e82a0bd1b007dff2b/master.m3u8?1676385589"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/120/4a7d0bd9fcbe28835b87000cdaf28475/master.m3u8?1676385591"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6zvvo1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fundamentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/916/f0637d71cb536b7a1ff1b22cbfe8ff0a/master.m3u8?1676385504"
+                },
+                {
+                    "id": null,
+                    "title": "Buyer Personas y Buyers Journey",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/917/c7c03350aa039fb4557b3f98554e6d58/master.m3u8?1676385505"
+                },
+                {
+                    "id": null,
+                    "title": "El Funnel y la metodología",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/918/e9575a0f8da8e573cbcc6b99a02b8177/master.m3u8?1676385503"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas necesarias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/919/2d5dd3f49e06a279b53ba1d2835a5c7a/master.m3u8?1676385506"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g7bof8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Inbound en la práctica buyer personas y ciclo de compra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fases del ciclo de compra contenido según la fase",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/922/219cd677c055a77f760c6a00a7eb2672/master.m3u8?1676385506"
+                },
+                {
+                    "id": null,
+                    "title": "A quién me dirijo desarrollando nuestras buyer personas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/121/e02e20eedf216c2c01bcf8e599c24ac7/master.m3u8?1676385593"
+                },
+                {
+                    "id": null,
+                    "title": "Entendiendo el mercado y entendiendo la propuesta de valor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/122/64d1ed9b7a7c53ac5e42a7e151134541/master.m3u8?1676385596"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u6ishq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Inbound en la práctica etapas del funnel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Atraer generación de contenidos en un mercado saturado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/989/c10bd850ade24b90a228eda2a26901c3/master.m3u8?1676385539"
+                },
+                {
+                    "id": null,
+                    "title": "Atraer Generación de contenidos en un mercado saturado II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/123/5c0818fdbbc88928ca6c84439f901842/master.m3u8?1676385592"
+                },
+                {
+                    "id": null,
+                    "title": "Conectar Captar el interés de nuestra audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/124/f9b1b2d68e797101b2ff44d5fbe798cb/master.m3u8?1676385596"
+                },
+                {
+                    "id": null,
+                    "title": "Impresionar conseguir experiencias increíbles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/928/178562dc3da276420848f04083b133e3/master.m3u8?1676385506"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eqmx9y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Claves y cierre",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Claves",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/929/1792c70bf7ecc164fa388c5f1d22cad6/master.m3u8?1676385508"
+                },
+                {
+                    "id": null,
+                    "title": "Próximos pasos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/930/e2b1e999efdbdf7ac8eb140a30edb5c0/master.m3u8?1676385505"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1s7rhx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/g1ivi8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 508,
+        "product_name": "Inbound Marketing Basic Concepts",
+        "teacher_name": "Lucas García",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 10038,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

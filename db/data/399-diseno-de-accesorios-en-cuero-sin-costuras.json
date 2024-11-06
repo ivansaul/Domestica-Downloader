@@ -1,0 +1,153 @@
+{
+    "id": "399",
+    "title": "Diseño de accesorios en cuero sin costuras",
+    "url": "https://www.domestika.org/es/courses/399-diseno-de-accesorios-en-cuero-sin-costuras/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/829/5085b0e34d35447e0e526b08883edac4/master.m3u8?1676385097"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/830/ca9c52aa9827e3c30db1c3d8f2008434/master.m3u8?1676385098"
+                },
+                {
+                    "id": null,
+                    "title": "Marroquinería tradicional vs este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/831/15372374727257e49d9eedf9e7e3a347/master.m3u8?1676385100"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5fgkag.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El cuero",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de cuero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/833/98fcb0d5e8f211129d0d830e0c72f2f2/master.m3u8?1676385106"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo el material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/834/c4a436e341bda367878ed524325adc7e/master.m3u8?1676385101"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/12b8o3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando en cuero",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Trabajar con cuero Herramientas tradicionales contemporáneas  y aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/835/6de7f86f8ef8a16d8b4bfb44b6073ae3/master.m3u8?1676385103"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de unión alternativas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/836/710e8182a32f61345d8a24faaf3e6878/master.m3u8?1676385101"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñar a partir del material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/837/4b0972b276e4ca28cbfbb077cccbf5b4/master.m3u8?1676385101"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6ivjhv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hagámoslo Realidad Técnicas simples para trabajar con cuero",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pensar en 2D Elaboración planificada de patrones y  plantillas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/838/eda32638cf6f784c910acd7f2d4e17f6/master.m3u8?1676385103"
+                },
+                {
+                    "id": null,
+                    "title": "Elabora tu Plantilla de forma digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/839/5dc907c53e335bc2330a740197f6a867/master.m3u8?1676385101"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de Corte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/840/b8ed19edd01d4f79ec58692d8df10aa7/master.m3u8?1676385103"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes y armado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/841/1772b9d4b78d246b099a8cb254571c22/master.m3u8?1676385103"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/78q7l0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8xlu9n.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 399,
+        "product_name": "Design of Seam-Free Leather Accessories",
+        "teacher_name": "Adolfo Navarro",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7999,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

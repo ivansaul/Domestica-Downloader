@@ -1,0 +1,148 @@
+{
+    "id": "2649",
+    "title": "Branding personal desarrolla tu carrera freelance",
+    "url": "https://www.domestika.org/es/courses/2649-branding-personal-desarrolla-tu-carrera-freelance/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/434/696353adb695869f212ba3f85d4e5a9c/master.m3u8?1676398744"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/435/e5dc300e364b49966d5c188be9d819bf/master.m3u8?1676398743"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/273znu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Convertirse en Top of Mind",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es lo más importante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/436/3f75f903b596aa98a1f46e7763b92bca/master.m3u8?1676398744"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar el por qué y definir su estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/437/8681958d5ef01f5577b03f740481cf5e/master.m3u8?1676398744"
+                },
+                {
+                    "id": null,
+                    "title": "Fiel a ti",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/438/2ce4553332c4d268630cb01385064b9e/master.m3u8?1676398744"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b01u4i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejecutando Top of Mind",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando con tu estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/439/a1e42da52a207f3e85d4c0d0e58e8ea2/master.m3u8?1676398747"
+                },
+                {
+                    "id": null,
+                    "title": "MockUps Jumpstart Innovación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/440/c400183586cd5636e237adbbd1bbb835/master.m3u8?1676398746"
+                },
+                {
+                    "id": null,
+                    "title": "Comparte tu personaje a través de Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/441/d75727be5832723d8b32a7b681479163/master.m3u8?1676398749"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de su plataforma de presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/442/aa15f6712e621d4534eef8dd1b732daa/master.m3u8?1676398747"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x6r63d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mantenerse en la cima de la mente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conéctese con su público objetivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/443/fc039464919f0777018a238f63adfe47/master.m3u8?1676398746"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo su equipo de porristas de networking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/444/f221052c97bb2d6b13ed4602e6629ff9/master.m3u8?1676398748"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mfjrq7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/irnc8x.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2649,
+        "product_name": "Authentic Personal Branding: Develop Your Freelance Career",
+        "teacher_name": "Alli Koch",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 4381,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

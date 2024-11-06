@@ -1,0 +1,148 @@
+{
+    "id": "2071",
+    "title": "Creación de presets edita con Lightroom desde tu smartphone",
+    "url": "https://www.domestika.org/es/courses/2071-creacion-de-presets-edita-con-lightroom-desde-tu-smartphone/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/323/e7ac4cceb33f5c25bec7035840641e15/master.m3u8?1676399760"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/324/48f189543297be3938e4aa2a0a6609cf/master.m3u8?1676399760"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fwxyfp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El universo de los preajustes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un preajuste",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/325/21ac32cfb766830b21c0c3771832549a/master.m3u8?1676399761"
+                },
+                {
+                    "id": null,
+                    "title": "Lightroom para crear ajustes preestablecidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/326/efe7f8b9efe8c434b01a19fc14b79d0d/master.m3u8?1676399766"
+                },
+                {
+                    "id": null,
+                    "title": "Aspecto y sensación de su preset 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/327/3669f027c1fc1feae0808f3deede606d/master.m3u8?1676399762"
+                },
+                {
+                    "id": null,
+                    "title": "Apariencia y sensación de su preset 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/328/d2ae55534b733b4685ccd71ee636ede6/master.m3u8?1676399763"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sz2nuj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo crear un ajuste preestablecido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tablero de estado de ánimo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/329/cefadefb1f01abce7aaba3a5fc4925d5/master.m3u8?1676399766"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un preajuste",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/330/d07f3472e8e98e4430a3f1ea4e1a6610/master.m3u8?1676399766"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de nuestros ajustes preestablecidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/331/baee61be6906ba14af77b4fe70fdf853/master.m3u8?1676399767"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7zjcby.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presets e Instagram",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Paleta de colores para Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/332/ae70db938e818875c036a43a5de66777/master.m3u8?1676399767"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/333/9b409f0cb2a9920cd85adb300033d643/master.m3u8?1676399764"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rai0tc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/h3ejkr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2071,
+        "product_name": "Preset Design: Editing Photos with Lightroom for Mobile",
+        "teacher_name": "Marioly Vázquez",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 7255,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}
