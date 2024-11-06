@@ -1,0 +1,163 @@
+{
+    "id": "1480",
+    "title": "Diseño de packagings con personalidad para pequeñas marcas",
+    "url": "https://www.domestika.org/es/courses/1480-diseno-de-packagings-con-personalidad-para-pequenas-marcas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/392/e40fb54a35612ced6e3b0326d8b3964d/master.m3u8?1676394410"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/393/77981076fe9f858306d5e83ceef62950/master.m3u8?1676394410"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/394/c85d98176f6ebb4063b6875dd6c2a561/master.m3u8?1676394410"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2gul10.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al packing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el packaging y qué tipos existen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/395/8b40691275b9e946426d46740f86966c/master.m3u8?1676394413"
+                },
+                {
+                    "id": null,
+                    "title": "Misiones claves del packaging",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/396/e74c6be3210ef1dc60d0a38cfde501db/master.m3u8?1676394413"
+                },
+                {
+                    "id": null,
+                    "title": "Soportes y sistemas de impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/397/324d4906c272f4a73e32061ba0e3f7d6/master.m3u8?1676394413"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4xrnnd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conocer a nuestro cliente y las necesidades del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El Brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/398/cb6e06eb88706afb351ff8c2a45431bc/master.m3u8?1676394414"
+                },
+                {
+                    "id": null,
+                    "title": "El mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/399/3827aba9209016a05efb6f318e3dd7b8/master.m3u8?1676394414"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ffueag.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La cocina del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elección del formato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/400/c3a81525b40e882e4a42bb6077eb9ef0/master.m3u8?1676394415"
+                },
+                {
+                    "id": null,
+                    "title": "El bocetado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/401/7e323b1df30de29abcd977b1a21fcacb/master.m3u8?1676394415"
+                },
+                {
+                    "id": null,
+                    "title": "Selección tipográfica y de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/402/fa807dbdec6220d617152414c74c6fc8/master.m3u8?1676394415"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del universo gráfico y el prototipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/403/78ba607636d6b6cbe52bb8e17f191c33/master.m3u8?1676394416"
+                },
+                {
+                    "id": null,
+                    "title": "Armado de originales para impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/404/0daec082ee5259a92e340e74492e1b3c/master.m3u8?1676394417"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo mostrar nuestro proyecto de forma atractiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/405/3ec78caea2cb3cabe992556c6d1afb95/master.m3u8?1676394416"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/25mx7i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vld952.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1480,
+        "product_name": "Packaging Design with Personality for Small Brands",
+        "teacher_name": "Un Barco",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 5467,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

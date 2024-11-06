@@ -1,0 +1,178 @@
+{
+    "id": "3771",
+    "title": "Diseño de contenidos editoriales Una experiencia de Noticias",
+    "url": "https://www.domestika.org/es/courses/3771-diseno-de-contenidos-editoriales-una-experiencia-de-noticias/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/912/4fecc0094f36dd1e86456b8fdee6c4f1/master.m3u8?1689150832"
+                },
+                {
+                    "id": null,
+                    "title": "Modelos de referencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/913/e4a09e7ec0b5add3821b88e403426b67/master.m3u8?1689150846"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q5ijea.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La forma del contenido editorial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseñando una nueva experiencia de consumo de información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/914/eca2cbf95374ccb3511a5c660496cad1/master.m3u8?1689150866"
+                },
+                {
+                    "id": null,
+                    "title": "De dónde se origina la forma del contenido editorial 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/915/c09585a86c644af22f4b9d6b93873887/master.m3u8?1689150881"
+                },
+                {
+                    "id": null,
+                    "title": "De dónde se origina la forma del contenido editorial 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/916/6f8b445ef1e8409c867d839d5152642e/master.m3u8?1689150938"
+                },
+                {
+                    "id": null,
+                    "title": "La forma del contenido editorial y el tiempo la hora",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/917/322a664f2d3a7cea455b2edda883d434/master.m3u8?1689150961"
+                },
+                {
+                    "id": null,
+                    "title": "La forma del contenido editorial y el momento el día",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/918/2e480700f052117c8df5164af43e48e2/master.m3u8?1689151008"
+                },
+                {
+                    "id": null,
+                    "title": "La forma del contenido editorial y el tiempo la semana",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/919/e28ae4516da870172379471a61bc5166/master.m3u8?1689151043"
+                },
+                {
+                    "id": null,
+                    "title": "La forma del contenido editorial y el momento el mes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/920/39b7f41f451e1015c4fad7a4387f5a84/master.m3u8?1689151066"
+                },
+                {
+                    "id": null,
+                    "title": "La forma del contenido editorial y los sentidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/921/0b33f67c6ec3352958562a109aefbd05/master.m3u8?1689151079"
+                },
+                {
+                    "id": null,
+                    "title": "La forma del contenido editorial y el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/922/2c5374c73f4e202df5820eb0b6bf1936/master.m3u8?1689151094"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2z5xsx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los elementos del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/923/e39ed28c05a94a7aa309b3245e2ca0cb/master.m3u8?1689151118"
+                },
+                {
+                    "id": null,
+                    "title": "La cuadrícula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/924/d92ad2d27927273a627b8bee3067e207/master.m3u8?1689151132"
+                },
+                {
+                    "id": null,
+                    "title": "Combinando lenguajes investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/925/d55d6e940bb302bc4c908aa1b85c0f2c/master.m3u8?1689151152"
+                },
+                {
+                    "id": null,
+                    "title": "Combinando lenguajes storytelling",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/926/53b4ac16fa29073cd2d0b609129f2d6e/master.m3u8?1689151169"
+                },
+                {
+                    "id": null,
+                    "title": "Combinando lenguajes diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/927/9bf55907460378fbc65f240dfc8f2bf1/master.m3u8?1689151188"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x7b6m5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "pensar a largo plazo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Descanse en la impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/928/09ee59a5fc336f3a83efd9b15108e283/master.m3u8?1689151357"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n10hvi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/h9bw98.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3771,
+        "product_name": "Editorial Content Design: A News Experience",
+        "teacher_name": "Francesco Franchi",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 11694,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

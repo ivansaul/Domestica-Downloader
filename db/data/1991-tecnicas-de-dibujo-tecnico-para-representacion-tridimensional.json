@@ -1,0 +1,168 @@
+{
+    "id": "1991",
+    "title": "Técnicas de dibujo técnico para representación tridimensional",
+    "url": "https://www.domestika.org/es/courses/1991-tecnicas-de-dibujo-tecnico-para-representacion-tridimensional/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/886/73001b3480b32326e2eaf614554d2818/master.m3u8?1676397431"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/887/8c13922dc65a74d0cc1e4b1c763627b9/master.m3u8?1676397431"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/py4ktw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elementos básicos del dibujo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Material recomendado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/888/6ea8193a9593708d06e9fedb99251224/master.m3u8?1676397437"
+                },
+                {
+                    "id": null,
+                    "title": "De tu lápiz al papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/889/7035b62946f1e1c47c4850a562d87c24/master.m3u8?1676397437"
+                },
+                {
+                    "id": null,
+                    "title": "Principios de la tridimensionalidad 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/890/c06da481443dc842936cf611d11965cc/master.m3u8?1676397439"
+                },
+                {
+                    "id": null,
+                    "title": "Principios de la tridimensionalidad 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/891/3f375008abd8f2e3c2a9dbe4ef5fc9e7/master.m3u8?1676397444"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jphyaf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo dibujar un producto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lámparas con volúmenes rectos simples 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/892/85ca5c4277112df3f3270b65373d1b38/master.m3u8?1676397439"
+                },
+                {
+                    "id": null,
+                    "title": "Lámparas con volúmenes rectos simples 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/894/6768fe6abf41189a0e3cd91b3ba5a565/master.m3u8?1676397442"
+                },
+                {
+                    "id": null,
+                    "title": "Lámparas con volúmenes curvos simples 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/895/e2426fd2ad0cc826362cefe7f76743db/master.m3u8?1676397440"
+                },
+                {
+                    "id": null,
+                    "title": "Lámparas con volúmenes curvos simples 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/896/e34a927c5b009e8b16fe5b7e47d7be8a/master.m3u8?1676397441"
+                },
+                {
+                    "id": null,
+                    "title": "Lámparas con volúmenes complejos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/897/7ae2cbcc254cd9e0178da49d6d01ba2d/master.m3u8?1676397444"
+                },
+                {
+                    "id": null,
+                    "title": "Lámparas con volúmenes complejos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/898/ae9fd847c9da58b3a5ea5cf098334420/master.m3u8?1676397442"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/byi484.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definición y detalle",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Trazo final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/899/c2ecaf433e954ffe7226940359e2ba4d/master.m3u8?1676397441"
+                },
+                {
+                    "id": null,
+                    "title": "Fondo e información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/900/757fc23de23791c84cee18215d127103/master.m3u8?1676397441"
+                },
+                {
+                    "id": null,
+                    "title": "Luces y color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/901/0ab1d00483ae0ebf00fcfdb37fd4ec05/master.m3u8?1676397448"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vyj6db.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rdekp5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1991,
+        "product_name": "Technical Drawing Techniques for 3D Representation",
+        "teacher_name": "Rodrigo Chávez Heres",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 12643,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

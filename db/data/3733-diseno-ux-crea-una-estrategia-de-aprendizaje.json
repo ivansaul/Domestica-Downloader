@@ -1,0 +1,163 @@
+{
+    "id": "3733",
+    "title": "Diseño UX crea una estrategia de aprendizaje",
+    "url": "https://www.domestika.org/es/courses/3733-diseno-ux-crea-una-estrategia-de-aprendizaje/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/384/b6c7b5c5e16cf2580ed4a0feda26e5ba/master.m3u8?1676408874"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/385/ec972619fa81ec4a6ba9a669444a9906/master.m3u8?1676408877"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ogc2qv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Es UX adecuado para mí",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preguntas iniciales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/388/f104ba9a34f3ab4d2c76af072a95bfdf/master.m3u8?1676408876"
+                },
+                {
+                    "id": null,
+                    "title": "El tiempo disponible",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/390/6a0bbe651f0f4400342efcb71a8221af/master.m3u8?1676408876"
+                },
+                {
+                    "id": null,
+                    "title": "Navegando dudas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/411/060506eab591174c2bc5c8fea6ed8667/master.m3u8?1676408891"
+                },
+                {
+                    "id": null,
+                    "title": "Quien eres",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/412/e9a7feb34b830c418de8a7b60355ff44/master.m3u8?1676408891"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k3si34.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aprendiendo diseño UX",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La teoría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/392/b7b874ab505ecb214f120ff24b68ee6a/master.m3u8?1676408874"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios prácticos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/393/ed6e2c043b7ff349a8cba46a6ce51d32/master.m3u8?1676408882"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios prácticos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/394/4e39df9b07799dcd8b8b9a29cdf11ddf/master.m3u8?1676408877"
+                },
+                {
+                    "id": null,
+                    "title": "Proyectos de experiencia de usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/397/bb59aedb8d9e249c5340f1eb5a192716/master.m3u8?1676408883"
+                },
+                {
+                    "id": null,
+                    "title": "El sistema de apoyo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/413/8e2d37da014220e837abdbaf6d064480/master.m3u8?1676408896"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u47lmi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consejos adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Otras herramientas de aprendizaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/415/c1f361a4b1e37426bf69648841d1e1d4/master.m3u8?1676408902"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo un vocabulario UX",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/416/d014ffbaf28cb7bf9b31dfa25b0f457e/master.m3u8?1676408897"
+                },
+                {
+                    "id": null,
+                    "title": "Habilidades blandas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/459/5ee278b50f7ab0082b2d5654d08cc5bd/master.m3u8?1676408953"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cnambl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qfw9lp.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3733,
+        "product_name": "UX Design: Create a Learning Strategy",
+        "teacher_name": "Ioana Teleanu",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7996,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

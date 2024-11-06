@@ -1,0 +1,270 @@
+{
+    "id": "604",
+    "title": "Dirección de arte para tu canal de YouTube",
+    "url": "https://www.domestika.org/es/courses/604-direccion-de-arte-para-tu-canal-de-youtube/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/766/c4722794ff8ab07b9168458ca10319a0/master.m3u8?1676386246"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/767/ab5f2af4b523b9ba2c36c276a262cbae/master.m3u8?1676386248"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/768/3b7eafbbd0e4b850b3e2bf56a41e51d6/master.m3u8?1676386246"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pe7z1o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptualización y desglose de empaque gráfico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Branding y lenguaje visual de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/877/148a50bb286bb6f16aeaa3c0b8f4254a/master.m3u8?1676386304"
+                },
+                {
+                    "id": null,
+                    "title": "Empaque gráfico y su estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/878/b3aebe02bb85742c83af5b84a00f5c83/master.m3u8?1676386303"
+                },
+                {
+                    "id": null,
+                    "title": "Puntos de contacto de la marca y piezas extras a diseñar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/879/650e7c409f88171056f7062a558475d0/master.m3u8?1676386302"
+                },
+                {
+                    "id": null,
+                    "title": "Manejo de archivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/880/b5eea56676d4eca03f322e67a358a9e3/master.m3u8?1676386304"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda análisis e interpretación de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/881/21e3d166cf4a95458f8f3f1cbdb0be27/master.m3u8?1676386308"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oq2att.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la idea conceptual al diseño tangible",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño de bocetos parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/933/1be25010518e27ab08b3880df2f03d8a/master.m3u8?1676386323"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de bocetos parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/937/044f72ff5e04fe60dfc2a9e7e4828fd2/master.m3u8?1676386327"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de bocetos parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/935/f8b4edd8e2b8325f370c1437cd7ae602/master.m3u8?1676386323"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización de bocetos parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/938/c93eeb4123dea0cff0a05f6b184dc175/master.m3u8?1676386328"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización de bocetos parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/939/1a88dafc05cf84175f45c3d17252ef68/master.m3u8?1676386326"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización de bocetos parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/940/087fb915a4c715002f26753a9cc3ac3e/master.m3u8?1676386327"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de vectores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/941/3ba5339688c2d3d1204db6a4aa4005a3/master.m3u8?1676386328"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de fotografías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/942/10b129d7f2ae182399236efdf51a886f/master.m3u8?1676386325"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hducvc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción con After Effects",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a Adobe After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/943/6e5bd91928f3e8e38de129dcda8ad613/master.m3u8?1676386330"
+                },
+                {
+                    "id": null,
+                    "title": "Propiedades de layers",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/946/8b8ef4ed17e3448db5da04109bf74c4d/master.m3u8?1676386329"
+                },
+                {
+                    "id": null,
+                    "title": "Producción EG 01 Canal de noticias Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/947/9bd9faacabfaca10a04cc90ae372f224/master.m3u8?1676386330"
+                },
+                {
+                    "id": null,
+                    "title": "Producción EG 01 Canal de noticias Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/948/730986d5a613b2272b9ca7410b3c6204/master.m3u8?1676386332"
+                },
+                {
+                    "id": null,
+                    "title": "Producción EG 01 Canal de noticias Parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/949/78cf19128fbd4747d84142e5a2397bf0/master.m3u8?1676386331"
+                },
+                {
+                    "id": null,
+                    "title": "Producción EG 02 Canal de Moda Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/950/5b4251be908734e957435906b04e328f/master.m3u8?1676386333"
+                },
+                {
+                    "id": null,
+                    "title": "Producción EG 02 Canal de Moda Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/951/536d49bb1b61b531af2e9989b7813256/master.m3u8?1676386334"
+                },
+                {
+                    "id": null,
+                    "title": "Producción EG 02 Canal de Moda Parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/952/7bc52dce129e0042a82924a109f949f4/master.m3u8?1676386331"
+                },
+                {
+                    "id": null,
+                    "title": "Producción EG 02 Canal de Moda Parte 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/953/64ff285cfae7ce71548b6784a69cca15/master.m3u8?1676386333"
+                },
+                {
+                    "id": null,
+                    "title": "Producción EG 03 Canal de Gastronomía Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/954/2eeb260ffc55e5b683572b7b2bf78866/master.m3u8?1676386334"
+                },
+                {
+                    "id": null,
+                    "title": "Producción EG 03 Canal de Gastronomía Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/955/f53858864f787998d513ed1031346843/master.m3u8?1676386334"
+                },
+                {
+                    "id": null,
+                    "title": "Producción EG 03 Canal de Gastronomía Parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/956/23418ae042380569af9010532f3eed65/master.m3u8?1676386337"
+                },
+                {
+                    "id": null,
+                    "title": "Producción EG 03 Canal de Gastronomía Parte 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/957/ca0b94fc2eb3bd1afc448318825ad96b/master.m3u8?1676386336"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ydog5m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalización y consejos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Optimización y emplantillado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/958/4a4cda2b993e9616830c8c41539c1997/master.m3u8?1676386334"
+                },
+                {
+                    "id": null,
+                    "title": "Presets de render y formatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/959/9e06c24b757cc0483b5473446de705b7/master.m3u8?1676386334"
+                },
+                {
+                    "id": null,
+                    "title": "Uso de plantillas en Adobe Premiere Pro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/960/ae5998d423992f3fe6e4cf077310e4a1/master.m3u8?1676386333"
+                },
+                {
+                    "id": null,
+                    "title": "Subida del video a YouTube con pantalla final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/961/68dcfaa5fff9770a7dbd47eb4114e6a2/master.m3u8?1676386333"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gldpl3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vnocnr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 604,
+        "product_name": "Art Direction for your YouTube Channel",
+        "teacher_name": "Carlos Dordelly",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 33,
+        "course_total_duration_sec": 19579,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "id": "3996",
+    "title": "Diseño y encuadernación de fotolibros",
+    "url": "https://www.domestika.org/es/courses/3996-diseno-y-encuadernacion-de-fotolibros/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/050/1dc6bb3b2308af4e35eda81f4a46c872/master.m3u8?1676406643"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/051/a27e2fa4634eb14258ecf18bf0985fbb/master.m3u8?1676406645"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5jicnv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El fotolibro desarrollando un concepto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/052/ed458fa9dd315beedfed6be190f4736b/master.m3u8?1676406644"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al fotolibro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/053/63ddef8db815b507abfcd8091ee33009/master.m3u8?1676406648"
+                },
+                {
+                    "id": null,
+                    "title": "De la serie fotográfica al libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/054/aa2f34cc9c472ca0cc33fa007ac197fc/master.m3u8?1676406645"
+                },
+                {
+                    "id": null,
+                    "title": "El concepto en otros fotolibros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/055/3ee825d505ea7765aa8a081aa705cadd/master.m3u8?1676406649"
+                },
+                {
+                    "id": null,
+                    "title": "Evaluar ideas e investigar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/271/795144830d5807b9855175e7d3296b06/master.m3u8?1676409581"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8gqpmd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición y diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Del dummy a la publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/057/d9f235e735a9159dc7ad0d3d01288888/master.m3u8?1676406646"
+                },
+                {
+                    "id": null,
+                    "title": "Elige y organiza imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/058/ebb3806c379c74b1c7a13fbb6a795775/master.m3u8?1676406652"
+                },
+                {
+                    "id": null,
+                    "title": "La imagen y el texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/059/fa2a79762bbb0db779035dd899987ad7/master.m3u8?1676406649"
+                },
+                {
+                    "id": null,
+                    "title": "Las opciones tipográficas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/060/2a8e04db293140b8dfcf200e7c834a5c/master.m3u8?1676406649"
+                },
+                {
+                    "id": null,
+                    "title": "El formato del fotolibro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/061/de1285128a171468705f220f26d56d54/master.m3u8?1676406649"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/062/97b32e11a31079cecf65cd7d5d5be011/master.m3u8?1676406652"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/063/9b8faab63ff2827acbb70ab75d432ae9/master.m3u8?1676406652"
+                },
+                {
+                    "id": null,
+                    "title": "La cubierta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/064/653b7c20fc2c8ebe6f7f988b11277075/master.m3u8?1676406654"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cfbu6n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La parte material",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Papeles y encuadernaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/065/51fa6a6c174b622169daf86544e312e6/master.m3u8?1676406652"
+                },
+                {
+                    "id": null,
+                    "title": "Papeles y encuadernaciones otros fotolibros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/066/ebee766b49f4ccadc47057513e759586/master.m3u8?1676406652"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de las pruebas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/067/bace1106f9b0e70d47fbfa3fc118a4ae/master.m3u8?1676406653"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0scd1y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/khdsev.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3996,
+        "product_name": "Photo Book Design: From Concept to Binding",
+        "teacher_name": "Roberta Donatini",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 10628,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "id": "2821",
+    "title": "Diseño gráfico para principiantes",
+    "url": "https://www.domestika.org/es/courses/2821-diseno-grafico-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/324/e2b146d4c7986cf617375214c654126f/master.m3u8?1676398687"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/948/c31581e40970c89c577a835f53521801/master.m3u8?1676399017"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wgu0yo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo se crea una imagen",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Literalidadsubjetividad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/326/dec9f100e2c7f62e3864e3096da9bfc5/master.m3u8?1676398694"
+                },
+                {
+                    "id": null,
+                    "title": "Bauhaus y las formas geométricas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/327/5732ff882117b2fb206fe7a0925dd129/master.m3u8?1676398693"
+                },
+                {
+                    "id": null,
+                    "title": "Leyes de la percepción Gestalt",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/328/64a3daf414796a0c5b164b87e61ac2c6/master.m3u8?1676398696"
+                },
+                {
+                    "id": null,
+                    "title": "Dando forma al proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/330/64b358a140559f905d46b45603b078ec/master.m3u8?1676398696"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6pn18o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tipografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los tipos de tipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/331/b0ef95802af5433e64cd905db12d49b0/master.m3u8?1676398696"
+                },
+                {
+                    "id": null,
+                    "title": "Los crímenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/332/2b7e1317630014ef9023e414809466c4/master.m3u8?1676398697"
+                },
+                {
+                    "id": null,
+                    "title": "Los trucos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/333/1715292214e2d85a5e3ed06a26a64861/master.m3u8?1676398697"
+                },
+                {
+                    "id": null,
+                    "title": "Proyecto añadiendo textos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/334/a46e162612ed22e14494d17e0f96e659/master.m3u8?1676398698"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qqa3yw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Percepción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/335/aeb1ea54187d3582b32e92754534ed2a/master.m3u8?1676398700"
+                },
+                {
+                    "id": null,
+                    "title": "Mezclas de color y modos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/336/e38f8dd6f0a2bbc2b9325a262518caf0/master.m3u8?1676398699"
+                },
+                {
+                    "id": null,
+                    "title": "Paletas de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/337/0991a627e87bb69f82d0ac1fddc490bc/master.m3u8?1676398700"
+                },
+                {
+                    "id": null,
+                    "title": "Proyecto añadiendo color y consistencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/338/aac42b2bf475c381402a6729a6843aa1/master.m3u8?1676398703"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u95cpe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Composición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Equilibrio y retículas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/339/c3bf04aacfff60460409e5d9dd570dc3/master.m3u8?1676398700"
+                },
+                {
+                    "id": null,
+                    "title": "Esquemas que funcionan",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/340/f73676eb250f72ce6deddc8c52798462/master.m3u8?1676398700"
+                },
+                {
+                    "id": null,
+                    "title": "Proyecto ordenando los elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/341/8070a525100228010b6251de6f427cd4/master.m3u8?1676398706"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uw0i03.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/70ae07.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2821,
+        "product_name": "Graphic Design for Beginners",
+        "teacher_name": "Silvia Ferpal",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 8300,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

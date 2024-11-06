@@ -1,0 +1,158 @@
+{
+    "id": "56",
+    "title": "Diseño y construcción de una revista",
+    "url": "https://www.domestika.org/es/courses/56-diseno-y-construccion-de-una-revista/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/129/bf7869938ea3d4c25876c7d9f4a92096/master.m3u8?1676380973"
+                },
+                {
+                    "id": null,
+                    "title": "Quiénes somos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/137/54d76fa6ab5555dabbcde1593ed7c7c7/master.m3u8?1676380980"
+                },
+                {
+                    "id": null,
+                    "title": "De donde venimos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/130/11c3a387a6c9ae8b3ac77af37dd9ed2b/master.m3u8?1676380973"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i9h51v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proyectos editoriales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proyectos editoriales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/112/8aa3b29981aa2be3ca5e41d8aadd9d84/master.m3u8?1676380983"
+                },
+                {
+                    "id": null,
+                    "title": "La maleta I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/131/922fe2992ce7d487a0e56d866caa8218/master.m3u8?1676380979"
+                },
+                {
+                    "id": null,
+                    "title": "La Maleta II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/132/f1ffd3364b7be57d68cf4d68060508d4/master.m3u8?1676380980"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/62yo51.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Paso a paso El País Semanal",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al proyecto del rediseño de EL PAÍS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/140/66dd1005eaf9337f9c32eb2a6be0e7d5/master.m3u8?1676380979"
+                },
+                {
+                    "id": null,
+                    "title": "El uso de la tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/122/a1ce1490658cc3b8653912d24ffc62af/master.m3u8?1676380973"
+                },
+                {
+                    "id": null,
+                    "title": "La portada el índice y el diseño de las primeras páginas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/107/44e98eae127a0bcbc38d1725dd846911/master.m3u8?1676380967"
+                },
+                {
+                    "id": null,
+                    "title": "Reportaje largo secciones fijas y entrevista larga",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/108/6d9752683c5a1a7452124aa9e31cfdcd/master.m3u8?1676380970"
+                },
+                {
+                    "id": null,
+                    "title": "Entrevista larga 2 Elementos tipográficos sumarios y grandes reportajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/127/c3b51ca8d520e11548e6946dc4fe6afa/master.m3u8?1676380981"
+                },
+                {
+                    "id": null,
+                    "title": "Pequeñas secciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/135/cfaad531cc3f66ef4344bba18152ae59/master.m3u8?1676380982"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vpegwz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Reflexión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Reflexión y Cierre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/138/b587900960cabd557811d9a0d60d40ae/master.m3u8?1676380978"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/udrqpu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/kdfbcq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 56,
+        "product_name": "Design and Construction of a Magazine",
+        "teacher_name": "Oscar Mariné",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 9867,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

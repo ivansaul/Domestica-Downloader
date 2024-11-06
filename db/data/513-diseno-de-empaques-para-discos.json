@@ -1,0 +1,153 @@
+{
+    "id": "513",
+    "title": "Diseño de empaques para discos",
+    "url": "https://www.domestika.org/es/courses/513-diseno-de-empaques-para-discos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Intro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación Come as you are  Nirvana",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/330/3eb4ce057ac3e1da08de99b3426fa68b/master.m3u8?1676385674"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias Teachers  Daft Punk",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/331/426d2b2207804ac7d43274f21eefc14a/master.m3u8?1676385694"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pd6epp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptualización del empaque y el arte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referentes de packaging musical Kinky Reggae  Bob Marley u0026 The Wailers",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/332/46d76419a6e7c1bab1fa91112b09ce81/master.m3u8?1676385676"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo del concepto Rollin Stone  Red Astaire",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/333/0e73fd40dd86e8d5761a3e3d181d352e/master.m3u8?1676385684"
+                },
+                {
+                    "id": null,
+                    "title": "Elaboración de bocetos y presentación para el cliente Les Cactus  The Last Shadow Puppets",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/334/51b9bcb7af493ebc949fb38ea844e18b/master.m3u8?1676385676"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dgv1y0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño del empaque y elaboración de la Ilustración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "De los módulos al empaque Walk on the Wild Side  Lou Reed",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/335/c1ab19b04ac29e37459c02b51383aab3/master.m3u8?1676385678"
+                },
+                {
+                    "id": null,
+                    "title": "Ajusta el empaque Use it Before You Lose it  Bobby Valentín",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/336/1752bc1bc8fe0581b7167e86e6c9fcd4/master.m3u8?1676385675"
+                },
+                {
+                    "id": null,
+                    "title": "Pulir el boceto y empezar a ilustrar Chillin  Modjo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/339/f38662cf08877e5a2118bc7cf95316d4/master.m3u8?1676385677"
+                },
+                {
+                    "id": null,
+                    "title": "Terminar la ilustración Darling  Real Estate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/341/528e0fda070c7103ea46879717d80c7e/master.m3u8?1676385679"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yxsg6u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparar el trabajo para imprenta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Aplicación del arte al empaque Otro Muerde El Polvo  Los Míticos Del Ritmo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/344/e50c06938b33812c72ce8fa423490a11/master.m3u8?1676385683"
+                },
+                {
+                    "id": null,
+                    "title": "Últimos detalles y archivos a imprenta I Bocanada  Gustavo Cerati",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/345/451c4b12d155aea5eb1af17c4f35e440/master.m3u8?1676385686"
+                },
+                {
+                    "id": null,
+                    "title": "Últimos detalles y archivos a imprenta II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/346/5c859c715b0c14c9a4d13bfd6b483256/master.m3u8?1676385683"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g8qm6t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6p32ze.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 513,
+        "product_name": "Design of Packaging for Discs",
+        "teacher_name": "Cactus Taller Gráfico",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 8986,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

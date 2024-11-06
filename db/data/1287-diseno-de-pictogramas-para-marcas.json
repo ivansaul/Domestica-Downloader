@@ -1,0 +1,205 @@
+{
+    "id": "1287",
+    "title": "Diseño de pictogramas para marcas",
+    "url": "https://www.domestika.org/es/courses/1287-diseno-de-pictogramas-para-marcas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/991/468e0fdb3430334eff79f5ea9d1867f6/master.m3u8?1676392150"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/992/141278b12e0e0b8e9e0a079c3d5ab5ed/master.m3u8?1676392150"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/993/459377b9ec86f4f828d16751c28fc690/master.m3u8?1676392150"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mcjt8y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El valor de un mensaje sintético",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Historia de los pictogramas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/994/bbc69a6f99a36bbd69add14550f84445/master.m3u8?1676392154"
+                },
+                {
+                    "id": null,
+                    "title": "Diferencia entre icono símbolo y pictograma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/995/4ca3f33fe85144218134e1ea36c22d9b/master.m3u8?1676392153"
+                },
+                {
+                    "id": null,
+                    "title": "Categorización de los pictogramas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/996/886af186ec3abaef04af592142c0140a/master.m3u8?1676392153"
+                },
+                {
+                    "id": null,
+                    "title": "Principios básicos en el desarrollo de una familia de pictogramas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/997/ddfdb96759196255da823d8dc111d6cd/master.m3u8?1676392154"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jmxc09.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definir mi espacio caracterizar a mi cliente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definiendo la estructura el cliente y el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/998/6bb3a477e56e4311e85902f4bbd0bf55/master.m3u8?1676392160"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso de conceptualización de una familia de pictogramas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/999/a5745ef62bb363cbe6b821fa1b819f8f/master.m3u8?1676392155"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de contenidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/000/276af877dc26189b8ade13374cb19331/master.m3u8?1676392173"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de referentes y desarrollo de mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/001/c88061d082b188035d6c3f66ad725492/master.m3u8?1676392157"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6m0x8l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos en el pictograma",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeros bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/035/28485397d9d1daf242da37b8ecbf4c12/master.m3u8?1676392177"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorización y uso de la retícula 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/002/c832cc33f39fb0cc220223feee97a3b1/master.m3u8?1676392158"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorización y uso de la retícula 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/003/1b413cb949c2c11127f6067a588538ed/master.m3u8?1676392157"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes ópticos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/004/0118bdccc983c2dd81beaf6ac17b567a/master.m3u8?1676392160"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de variantes y estilos según nuestro objetivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/005/3773cd48b4b653530cc1cf3060fea06c/master.m3u8?1676392161"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2vef4t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos retoques",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ejercicios de aplicación y jerarquía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/011/9c4c3738e0e4cd554eb594a7b72fec46/master.m3u8?1676392165"
+                },
+                {
+                    "id": null,
+                    "title": "Uso y aplicación del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/014/ce5f98e5d78ba430c8b0b395c4ba1224/master.m3u8?1676392163"
+                },
+                {
+                    "id": null,
+                    "title": "Uso de materiales y sus aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/018/ccd12916538730172cdd34374ea0c0dc/master.m3u8?1676392184"
+                },
+                {
+                    "id": null,
+                    "title": "Evaluación del desarrollo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/022/b9776d61ccb78faf8f0cbf590ce817bf/master.m3u8?1676392170"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u7cefx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/p17ojz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1287,
+        "product_name": "Pictogram Design for Brands",
+        "teacher_name": "Wayfinding Consultores",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 12485,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "id": "203",
+    "title": "Diseño web responsive con Adobe Muse",
+    "url": "https://www.domestika.org/es/courses/203-diseno-web-responsive-con-adobe-muse/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/666/4ea8d31afb256df94eb7b03a41080b1c/master.m3u8?1676382759"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/667/d203476b5d5ddc5b4b29c1fbc8720896/master.m3u8?1676382759"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/80dgzz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué es y para qué sirve",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es Adobe Muse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/668/517fbcb4ee390c582727c2e2e1de3b0d/master.m3u8?1676382758"
+                },
+                {
+                    "id": null,
+                    "title": "Descripción general del área de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/669/a14ff59c2a93011347f3d7db509ab6f9/master.m3u8?1676382759"
+                },
+                {
+                    "id": null,
+                    "title": "Flujo de trabajo general de Adobe Muse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/670/d1338cffd2c7e8c573431ba339fbd568/master.m3u8?1676382759"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b9zf9v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Principios de diseño de un sitio web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Concepto del sitio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/671/22e311aaf2d8dc86ddfa87c66156ea2e/master.m3u8?1676382760"
+                },
+                {
+                    "id": null,
+                    "title": "Proporciones habituales de un sitio web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/672/f1b8b86f80c968208eeceb4f49e6fe3c/master.m3u8?1676382762"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de sitio web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/673/248642dc2fef409178a2e0953ffbc95f/master.m3u8?1676382761"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del archivo en Adobe Muse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/674/b3cb96341931f02ea15da5fb30a27c16/master.m3u8?1676382762"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de páginas maestras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/675/1ef4a8a90a661713b4e6a162ace42b77/master.m3u8?1676382766"
+                },
+                {
+                    "id": null,
+                    "title": "Puntos de quiebre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/676/9b1e9b9ab5f95d73ea870c233e74c436/master.m3u8?1676382766"
+                },
+                {
+                    "id": null,
+                    "title": "Menú colapsable",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/677/cd92e3a3d9c7faaadb0502372c453469/master.m3u8?1676382764"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x72hqy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construcción de un sitio web en Adobe Muse",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estilos tipográficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/678/e8aa342e7b73e2f589b9c6f5d58e62f2/master.m3u8?1676382766"
+                },
+                {
+                    "id": null,
+                    "title": "Importación de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/679/a03a2d15d99f65a6bc8c569bbdfff8ed/master.m3u8?1676382766"
+                },
+                {
+                    "id": null,
+                    "title": "Armado inicial de un sitio web y vinculación I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/680/3b13cb72e5719b4d0d4f3c77865bfb68/master.m3u8?1676382773"
+                },
+                {
+                    "id": null,
+                    "title": "Armado inicial de un sitio web y vinculación II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/681/b4ae962fec719135a551d4533a7976a5/master.m3u8?1676382769"
+                },
+                {
+                    "id": null,
+                    "title": "Armado inicial de un sitio web y vinculación III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/682/737ecc948f46e9b8f9ddaa6e1bd29abc/master.m3u8?1676382764"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dti284.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Enriquecimiento de un sitio web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Uso de widgets I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/683/7bcbdaa706f2688d24373be004107350/master.m3u8?1676382767"
+                },
+                {
+                    "id": null,
+                    "title": "Uso de widgets II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/684/707fd21431ea4274f3105892c7bb11e8/master.m3u8?1676382777"
+                },
+                {
+                    "id": null,
+                    "title": "Uso de widgets III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/685/8428921307dd72c44fe3a24f07150bfd/master.m3u8?1676382770"
+                },
+                {
+                    "id": null,
+                    "title": "Armando un pase de diapositivas I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/686/c5c888db22f16633f2121e505164e562/master.m3u8?1676382769"
+                },
+                {
+                    "id": null,
+                    "title": "Armando un pase de diapositivas II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/687/422c8ba6e44fd8f14a5e24546457ba14/master.m3u8?1676382769"
+                },
+                {
+                    "id": null,
+                    "title": "Formularios de contacto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/688/44672b587a2911680b29494726edae55/master.m3u8?1676382770"
+                },
+                {
+                    "id": null,
+                    "title": "Insertando objetos HTML",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/689/61a689af7552df65b5f2f040ee74852c/master.m3u8?1676382767"
+                },
+                {
+                    "id": null,
+                    "title": "Biblioteca de Plugins",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/690/2f18d118987dc48541cd5df1e4344ec0/master.m3u8?1676382769"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3xb9sm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Subiendo el sitio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revisión y reparación de activos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/691/f8e02ff60a6881332b17d748a68b6f4a/master.m3u8?1676382769"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de hosting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/692/29a6952b27817888d7db8152af8bcd95/master.m3u8?1676382778"
+                },
+                {
+                    "id": null,
+                    "title": "Formas de subir un sitio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/693/ac950eb3cab1139f58c4bdf8130ca3af/master.m3u8?1676382771"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oalzj3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xma5pw.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 203,
+        "product_name": "Responsive Web Design with Adobe Muse",
+        "teacher_name": "Arturo Servín",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 28,
+        "course_total_duration_sec": 15471,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

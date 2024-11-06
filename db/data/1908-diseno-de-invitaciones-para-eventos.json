@@ -1,0 +1,186 @@
+{
+    "id": "1908",
+    "title": "Diseño de invitaciones para eventos",
+    "url": "https://www.domestika.org/es/courses/1908-diseno-de-invitaciones-para-eventos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/235/8bf0163821a30338e0cbc38cb4551945/master.m3u8?1676393859"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/236/e3d206011387319d4d51f0b7ecc5d601/master.m3u8?1676393861"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/237/be80a13c125cc09a426a341c506f1649/master.m3u8?1676393860"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oawapn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Contexto y estilos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El papel del diseño gráfico en eventos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/238/ba3003a24c8529a36542bf5aafad45b2/master.m3u8?1676393861"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos y tendencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/239/a188e46601bfad1fe341cd21308a0f5d/master.m3u8?1676393862"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de impresión elección de papeles y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/241/215f733bf3fd471eae6bfa33cc33e7ac/master.m3u8?1676393870"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/29pu1r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Concepto e identidad visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Briefing y timeline",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/242/21cb948c6079226fbfc8cea072146045/master.m3u8?1676393863"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación conceptualización y mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/243/431a60537a3c11c496bd735406863b30/master.m3u8?1676393865"
+                },
+                {
+                    "id": null,
+                    "title": "Identidad visual color tono de voz y estilo gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/244/d7dc7858751f38c65b7d6880036e3d77/master.m3u8?1676393864"
+                },
+                {
+                    "id": null,
+                    "title": "Identidad visual tipografía y símbolo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/245/f24142ca12d469a035d64b331ac66b49/master.m3u8?1676393867"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7og2ez.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando las invitaciones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición del formato y creación del elemento principal de la invitación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/246/c0a5c2730da58899d97b5ccef97dc172/master.m3u8?1676393871"
+                },
+                {
+                    "id": null,
+                    "title": "Composición de las piezas y elección de papeles y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/247/eab189164367cc7924059d60d83c6faf/master.m3u8?1676393874"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación de la pieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/248/5443732d511d663af2d3e9ce78911deb/master.m3u8?1676393867"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo preparar los archivos para imprenta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/249/6ad550333e33b6874ffdb3110f3e57c6/master.m3u8?1676393870"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tcw1ty.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación del proyecto al cliente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Índice de una buena presentación digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/250/bc7e98f1cfb6ecc3a451ec849b1897b7/master.m3u8?1676393867"
+                },
+                {
+                    "id": null,
+                    "title": "El resultado la entrega física de las invitaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/251/2014f6ca87bbe73028016e74d80f543f/master.m3u8?1676393866"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2pk7hg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/lszd36.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1908,
+        "product_name": "Invitation Design for Events",
+        "teacher_name": "María Design (The Visual Romance)",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 9569,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

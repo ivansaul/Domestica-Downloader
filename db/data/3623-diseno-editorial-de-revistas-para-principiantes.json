@@ -1,0 +1,185 @@
+{
+    "id": "3623",
+    "title": "Diseño editorial de revistas para principiantes",
+    "url": "https://www.domestika.org/es/courses/3623-diseno-editorial-de-revistas-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/268/33bbedbbf2a6cc855b51b4c9ed20290a/master.m3u8?1676406251"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/269/f1d4538ec0283e33332623513ef3455d/master.m3u8?1676406248"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lvkar4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dentro de las noticias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una revista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/270/1554b836315f033a3b1b8aad87808fe7/master.m3u8?1676406247"
+                },
+                {
+                    "id": null,
+                    "title": "Analicemos las secciones de un periódico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/271/0b6d7460cfeab3f6c99d9123e9304b20/master.m3u8?1676406246"
+                },
+                {
+                    "id": null,
+                    "title": "Comprender interpretar y reportar las noticias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/272/6efce224fe1429b8ced8d19ea1509fd0/master.m3u8?1676406246"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1mqs7h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De las palabras al texto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparar la cuadrícula en papel y en digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/273/3a30294a7811a8174cc091165661181a/master.m3u8?1676406252"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando con el texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/274/29fc3827d746ac6b8a1477386ab604bd/master.m3u8?1676406249"
+                },
+                {
+                    "id": null,
+                    "title": "Insertar textos y dimensiones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/275/8a33a29ff9985be7aa1d1957000a5c55/master.m3u8?1676406251"
+                },
+                {
+                    "id": null,
+                    "title": "Insertar textos y dimensiones 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/283/0bb5580235543145da33fae8b66360fc/master.m3u8?1676406253"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jkegny.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Imágenes qué pasión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Trabajando con imágenes fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/276/5d2c4ab7174b5d547169ddc9c3ad7512/master.m3u8?1676406250"
+                },
+                {
+                    "id": null,
+                    "title": "Comisionar una ilustración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/277/b4426367053ccaf0b0702f7ec4210c34/master.m3u8?1676406251"
+                },
+                {
+                    "id": null,
+                    "title": "El valor de una infografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/278/e5d22ec3073326298d68be085f19e779/master.m3u8?1676406254"
+                },
+                {
+                    "id": null,
+                    "title": "Maquetamos nuestras imágenes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/279/c4c553651fde4e96ccb5c4b83c682330/master.m3u8?1676406256"
+                },
+                {
+                    "id": null,
+                    "title": "Maquetamos nuestras imágenes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/280/14d38be28fe2a814e38f4f54f4b5f35d/master.m3u8?1676406254"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qqiiiz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Atención a los detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Alineación y aprobación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/281/369e027bba27a5e7c8c5bbd563139433/master.m3u8?1676406253"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia del trabajo en equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/282/1a60f53272c23af07c1335652b8f0d2f/master.m3u8?1676406251"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/80kalg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/oldgo9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3623,
+        "product_name": "Editorial Design for Magazines for beginners",
+        "teacher_name": "Stefano Cipolla",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 11729,
+        "total_units": 5,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

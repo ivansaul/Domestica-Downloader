@@ -1,0 +1,168 @@
+{
+    "id": "3199",
+    "title": "Tipografía aplicada a proyectos impresos y digitales",
+    "url": "https://www.domestika.org/es/courses/3199-tipografia-aplicada-a-proyectos-impresos-y-digitales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/602/6b401dc8496756b02051844a956a4581/master.m3u8?1676405419"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/607/00c73c8db0747760905b9f75ec168e38/master.m3u8?1676405423"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x4fxnw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conocer y manipular la tipografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo y dónde encontrar buenas fuentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/609/fb11d81d69a5d17e3fff49da78b4732b/master.m3u8?1676405425"
+                },
+                {
+                    "id": null,
+                    "title": "Clasificación y categorización tipográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/610/fd829d15e68ca228ccca362d90e90f5b/master.m3u8?1676405426"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía de pantalla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/627/dc453f523dd378012d1b7ab11a33bfb6/master.m3u8?1676405431"
+                },
+                {
+                    "id": null,
+                    "title": "Manipulación tipográfica y estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/635/b2d4faaa6d8407912fb924d09258eb1d/master.m3u8?1676405437"
+                },
+                {
+                    "id": null,
+                    "title": "Texto fluido usabilidad y subtítulos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/636/ed80c66842484cfa65f0cd0d06d1bf55/master.m3u8?1676405440"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e6pwed.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear un diseño gráfico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dónde buscar referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/639/0db07746a3ad20f406b273e20455c20f/master.m3u8?1676405439"
+                },
+                {
+                    "id": null,
+                    "title": "Título logo y formato físico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/640/ac8dbff0065ca564162f44cfce17ca78/master.m3u8?1676405439"
+                },
+                {
+                    "id": null,
+                    "title": "Páginas internas y aperturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/641/64edd1a22d0e2b2b25e88304d32e91d6/master.m3u8?1676405443"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos de productividad y eficiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/642/a63cd50d43d88b4504b4c7470f97dbda/master.m3u8?1676405443"
+                },
+                {
+                    "id": null,
+                    "title": "Diseños de portada y encabezado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/643/33dd00da1d6dcaad4b189a41f9bc9395/master.m3u8?1676405445"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yo6rjp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Recomendaciones finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Adaptaciones para digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/644/4cb57bb0d04e0cd2c53975a799c66e6c/master.m3u8?1676405442"
+                },
+                {
+                    "id": null,
+                    "title": "Formatos de salida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/645/60ad82f4754f8383fdbfab810241dbae/master.m3u8?1676405442"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación y portafolio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/646/54671f39dfd5f29e8636a22c4e6f6b37/master.m3u8?1676405441"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xto82h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/m4229c.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3199,
+        "product_name": "Typography for Printed and Digital Projects",
+        "teacher_name": "Leandro Rodrigues",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 10593,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

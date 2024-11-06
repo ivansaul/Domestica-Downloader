@@ -1,0 +1,158 @@
+{
+    "id": "4327",
+    "title": "Creación de supertexturas para creaciones digitales",
+    "url": "https://www.domestika.org/es/courses/4327-creacion-de-supertexturas-para-creaciones-digitales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre nosotros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/622/0dbf1ccd5da98f31c8b03985d1b8a0c9/master.m3u8?1676410447"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/623/4793a35a9f1f96c81c8cf36d8eca32e3/master.m3u8?1676410438"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5vhetr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparándose",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inspiración investigación y Mood Boards",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/624/2ae372b2a8eba80958f2b915fc7a58a5/master.m3u8?1676410439"
+                },
+                {
+                    "id": null,
+                    "title": "Lluvia de ideas y bocetos conceptuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/625/fa1d0f449176834649874586239f3c35/master.m3u8?1676410438"
+                },
+                {
+                    "id": null,
+                    "title": "Configurar la ilustración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/626/b7fdadbbc6e58f9b99fef9542002abae/master.m3u8?1705050407"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3q2x79.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de texturas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Textura de sombreado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/627/c7b605d071340ad40916dba3c4830ff1/master.m3u8?1676410442"
+                },
+                {
+                    "id": null,
+                    "title": "Textura de imagen de semitono",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/628/1eee1da72ecc157c1442bdab83f43586/master.m3u8?1676410444"
+                },
+                {
+                    "id": null,
+                    "title": "Textura moteada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/629/c40e070a24e2d1c5d65e115df44637ff/master.m3u8?1676410442"
+                },
+                {
+                    "id": null,
+                    "title": "Textura de superposición desgastada 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/630/5211ec89a1023953316047661a3763f4/master.m3u8?1676410443"
+                },
+                {
+                    "id": null,
+                    "title": "Textura de superposición desgastada 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/631/9bbe83ffebb97baaa55dd73ab74492fe/master.m3u8?1676410444"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3vnf3l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo hacerlo funcionar en tu ilustración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Vectorizando tus texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/632/4b18d23cec1d5748fe28a73144965455/master.m3u8?1676410449"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicar cada estilo de textura a tus ilustraciones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/633/92fa941aa4989e11128657d6e581f8fd/master.m3u8?1676410446"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicar cada estilo de textura a tus ilustraciones 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/634/6f216c97733ead9b729202c43108f54c/master.m3u8?1676410447"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yug04n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/5edxfe.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4327,
+        "product_name": "How to create cool textures for digital creations",
+        "teacher_name": "Matt McCracken and Ross Proulx",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 9494,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

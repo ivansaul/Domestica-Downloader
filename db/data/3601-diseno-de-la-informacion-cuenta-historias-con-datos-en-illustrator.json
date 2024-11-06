@@ -1,0 +1,195 @@
+{
+    "id": "3601",
+    "title": "Diseño de la información cuenta historias con datos en Illustrator",
+    "url": "https://www.domestika.org/es/courses/3601-diseno-de-la-informacion-cuenta-historias-con-datos-en-illustrator/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/848/b7d29fec0a6c0326032d90851b321e91/master.m3u8?1676406546"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/043/5de8aba682cba3a8a7f8afd9d48ec07c/master.m3u8?1679666643"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5pzl7x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aprendiendo los conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué son los datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/853/97557dfd147f2ad8a6b280c3b45b42c4/master.m3u8?1676406547"
+                },
+                {
+                    "id": null,
+                    "title": "Narración visual con datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/854/064ca9adbf2d0df7dc7843b1c5ced7df/master.m3u8?1676406549"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de datos descripción general del proceso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/855/f4285337a52cf7624e6870f781f7fde8/master.m3u8?1676406549"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4rus95.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trabajar con datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dónde encontrar datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/876/377918376f09bd185798be825cfdc25a/master.m3u8?1676406557"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo sus datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/878/fa142b32d740bd8d5c2e6c90763d8141/master.m3u8?1676406561"
+                },
+                {
+                    "id": null,
+                    "title": "Transformar datos en imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/879/b1c692d51ff7f0bccc14be5409d6e93e/master.m3u8?1676406567"
+                },
+                {
+                    "id": null,
+                    "title": "Del papel a los píxeles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/880/33f981c4b2199cd625fd6fd449a40ee1/master.m3u8?1676406560"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/044/3268cbd28f29353badf75503756f751d/master.m3u8?1679666721"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6jh262.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando con datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El esqueleto de tu visualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/881/de44b35e9798e3afbdebefb2e9bce4f2/master.m3u8?1676406560"
+                },
+                {
+                    "id": null,
+                    "title": "Disposición de todos los componentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/882/5d7dcc26161aee61894a11bb6658af69/master.m3u8?1676406562"
+                },
+                {
+                    "id": null,
+                    "title": "Elaboración de la pantalla visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/883/242ade3e98eb0e3c59e00d7ccd0699f3/master.m3u8?1676406561"
+                },
+                {
+                    "id": null,
+                    "title": "Deletrearlo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/884/3f50168ee4d4241a9fbf797cd1cb7f40/master.m3u8?1676406561"
+                },
+                {
+                    "id": null,
+                    "title": "Para obtener más información Elaboración de los grifos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/942/5ffde87f44fc1caa01290720f52fa25a/master.m3u8?1676406593"
+                },
+                {
+                    "id": null,
+                    "title": "Deletrearlo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/045/9f48b37b21a278cae8068fdef514db57/master.m3u8?1679666769"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iihzq5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Refinando compartiendo colaborando",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Refinar exportar y compartir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/912/8b41a59c6f88f18fd2a0a4959e86080e/master.m3u8?1676406578"
+                },
+                {
+                    "id": null,
+                    "title": "Colaborando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/913/64f3e7d688d688b1f47f7fa526bf6b6d/master.m3u8?1676406576"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/crczgm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/d61y9m.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3601,
+        "product_name": "Information Design: Storytelling with Data in Illustrator",
+        "teacher_name": "Valentina D'Efilippo",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 12833,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

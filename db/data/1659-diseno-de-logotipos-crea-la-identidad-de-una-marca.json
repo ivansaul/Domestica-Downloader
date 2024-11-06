@@ -1,0 +1,153 @@
+{
+    "id": "1659",
+    "title": "Diseño de logotipos crea la identidad de una marca",
+    "url": "https://www.domestika.org/es/courses/1659-diseno-de-logotipos-crea-la-identidad-de-una-marca/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/153/88d6cb6a55315597506c9c3fcce501e5/master.m3u8?1676396503"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/154/3022e0594db8ce1d10d26a5dd326e2e8/master.m3u8?1676396502"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p1auvb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación y consejos que debe conocer antes de comenzar a diseñar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Principios de un buen diseño de logotipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/155/551392c6b8a5e30769f03e00788a2527/master.m3u8?1676396503"
+                },
+                {
+                    "id": null,
+                    "title": "Los conceptos básicos y la anatomía del diseño tipográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/156/dc6ac6015697511845459acd21caab59/master.m3u8?1676396502"
+                },
+                {
+                    "id": null,
+                    "title": "Agregue significado a su logotipo y hágalo relevante para la industria de su cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/157/2fee13506f36416b48b53afbc4431c23/master.m3u8?1676396510"
+                },
+                {
+                    "id": null,
+                    "title": "Saber qué letras personalizar para su logotipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/158/69576b62a41aba2c8f4b08fafff1788d/master.m3u8?1676396507"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/79umdn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proceso de ejecución de un logotipo personalizado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mi resumen creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/164/ee7ff2cece583d2541de61c91b930684/master.m3u8?1676396509"
+                },
+                {
+                    "id": null,
+                    "title": "Inspírate y esboza tus ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/165/b6c02937dbc815a158b986b94081ca13/master.m3u8?1676396511"
+                },
+                {
+                    "id": null,
+                    "title": "Ejecución de los diseños finales de su logotipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/166/007fd27686df2f844d887d0ad3a91125/master.m3u8?1676396514"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c229fq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentar su logotipo a un cliente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo evaluar su trabajo y hacer pequeños ajustes para perfeccionarlo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/178/67bbb4ac974d5307150d75e7e8ffa98c/master.m3u8?1676396528"
+                },
+                {
+                    "id": null,
+                    "title": "Mejores formas de presentar su trabajo de logotipo a los clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/179/c45f8d9a1969f2f26a4a05ebcde63564/master.m3u8?1676396527"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo compartir su trabajo en redes sociales y sitios de portafolios de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/185/3d1b74213f858e630cafc99ff9bc62de/master.m3u8?1676396530"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c6sohb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/14554l.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1659,
+        "product_name": "Logotype Design for Brand Identity",
+        "teacher_name": "Steve Wolf",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6513,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

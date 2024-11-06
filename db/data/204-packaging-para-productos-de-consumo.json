@@ -1,0 +1,148 @@
+{
+    "id": "204",
+    "title": "Packaging para productos de consumo",
+    "url": "https://www.domestika.org/es/courses/204-packaging-para-productos-de-consumo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/323/5273a07c186d4a63e5e57eeb0cf3be47/master.m3u8?1676383138"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración y frescura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/343/25ba31b81b7d87ea162e901fa7d2bc28/master.m3u8?1676383154"
+                },
+                {
+                    "id": null,
+                    "title": "Método Sure",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/325/72208a3035e037a01e95ba8307d245e0/master.m3u8?1676383139"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w7s8zj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Entender al cliente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Brief y reuniones de innovación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/326/c8540d2d2f856abf8f1571ac951ec99d/master.m3u8?1676383143"
+                },
+                {
+                    "id": null,
+                    "title": "Conocer los locales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/327/bf9281be455a713a4fab7b5d92cf3c48/master.m3u8?1676383152"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n5mvvq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Observar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Brand safari I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/344/e13a80b20a4d249c1b97ecde0219ddc0/master.m3u8?1676383155"
+                },
+                {
+                    "id": null,
+                    "title": "Brand safari II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/347/228f166f2e42889a1798c495df7382a3/master.m3u8?1676383158"
+                },
+                {
+                    "id": null,
+                    "title": "Diseños de cero vs rediseños",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/346/d3411289ee0abc2852884d5a306c47cb/master.m3u8?1676383159"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u1huhd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ejes conceptuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/339/07750c96abdb3967764b03817625596c/master.m3u8?1676383150"
+                },
+                {
+                    "id": null,
+                    "title": "Retrabajo de diseño y selección del camino final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/341/9a8724161ef98f897a9cac8723c05d37/master.m3u8?1676383159"
+                },
+                {
+                    "id": null,
+                    "title": "Implementación y producción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/342/d2542cd2020adfa84fa7db172888c293/master.m3u8?1676383165"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3ngyd5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/uvc1zg.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 204,
+        "product_name": "Consumer Goods Packaging Design",
+        "teacher_name": "Diego Giaccone",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 6005,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

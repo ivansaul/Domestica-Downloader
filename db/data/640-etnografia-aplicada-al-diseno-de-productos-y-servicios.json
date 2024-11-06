@@ -1,0 +1,195 @@
+{
+    "id": "640",
+    "title": "Etnografía aplicada al diseño de productos y servicios",
+    "url": "https://www.domestika.org/es/courses/640-etnografia-aplicada-al-diseno-de-productos-y-servicios/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/242/71d0ee8e8b74a706b7e4dfdafb4caf96/master.m3u8?1676386783"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/243/486cc5198ace7f20942aebce843c7ad4/master.m3u8?1676386784"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/244/de316a3e799289c008ff9826fe10782b/master.m3u8?1676386782"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rswvbu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la etnografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/241/a6ed075150940fd93649add9ef1359cf/master.m3u8?1676386782"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación cualitativa vs cuantitativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/245/0309e8740fd38de221951d08ff2f7999/master.m3u8?1676386783"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo segmentar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/246/a3b27e716b4e7f093fcb52b4280b7760/master.m3u8?1676386784"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/upmuyd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas de búsqueda",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Observación y tipos de registro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/247/9f1677c3ec1cf1e05aa2560ee52a973f/master.m3u8?1676386786"
+                },
+                {
+                    "id": null,
+                    "title": "La entrevista en profundidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/249/c620d38a601105734dc201964da462f9/master.m3u8?1676386788"
+                },
+                {
+                    "id": null,
+                    "title": "Minigrupos o triadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/250/097101cc93d078df0fc4844d300621e5/master.m3u8?1676386792"
+                },
+                {
+                    "id": null,
+                    "title": "Safari parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/251/77f7782aeeb656d4e690c5649ee31176/master.m3u8?1676386792"
+                },
+                {
+                    "id": null,
+                    "title": "Safari parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/252/b01011870bf671ea8c08299f5ce0572e/master.m3u8?1676386789"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ip57ph.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas de análisis y síntesis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis de la información levantada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/253/793f10d33739465a978b2fa41df9f81e/master.m3u8?1676386792"
+                },
+                {
+                    "id": null,
+                    "title": "Herramienta de síntesis Escenarios Persona y mapa de atributos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/254/f931fe0adb5e59121f50de0c5b5fd81c/master.m3u8?1676386792"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q5mudq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Realización del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Objetivo setup inicial y contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/255/8d4a0f669b8d876b5a79483d92031a05/master.m3u8?1676386789"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas de búsqueda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/256/ff7e7b3d2c7202053ee2fb70e067bebb/master.m3u8?1676386796"
+                },
+                {
+                    "id": null,
+                    "title": "Hallazgos y Escenarios Persona parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/257/bf5c783e2a2a8db89418d53a2045a5e0/master.m3u8?1676386792"
+                },
+                {
+                    "id": null,
+                    "title": "Hallazgos y Escenarios Persona parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/258/3387b65a39d661c47772b12755cf26ea/master.m3u8?1676386794"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando a partir de los Escenarios Persona",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/259/a2c254a41ac05e64977defbb0c6e8606/master.m3u8?1676386794"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x05ej0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1egaso.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 640,
+        "product_name": "Ethnography for Product and Service Design",
+        "teacher_name": "EstudioRacimo",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 12025,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

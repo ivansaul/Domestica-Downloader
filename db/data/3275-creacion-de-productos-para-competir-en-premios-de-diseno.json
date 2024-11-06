@@ -1,0 +1,163 @@
+{
+    "id": "3275",
+    "title": "Creación de productos para competir en premios de diseño",
+    "url": "https://www.domestika.org/es/courses/3275-creacion-de-productos-para-competir-en-premios-de-diseno/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/639/30706eb84c86bdce70722abf36aff476/master.m3u8?1676403134"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/640/ca2c35c583015704f6949752073c0b9d/master.m3u8?1676403133"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l3gn61.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El diseño industrial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de productos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/642/4f6dc390378faf336c4927217a83f3c4/master.m3u8?1676403133"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es el diseño industrial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/872/7442182fbae53c0e96473bb7258d1d66/master.m3u8?1676403233"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pqi4ew.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Briefing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/648/46d9698731068f355cba8fbcae5d6994/master.m3u8?1676403138"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/650/1fe4dbd686d34e76d5efb92972a45a09/master.m3u8?1676403137"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/651/69d991e2af82d81411ac65675562f830/master.m3u8?1676403154"
+                },
+                {
+                    "id": null,
+                    "title": "Del papel al ordenador 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/652/edfb82cec27a009127c051e1ce44192d/master.m3u8?1676403141"
+                },
+                {
+                    "id": null,
+                    "title": "Del papel al ordenador 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/653/dbe9acecffc73e39f12c79605bb4cacc/master.m3u8?1676403141"
+                },
+                {
+                    "id": null,
+                    "title": "Colores y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/654/7d481528bff88304f04dde202ae14524/master.m3u8?1676403143"
+                },
+                {
+                    "id": null,
+                    "title": "La presentación para la empresa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/655/b9d5863d72ef2d60c7fb8c6d9df7e1fe/master.m3u8?1676403140"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8arhhs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El prototipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Planos y maquetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/643/9ea80c59c477c8511c7eeb58dae20d5c/master.m3u8?1676403133"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes y lanzamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/646/3de7a18079ff5b346486a6aa15fe3c93/master.m3u8?1676403136"
+                },
+                {
+                    "id": null,
+                    "title": "Piensa como un jurado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/647/8cb6f0dbe930c0653cb9211c1a6bb762/master.m3u8?1676403136"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0lca9h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/m9i5zz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3275,
+        "product_name": "Design and Creation of Award-Winning Products",
+        "teacher_name": "Yonoh Studio",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6289,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

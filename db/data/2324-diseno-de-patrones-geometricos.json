@@ -1,0 +1,184 @@
+{
+    "id": "2324",
+    "title": "Diseño de patrones geométricos",
+    "url": "https://www.domestika.org/es/courses/2324-diseno-de-patrones-geometricos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/567/28d76847a949db722994c185d6d32018/master.m3u8?1676396708"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/568/58791bd9497201a557880a4d45cbd0e8/master.m3u8?1676396709"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iijmt2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los orígenes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las raíces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/569/729a4b43e2f3a0b0cc056b84b031773f/master.m3u8?1676396711"
+                },
+                {
+                    "id": null,
+                    "title": "Reconociendo las herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/570/0f7ebaab1e9f1e5fc47e137f3e3248fc/master.m3u8?1676396712"
+                },
+                {
+                    "id": null,
+                    "title": "Primer encuentro con el papel en blanco 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/571/4c90c0ff5dc89396ff42a9da99534cc4/master.m3u8?1676396714"
+                },
+                {
+                    "id": null,
+                    "title": "Primer encuentro con el papel en blanco 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/572/f967198b8de2af3a07746b17d13a3ab2/master.m3u8?1676396714"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2fwkxf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lo primordial es el boceto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrando el norte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/573/2ef1b61c873c8bee8f2aee63d34a5883/master.m3u8?1676396712"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos y formas sueltas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/574/db14374b02b42a131bd71c66e5478c0c/master.m3u8?1676396723"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos y formas sueltas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/575/418b0832dee4b427893e8000066fc895/master.m3u8?1676396714"
+                },
+                {
+                    "id": null,
+                    "title": "Depurar para encontrar el equilibrio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/612/3fe8abf7fa778785decfd3b3f4628d1f/master.m3u8?1676396743"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v5q7tm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De lo análogo a lo digital",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Digitalizando y previsualizando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/576/cc2e4a75165ab2a90d9cdcc956584ab5/master.m3u8?1676396718"
+                },
+                {
+                    "id": null,
+                    "title": "Hora de vectorizar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/577/3e377a18d55415d4f8bd4356d5fec4fc/master.m3u8?1676396718"
+                },
+                {
+                    "id": null,
+                    "title": "Hora de vectorizar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/578/a5dc4d706fde52c7ba088af12b5d4f7e/master.m3u8?1676396722"
+                },
+                {
+                    "id": null,
+                    "title": "Hora de vectorizar 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/579/7dd57fea13ee6afce4b589c075ef1072/master.m3u8?1676396716"
+                },
+                {
+                    "id": null,
+                    "title": "Hora de vectorizar 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/580/3497449b7cf6887418a1ea132d1527b0/master.m3u8?1676396721"
+                },
+                {
+                    "id": null,
+                    "title": "Hora de dar un pequeño vistazo al futuro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/581/ef14c4850afdec9cd1773bb4166c3999/master.m3u8?1676396717"
+                },
+                {
+                    "id": null,
+                    "title": "La depuración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/611/09328e915241bd4413e53cf419b20e81/master.m3u8?1676396737"
+                },
+                {
+                    "id": null,
+                    "title": "Recomendaciones finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/610/74318925d9a893f2765ad24c8ad513c7/master.m3u8?1676396734"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h3ufix.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/eys22y.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2324,
+        "product_name": "Geometric Pattern Design",
+        "teacher_name": "Matacho Descorp",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 13556,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

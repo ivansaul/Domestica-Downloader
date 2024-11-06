@@ -1,0 +1,190 @@
+{
+    "id": "1771",
+    "title": "Creación de UI Kits con Sketch",
+    "url": "https://www.domestika.org/es/courses/1771-creacion-de-ui-kits-con-sketch/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/369/5b56395569106d97303d5e1597466863/master.m3u8?1676392908"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/370/89357089d591edae9f34b293153c630c/master.m3u8?1676392910"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/371/73b602fbe25ab693ace96f219abf422e/master.m3u8?1676392906"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bamvl7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos y setup de Sketch",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un UI Kit",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/372/6ca10d3eb70b0403b35898651694c8bb/master.m3u8?1676392910"
+                },
+                {
+                    "id": null,
+                    "title": "Patrones de UI y componentes en Sketch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/373/b4c923cdf10a21e61698104a8dcfcb3b/master.m3u8?1676392909"
+                },
+                {
+                    "id": null,
+                    "title": "Atomic Design",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/374/2817c9f4d290247ae780bf0806393274/master.m3u8?1676392912"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n30yg8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estableciendo las bases de nuestro UI Kit con Sketch",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/375/5faa5ded8f7e198ff65dded7d1efa711/master.m3u8?1676392915"
+                },
+                {
+                    "id": null,
+                    "title": "Colores Fuente y Grid",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/376/022fc7d687e1e6b9e328d6930d9a3393/master.m3u8?1676392919"
+                },
+                {
+                    "id": null,
+                    "title": "Colores Fuente y Grid 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/377/2f56d06de38fcff1bc460a23734dc077/master.m3u8?1676392912"
+                },
+                {
+                    "id": null,
+                    "title": "Icon Set",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/378/4555ec56282f8c8c224d5fabaf936f82/master.m3u8?1676392915"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wh0kux.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "A crear componentes atómicos en Sketch",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando componentes Átomos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/379/bb5993eb8de039521a494797dedaa840/master.m3u8?1676392915"
+                },
+                {
+                    "id": null,
+                    "title": "Creando componentes Átomos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/380/acbb0ba2b50586b29ed92304798488a9/master.m3u8?1676392914"
+                },
+                {
+                    "id": null,
+                    "title": "Creando componentes Moléculas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/381/b731ef7864b0380e89fb988c70160905/master.m3u8?1676392918"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo pantallas con Átomos y Moléculas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/382/ea3c8e9016961051a6b27ee39569a932/master.m3u8?1676392921"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t45f62.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Librerías en Sketch",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "UI Kit como librería en Sketch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/383/fe8a996b621dabf6d88bddc508310018/master.m3u8?1676392914"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar nuevos componentes a nuestro UI Kit",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/384/9a3d2c365d44a497071ccee41686f460/master.m3u8?1676392915"
+                },
+                {
+                    "id": null,
+                    "title": "Presenta tu UI Kit",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/385/ec1f399629f0a22e36458d4077db5604/master.m3u8?1676392920"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x6zx2d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/tqxn6e.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1771,
+        "product_name": "UI Kit Creation with Sketch",
+        "teacher_name": "Nodos .",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 10918,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

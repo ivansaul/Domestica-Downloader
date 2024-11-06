@@ -1,0 +1,180 @@
+{
+    "id": "2429",
+    "title": "Composición tipográfica para proyectos editoriales",
+    "url": "https://www.domestika.org/es/courses/2429-composicion-tipografica-para-proyectos-editoriales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/740/71177347115ac377692e89e119de73fe/master.m3u8?1676405028"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/741/171fd74e0b461bb35fc6c823eddb7bef/master.m3u8?1676405032"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/truzba.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejemplos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Aprendiendo a ver",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/742/b37fdab761a5ce5275357d3e566cab89/master.m3u8?1676405030"
+                },
+                {
+                    "id": null,
+                    "title": "Principios de tipografía 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/743/0638f8e6707aba84bd70363e58224551/master.m3u8?1676405043"
+                },
+                {
+                    "id": null,
+                    "title": "Principios de tipografía 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/744/c2c2bd1e018f3c411128c24ec9540f6c/master.m3u8?1676405028"
+                },
+                {
+                    "id": null,
+                    "title": "Impresión y pruebas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/745/02507f7dc67dcde45e1a93f07d1d62e1/master.m3u8?1676405028"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9byjdr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sistema",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El resumen y la jerarquía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/746/b9b4897751e6e562685ccd3e624c4a6c/master.m3u8?1676405028"
+                },
+                {
+                    "id": null,
+                    "title": "El párrafo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/747/76ff0769125cd8c7277e0eb465ef8823/master.m3u8?1676405028"
+                },
+                {
+                    "id": null,
+                    "title": "Grillas y marginalia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/748/8726d68f4d589a7f46a04bb42dd51934/master.m3u8?1676405031"
+                },
+                {
+                    "id": null,
+                    "title": "Matemáticas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/749/eb3adf161980fb6f2b6a534f720439ad/master.m3u8?1676405029"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/56xf1d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Espaciado entre letras y palabras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/750/49ac7f1facf4327a8f6a085494adb1a4/master.m3u8?1676405029"
+                },
+                {
+                    "id": null,
+                    "title": "Detalle tipográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/751/320f9c547985dcb3cfde4410e153bf89/master.m3u8?1676405035"
+                },
+                {
+                    "id": null,
+                    "title": "Forma de párrafo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/752/44a9fcf4c7b6cf59bcce033974649d8c/master.m3u8?1676405036"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/okn5vl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Compartir su trabajo tipográfico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Finalización de su proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/753/faf35d63f1f1e4542d8ddc839d599767/master.m3u8?1676405034"
+                },
+                {
+                    "id": null,
+                    "title": "No eres el diseñador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/754/1d6c53f971f3ff700d30e3701a7b2751/master.m3u8?1676405035"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x81vur.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cdk2ks.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2429,
+        "product_name": "Creative Typesetting for Editorial Projects",
+        "teacher_name": "Fraser Muggeridge",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9765,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

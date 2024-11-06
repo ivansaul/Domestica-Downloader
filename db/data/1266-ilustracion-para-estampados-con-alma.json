@@ -1,0 +1,159 @@
+{
+    "id": "1266",
+    "title": "Ilustración para estampados con alma",
+    "url": "https://www.domestika.org/es/courses/1266-ilustracion-para-estampados-con-alma/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/233/ac02b7c341c0007b2c17e9dca052cde5/master.m3u8?1676389523"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/237/ee3dbe2f96159c0051e39fe8878b9cab/master.m3u8?1676389519"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/239/30a9847697dedf377cc1b5374e88a5fd/master.m3u8?1676389515"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l690kq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empezamos a dibujar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Buscando inspiración y encontrando palabras claves que representan emociones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/334/ba19526f106bdcbb22ecd2dde106974b/master.m3u8?1676389569"
+                },
+                {
+                    "id": null,
+                    "title": "Crea tu banco de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/335/43c706edcf44c6245c33d3a9800c0bb8/master.m3u8?1676389569"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nhr9rr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Convertir simples dibujos en maravillosos estampados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pasar las ilustraciones del iPad y de la libreta al ordenador para luego empezar con la creación de pinceles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/337/261560e5474cc46ec020c8ca28fe8cae/master.m3u8?1700487027"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de paletas de color y volviendo a colorear",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/338/c1049cf704317aac7f67b4a7ffbb0068/master.m3u8?1700487027"
+                },
+                {
+                    "id": null,
+                    "title": "A crear estampados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/339/841943ab292b35aec8b8c0eef60b1526/master.m3u8?1700487027"
+                },
+                {
+                    "id": null,
+                    "title": "Versiones de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/340/e45fc8d8c59dda19ec1183e6c52bf99a/master.m3u8?1676389574"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6f9o9w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empezamos a diseñar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño de pañuelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/348/a2217bb92205b77e79c663ff1ac9883c/master.m3u8?1700487028"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de packaging",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/349/cccc3b6fad6df3e6b2bdb017dd1ec748/master.m3u8?1700487027"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de estampados a mockups",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/351/adee587d61949d7c68242db1b63a3a64/master.m3u8?1700487027"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de los proyectos sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/356/7476cc04c2880366b956f2f5cd00846f/master.m3u8?1676389583"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rqn5be.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6byloj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1266,
+        "product_name": "Illustration for Patterns with Soul",
+        "teacher_name": "Catalina Estrada Uribe",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6162,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

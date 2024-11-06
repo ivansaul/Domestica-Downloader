@@ -1,0 +1,158 @@
+{
+    "id": "3883",
+    "title": "Infografías creativas combina el arte con los datos",
+    "url": "https://www.domestika.org/es/courses/3883-infografias-creativas-combina-el-arte-con-los-datos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/581/5514425224bba6fa2ba40b4bd03aaab9/master.m3u8?1676407375"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/582/99b3ca30b682851437013114608879c6/master.m3u8?1676407376"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wr622e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Un pie en la teoría y el otro en la práctica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la infografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/583/5c8989c98c57f15abebc598a521009d5/master.m3u8?1676407377"
+                },
+                {
+                    "id": null,
+                    "title": "Leyes de la Gestalt",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/584/ddb08e963b2f378019aa9a2d45943921/master.m3u8?1676407375"
+                },
+                {
+                    "id": null,
+                    "title": "Cuadrículas módulos y jerarquías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/585/ebad990ceb38e10ab343158616cfc975/master.m3u8?1676407376"
+                },
+                {
+                    "id": null,
+                    "title": "Dónde obtener los datos y dónde buscar referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/587/fd36e872d5807c8c9d56bcc72950ff4c/master.m3u8?1676407377"
+                },
+                {
+                    "id": null,
+                    "title": "Unir los datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/588/342997f035c6373b02e2dff57a7bb04b/master.m3u8?1676407378"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5jfxsb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ahora es real",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Empezar los bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/589/a1df365723ebd00b6a6af21eb5c83628/master.m3u8?1676407381"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de conceptos visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/590/b145fed81751f1c0f4edffe76e51c102/master.m3u8?1676407380"
+                },
+                {
+                    "id": null,
+                    "title": "Empezar a trabajar en el software",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/591/bd210a52b51b00598d9bd0978ab58b1d/master.m3u8?1676407382"
+                },
+                {
+                    "id": null,
+                    "title": "Lenguaje visual ilustración y gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/592/fd497c7eef6bde92453358ad3c583a5b/master.m3u8?1676407382"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ia2qah.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear un legado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparar los archivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/593/46c1b6bb6a0397b06ae755a256bc0675/master.m3u8?1676407380"
+                },
+                {
+                    "id": null,
+                    "title": "La narrativa de la narrativa presenta tu proceso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/594/47145655ac6de7e2707a5df206008b07/master.m3u8?1676407382"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5mg7ln.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zmxzel.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3883,
+        "product_name": "Infographic Design: Combine Art and Data",
+        "teacher_name": "Thales Molina",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5783,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

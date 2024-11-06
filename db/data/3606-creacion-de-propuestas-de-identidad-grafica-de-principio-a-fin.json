@@ -1,0 +1,158 @@
+{
+    "id": "3606",
+    "title": "Creación de propuestas de identidad gráfica de principio a fin",
+    "url": "https://www.domestika.org/es/courses/3606-creacion-de-propuestas-de-identidad-grafica-de-principio-a-fin/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/550/a59187574b4ef34788a2a3e4a6d342b1/master.m3u8?1676406882"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/949/689c570ff624a3bc9d8886ea09a331a7/master.m3u8?1676407053"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2o7eko.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Briefing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Documentos creativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/952/0d98a288b008eb7c612882bab193e07a/master.m3u8?1676407055"
+                },
+                {
+                    "id": null,
+                    "title": "Timeline",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/954/c5a67b7f9540f5ffb0cbae9f59ec5652/master.m3u8?1676407055"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión del brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/955/9bfe4b98921c8e2d1379a909f8216f5a/master.m3u8?1676407056"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/40urxu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Concepto e identidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fundamentos del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/956/2f56df506466f10fc7750247a4b42c2a/master.m3u8?1676407056"
+                },
+                {
+                    "id": null,
+                    "title": "Concepto creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/957/35ed08253f8111cfe747f96fcabf1895/master.m3u8?1676407058"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/958/fe90496c83670fc0b1ea87775288c170/master.m3u8?1676407059"
+                },
+                {
+                    "id": null,
+                    "title": "Identidad visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/959/4997d0111829770d097b9ab12d7a1453/master.m3u8?1676407061"
+                },
+                {
+                    "id": null,
+                    "title": "Selección y montaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/960/575bf5a065efc59106fb4e14f8ea6c4d/master.m3u8?1676407058"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b582zr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentaciones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación del concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/961/42a30326c4b07b176c9d54697f1182c2/master.m3u8?1676407059"
+                },
+                {
+                    "id": null,
+                    "title": "Pitch de identidad gráfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/962/b51177d1141e231dd01e24cc59920f45/master.m3u8?1676407060"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos para la presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/965/09f85be41a8f5c6ab63ef9baa10340f1/master.m3u8?1676407061"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2ocng8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/f7qxmv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3606,
+        "product_name": "Graphic Identity Proposals from Start to Finish",
+        "teacher_name": "MONUMENTO",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5169,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

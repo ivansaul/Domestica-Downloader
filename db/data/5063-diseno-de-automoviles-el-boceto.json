@@ -1,0 +1,163 @@
+{
+    "id": "5063",
+    "title": "Diseño de automóviles el boceto",
+    "url": "https://www.domestika.org/es/courses/5063-diseno-de-automoviles-el-boceto/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/912/c7f261af2d94458bba96371118f6f8c3/master.m3u8?1679421124"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/913/d8dda260f3a0674dc36384a2238786ef/master.m3u8?1679421138"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b0c9rn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos teóricos que necesita saber",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dimensiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/914/1a4db4b1b9ec69159d7e94aa87ca89fc/master.m3u8?1679421635"
+                },
+                {
+                    "id": null,
+                    "title": "Perspectiva básica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/915/8ee020f17421c936955990a69bb92ad2/master.m3u8?1679421647"
+                },
+                {
+                    "id": null,
+                    "title": "Ruedas y Perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/916/5d4080e016b5b4dff4ecb36279a42d10/master.m3u8?1679421660"
+                },
+                {
+                    "id": null,
+                    "title": "Linea de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/917/4f7b93d274ab38a2fc180abd11c1503b/master.m3u8?1679421671"
+                },
+                {
+                    "id": null,
+                    "title": "Por qué dibujamos mientras diseñamos autos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/918/4d25c799bce5e94dc69f9e9560e0a017/master.m3u8?1679421767"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ozglhv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujar y practicar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creatividad y Creación de un Brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/919/aa580c9ce8c890d9206861ca64f762bb/master.m3u8?1679422091"
+                },
+                {
+                    "id": null,
+                    "title": "Archivos de práctica bocetos básicos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/921/7b5a10bab72aaa33fdee1f6729fd5f5a/master.m3u8?1715327692"
+                },
+                {
+                    "id": null,
+                    "title": "Archivos de práctica bocetos básicos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/920/79748c53d04a8b5ead733d0a394ec186/master.m3u8?1679422189"
+                },
+                {
+                    "id": null,
+                    "title": "Archivos de práctica agregar detalles y refinar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/922/953a5155a1bb8e36b3c587f560b42335/master.m3u8?1679422285"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bpcptu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujar en una hoja de papel en blanco",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Vista lateral",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/923/a07826348bf413c5a1a76a942df413ae/master.m3u8?1679422683"
+                },
+                {
+                    "id": null,
+                    "title": "Perspectiva frontal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/924/dfde043db41996677dab1bc538f224e9/master.m3u8?1679422692"
+                },
+                {
+                    "id": null,
+                    "title": "Perspectiva trasera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/925/8717282ca716f4499bee1379ca294a9f/master.m3u8?1679422700"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/91hkvg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/uqjhtb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5063,
+        "product_name": "Car Design sketching",
+        "teacher_name": "Berk Kaplan",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8674,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "id": "4633",
+    "title": "Branding Bilingüe con Señales en Árabe",
+    "url": "https://www.domestika.org/es/courses/4633-branding-bilingue-con-senales-en-arabe/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/946/cd9c88efb2ebf60457e2311380f279a9/master.m3u8?1724151736"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/947/2a1636bb285eba089c9d5dec4a07a2dc/master.m3u8?1724152458"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/17u770.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño intercultural",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los fundamentos del diseño transcultural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/948/22d022427718eef1ff7f00a393ec5ca1/master.m3u8?1713979840"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos generales sobre los estilos tipográficos árabes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/949/542500305001d6bbf925ce6919c6289f/master.m3u8?1713979871"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía árabe estilos anatómicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/950/1f046e83b4305950ade207bcdff73d5c/master.m3u8?1713979915"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hng0su.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo una marca árabe",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo iniciar una investigación para un proyecto intercultural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/951/93e695d72839596761ff79037b6376d1/master.m3u8?1713980729"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar diferentes conceptos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/952/6226a9492abeeb0b3a7042be270afc06/master.m3u8?1714040071"
+                },
+                {
+                    "id": null,
+                    "title": "Creando un logotipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/953/c34ec528106f98f520f2235d237e7dc3/master.m3u8?1714040094"
+                },
+                {
+                    "id": null,
+                    "title": "Definiendo la identidad visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/954/9f2487bb4d3f80d92b83263234196900/master.m3u8?1714040245"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de carteles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/955/b19326c5dc2fca48cb551a1c4048415e/master.m3u8?1714040671"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z7ggj9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentando y compartiendo su trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Maquetas y preparación del trabajo para ser publicado en Instagram y Behance",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/956/9930b9c8feb1d7ce40325c05d3f79456/master.m3u8?1714048292"
+                },
+                {
+                    "id": null,
+                    "title": "Guía de redes sociales o Behance",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/957/fa2d4ee294d25913517802ca2cf23f09/master.m3u8?1714048331"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b4rz12.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/pjoc9d.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4633,
+        "product_name": "Bilingual Branding with Arabic Signs",
+        "teacher_name": "Kinda Ghannoum",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4255,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}
