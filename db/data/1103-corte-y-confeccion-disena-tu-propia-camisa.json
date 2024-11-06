@@ -1,0 +1,227 @@
+{
+    "id": "1103",
+    "title": "Corte y confección diseña tu propia camisa",
+    "url": "https://www.domestika.org/es/courses/1103-corte-y-confeccion-disena-tu-propia-camisa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/767/4ae4e5a7249a46bf248be9f3910e5134/master.m3u8?1676389260"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/769/28d8ff512571ea6a9e68df34a81c234d/master.m3u8?1676389263"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/772/4c4713b573b80dcaa0bd55937eacccc2/master.m3u8?1676389262"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zfn8xb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Impresión y preparación de los patrones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/773/d143f13eec509fb0a1fc949252bb9acc/master.m3u8?1676389263"
+                },
+                {
+                    "id": null,
+                    "title": "Modificaciones del patrón y calco de las piezas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/775/9e9f49c49a1542588978265d13a6baa5/master.m3u8?1676389283"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo elegir tu talla imprimir los patrones y pegarlos juntos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/776/e6620f95aa83504f4fa6ca19cac04d03/master.m3u8?1676389264"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/po2a3c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Corte de la tela",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tejidos recomendados y cantidad necesaria",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/777/f2380a789173e2e5ade8d6192afe7238/master.m3u8?1676389265"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación del tejido y posicionamiento de los patrones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/778/15c63eebd5d8e73ffac027fe9572f2da/master.m3u8?1676389272"
+                },
+                {
+                    "id": null,
+                    "title": "Cortar correctamente el tejido y la entretela 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/781/eea041b443b2701db062cfb4599afa54/master.m3u8?1676389268"
+                },
+                {
+                    "id": null,
+                    "title": "Cortar correctamente el tejido y la entretela 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/782/d37f4a78d59f933e45158f61f43f0134/master.m3u8?1676389272"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w1hxyc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empezar a coser",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Coser pinzas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/784/fcde26a7587fbb503faf42bf3e96b287/master.m3u8?1676389268"
+                },
+                {
+                    "id": null,
+                    "title": "Coser el canesú a la espalda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/785/5a656a19a24f834a74412765de1f7743/master.m3u8?1676389270"
+                },
+                {
+                    "id": null,
+                    "title": "Hombros con canesú",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/786/bcc2a43ecd1f2323fe85c926bee91bee/master.m3u8?1676389270"
+                },
+                {
+                    "id": null,
+                    "title": "Unión de laterales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/788/8d9fd18960789d160df2b11475fb901f/master.m3u8?1676389273"
+                },
+                {
+                    "id": null,
+                    "title": "Planchado y costura de las tapetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/789/216eb1611a4b675442fb3e6e4d348861/master.m3u8?1676389272"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xldnt4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Montar mangas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Coser abertura para el puño y pliegues de manga",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/790/d3f3a2a68d62f5b97f5031d3109011ec/master.m3u8?1676389273"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de las mangas y puños",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/791/b1177d38fee42fd2a6d979add01e4c96/master.m3u8?1676389286"
+                },
+                {
+                    "id": null,
+                    "title": "Montar manga en camisa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/792/574e2ba413a0ae4fb40034af40c19fe3/master.m3u8?1676389273"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dq9zng.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cuello y acabados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Coser cuello y pie de cuello entre sí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/793/faf5442c3535846523ad6d69a17a91f5/master.m3u8?1676389276"
+                },
+                {
+                    "id": null,
+                    "title": "Coser cuello a camisa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/794/f390bea9b70bfdf2082e5901b1734534/master.m3u8?1676389273"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer ojales y botones y coser el bolsillo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/795/fd0e18b23c95dcfd75370f6325c4083f/master.m3u8?1676389276"
+                },
+                {
+                    "id": null,
+                    "title": "Bajos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/796/f18f4ef4dd817c79f6fab7d7d2ac5198/master.m3u8?1676389273"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/27uhy6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mlc93a.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1103,
+        "product_name": "Dressmaking: Design Your Own Dress Shirt",
+        "teacher_name": "Lantoki",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 22,
+        "course_total_duration_sec": 13643,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

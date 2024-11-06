@@ -1,0 +1,163 @@
+{
+    "id": "3666",
+    "title": "Diseño de logotipos minimalistas con personalidad",
+    "url": "https://www.domestika.org/es/courses/3666-diseno-de-logotipos-minimalistas-con-personalidad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/783/393e0b961e8b7c92a6be358269b54c18/master.m3u8?1676405504"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/784/e12441ce60652917e98c15ef520f2dc1/master.m3u8?1676405507"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dr7et8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La fase de ideación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al diseño de logotipos reglas y cómo romperlas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/785/81063c139778b75bbe3b378928165adc/master.m3u8?1676405513"
+                },
+                {
+                    "id": null,
+                    "title": "Reunión de descubrimiento y resumen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/786/6a8cb80ca2b1635105ebba373b5f6f5c/master.m3u8?1676405508"
+                },
+                {
+                    "id": null,
+                    "title": "La investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/787/1eed59769381349400f7d6a9fa56a948/master.m3u8?1676405510"
+                },
+                {
+                    "id": null,
+                    "title": "El mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/788/13a0287fd09bff422a6296553377ca9b/master.m3u8?1676405509"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mljsde.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proceso creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dibujar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/789/650c199bc6ae5c423c6d42e2a17231f9/master.m3u8?1676405514"
+                },
+                {
+                    "id": null,
+                    "title": "A partir de Illustrator 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/790/c312124428bd9ac053c4980ec4503014/master.m3u8?1676405513"
+                },
+                {
+                    "id": null,
+                    "title": "A partir de Illustrator 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/791/d18784ef40668228b75de8d96dacca1d/master.m3u8?1676405512"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de los logotipos finales para la presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/794/78d2a61d600d3218fc67308645aed676/master.m3u8?1676405511"
+                },
+                {
+                    "id": null,
+                    "title": "Refinando los logos en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/795/ac82a6d63be9cbef9612a9a21457853e/master.m3u8?1676405511"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6ab1bc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentando sus ideas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/800/0c6527a758e8fe9977e6a9eab9f2c402/master.m3u8?1676405535"
+                },
+                {
+                    "id": null,
+                    "title": "Presentar su trabajo en línea y desarrollar un portafolio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/807/4cdb7f92e2e6e1455167f37c8504bf12/master.m3u8?1676405519"
+                },
+                {
+                    "id": null,
+                    "title": "Maquetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/809/e5e807cd0b86618ad7897484b734c7c7/master.m3u8?1676405520"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/10mlfw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ywadj5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3666,
+        "product_name": "Minimalist Logo Design With Personality",
+        "teacher_name": "Alex Aperios",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8838,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "2434",
+    "title": "Diseño de un loft industrial de principio a fin",
+    "url": "https://www.domestika.org/es/courses/2434-diseno-de-un-loft-industrial-de-principio-a-fin/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/086/17188a9e4362e0e713f5eeb82bc42c81/master.m3u8?1676398048"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/087/4fde2ab2cae8ea9cc46ae598190bde02/master.m3u8?1676398050"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dojaaj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Líneas iniciales para crear tu loft Industrial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un loft",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/088/d9c75bc7f0f7cfce78bb107ee29e7e21/master.m3u8?1676398051"
+                },
+                {
+                    "id": null,
+                    "title": "Define tu usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/089/9f34f0cb7e7988bb8982f46b37decc09/master.m3u8?1676398051"
+                },
+                {
+                    "id": null,
+                    "title": "Tu primer layout",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/090/35fa774afaa7351ecb8363e5fb23ebd7/master.m3u8?1676398053"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k0l946.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La integración y materialidad de tu loft",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Integrando espacios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/091/6b80a820c2eed24ad7e6719dc6d9680e/master.m3u8?1676398052"
+                },
+                {
+                    "id": null,
+                    "title": "Materialidad volumétrica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/092/d6c645c61dc82ecc2f4c7fd42f394562/master.m3u8?1676398053"
+                },
+                {
+                    "id": null,
+                    "title": "Materialidad interior",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/093/5a01be7d0a337e6d02bc2894a9079992/master.m3u8?1676398053"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/40hf6m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mobiliarios texturas y patrones para tu loft industrial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mezclas de estilos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/094/c454375bdaad5426929635fc214fa8f1/master.m3u8?1676398054"
+                },
+                {
+                    "id": null,
+                    "title": "Colores y texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/095/d78aa25437cacf42c20d300734c75c87/master.m3u8?1676398055"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/096/83259d9d05cd5e3702dda582a7e91e20/master.m3u8?1676398054"
+                },
+                {
+                    "id": null,
+                    "title": "Mobiliarios estampados y patrones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/097/4d70abb1f763f79153f996d9f119afbe/master.m3u8?1676398054"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del book",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/098/d8c3eb0e995ee6efdf0074424a6e4146/master.m3u8?1676398055"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8aooe1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/57okdf.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2434,
+        "product_name": "Industrial Loft Design from Start to Finish ",
+        "teacher_name": "LIMA LOFT INTERIORS",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6271,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

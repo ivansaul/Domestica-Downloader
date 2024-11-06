@@ -1,0 +1,237 @@
+{
+    "id": "1142",
+    "title": "Render arquitectónico de exteriores con VRay",
+    "url": "https://www.domestika.org/es/courses/1142-render-arquitectonico-de-exteriores-con-v-ray/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/863/1752d28eeb820068d0f1f38e918ab420/master.m3u8?1676390242"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/864/4d62e805d82cdae52aa4d73b84a09a41/master.m3u8?1676390243"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/865/30a9689f0498ddb9461b6b3f1bb5cc17/master.m3u8?1676390241"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/txfew4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelo y vegetación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelo base y creación del terreno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/879/c950400a123f6f5bf3f99a4438a39f34/master.m3u8?1676390254"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado con Floor Generator",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/866/4ebc680ce7ea0f59675a07bf3d345f79/master.m3u8?1676390244"
+                },
+                {
+                    "id": null,
+                    "title": "Vegetación con Forest Pack 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/867/e496961bdb2967be5d78d69a94c78618/master.m3u8?1676390253"
+                },
+                {
+                    "id": null,
+                    "title": "Vegetación con Forest Pack 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/868/fa68f4c4a07973bd1b3b6ab84fe431a7/master.m3u8?1676390245"
+                },
+                {
+                    "id": null,
+                    "title": "Optimización con VRayProxy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/869/99efdae8f1b36aca3c6930408b5be5d6/master.m3u8?1676390247"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kjmfsw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Composición e iluminación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entender la VRay Physical Cam",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/870/32e8f1afe9270720f24668988b8ad323/master.m3u8?1676390245"
+                },
+                {
+                    "id": null,
+                    "title": "Encuadres y composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/871/1a7abdc575faaa02a938d001060b7bf9/master.m3u8?1676390251"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación diurna con VRaySunSky",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/872/ceb99a2e78ecae66a0b8a17d62e70571/master.m3u8?1676390247"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación nocturna con HDRIVRayLights",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/873/3b8a77876ad7940ca2dbd5c3c93ba245/master.m3u8?1676390250"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/crrt7i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales y texturizado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entender los materiales PBR dieléctricos y conductores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/874/d30ad6f3115cc58c6da812a32ddcf954/master.m3u8?1676390248"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de materiales básicos con VRayMtl",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/875/be2f28ccf47c3cb76d81dac9ea55caa4/master.m3u8?1676390254"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales compuestos y plugin BerconTile 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/876/35a62e887751cc25c5efe0330cdbdc90/master.m3u8?1676390249"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales compuestos y plugin BerconTile 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/877/1f2fc96dc67327523b6aeee5a5feb6e9/master.m3u8?1676390258"
+                },
+                {
+                    "id": null,
+                    "title": "Variación y aleatoriedad con Multitexture",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/878/04d03f356267fdc9e9422edd46bbd060/master.m3u8?1676390252"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/imumje.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Configuración de render",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Parámetros de VRay Next",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/880/4bff090b52a0db6102cce07a48ffb32e/master.m3u8?1676390254"
+                },
+                {
+                    "id": null,
+                    "title": "VRay Frame buffer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/881/154b1f4452daad869451e8a4b6ac63ae/master.m3u8?1676390261"
+                },
+                {
+                    "id": null,
+                    "title": "Render elements y exportación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/882/97a755bb3df02762b03d4a8bed46fe07/master.m3u8?1676390257"
+                },
+                {
+                    "id": null,
+                    "title": "Render elements y exportación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/883/f3882dfb0f2fa4365ad4f29cb70342ca/master.m3u8?1676390258"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dnl2lc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importación de archivos en Photoshop 32bits",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/884/bf7e5d86ae38559bb6768035e9deccc7/master.m3u8?1676390258"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción y uso de máscaras 16bits",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/885/f60abcb72b390a32fa6a18b599e0dfa6/master.m3u8?1676390259"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes generales y últimos retoques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/886/7aa10fc4f138e182e3ade6385fec2e7a/master.m3u8?1676390261"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oj52ri.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/up09pp.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1142,
+        "product_name": "Exterior Architectural Rendering with V-Ray",
+        "teacher_name": "Visualfabrik",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 19615,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

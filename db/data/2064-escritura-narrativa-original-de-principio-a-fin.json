@@ -1,0 +1,153 @@
+{
+    "id": "2064",
+    "title": "Escritura narrativa original de principio a fin",
+    "url": "https://www.domestika.org/es/courses/2064-escritura-narrativa-original-de-principio-a-fin/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/403/76ad9d57204f6d0e7054e2b98b3c360b/master.m3u8?1676396631"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/404/75ff074047b55d6f30cec0bd9bbb6e28/master.m3u8?1676396633"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hbt53m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos para construir una historia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Narrar y escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/405/4dfd38648daca34ea33bcb40e48af102/master.m3u8?1676396636"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas para mi historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/406/f7e43082522b36c7bb03cabc49ba3a4f/master.m3u8?1676396636"
+                },
+                {
+                    "id": null,
+                    "title": "Métodos para desbloquear la creatividad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/407/43a01c8ed0b8d731cfc892389510e89b/master.m3u8?1676396633"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aq2lda.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empieza a escribir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Historia anatomia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/408/42086de96cccaf49ea5ee72d264900ab/master.m3u8?1676396636"
+                },
+                {
+                    "id": null,
+                    "title": "Definiendo la historia general",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/409/7428b6ebcb2f538ec73c246ff1ae5d66/master.m3u8?1676396635"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir mi historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/410/8dc9b21a594601498a5683def31a162b/master.m3u8?1676396633"
+                },
+                {
+                    "id": null,
+                    "title": "Continuar escribiendo hasta el final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/411/f70d48cf9e34c0e3f03030ff47760996/master.m3u8?1676396637"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión y relectura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/412/cb232e0603333714a1b942670d5a5c92/master.m3u8?1676396637"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l9hicf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Una vez que tenga una historia qué hacer",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo convertir una historia corta en una historia más larga",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/413/7a368db9d15656f4356c7c1415a3f97f/master.m3u8?1676396637"
+                },
+                {
+                    "id": null,
+                    "title": "Qué puedo hacer con mi historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/414/f3728b824530ba8e135eea8fba0a4f8f/master.m3u8?1676396639"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2ty5i0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mut1ia.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2064,
+        "product_name": "Original Narrative Writing from Start to Finish",
+        "teacher_name": "Afonso Cruz",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 8215,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

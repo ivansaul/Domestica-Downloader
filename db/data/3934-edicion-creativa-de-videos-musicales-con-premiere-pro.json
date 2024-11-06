@@ -1,0 +1,190 @@
+{
+    "id": "3934",
+    "title": "Edición creativa de videos musicales con Premiere Pro",
+    "url": "https://www.domestika.org/es/courses/3934-edicion-creativa-de-videos-musicales-con-premiere-pro/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/225/6c2fb2d5f8d0f608d9f8bdb3fceaa9ea/master.m3u8?1676412023"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/226/85d7a63827c616c22123a21cf5b47a4d/master.m3u8?1676412025"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/50welu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revisión del pitch deck",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/227/9c72f877c4dd49e262ada9eaa696ce6d/master.m3u8?1676412025"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo la canción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/228/e365e285992c03bee30b1f35b3217c82/master.m3u8?1676412030"
+                },
+                {
+                    "id": null,
+                    "title": "Recopilación de materiales de referencia e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/229/7ada1d1116263dd24a727d4aaa6f8b09/master.m3u8?1676412025"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5d96io.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparando el proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Organización del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/230/bcfcb4213cb5c6134e78ba27266328ea/master.m3u8?1676412027"
+                },
+                {
+                    "id": null,
+                    "title": "Importación de material de archivo y flujo de trabajo de proxy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/231/3c54548f6dbbd75da6bcc9c5068dcaab/master.m3u8?1676412031"
+                },
+                {
+                    "id": null,
+                    "title": "Sincronización de imágenes con música",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/232/6d2669e048646e4ef5e60c7be7e2a943/master.m3u8?1676412032"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lsm5d2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición del video musical",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Comenzando la edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/233/e575dc6944861ae36b86b43db7b38aaf/master.m3u8?1676412035"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas a considerar durante la edición 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/234/2206460003e3f533c75498abfdeb2b96/master.m3u8?1676412031"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas a considerar durante la edición 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/235/21f0a537809fbfcb852f498c30e5a38f/master.m3u8?1676412035"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas a considerar durante la edición 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/236/9664c55498a8b6337026b2a08c91081f/master.m3u8?1676412034"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de transición 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/237/3c6ab25ad3d80ce5f3311f844d65ac15/master.m3u8?1676412033"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de transición 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/246/1c2fe8330c1e54f624729ebb905f6a6f/master.m3u8?1676412041"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ottgfq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elementos adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño de sonido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/256/367e767e394f293aadd200f6bc41dcd8/master.m3u8?1676412047"
+                },
+                {
+                    "id": null,
+                    "title": "Escala de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/257/3c4892ee7fe1ba11fef549c12b2cc58f/master.m3u8?1676412044"
+                },
+                {
+                    "id": null,
+                    "title": "Exportador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/258/abdd2a488b0c58ae61d9a70864da270c/master.m3u8?1676412044"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tnjiw7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/r91ldk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3934,
+        "product_name": "Creative Editing for Music Videos in Premiere Pro",
+        "teacher_name": "Camille Getz",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 12358,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

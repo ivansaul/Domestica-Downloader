@@ -1,0 +1,175 @@
+{
+    "id": "2801",
+    "title": "Diseño de cubiertas de libros la visión de un director de arte",
+    "url": "https://www.domestika.org/es/courses/2801-diseno-de-cubiertas-de-libros-la-vision-de-un-director-de-arte/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/440/c03505278ee36e1cc279984d3eb83339/master.m3u8?1676404899"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/441/718ee4de621bf28e3c103f523e171728/master.m3u8?1676404899"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ma5x99.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Portada del libro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una portada de libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/442/df8c4b0d67c494a15de6f2f66fafbe25/master.m3u8?1676404902"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de portada de libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/443/0ebdfdc5b2a2c7f35baf392af5ba1f6c/master.m3u8?1676404901"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de serie de portada de libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/444/e30dd9db2f052948dd635f6a6ea9d45a/master.m3u8?1676404903"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a58huj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La investigación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Evaluacion de proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/445/321594d4493fc45989fa61bdf414810e/master.m3u8?1676404903"
+                },
+                {
+                    "id": null,
+                    "title": "Lectura del manuscrito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/446/59452b4b0f7b15cc44dea10b5c6d9a0d/master.m3u8?1676404904"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación adicional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/447/640ad6fce8bcc5062d2c278460644261/master.m3u8?1676404904"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oj8oco.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de la portada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Generando Conceptos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/448/306a0f5f9e030352da4f7d2fb38d342b/master.m3u8?1676404906"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de la portada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/449/33d10a2397e478b1bfc0e087f9ec1a63/master.m3u8?1676404908"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando una serie",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/450/11d76c8865df1f87d7b44a382429957a/master.m3u8?1676404906"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando el lomo del libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/451/2c89e4f143eed33927a4b8d3cace3c8d/master.m3u8?1676404906"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q9pqa9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La presentación de la portada del libro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mockups",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/452/706c74c3b05df201e5da6ea38abd9b2f/master.m3u8?1676404906"
+                },
+                {
+                    "id": null,
+                    "title": "Comentarios sobre la presentación y el manejo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/453/cca18a6e3d49e10c42d49acef6326b43/master.m3u8?1676404906"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kyb82i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/2mtpsm.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2801,
+        "product_name": "Impactful Book Cover Design: An Art Director's Perspective",
+        "teacher_name": "John Gall",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 5927,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

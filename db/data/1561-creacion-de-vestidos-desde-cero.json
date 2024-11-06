@@ -1,0 +1,174 @@
+{
+    "id": "1561",
+    "title": "Creación de vestidos desde cero",
+    "url": "https://www.domestika.org/es/courses/1561-creacion-de-vestidos-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/247/80f92fbbfaa3a643e28fb0c86f993a3e/master.m3u8?1676394341"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/248/d9cdfe92282643c04b7f6fff7a582660/master.m3u8?1676394341"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/249/90a4509208dbc069534a59853d4b5ae2/master.m3u8?1676394341"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vrofrs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptualización y toma de medidas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/250/a3da100e48ebfa35b8dfd362e929459d/master.m3u8?1676394340"
+                },
+                {
+                    "id": null,
+                    "title": "Aprende los conceptos básicos Patrón siluetas y volumen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/251/b9d405ef5c2ca616285ea8af42e326ba/master.m3u8?1676394344"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de la silueta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/252/cb73f141b4eefb2a22c2441c8ecf6be6/master.m3u8?1676394344"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/253/5c834cf4dcdb9cf2380c8cfadaf6ec23/master.m3u8?1676394347"
+                },
+                {
+                    "id": null,
+                    "title": "Toma de medidas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/254/895eedaffa1addc400228a7c99d8339e/master.m3u8?1676394347"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b33jo6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Patrones y diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollo del patrón básico 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/255/f6de51b67b40490faf1886206c97b7c3/master.m3u8?1676394348"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo del patrón básico 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/257/4353cf0ff188e664e2cdb62f276ab100/master.m3u8?1676394349"
+                },
+                {
+                    "id": null,
+                    "title": "Corte en tela de prueba",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/258/c62a1c35da3d73f0d3438a63f8f0d7a0/master.m3u8?1676394354"
+                },
+                {
+                    "id": null,
+                    "title": "Modificaciones para patrón específico 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/259/e7eba5012a121367ec8d16c7ca420cda/master.m3u8?1676394354"
+                },
+                {
+                    "id": null,
+                    "title": "Modificaciones para patrón específico 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/260/992a28b8db69dc9317fd8542648fd5ff/master.m3u8?1676394353"
+                },
+                {
+                    "id": null,
+                    "title": "Modificaciones para patrón específico 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/261/f8f57e7766d237e479f76fba6b6612a1/master.m3u8?1676394350"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ksj9zi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ensamble y confección",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ensamble y confección del vestido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/262/169bc55995a3d3a3021d3a21ec69555b/master.m3u8?1676394352"
+                },
+                {
+                    "id": null,
+                    "title": "Terminaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/263/f6f49c36c1ab3e3e3fab9a20caeccc8c/master.m3u8?1676394348"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pnhuui.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/evwkuc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1561,
+        "product_name": "Create a Dress from Scratch",
+        "teacher_name": "Natalia Londoño",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 9089,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

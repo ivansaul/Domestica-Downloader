@@ -1,0 +1,168 @@
+{
+    "id": "3981",
+    "title": "Diseño Gráfico Composición de imágenes comerciales",
+    "url": "https://www.domestika.org/es/courses/3981-diseno-grafico-composicion-de-imagenes-comerciales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/192/8ecdb4616e3aa590c9c628acf7250c5f/master.m3u8?1676407178"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/193/b40058e3add160d492ba03904f366a53/master.m3u8?1676407177"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l4jd37.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El concepto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el collage digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/194/6248d792580770c88de55b6b73883ae4/master.m3u8?1676407178"
+                },
+                {
+                    "id": null,
+                    "title": "El brief de comunicación análisis de la información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/195/6612ce9ca431619f5a235d2010e75498/master.m3u8?1676407180"
+                },
+                {
+                    "id": null,
+                    "title": "Benchmarking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/196/34787d37bcd78a0f256226dab4f0e9ae/master.m3u8?1676407177"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/197/93a4e68a8b912571f08490f62d783938/master.m3u8?1676407177"
+                },
+                {
+                    "id": null,
+                    "title": "El anteproyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/198/9541f0d2fdb70e4733d2c86a31435a0a/master.m3u8?1676407182"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vw3phx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear la composición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recorte y limpieza de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/202/b8cd461c7cdcecf5e62289df6854e7b3/master.m3u8?1676407186"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de un draft a partir de una retícula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/203/09cccc80501dff46db8401b6edeb2547/master.m3u8?1676407182"
+                },
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/204/fe1ec00add55f90f1d5ac3dc983b3762/master.m3u8?1676407180"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de color y edición de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/205/28fc0d5c2ac04859082af945717214d2/master.m3u8?1676407188"
+                },
+                {
+                    "id": null,
+                    "title": "Edición gráfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/206/7d16d59736d9eb3deba97b8cff01cf82/master.m3u8?1676407186"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q4v2qx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentar del diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Optimización de archivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/207/9686af46b0ae10f5210cc044f7174e7c/master.m3u8?1676407182"
+                },
+                {
+                    "id": null,
+                    "title": "Mockups",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/208/bbaab3aa68809888bb50e5a769d9b9aa/master.m3u8?1676407184"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/209/9aedda4f2f1ce3c0438b7fd8590a7205/master.m3u8?1676407190"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/svtngv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/loqnsr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3981,
+        "product_name": "Graphic Design: Composition of Commercial Images",
+        "teacher_name": "Guillermo Flores",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9093,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

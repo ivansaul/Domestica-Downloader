@@ -1,0 +1,143 @@
+{
+    "id": "151",
+    "title": "Copywriting define el tono de tu marca personal",
+    "url": "https://www.domestika.org/es/courses/151-copywriting-define-el-tono-de-tu-marca-personal/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Hola",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hello Me llamo Carla y",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/505/94cca9796766bfed70ed981ae25e1673/master.m3u8?1676382073"
+                },
+                {
+                    "id": null,
+                    "title": "Todo me sirve de inspiración como por ejemplo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/495/f3f415612989f07eb66ef0bcc507f066/master.m3u8?1676382070"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5spzgv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Analizar antes que escribir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El tono de una marca sirve para",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/506/625c09019d93a812bc4defd700758aae/master.m3u8?1676382069"
+                },
+                {
+                    "id": null,
+                    "title": "Para buscar el tono de una marca debo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/497/d68354c2110cf06b2cc09c31053f1e0c/master.m3u8?1676382073"
+                },
+                {
+                    "id": null,
+                    "title": "Y para crear el tono lo que hago es",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/498/306a3f32e0ffa19f9c75f5fbe04b7f6d/master.m3u8?1676382067"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xl3n4u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Al papel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lo que vamos a hacer es",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/507/25f82ddf09efb75c708a5fd99451ed05/master.m3u8?1676382068"
+                },
+                {
+                    "id": null,
+                    "title": "Yo por ejemplo lo he hecho así",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/500/90d6cf4fef4cd20fa16ca5da0c11bc51/master.m3u8?1676382067"
+                },
+                {
+                    "id": null,
+                    "title": "Me gusta el resultado porque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/501/b290db1b1fe22441fcb0afd49dfcbf89/master.m3u8?1676382069"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kb3xo9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bonus Track",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Para redactar bien hay algunos truquillos como por ejemplo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/508/33c815657a74e620b606c50e32862e38/master.m3u8?1676382070"
+                },
+                {
+                    "id": null,
+                    "title": "Ánimo Un último esfuerzo que valdrá mucho la pena vamos a",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/503/040acc93af82506d1aba0328512a9c15/master.m3u8?1676382074"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2o97e2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/yjep5h.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 151,
+        "product_name": "Copywriting: Define the Tone of Your Personal Brand",
+        "teacher_name": "Carla Gonzalez",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 10,
+        "course_total_duration_sec": 3758,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "id": "3313",
+    "title": "Identidad visual de marca basada en una historia",
+    "url": "https://www.domestika.org/es/courses/3313-identidad-visual-de-marca-basada-en-una-historia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/526/81b1926fafa02e214642dc2e8d0457de/master.m3u8?1676404022"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/527/d4e3761fd1fe44ccff8f41f0afa8795d/master.m3u8?1676404023"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yours7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Identidad visual y folclore",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseñar para un proyecto una metodología sugerida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/528/52561fa58b0aff76d1fdd245e3a91033/master.m3u8?1676404024"
+                },
+                {
+                    "id": null,
+                    "title": "La breve",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/529/cf5611f25d713812f3aa3c9ac7d35643/master.m3u8?1676404025"
+                },
+                {
+                    "id": null,
+                    "title": "Ideación y primer borrador 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/530/1dfd53a35e822a23d39dfb94201a6cd6/master.m3u8?1676404025"
+                },
+                {
+                    "id": null,
+                    "title": "Ideación y primer borrador 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/531/278b346204f4ee6d0fafe04794a63860/master.m3u8?1676404026"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uylz3r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Imágenes clave y diseño de logotipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/532/a3577dc3c68e131bd883c1644a548ded/master.m3u8?1676404027"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía y etiquetas principales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/533/60179f64b3ef1c7e0984175b32818b15/master.m3u8?1676404025"
+                },
+                {
+                    "id": null,
+                    "title": "El embalaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/534/dd9bd413b5219816d8f5cc2ae1e3c05a/master.m3u8?1676404031"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6q1ldz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear una maqueta usando métodos artesanales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/535/b9e6dbd8e12c507c6ddfcdd8996b344f/master.m3u8?1676404028"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación de los entregables finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/536/9efd6da077fc7aefb4853de56be381c7/master.m3u8?1676404027"
+                },
+                {
+                    "id": null,
+                    "title": "Para saber más Cómo limpiar su imagen escaneada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/628/ce29e5b4d26c138c8731798efa9a4431/master.m3u8?1676404064"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eshcde.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/sh0aiy.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3313,
+        "product_name": "Visual Identity for Brands Inspired by Storytelling",
+        "teacher_name": "Boo Republic (Marios Georntamilis)",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7090,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

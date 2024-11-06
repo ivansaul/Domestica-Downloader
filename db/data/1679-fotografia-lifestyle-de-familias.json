@@ -1,0 +1,153 @@
+{
+    "id": "1679",
+    "title": "Fotografía lifestyle de familias",
+    "url": "https://www.domestika.org/es/courses/1679-fotografia-lifestyle-de-familias/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/824/b4cc9b67729cc822802d3ca091e21a58/master.m3u8?1676394636"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/825/97b342e0dc79210567ff809884e06aa6/master.m3u8?1676394639"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/826/443b48751b323a2cf315e4e566c0484f/master.m3u8?1676394633"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ayk9ub.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparémonos para las fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/831/04d4fbb990de5d68fdb878c947485719/master.m3u8?1676394640"
+                },
+                {
+                    "id": null,
+                    "title": "Mi equipo fotográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/833/c98bf35cb33380abb44248782cfd1d2e/master.m3u8?1676394637"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo encontrar la mejor luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/835/f7a9e9a447db298bde7d15dd8ff0be4a/master.m3u8?1676394641"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/94szx7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empecemos a hacer fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Antes de empezar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/837/758e85943eb62a4a4faa2f2219164801/master.m3u8?1676394645"
+                },
+                {
+                    "id": null,
+                    "title": "Retrato individual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/842/85d07aec4847a5550ba3775111af721d/master.m3u8?1676394643"
+                },
+                {
+                    "id": null,
+                    "title": "Retrato en grupo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/848/06bfaf2fd2b2e07e841c66684753afdc/master.m3u8?1676394647"
+                },
+                {
+                    "id": null,
+                    "title": "Retrato en acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/959/cd098610b369cb47e8098b4d4a5db3b0/master.m3u8?1676394703"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c6yhaj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Y después de tomar las fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección y revelado de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/852/3c270cad293a7739d67174a3a2aa4d0d/master.m3u8?1676394653"
+                },
+                {
+                    "id": null,
+                    "title": "La inspiración sigue",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/853/2b94a089ba5f70722b8e7b442242d307/master.m3u8?1676394649"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m40ss0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/wkx6ft.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1679,
+        "product_name": "Lifestyle Family Photography",
+        "teacher_name": "Victoria Holguin",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6126,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

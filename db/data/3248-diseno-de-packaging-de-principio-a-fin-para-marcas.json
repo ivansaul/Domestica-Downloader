@@ -1,0 +1,158 @@
+{
+    "id": "3248",
+    "title": "Diseño de packaging de principio a fin para marcas",
+    "url": "https://www.domestika.org/es/courses/3248-diseno-de-packaging-de-principio-a-fin-para-marcas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/902/5384113659cbba355e1a4b9ba6d22ec7/master.m3u8?1676404195"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/903/de8d863eecdfeff2b5b5b79f0b57b4aa/master.m3u8?1676404198"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1rg7gg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Por dónde comenzar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importancia del packaging",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/904/7092016c5cb3ad141727fda492c6db84/master.m3u8?1676404197"
+                },
+                {
+                    "id": null,
+                    "title": "Planificar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/905/8297fb58f20191f5b280664325ff7182/master.m3u8?1676404198"
+                },
+                {
+                    "id": null,
+                    "title": "Investigar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/906/b0ffd6c2b4b0119b063764c8bec992e0/master.m3u8?1676404199"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pioeg6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo y ejecución",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mood boards",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/907/287b0cf718ae6af111a0b627bbc4e4e5/master.m3u8?1676404201"
+                },
+                {
+                    "id": null,
+                    "title": "Formatos y tipos de empaques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/908/d0153fe7f8d2ffd8d5b832a3d1551fc4/master.m3u8?1676404201"
+                },
+                {
+                    "id": null,
+                    "title": "Las tipografías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/909/3b71586b3017fbb67ed7ce5522a5e424/master.m3u8?1676404202"
+                },
+                {
+                    "id": null,
+                    "title": "Explorar el color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/910/bc853b33de51cd73f91f6364058a4689/master.m3u8?1676404203"
+                },
+                {
+                    "id": null,
+                    "title": "Explorar los elementos gráficos y crear el universo visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/911/6937243344bcfafc0a4c22bbf9be8abb/master.m3u8?1676404208"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sandfq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación y últimos detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo presentar al cliente y crear mockups",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/912/832be63eb4745978dbd46c74c890b6e1/master.m3u8?1676404206"
+                },
+                {
+                    "id": null,
+                    "title": "Plano mecánico y preparar el arte final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/913/f685e777a185bb0ace7f4d1c81cd1139/master.m3u8?1676404207"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de impresión y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/914/17dcd1994be25eb61ba5e838f2d2d513/master.m3u8?1676404207"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6cw2oz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/inhj3v.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3248,
+        "product_name": "Introduction to Packaging Design for Brands",
+        "teacher_name": "Arcal Studio",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4710,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

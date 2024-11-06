@@ -1,0 +1,180 @@
+{
+    "id": "1878",
+    "title": "Diseño de espacios de lujo",
+    "url": "https://www.domestika.org/es/courses/1878-diseno-de-espacios-de-lujo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/808/28625449a4e6d53beabb45be4b8be15d/master.m3u8?1676392619"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/809/19cbf4c4a0b8537892cd2a07f606c047/master.m3u8?1676392623"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/810/0af1e3c8a16e443a1f2f1d39af8d5d57/master.m3u8?1676392622"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5ixfkk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El brief",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un brief de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/811/ddec8acb85293c1b7bb27f8bedfad01f/master.m3u8?1676392624"
+                },
+                {
+                    "id": null,
+                    "title": "El ADN del cliente Cómo conocerlo mejor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/812/b55422ae394e3e2670142db3200e914d/master.m3u8?1676392625"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/813/283c211530155ea4f73864e07c3c2c6b/master.m3u8?1676392628"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ecuco0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El diseño de un espacio único  Inspiración y creación del mood board",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/814/8d0b01333c66f16c313e7599e5e430dc/master.m3u8?1676392624"
+                },
+                {
+                    "id": null,
+                    "title": "El concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/815/78b2b10928d4eb0ce01ec1346dbe47ea/master.m3u8?1676392624"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales únicos y soluciones a medida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/816/e0d8dfbce7dfc9f2c068f98fe6328e67/master.m3u8?1676392625"
+                },
+                {
+                    "id": null,
+                    "title": "El mood board final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/817/ff4a8a8d2d6d553bbfa63c5f1390c485/master.m3u8?1676392627"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7jy8m2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La experiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/818/3a8bfccfb5fe1fefd816672859cec59a/master.m3u8?1676392627"
+                },
+                {
+                    "id": null,
+                    "title": "Representación visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/819/fb15f41c0e638773107de260721dae4f/master.m3u8?1676392632"
+                },
+                {
+                    "id": null,
+                    "title": "Ejecución y desarrollo creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/820/45d67c11b068f5b83c80736e8d1b4b4b/master.m3u8?1676392626"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/35nwql.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Posproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entrega del proyecto al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/821/75543db84d03f890c19a4a07978334c1/master.m3u8?1676392628"
+                },
+                {
+                    "id": null,
+                    "title": "Comparte tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/822/c142a080a04d7331ee05d93db9c986af/master.m3u8?1676392631"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/etd247.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/q67mzr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1878,
+        "product_name": "Designing Unique Luxury Spaces",
+        "teacher_name": "Ciszak Dalmas Ferrari",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8867,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "id": "282",
+    "title": "Propiedad intelectual de la idea al universo de las marcas",
+    "url": "https://www.domestika.org/es/courses/282-propiedad-intelectual-de-la-idea-al-universo-de-las-marcas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/162/5e61bc1904c3f2e947554b49f9a72e2b/master.m3u8?1676383674"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/163/70c1c8d8c3cc6658363a9e69f65b8517/master.m3u8?1676383674"
+                },
+                {
+                    "id": null,
+                    "title": "Meditación y creatividad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/164/0d40a2d9665d924bd991105baac0e2df/master.m3u8?1676383674"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/osm5w1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo nacen las historias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Aquellos proyectos personales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/165/2dd5cf851d7cc8a4d566650f5df53908/master.m3u8?1676383676"
+                },
+                {
+                    "id": null,
+                    "title": "Mapa creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/166/eb4e93dcfc35227450804f94ab461279/master.m3u8?1676383681"
+                },
+                {
+                    "id": null,
+                    "title": "El orden de los factores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/167/80616a9f97d74c167edb257af8a2580f/master.m3u8?1676383676"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yfj8i6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas necesarias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dónde cuándo y cómo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/168/a603b087dfd057ba7cf6148588a1fa3e/master.m3u8?1676383675"
+                },
+                {
+                    "id": null,
+                    "title": "La biblia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/169/836551e1eb0b91f1910f647dde299ffc/master.m3u8?1676383680"
+                },
+                {
+                    "id": null,
+                    "title": "El pitch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/170/84f3eae725a802bfd819efe85478245e/master.m3u8?1676383676"
+                },
+                {
+                    "id": null,
+                    "title": "Licenciamiento y guías de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/171/eb12f915d3d496ad2077d1f4f4e4502a/master.m3u8?1676383679"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1dhn0k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estamos listos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El desarrollo de las piezas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/172/a91b04349f57cc04e0655de7207c9a93/master.m3u8?1676383678"
+                },
+                {
+                    "id": null,
+                    "title": "Conclusión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/173/c1a7d6fb72e71d059b783e6930d85858/master.m3u8?1676383676"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/64s18x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xqdou2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 282,
+        "product_name": "Intellectual Property: from the Idea to the Universe of Brands",
+        "teacher_name": "Flor Kohan",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6859,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

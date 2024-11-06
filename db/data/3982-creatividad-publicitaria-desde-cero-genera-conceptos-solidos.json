@@ -1,0 +1,163 @@
+{
+    "id": "3982",
+    "title": "Creatividad publicitaria desde cero genera conceptos sólidos",
+    "url": "https://www.domestika.org/es/courses/3982-creatividad-publicitaria-desde-cero-genera-conceptos-solidos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/804/c743944d9159de65ef8fbee97e3a4e7d/master.m3u8?1676409932"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/805/b3b0c39713f6e4a7c57ec070f88cf8ab/master.m3u8?1676409932"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ed7g2x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La industria publicitaria",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Una campaña creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/806/970960ca4d87fb855e11c04233c14998/master.m3u8?1676409933"
+                },
+                {
+                    "id": null,
+                    "title": "Contexto los equipos creativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/807/b20a0d5814aa79d9409c988c799916af/master.m3u8?1676409935"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es una marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/808/7ac1294225e9851eb1e6f6b194593d75/master.m3u8?1676409936"
+                },
+                {
+                    "id": null,
+                    "title": "El funnel de marketing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/809/8a482c3ede9fc519dfb54b5f50a7cb95/master.m3u8?1676409937"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pabkx3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Una campaña creativa de publicidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear e interpretar un brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/810/ec000e22f91ff3573d02754c9cb47547/master.m3u8?1676409938"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación conocer lo que vendes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/811/62712cea7105f61b9820cef1c7c316f7/master.m3u8?1676409937"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptualizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/812/2f269b24c7e596100a4dde55102fc993/master.m3u8?1676409940"
+                },
+                {
+                    "id": null,
+                    "title": "Master graphic",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/813/64793dba9be4b32aeeee68316ed4ff22/master.m3u8?1676409937"
+                },
+                {
+                    "id": null,
+                    "title": "Adaptar la idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/814/fabb9c5c404fc7b8aec21249ea02eb59/master.m3u8?1676409938"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l2w4lq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consejos adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Contar una historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/815/355eb8f2655fe7a5d71ac6584ce44c9b/master.m3u8?1676409937"
+                },
+                {
+                    "id": null,
+                    "title": "La presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/816/c7cfd960833d9c5c479cc32e3ab6d458/master.m3u8?1676409940"
+                },
+                {
+                    "id": null,
+                    "title": "La campaña",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/817/6d8289058f4d88f0d2e49a533e7ef02a/master.m3u8?1676409939"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kgakku.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8dgbw7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3982,
+        "product_name": "Creativity for Advertising: Generate Strong Concepts from Scratch",
+        "teacher_name": "Alina Alvarez Etchegaray",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6920,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

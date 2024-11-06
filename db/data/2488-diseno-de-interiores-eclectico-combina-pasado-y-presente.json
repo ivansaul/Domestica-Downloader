@@ -1,0 +1,153 @@
+{
+    "id": "2488",
+    "title": "Diseño de interiores ecléctico combina pasado y presente",
+    "url": "https://www.domestika.org/es/courses/2488-diseno-de-interiores-eclectico-combina-pasado-y-presente/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/607/01455499313f216814c71bbc029bd980/master.m3u8?1676398838"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/626/036667d2ed8843f7b05fc81daaa8e26c/master.m3u8?1676398851"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0rffee.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "En busca de tu estilo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hablemos sobre los estilos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/609/22a4f9c9d2f5e251a9543ca1b1805924/master.m3u8?1676398841"
+                },
+                {
+                    "id": null,
+                    "title": "Eclecticismo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/610/06d322e1524cc3c4a207d1ccb68f9466/master.m3u8?1676398841"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de los estilos para crear espacios eclécticos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/612/fa0a21e321a747842fb5997954281879/master.m3u8?1676398847"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando objetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/613/907d7a726ea2f8ab089afcd073bc020e/master.m3u8?1676398843"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/heh93r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Poner en marcha el diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conoce a tu cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/615/0a1f326986b7751898c74b9a867dc42d/master.m3u8?1676398845"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/617/d0a345ea88d5bea238699ab695ad6f33/master.m3u8?1676398846"
+                },
+                {
+                    "id": null,
+                    "title": "El espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/627/fcaea70e02673c70251ce689174cb37c/master.m3u8?1676398855"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hcijm2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La puesta en escena",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escojamos los muebles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/618/b85dd15fd05fd7f576d0a2f7026afa03/master.m3u8?1676398855"
+                },
+                {
+                    "id": null,
+                    "title": "Escojamos la decoración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/620/2618f21ac192444e599f02f0e5e15909/master.m3u8?1676398845"
+                },
+                {
+                    "id": null,
+                    "title": "Ensamble y resultado final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/621/91639d1a2dc95135f6be835509c62786/master.m3u8?1676398848"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vvaly6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/2d7n5i.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2488,
+        "product_name": "Eclectic Interior Design: Combine the Past and Present",
+        "teacher_name": "JOTAELE ARQUITECTURA",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5375,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

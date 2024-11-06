@@ -1,0 +1,168 @@
+{
+    "id": "3600",
+    "title": "Fotografía de alimentos con luz natural desde cero",
+    "url": "https://www.domestika.org/es/courses/3600-fotografia-de-alimentos-con-luz-natural-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/175/29f35e5809154432e436ec7733409374/master.m3u8?1676407671"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/176/c4af99ac0dc005faf8f2b56bcade495d/master.m3u8?1676407675"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/muquor.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Luz natural características y manejo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Características de la luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/177/f01fffae3ba267f08ed0d992d99c4e83/master.m3u8?1676407675"
+                },
+                {
+                    "id": null,
+                    "title": "Luz natural del amanecer a la hora azul",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/178/024d95555c16f544a777de8a3acebc84/master.m3u8?1676407675"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo y por qué hacer un esquema de iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/179/8f41470efc73d5d247dc1da411652e50/master.m3u8?1676407675"
+                },
+                {
+                    "id": null,
+                    "title": "Gestión y control de luces y sombras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/180/0e23cff0fc53a991578b91a20598cfa7/master.m3u8?1676407674"
+                },
+                {
+                    "id": null,
+                    "title": "Cámara y lentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/181/adc633dcc6cfd894acac5b08cd1b9ac0/master.m3u8?1676407676"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2oy2s4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotografiar con luz natural",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elige el tema y la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/182/aad6992c1a73f3d0030c5fac2efaf085/master.m3u8?1676407674"
+                },
+                {
+                    "id": null,
+                    "title": "Estudiar el escenario y el encuadre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/183/ec4b23d73b8eef327ff5e7605bc4fbd0/master.m3u8?1676407675"
+                },
+                {
+                    "id": null,
+                    "title": "Preparar el escenario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/186/a0ca0b9409071a1c8003ea2092117fd7/master.m3u8?1676407676"
+                },
+                {
+                    "id": null,
+                    "title": "Tomar las fotografías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/187/44e716914296040459529c50d597b093/master.m3u8?1676407680"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografiar posibles contribuciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/188/5120015649014620c6cb8fdee23fe158/master.m3u8?1676407676"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3yxaiz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalizar y compartir imágenes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La postproducción comparar los planos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/189/01896748ea29db3efae2eb0d1dd6c11e/master.m3u8?1676407676"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/190/9ee33bd168080c3811807728bfd10a3b/master.m3u8?1676407681"
+                },
+                {
+                    "id": null,
+                    "title": "Los formatos de exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/191/f7c3b4415fa5a38d5c98209c1a723409/master.m3u8?1676407678"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c21glb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/a0yvnv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3600,
+        "product_name": "Food Photography for Beginners: Embracing Natural Light",
+        "teacher_name": "Michael Gardenia",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 6173,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "id": "1515",
+    "title": "Ilustración digital de patterns para productos",
+    "url": "https://www.domestika.org/es/courses/1515-ilustracion-digital-de-patterns-para-productos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/877/fe4b19f2b0d0b19a08e09702dedcad08/master.m3u8?1676397950"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/878/96db6f0debdfa39f5cabd02b0c3941de/master.m3u8?1676397936"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/knwqqd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tu universo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un pattern",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/879/2fa0d9b9ef1476a42480fe5bb5d81e63/master.m3u8?1676397934"
+                },
+                {
+                    "id": null,
+                    "title": "Definición del universo inspiración y búsqueda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/880/d681e64a1feb6f9b28e49fd608b7f71d/master.m3u8?1676397937"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de paletas de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/881/c4228de897073854993b826f28a57da7/master.m3u8?1676397937"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nux89n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La ilustración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/882/0fe95eb458f9eb88c3c8b8fdcf6468a1/master.m3u8?1676397937"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustración principal 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/883/c788e2689b4a7b57e0aa43dfd2b51d4e/master.m3u8?1676397943"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustración principal 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/884/379a4a7f4140151ce968c06cc0ad3644/master.m3u8?1676397944"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustraciones secundarias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/885/b5794f3e13f91f74de484a53336c5a67/master.m3u8?1676397940"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del pattern principal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/886/87827d9440dcaafaae65a6234f622a15/master.m3u8?1676397944"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de los patterns secundarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/887/28198dbe8df413ed69959918e92c16df/master.m3u8?1676397943"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0of1ol.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La colección",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mockups",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/888/08ccc33e1680ceaaf2a97f63970a7826/master.m3u8?1676397944"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo mostrar nuestro producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/889/d5dd9aa0d6c99d68ddce4ab13cb70ec9/master.m3u8?1676397943"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yut2yc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hvl3od.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1515,
+        "product_name": "Digital Illustration of Patterns for Products ",
+        "teacher_name": "Car Pintos",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 10015,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

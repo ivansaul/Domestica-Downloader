@@ -1,0 +1,158 @@
+{
+    "id": "1791",
+    "title": "Diseño de tarjetas de presentación",
+    "url": "https://www.domestika.org/es/courses/1791-diseno-de-tarjetas-de-presentacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/764/95e88bd2cfa2fff3813ca99e51490fb0/master.m3u8?1676395133"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/765/168ceeeacdf1e3792796a88aaa9d74ef/master.m3u8?1676395137"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/766/5235c64d693693cf65c0baa3cc088c85/master.m3u8?1676395133"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dpw4f9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Historia soportes tintas y acabados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La historia de la tarjeta y su importancia en el branding",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/767/9103772eccefb2057cf88ccdc2e2d7ab/master.m3u8?1676395136"
+                },
+                {
+                    "id": null,
+                    "title": "Soportes y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/768/932eee548731d52571a8c082d43c5d23/master.m3u8?1676395138"
+                },
+                {
+                    "id": null,
+                    "title": "La tarjeta digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/769/70edbe4fb7ad6287127146e4c9391a9c/master.m3u8?1676395136"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación inspiración y selección de materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/770/3009968b0cbf80b739e18a8541f9528b/master.m3u8?1676395137"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3w8l7n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando una tarjeta de visita fantástica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ideación creación y diagramación de nuestra tarjeta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/771/a05d44dc715cc708feb4dbdbcb220008/master.m3u8?1676395138"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación y elección de nuestras propuestas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/772/e6a185d2094720b5b3ad961d01fa6f44/master.m3u8?1676395140"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación de proyecto para porfolio y redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/773/7ff03af9a5d6aca99a33465c728f0548/master.m3u8?1676395138"
+                },
+                {
+                    "id": null,
+                    "title": "Versión digital de nuestra tarjeta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/774/d83926b0ddd44e394b0dbd761f0e27e2/master.m3u8?1676395138"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/18v4mn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear un archivo de impresión y algunos consejos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Consejos antes de imprimir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/775/1ef016f7c5d67019237d95dbd4bc6ffb/master.m3u8?1676395138"
+                },
+                {
+                    "id": null,
+                    "title": "Archivos finales y exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/776/65d4d7ab7f7f31ffbeb60b1df2371d3f/master.m3u8?1676395143"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5y3vr9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/v1q30x.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1791,
+        "product_name": "Business Card Design",
+        "teacher_name": "David Espinosa",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4293,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "id": "3682",
+    "title": "Creación de muebles de resina con técnicas de terrazo",
+    "url": "https://www.domestika.org/es/courses/3682-creacion-de-muebles-de-resina-con-tecnicas-de-terrazo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/546/2dc64ef3e9100f82334b095954873930/master.m3u8?1676405885"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/547/24d8680e27f1b4299cb174eef5f6a21f/master.m3u8?1676405890"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a8mjkp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Principios y diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y equipamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/548/08ed0a2550309850f9374110714a5504/master.m3u8?1676405886"
+                },
+                {
+                    "id": null,
+                    "title": "Terrazo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/549/5d42bad773f00a53d66f4b9885411410/master.m3u8?1676405884"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría básica del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/550/c5be5f5b83ddbd5de997e21fd8033deb/master.m3u8?1676405890"
+                },
+                {
+                    "id": null,
+                    "title": "Creando tu mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/551/b358e97828c05ff2289b8cf70536b2e8/master.m3u8?1676405885"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando tu boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/552/803d2735605b0a7469a4e5bb7657b09c/master.m3u8?1676405888"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5jehiz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hacer la mesa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación del agregado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/553/950053ca076ffd84cb2fefbd80764749/master.m3u8?1676405889"
+                },
+                {
+                    "id": null,
+                    "title": "Crear la muestra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/554/c1ed4b705179d016b549f532e7497fc7/master.m3u8?1676405891"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando tu molde",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/556/e0f657a2c03ebad722f34633e7bd1b89/master.m3u8?1676405893"
+                },
+                {
+                    "id": null,
+                    "title": "Técnica de fundición 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/557/26863067652f3b5aa95fa61aaf48c973/master.m3u8?1676405893"
+                },
+                {
+                    "id": null,
+                    "title": "Técnica de fundición 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/558/71beb94d44f4408a805ae7fe405d001a/master.m3u8?1676405892"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pfppof.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lijado y acabado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desmoldeo y lijado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/559/94d273c3d2502505db0fb44a65c28698/master.m3u8?1676405896"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de acabado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/560/20da78ba8d3d6224978041f416c943ec/master.m3u8?1676405892"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4s95o7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ezf6e2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3682,
+        "product_name": "Terrazzo Techniques for Resin Furniture Making",
+        "teacher_name": "Olivia Aspinall",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 9670,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

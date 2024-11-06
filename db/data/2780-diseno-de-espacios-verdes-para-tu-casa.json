@@ -1,0 +1,170 @@
+{
+    "id": "2780",
+    "title": "Diseño de espacios verdes para tu casa",
+    "url": "https://www.domestika.org/es/courses/2780-diseno-de-espacios-verdes-para-tu-casa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/433/f74fd3c3c750b762c4e162839ba403cb/master.m3u8?1676403048"
+                },
+                {
+                    "id": null,
+                    "title": "El ser humano y su relación con el paisaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/839/6954e497ff268cd0bae2f8dc1e738a86/master.m3u8?1676406027"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kos145.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de un jardín",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis del lugar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/436/cd56137dd93499bb79d07fb9bae3b5ae/master.m3u8?1676403046"
+                },
+                {
+                    "id": null,
+                    "title": "Un ejemplo siempre ayuda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/337/b2587e3a25f1049965168123604d7001/master.m3u8?1676403470"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3fh34l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñar tu jardín",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Empezar a dibujar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/338/e95738cf1b0e759bce988c7c0e366a51/master.m3u8?1676403462"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis del proyecto final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/438/c4beafb69792be2b51db73051fa6948f/master.m3u8?1676403050"
+                },
+                {
+                    "id": null,
+                    "title": "Seleccionar plantas macetas y otros materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/439/650145629e12e2584a08685caf8489db/master.m3u8?1676403056"
+                },
+                {
+                    "id": null,
+                    "title": "Lista de compras y presupuesto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/440/a73291c9c8ad98d1f900c7ea74ca85a6/master.m3u8?1676403049"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m8o054.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Siembra de jardineras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/441/98d5be5752ce8176addd3e568298e291/master.m3u8?1676403053"
+                },
+                {
+                    "id": null,
+                    "title": "Siembra de macetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/442/995356e812a8693232505ff201b9f0d8/master.m3u8?1676403052"
+                },
+                {
+                    "id": null,
+                    "title": "Otros materiales y mobiliario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/443/9a60d951cd17fc52bce41d0150270cf8/master.m3u8?1676403054"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bjwzpn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué sigue después de la siembra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Poda y riego",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/444/5e9a8f856d5b08a6b1630e8b3c94b284/master.m3u8?1676403059"
+                },
+                {
+                    "id": null,
+                    "title": "La salud de tus plantas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/445/e2df34cd7fe85f58557db1b95d46bca6/master.m3u8?1676403052"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1sjvys.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mw8dk9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2780,
+        "product_name": "Designing Green Spaces for Your Home",
+        "teacher_name": "Kathrin Grimm",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6117,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}
