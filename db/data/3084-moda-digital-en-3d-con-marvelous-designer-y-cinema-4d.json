@@ -1,0 +1,178 @@
+{
+    "id": "3084",
+    "title": "Moda digital en 3D con Marvelous Designer y Cinema 4D",
+    "url": "https://www.domestika.org/es/courses/3084-moda-digital-en-3d-con-marvelous-designer-y-cinema-4d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/654/b59b5019989fea72b41a70e73328c2f6/master.m3u8?1676400457"
+                },
+                {
+                    "id": null,
+                    "title": "Fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/655/28cf5f01668f0effca399b32886775bb/master.m3u8?1676400456"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9neosq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Flujo de trabajo y creación de la prenda",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Software y su comunicación óptima",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/657/99dfc344c460dbccb099515f88e2b32d/master.m3u8?1676400455"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/672/29d271ca1ad338e0aabb871e73bcc8d2/master.m3u8?1676400470"
+                },
+                {
+                    "id": null,
+                    "title": "Importando el Avatar y creando el patrón 2D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/658/7604cf116e02ca6865677188d5a2ea5c/master.m3u8?1676400454"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de costura y prenda 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/659/0260f385160ec79e52aaeb453b23504f/master.m3u8?1676400459"
+                },
+                {
+                    "id": null,
+                    "title": "Costura y definición de la prenda 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/660/d7d1a7fe32fd221700a9ee8f4d476c28/master.m3u8?1676400455"
+                },
+                {
+                    "id": null,
+                    "title": "Simulación 3D de la cabeza y pose del personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/661/40b7a76448d82723ef734b3d2cb7fb95/master.m3u8?1676400456"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/68u4cp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Composición de la escena final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importando el personaje y el jefe en Cinema 4D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/662/dd0567750378a825bc5aff09f82cb49a/master.m3u8?1676400456"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles de tela 3D agregados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/663/db69d52d32063ad0e871c16347d970ab/master.m3u8?1676400458"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de la escena fotografía e iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/664/d2a7e6462f1c17cb0dbdc289dc01f488/master.m3u8?1676400459"
+                },
+                {
+                    "id": null,
+                    "title": "Texturización del Avatar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/665/60be36a31e4d9d60f8718d60061a70a5/master.m3u8?1676400463"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizado de tejidos y finalización del montaje 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/666/926d9a200ef5dade2728d92c7793736e/master.m3u8?1676400464"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizado de tejidos y finalización del montaje 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/674/53e5563c46cd7363d232990b03a484d2/master.m3u8?1676400478"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c12p83.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Renderizado y retoque final con Photoshop",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Exportación de renderizado e ID de tapete",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/668/b125fe4750a96e2733aeeac73c6f68ac/master.m3u8?1676400461"
+                },
+                {
+                    "id": null,
+                    "title": "Importación de capas a Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/669/75ffbd2f50b6b85689659250e5c27f64/master.m3u8?1676400461"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas de posproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/670/238938cb8065fb6c73a6f96636233aaa/master.m3u8?1676400466"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7cfggq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ju7xw5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3084,
+        "product_name": "Digital 3D Fashion with Marvelous Designer and Cinema 4D",
+        "teacher_name": "Amin Farah",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 12557,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

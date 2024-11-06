@@ -1,0 +1,153 @@
+{
+    "id": "4813",
+    "title": "Estrategias para hacer crecer tu negocio en internet",
+    "url": "https://www.domestika.org/es/courses/4813-estrategias-para-hacer-crecer-tu-negocio-en-internet/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/885/987f5ca857d8478c9c7bd2c69c9a0dcf/master.m3u8?1676410592"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/886/8db74344e73070d59f9c095406b629d1/master.m3u8?1676410595"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fb8ad8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definir el producto o servicio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Características diferencias y descripciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/887/c98891706728f75d5fb6df3be9d33735/master.m3u8?1676410598"
+                },
+                {
+                    "id": null,
+                    "title": "Para qué y por qué lo quiere el cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/888/13c5f589b1d954892b9eaac0aeb0f640/master.m3u8?1676410610"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ii8z18.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La estrategia de los 4 pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Que lo conozcan",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/889/cad0e6f1da9342bfd6e0d4a0cf2bc51f/master.m3u8?1676410595"
+                },
+                {
+                    "id": null,
+                    "title": "Que te entiendan",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/890/3cc0d21b812e07d3aad1f869dd29cdb3/master.m3u8?1676410596"
+                },
+                {
+                    "id": null,
+                    "title": "Que lo valoren",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/891/d741682d2ff5e4309ad7b9287dccb566/master.m3u8?1676410598"
+                },
+                {
+                    "id": null,
+                    "title": "Que te lo demuestren",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/892/898dc2f0e219e5abf6463f987dbde277/master.m3u8?1676410597"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/edz573.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El internet",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entender y crear el sitio web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/893/69e2d1e7013c9e594b715df6b81c193f/master.m3u8?1676410599"
+                },
+                {
+                    "id": null,
+                    "title": "Entender definir y crear las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/894/0d3db711bd713bb25142d232e1b4d31b/master.m3u8?1676410597"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategia para cada red social",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/896/ef2025c807e0b254c1e2152d29000ea4/master.m3u8?1676410604"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y estrategias de redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/897/65f800e09432db35223faa8d35e63b33/master.m3u8?1676410602"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zxdbkm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7jay8b.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4813,
+        "product_name": "Online Growth Strategies for Businesses",
+        "teacher_name": "Pablo Lascurain",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7537,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

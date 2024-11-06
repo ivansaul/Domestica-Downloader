@@ -1,0 +1,198 @@
+{
+    "id": "132",
+    "title": "Fotografía de moda y retoque digital",
+    "url": "https://www.domestika.org/es/courses/132-fotografia-de-moda-y-retoque-digital/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/029/abf8eb794fc43281308c86a2bf6f66f3/master.m3u8?1676381810"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/030/af59c7afd66cbf11bbdf697a1966fab1/master.m3u8?1676381811"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/edrguj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una editorial de moda Encargo o producción propia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/031/7eff940dfe6f720c87aeb9812c125814/master.m3u8?1676381816"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/032/2c88d57b18cddedd6a11db403cea8fa3/master.m3u8?1676381813"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m8adrt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Equipo técnico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/033/d5643301a6fb6187b1a50c26b74568a0/master.m3u8?1676381809"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajo en equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/034/3569a2017ff0ef98546619d9d0c020b3/master.m3u8?1676381807"
+                },
+                {
+                    "id": null,
+                    "title": "Esquemas de iluminación y pruebas de luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/036/7538ce5819e1198233760437f2c488ad/master.m3u8?1676381813"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos antes de disparar en estudio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/035/bd1b392208cbda947a0ff6a17af57f9e/master.m3u8?1676381811"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajo con modelo Acting Editorial 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/037/f273caeabf02b9fa5e29ffb3eb53cfa9/master.m3u8?1676381820"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajo con modelo Acting Editorial 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/038/8ce7f1c2db81f5c963a3223a8fe16c5d/master.m3u8?1676381811"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/34kh2a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La selección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/039/3669f2e36f8df08d95f8a237c50169b4/master.m3u8?1676381814"
+                },
+                {
+                    "id": null,
+                    "title": "El retoque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/040/12bd6f03d9527278c27f1012545093ca/master.m3u8?1676381812"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque desde el Raw",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/041/a03471bd423888172db4af0c1eba037b/master.m3u8?1676381816"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza de fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/042/cb88216933562924d88797e37f2b9ceb/master.m3u8?1676381815"
+                },
+                {
+                    "id": null,
+                    "title": "Licuado y reencuadre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/043/7c60061cc04e4d78a17ca9cf64434432/master.m3u8?1676381817"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque de piel I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/044/89bb290b1ed61f7941ed1aa6c32d189d/master.m3u8?1676381824"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque de piel II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/045/95ac1dca2df44a0956aa7ef3276913c4/master.m3u8?1676381815"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/046/49bea7d173945ab93d0a5991886a3534/master.m3u8?1676381819"
+                },
+                {
+                    "id": null,
+                    "title": "Corrección de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/047/e62fa49aa9e7b1908b272e8440f5ee55/master.m3u8?1676381818"
+                },
+                {
+                    "id": null,
+                    "title": "Ambientación y acabado final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/048/340e145eac21db281158a78307544324/master.m3u8?1676381819"
+                },
+                {
+                    "id": null,
+                    "title": "Entrega del trabajo y preparación del PDF para enviar a las revistas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/049/6873da1ba2bfade3d730d61ffa03638d/master.m3u8?1676381820"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v2ga8u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/27s33c.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 132,
+        "product_name": "Photography for Fashion and Digital Retouching",
+        "teacher_name": "Rebeca Saray",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 15359,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

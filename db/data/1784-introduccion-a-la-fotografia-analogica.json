@@ -1,0 +1,178 @@
+{
+    "id": "1784",
+    "title": "Introducción a la fotografía analógica",
+    "url": "https://www.domestika.org/es/courses/1784-introduccion-a-la-fotografia-analogica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/541/0eace89f5b55859feb6a37473cab0744/master.m3u8?1676394496"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/542/41c0d42dfbc5b03581f30618fd04215f/master.m3u8?1676394499"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/543/8188c49f1a032c60a2496d7f7a8cc742/master.m3u8?1676394494"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qzxd6m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Teoría todas las posibilidades de la fotografía analógica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conceptos básicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/544/6936dd3a146f1f8a7a57d3769df5b8cf/master.m3u8?1676394499"
+                },
+                {
+                    "id": null,
+                    "title": "Cámaras y formatos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/545/af9a9e02d41c4ceca274631d3410adf3/master.m3u8?1676394500"
+                },
+                {
+                    "id": null,
+                    "title": "Cámaras y formatos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/546/7179db4c0cd7cb407b80581ae9761679/master.m3u8?1676394501"
+                },
+                {
+                    "id": null,
+                    "title": "Carretes y revelado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/547/4a08757619672b4013b9cdd6f4a5cc22/master.m3u8?1676394501"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales para nuestro proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/548/83d4bb7c132cea49626264d0b09e9266/master.m3u8?1676394498"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pfo3q8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Práctica el momento de disparar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preshooting luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/549/8cac02532b5de6a8335e1679b5e93680/master.m3u8?1676394501"
+                },
+                {
+                    "id": null,
+                    "title": "Preshooting composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/550/e57cb129f538b6824e3db7f1e755690b/master.m3u8?1676394505"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando con modelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/551/ccfe93f98ea7296a8d07ef8775680ab4/master.m3u8?1676394499"
+                },
+                {
+                    "id": null,
+                    "title": "Shooting 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/552/7311ba3beb7a2a10658082beba0fe6fd/master.m3u8?1676394508"
+                },
+                {
+                    "id": null,
+                    "title": "Shooting 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/553/e36ab949351ad5c08cc7f8ef28dfda7f/master.m3u8?1676394506"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wegdsn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Completando nuestras imágenes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revelado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/554/c78c12b7f4788f6b41a73d90b76cfaa8/master.m3u8?1676394503"
+                },
+                {
+                    "id": null,
+                    "title": "Escaneado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/555/1c2e634ffb34440c4b69a58c5e8dcd5d/master.m3u8?1676394500"
+                },
+                {
+                    "id": null,
+                    "title": "Edición y selección 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/559/7e9a4b559426440964e451540117d4dd/master.m3u8?1676394507"
+                },
+                {
+                    "id": null,
+                    "title": "Edición y selección 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/564/fdbed3cfedb05b55fe3ea34bb4bad12f/master.m3u8?1676394514"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cpuyq7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/uhjcqy.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1784,
+        "product_name": "Introduction to Analog Photography",
+        "teacher_name": "CARMENCITA FILM LAB",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 12643,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

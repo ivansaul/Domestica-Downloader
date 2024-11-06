@@ -1,0 +1,164 @@
+{
+    "id": "1620",
+    "title": "Copywriting para redes sociales",
+    "url": "https://www.domestika.org/es/courses/1620-copywriting-para-redes-sociales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/328/8f9f3c390ae090847c4eb34e749d8082/master.m3u8?1676392893"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/329/da084788de99b014f26df494c48f7934/master.m3u8?1676392894"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/332/86a44cdc74fe9280f005ef440f581d2b/master.m3u8?1676392893"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5m3is3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El momento de prepararse",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entiendiendo el brief 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/336/bb4e80cdf8de70a20bfefb1b777401e0/master.m3u8?1676392900"
+                },
+                {
+                    "id": null,
+                    "title": "Entiendiendo el brief 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/349/696d0f20d034a98217694a0944c07ebb/master.m3u8?1676392900"
+                },
+                {
+                    "id": null,
+                    "title": "Es importante investigar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/350/52433fc353deec4278e861e607ce4da0/master.m3u8?1676392906"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x4j9id.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollando la idea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Métodos para encontrar una idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/351/ec8f0e0fdf117fc5f3869bf736a814ec/master.m3u8?1676392905"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollando la idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/352/bd94259dc81f8e99ef20cf032183ec1d/master.m3u8?1676392908"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4x638i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Redes sociales y redacción publicitaria",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fundamentos de redacción publicitaria",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/353/c78c14b47494ce231e44ded7d1673431/master.m3u8?1676392903"
+                },
+                {
+                    "id": null,
+                    "title": "La redacción publicitaria en redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/354/11b1640bdbcdd9be089df195b245ba7e/master.m3u8?1676392900"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo escribir para redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/355/519752b8c20d730ad376486a1f20b422/master.m3u8?1676392901"
+                },
+                {
+                    "id": null,
+                    "title": "Escribamos algunas líneas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/356/7110de1f7623d0ee29e27a17ae01758e/master.m3u8?1676392905"
+                },
+                {
+                    "id": null,
+                    "title": "Usa una fórmula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/357/e500ae802ec3a009fa43fee5f4771e56/master.m3u8?1676392903"
+                },
+                {
+                    "id": null,
+                    "title": "Dale un giro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/358/46ab52cfe187525c83d8d3002f52d09b/master.m3u8?1676392908"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gksnes.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cvbt6e.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1620,
+        "product_name": "Copywriting for Social Media",
+        "teacher_name": "Paul Anglin",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8953,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

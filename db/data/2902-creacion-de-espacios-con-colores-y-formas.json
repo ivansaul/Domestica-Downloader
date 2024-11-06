@@ -1,0 +1,157 @@
+{
+    "id": "2902",
+    "title": "Creación de espacios con colores y formas",
+    "url": "https://www.domestika.org/es/courses/2902-creacion-de-espacios-con-colores-y-formas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/493/bcc8ff9172d4d8bb80412d627dbbfac8/master.m3u8?1676403074"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/494/dad1f4a7c36cd2d5b063586e7286e946/master.m3u8?1676403073"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0zvmus.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entrenando la mirada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/495/4fabf652f5f661df0cb09ae86949f643/master.m3u8?1676403076"
+                },
+                {
+                    "id": null,
+                    "title": "El círculo cromático y las sensaciones cromáticas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/496/d8f16d5a2b1ce848ed799fd786594525/master.m3u8?1676403076"
+                },
+                {
+                    "id": null,
+                    "title": "Desenredando el briefing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/497/ed2407c1f740e02e5147f949e13fd47d/master.m3u8?1676403077"
+                },
+                {
+                    "id": null,
+                    "title": "Estudio de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/499/5aab9036083224d9d382c6327c6653a6/master.m3u8?1676403079"
+                },
+                {
+                    "id": null,
+                    "title": "Creando el mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/500/dce6adeae35d5614d41506fcc9085e3d/master.m3u8?1676403079"
+                },
+                {
+                    "id": null,
+                    "title": "Creando el concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/902/04976b8c062dbad2f1670309225af024/master.m3u8?1676405103"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ir0ymq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollando el proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Probando el moodboard salón y cocina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/501/53131606fcefc7b61561be07cf021bde/master.m3u8?1676403083"
+                },
+                {
+                    "id": null,
+                    "title": "Probando el moodboard baño dormitorio y oficina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/502/745fdd87bd052fbb1cc0435d5f2c143b/master.m3u8?1676403081"
+                },
+                {
+                    "id": null,
+                    "title": "Los colores en la práctica la reforma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/503/de90d485f912f93fedcccf95728f98d1/master.m3u8?1676403081"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5rv471.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Organización del espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/516/a1cc19afafdb235d960b236d2934ed39/master.m3u8?1676403084"
+                },
+                {
+                    "id": null,
+                    "title": "Publicidad para atraer clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/517/bb250707f075a83af9c7436d941fcd62/master.m3u8?1676403087"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/er43y9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rby2a9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2902,
+        "product_name": "Designing Spaces with Colors and Shapes",
+        "teacher_name": "Ohma",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4129,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "id": "3452",
+    "title": "Estrategias comunicativas para creativos",
+    "url": "https://www.domestika.org/es/courses/3452-estrategias-comunicativas-para-creativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/259/1ad3266c6465330625418553ba0c82e6/master.m3u8?1692320024"
+                },
+                {
+                    "id": null,
+                    "title": "Mis fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/260/2a82171abaf16cbc9740bbc10673d771/master.m3u8?1692376831"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/19602k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pensar globalmente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Construyendo tu narrativa el hilo conductor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/262/c6b9c1b95f7247e250d1d17be5f03bd0/master.m3u8?1689866356"
+                },
+                {
+                    "id": null,
+                    "title": "Identificar clientes potenciales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/263/4517dd9b6dc4e33027bf12e901259982/master.m3u8?1689867137"
+                },
+                {
+                    "id": null,
+                    "title": "Componer la cartera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/264/dadb7d059774c9a2c5c11e780e4f56f9/master.m3u8?1689867249"
+                },
+                {
+                    "id": null,
+                    "title": "Las redes sociales y sus especificidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/280/8dac4688dbcf8a60f03d3219c9392641/master.m3u8?1689875815"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lllpkd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear un boletín con MailChimp",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las características de un boletín",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/450/915809b560a95a9c1b75eb450d11e8e3/master.m3u8?1692320042"
+                },
+                {
+                    "id": null,
+                    "title": "El tema y el calendario editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/451/6d28a304cecfc0aef792ebce0b05ee02/master.m3u8?1692320061"
+                },
+                {
+                    "id": null,
+                    "title": "Escribiendo el texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/452/75d3f88d971047d54b22a52f8c1ca694/master.m3u8?1692320078"
+                },
+                {
+                    "id": null,
+                    "title": "Formato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/453/b42a98e53772b215e407410a69b44ee4/master.m3u8?1692320094"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w2r6d7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Algunos consejos más",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Optimice el sondeo con la herramienta Informes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/454/722e449b3581ac12993ee00273b31f46/master.m3u8?1692320112"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas para reutilizar el contenido del boletín",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/455/efc25898db6844def1a4e43366fb4f90/master.m3u8?1692320128"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w5jt3y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hu2xru.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3452,
+        "product_name": "Build a Communication Strategy as a Creative",
+        "teacher_name": "Marion Turminel",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 8819,
+        "total_units": 4,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

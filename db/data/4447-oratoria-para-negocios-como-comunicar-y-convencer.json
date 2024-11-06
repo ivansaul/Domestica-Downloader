@@ -1,0 +1,158 @@
+{
+    "id": "4447",
+    "title": "Oratoria para negocios cómo comunicar y convencer",
+    "url": "https://www.domestika.org/es/courses/4447-oratoria-para-negocios-como-comunicar-y-convencer/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/997/8ebd37cf75186eb4953127771715fa11/master.m3u8?1676410058"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/998/d7ab0309680b4a5ee6fd73f469c44ad2/master.m3u8?1676410057"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gmy5dg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo te comunicas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeras impresiones y por qué son importantes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/999/9ac16498a90cc4a9930b02588eaffc09/master.m3u8?1676410058"
+                },
+                {
+                    "id": null,
+                    "title": "Estado en el escenario y qué aprender de él",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/000/78a23c3f045317296b012ebba2fc7418/master.m3u8?1676410058"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir la forma correcta de comunicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/001/561d2d2eeee471f0cfa6014c7605138b/master.m3u8?1676410060"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rgnece.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué comunicas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Venderte a ti mismo preparación narrativa para una entrevista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/002/e858380a11478fc3e951302c700d6741/master.m3u8?1676410060"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un elevator pitch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/003/0797942885a5af1b174bc64f10147ed3/master.m3u8?1676410062"
+                },
+                {
+                    "id": null,
+                    "title": "Narración cómo escribir tu historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/004/331a1ea891c7f067490bbfa4083f7ff2/master.m3u8?1676410060"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación del día",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/005/20f629574a7b535cc842c7ff82dd71f9/master.m3u8?1676410062"
+                },
+                {
+                    "id": null,
+                    "title": "Las habilidades clásicas de la retórica y cómo aplicarlas a la vida moderna",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/006/43b95130bc40439102c7c85bd3c3a7fd/master.m3u8?1676410062"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9wqf5n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Por qué te comunicas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Negociaciones financieras cómo obtener su valor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/007/924c5230e2724295110f740150178f5f/master.m3u8?1676410063"
+                },
+                {
+                    "id": null,
+                    "title": "La escucha activa y otros consejos para una comunicación eficaz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/009/eaa175d6aabc14244ceb8e8b643aa678/master.m3u8?1676410063"
+                },
+                {
+                    "id": null,
+                    "title": "Conversaciones difíciles cómo lidiar con los conflictos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/010/0c5252b5142157971844b7e676ae0605/master.m3u8?1676410071"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uc5j8i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9eypfl.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4447,
+        "product_name": "Public Speaking for Business: Pitch and Persuade like a Pro",
+        "teacher_name": "Dasha Dollar-Smirnova",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5138,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

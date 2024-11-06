@@ -1,0 +1,169 @@
+{
+    "id": "3849",
+    "title": "Introducción al diseño para el metaverso",
+    "url": "https://www.domestika.org/es/courses/3849-introduccion-al-diseno-para-el-metaverso/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/738/9db37968f36d5475949008fc8685f12b/master.m3u8?1721660878"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/739/b5f19f8f6dd2d4d6ed26e7805c5c8008/master.m3u8?1721660954"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/46fvku.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Contexto y software",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Concepto Web3 y etapa actual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/740/be129b9e82f682e5a304321810a55e6e/master.m3u8?1721661433"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es el metaverso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/741/01cbbee98079120f995a6882280f82ed/master.m3u8?1721661695"
+                },
+                {
+                    "id": null,
+                    "title": "Pensando en 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/742/f1e25e23f97cf748b3f6f1a467e12912/master.m3u8?1721661797"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo Blender y cómo funciona una base de proyectos 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/743/956a6ac2bc7120604b66f84bd5c50e3b/master.m3u8?1721661926"
+                },
+                {
+                    "id": null,
+                    "title": "Spark AR y cómo fusionar el proyecto con el mundo real",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/744/b73a3739e4ed690d52aebd281d7defdd/master.m3u8?1721662157"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qlif9g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "producción de proyectos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elija la experiencia del proyecto y lo que se necesita",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/745/8f544f2099e3a87e168cb1dc6a447354/master.m3u8?1721913939"
+                },
+                {
+                    "id": null,
+                    "title": "Planifica la obra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/746/8ce3e18dba998839cbd2196889ed933f/master.m3u8?1721914055"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de bloque en Blender",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/747/74c2851539e647040d4955d9deee1134/master.m3u8?1721914173"
+                },
+                {
+                    "id": null,
+                    "title": "Producir los elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/748/f31ac455f4dc6864ed6531c79ae4e32e/master.m3u8?1721914496"
+                },
+                {
+                    "id": null,
+                    "title": "Probar y perfeccionar la pieza de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/749/c8ec7afc5bc8e374b14261645a812faf/master.m3u8?1721914698"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar a Spark AR",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/750/72fba7b3be055526f0ad842e27c679b6/master.m3u8?1721914777"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/scuk04.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Experimente el refinamiento del diseño y el viaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Publicar la experiencia en las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/751/d8cbc63635255b1d5546a9b3177f7ad7/master.m3u8?1721914849"
+                },
+                {
+                    "id": null,
+                    "title": "Publicar la experiencia como NFT y como banner virtual en WebXR",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/752/0d061a3c64c20510caf9b49a87b8a4d1/master.m3u8?1721914937"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4rpckg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9avdo0.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3849,
+        "product_name": "Introduction to Design for the Metaverse",
+        "teacher_name": "CLELIO DE PAULA",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 10777,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt",
+            "en"
+        ],
+        "original_language": "pt"
+    }
+}

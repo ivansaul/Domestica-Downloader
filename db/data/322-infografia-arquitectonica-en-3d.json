@@ -1,0 +1,182 @@
+{
+    "id": "322",
+    "title": "Infografía arquitectónica en 3D",
+    "url": "https://www.domestika.org/es/courses/322-infografia-arquitectonica-en-3d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/169/6e74c522f6739f86db64f11a17f60f24/master.m3u8?1676384438"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/170/b3a3d4acf235a188fa189850ee889ab3/master.m3u8?1676384447"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cvs7ea.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado y Referencias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Imágenes de referencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/164/d3d1a808c1b68a6fda3eefd74fbc0553/master.m3u8?1676384435"
+                },
+                {
+                    "id": null,
+                    "title": "Importar planos y Modelado básico de espacio interior",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/166/40dc22384e36a3337d994bd8c59b1911/master.m3u8?1676384442"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wo7xh9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Colocación de cámara Shading e Iluminación básica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Colocación de cámara e iluminación básica de la estancia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/171/1489f6c33e1104ae34742c4afcd48fb3/master.m3u8?1676384449"
+                },
+                {
+                    "id": null,
+                    "title": "Shading de la estancia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/172/43499158fc22c786a74bc3333338c432/master.m3u8?1676384455"
+                },
+                {
+                    "id": null,
+                    "title": "Shading de la estancia II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/173/a809bfb9c4f6803e67c6356317c1642c/master.m3u8?1676384448"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eb5wux.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Decoración y Composición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Decoración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/174/622787034b8d7cc9644f23d45bbc6daf/master.m3u8?1676384445"
+                },
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/175/3a8419870018c217927c913d0ec7b520/master.m3u8?1676384445"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pc3n7t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos retoques y Renderizado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Últimos Retoques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/176/ee7ccbe1f0b129d7ee4957bc9c95bc4d/master.m3u8?1676384446"
+                },
+                {
+                    "id": null,
+                    "title": "Renderizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/177/c9f5ee6b8e86ef576def1fa3a71ce769/master.m3u8?1676384444"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gtequf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Postproducción en 32 bits",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/178/ed3ba5bf72682d208d401a0da06a5dc6/master.m3u8?1676384453"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes finales en 16 bits",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/179/c1496c1748fe82ed3aaab0da790c3ed5/master.m3u8?1676384443"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/36km5m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/oas7cj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 322,
+        "product_name": "Infoarchitecture in 3D",
+        "teacher_name": "AMO 3D Visual",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8626,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

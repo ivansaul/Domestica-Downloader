@@ -1,0 +1,220 @@
+{
+    "id": "3588",
+    "title": "Creación de sitios web sin código con Webflow",
+    "url": "https://www.domestika.org/es/courses/3588-creacion-de-sitios-web-sin-codigo-con-webflow/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/693/aa800a8ac114174396e9e09eecb9f01d/master.m3u8?1676405010"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/694/beb6c10a21074c14ab2f6470e7dbf77b/master.m3u8?1676405007"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7kfnm9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Flujo web descripción general sin código y creación de guía de estilo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a NoCode",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/695/da36cafd5ffd639a9385af13216515b4/master.m3u8?1676405007"
+                },
+                {
+                    "id": null,
+                    "title": "Funciones principales de flujo web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/696/963e5a4e8d7aa64034c04070a6b6794c/master.m3u8?1676405009"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/697/4a73acda3e5f00633be624b08740492b/master.m3u8?1676405007"
+                },
+                {
+                    "id": null,
+                    "title": "Guía de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/698/ee6945a6d326418501f106d8e7830481/master.m3u8?1676405008"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de guía de estilo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/699/d600b1c73f1f41964408b203feea35e1/master.m3u8?1676405011"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de guía de estilo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/700/5bbf0116f1de33cf5848dcd735a80819/master.m3u8?1676405011"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c8ny1p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo de la versión de escritorio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sección de héroe",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/701/4b4bb67249f0b00bede1465de599995e/master.m3u8?1676405012"
+                },
+                {
+                    "id": null,
+                    "title": "Navegación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/702/136b28db547a52d57647165e717aab0e/master.m3u8?1676405019"
+                },
+                {
+                    "id": null,
+                    "title": "Secciones de caso de estudio 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/703/3039f51745376e7a065fce275ab9b223/master.m3u8?1676405012"
+                },
+                {
+                    "id": null,
+                    "title": "Secciones de caso de estudio 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/704/30812210412dcd281a91ad592b72ccc9/master.m3u8?1676405018"
+                },
+                {
+                    "id": null,
+                    "title": "Collage Sección 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/705/2e60949e7a17ee82f0d6a807eebeefbc/master.m3u8?1676405013"
+                },
+                {
+                    "id": null,
+                    "title": "Collage Sección 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/706/f9422a23da29e363abb5ad0fec94346e/master.m3u8?1676405013"
+                },
+                {
+                    "id": null,
+                    "title": "Sección de clientes y formulario sencillo de newsletter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/707/8dcacf11959d4f63808390963ee9bdf5/master.m3u8?1676405015"
+                },
+                {
+                    "id": null,
+                    "title": "Pie de página",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/708/c1e980f6a89308d6f5914627716e83ef/master.m3u8?1676405018"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3r2kq0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del sitio web receptivo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Vista de la tableta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/709/b7b107d04fd05ffcc9c14508a97b1d8a/master.m3u8?1676405020"
+                },
+                {
+                    "id": null,
+                    "title": "Vista horizontal y vertical móvil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/710/9b0a18e8b967f5375ff134bff0b500f1/master.m3u8?1676405016"
+                },
+                {
+                    "id": null,
+                    "title": "Formularios de prueba",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/711/e350cde6b8d3e67ba90e6a549b5fbc3c/master.m3u8?1676405015"
+                },
+                {
+                    "id": null,
+                    "title": "Interacciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/712/fd7f8ee6e1a7d280f58080c327979df1/master.m3u8?1676405016"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qqttpf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Detalle final puesta en marcha y mantenimiento futuro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Optimización SEO y hosting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/713/0e740d8df49fcdec629edb7474ca51bf/master.m3u8?1676405016"
+                },
+                {
+                    "id": null,
+                    "title": "Panel de mantenimiento editor y activos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/714/b2d34fb585a30a23271a22847694da3b/master.m3u8?1676405017"
+                },
+                {
+                    "id": null,
+                    "title": "Explorar el CMS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/715/3bdfc9d4012fed9fe08054195ec021f1/master.m3u8?1676405020"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fwmf8h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7o9uh2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3588,
+        "product_name": "Website Creation with Webflow: Build a Site without Code",
+        "teacher_name": "Jan Losert",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 23,
+        "course_total_duration_sec": 19073,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

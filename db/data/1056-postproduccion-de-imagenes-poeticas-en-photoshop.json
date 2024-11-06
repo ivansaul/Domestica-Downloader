@@ -1,0 +1,180 @@
+{
+    "id": "1056",
+    "title": "Postproducción de imágenes poéticas en Photoshop",
+    "url": "https://www.domestika.org/es/courses/1056-postproduccion-de-imagenes-poeticas-en-photoshop/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/633/c6ae6848841b0e3f2b41fd31d1189df4/master.m3u8?1676390134"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/628/1a4ac7df2214836033e2dea243ea7725/master.m3u8?1676390133"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/627/52fb13075c8007be997207a58bff83c5/master.m3u8?1676390133"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l2qetc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Luz y sombra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Histograma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/969/76cfec7f1fb09b6b72d6d7eeab4fa03f/master.m3u8?1676388903"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes de brillo con Adobe Camera Raw",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/977/067c670dd1b1b3752521c866d3663de4/master.m3u8?1676388913"
+                },
+                {
+                    "id": null,
+                    "title": "Lectura de luces y sombras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/622/e85043810029e90ea8c9c5d9b968957f/master.m3u8?1676390129"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lu8y0g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cromaticidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ajustes de cromaticidad en Adobe Camera Raw",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/980/f3cd954fc243de60b31583405914b245/master.m3u8?1676388909"
+                },
+                {
+                    "id": null,
+                    "title": "Círculo cromático",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/594/aa314121f0127fd2d66e197f827b197f/master.m3u8?1676390121"
+                },
+                {
+                    "id": null,
+                    "title": "Lectura de cromaticidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/623/7bb6086c4a285a0b823481444957579a/master.m3u8?1676390130"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/umgnej.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La idea del ensayo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Briefing y recomendaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/981/f1bbebf4c543b91d3fd423ad264f901f/master.m3u8?1676388907"
+                },
+                {
+                    "id": null,
+                    "title": "Ecualización de imagen Camera Raw",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/982/1973a2c400734e32f6f7a9616139a021/master.m3u8?1676388908"
+                },
+                {
+                    "id": null,
+                    "title": "Máscara de capa Camera Raw  Adobe Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/227/270663b0fec843e2de6dbaf4013ba7fd/master.m3u8?1676389012"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes puntuales máscaras de ajuste en Adobe Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/619/7f2fc1d6308eeb7487472bbdc992f46b/master.m3u8?1676390135"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tmjhda.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diferentes tratamientos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/630/6f633679e258d08289c88eff0e2ce28b/master.m3u8?1676390136"
+                },
+                {
+                    "id": null,
+                    "title": "Cierre el archivo impresión web y redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/631/f1c28bfa24be04199dd3d94acbd1a3b6/master.m3u8?1676390135"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z51fit.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8ltn3f.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1056,
+        "product_name": "Poetic Image Post-production in Photoshop",
+        "teacher_name": "Carol Lopes",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 6990,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}
