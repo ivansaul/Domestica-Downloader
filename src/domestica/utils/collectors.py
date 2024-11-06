@@ -81,6 +81,8 @@ async def fetch_course(url: str, context: BrowserContext) -> Course:
         raise Exception("Could not get sections")
     except Exception as e:
         raise e
+    finally:
+        await page.close()
 
     # Capture content as PDF
     pdf_content_url = await tools.upload_from_bytes(
@@ -119,6 +121,8 @@ async def fetch_section(url: str, context: BrowserContext) -> Section:
         section_title = await page.locator("header.paper__header h2").text_content()
     except TimeoutError:
         raise Exception("Could not get section title")
+    finally:
+        await page.close()
 
     if section_title is None:
         raise Exception("Could not get section title")
@@ -143,6 +147,8 @@ async def fetch_section(url: str, context: BrowserContext) -> Section:
     except KeyError:
         # TODO: improve logging
         print("Could not get section videos")
+    finally:
+        await page.close()
 
     # Capture content as PDF
     pdf_content_url = await tools.upload_from_bytes(
