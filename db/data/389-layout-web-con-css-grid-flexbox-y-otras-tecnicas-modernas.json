@@ -1,0 +1,242 @@
+{
+    "id": "389",
+    "title": "Layout web con CSS Grid Flexbox y otras técnicas modernas",
+    "url": "https://www.domestika.org/es/courses/389-layout-web-con-css-grid-flexbox-y-otras-tecnicas-modernas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/063/6db9884646f2183e076d14cb141f43dc/master.m3u8?1676384818"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/064/7b7216546a2414fa847c4f4d948613ef/master.m3u8?1676384819"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/am4jwc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dando forma al layout",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las viewport units",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/065/0b72fe158ed915971c3cf5675627eab6/master.m3u8?1676384820"
+                },
+                {
+                    "id": null,
+                    "title": "Imágenes con objectfit",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/066/02784f9784c4cc791c46ee6b5e0ace47/master.m3u8?1676384820"
+                },
+                {
+                    "id": null,
+                    "title": "CSS columns",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/067/25796c66807e6db7328a57a6dfbee3c1/master.m3u8?1676384821"
+                },
+                {
+                    "id": null,
+                    "title": "CSS shapes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/068/0620af9b8d0053b4c2d14f94981c3b56/master.m3u8?1676384821"
+                },
+                {
+                    "id": null,
+                    "title": "Variables en CSS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/069/360f38854b5518eaf7820f521c01502a/master.m3u8?1676384820"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/umnivc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Layout en una dimensión con flexbox",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a flexbox",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/070/5b970080e1534def53e7d724b0ab8c24/master.m3u8?1676384821"
+                },
+                {
+                    "id": null,
+                    "title": "Propiedades del contenedor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/071/7dde37a56f107373d6a78f742a547a88/master.m3u8?1676384821"
+                },
+                {
+                    "id": null,
+                    "title": "Propiedades del contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/072/e9f432009e316992a7fd635105c4185b/master.m3u8?1676384823"
+                },
+                {
+                    "id": null,
+                    "title": "Alineaciones en eje principal y eje cruzado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/073/2f259677ac12cb19d84cda8cc6d229a6/master.m3u8?1676384823"
+                },
+                {
+                    "id": null,
+                    "title": "Alineaciones avanzadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/074/88141d170acab95d627b967fdb9b913c/master.m3u8?1676384823"
+                },
+                {
+                    "id": null,
+                    "title": "Layouts avanzados con flexbox",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/075/063d36e11a595d1e91903cec77887463/master.m3u8?1676384823"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f825x7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Layout en dos dimensiones con CSS grid",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a CSS grid",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/076/ca6db4ab85460cd71194774eee541ca6/master.m3u8?1676384822"
+                },
+                {
+                    "id": null,
+                    "title": "Funciones de retícula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/077/6c1cfd2274711c0edd1b7e65d1d5eb43/master.m3u8?1676384823"
+                },
+                {
+                    "id": null,
+                    "title": "Distribución y tamaño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/078/ebfa48bfa6060efde308a87f068f4ce1/master.m3u8?1676384825"
+                },
+                {
+                    "id": null,
+                    "title": "Grid responsive automático",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/079/db9c75aa9b7c0a1b72b492e2c36fa4c3/master.m3u8?1676384823"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/srlw3q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "CSS grid avanzado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Áreas en la retícula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/080/570bcbec2469b135093b2a5107278912/master.m3u8?1676384825"
+                },
+                {
+                    "id": null,
+                    "title": "Alineación y orden",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/081/8aac01890ec567d0264ab4e908ad9817/master.m3u8?1676384827"
+                },
+                {
+                    "id": null,
+                    "title": "Anidación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/082/52a6a2b8e9861180b019be929b296ecc/master.m3u8?1676384825"
+                },
+                {
+                    "id": null,
+                    "title": "Grid y flexbox en práctica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/083/77bd9a5ca4dff49d2b495615a259b792/master.m3u8?1676384827"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s3ixkv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La tercera dimensión profundidad y efectos en scroll",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a las transformaciones 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/084/4623b071301417f89b21f545457b776b/master.m3u8?1676384827"
+                },
+                {
+                    "id": null,
+                    "title": "Cabeceras fijas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/085/6f0f54736e8901c163f9ef0747709d68/master.m3u8?1676384826"
+                },
+                {
+                    "id": null,
+                    "title": "Animaciones sincronizadas con scroll",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/086/4dc20bcbecaf700b6f82d2ddc982c57a/master.m3u8?1676384827"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración y recursos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/087/13f46c53272001c5ab7a334754dd96dd/master.m3u8?1676384826"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2wsiv8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/5b192l.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 389,
+        "product_name": "Web Layout with CSS Grid, Flexbox and other Modern Techniques",
+        "teacher_name": "Javier Usobiaga Ferrer",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "advanced",
+        "course_number_of_lessons": 25,
+        "course_total_duration_sec": 8219,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "id": "29",
+    "title": "Identidad visual handmade",
+    "url": "https://www.domestika.org/es/courses/29-identidad-visual-handmade/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Empezamos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre Tatabi",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/515/3bc9bf3829a925d888f67ae6ce34da4f/master.m3u8?1676380680"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/501/4f143b4ade250e4a9a20c4f008fbb454/master.m3u8?1676380675"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/agrzl3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Enfocando la marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Personalidad de la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/502/43f14cd5b7accbc9542041f7f560d657/master.m3u8?1676380672"
+                },
+                {
+                    "id": null,
+                    "title": "Variables gráficas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/503/16911bec429fc82d5e83d172fd949b9d/master.m3u8?1676380677"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q20wtg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/504/59a76288ad822f599166b769dc33827a/master.m3u8?1676380678"
+                },
+                {
+                    "id": null,
+                    "title": "Libros técnicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/505/520910ab690523d2e92d9de95b1c0a78/master.m3u8?1676380672"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/knn7h3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La papelería",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño del logo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/506/b66aa79f77b335259d887614e63b268f/master.m3u8?1676380676"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de las tarjetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/507/6c6d659d36f40595a402938e0d5354bf/master.m3u8?1676380677"
+                },
+                {
+                    "id": null,
+                    "title": "Producción de las tarjetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/508/9482becbb18fab2dbf247127f389a45d/master.m3u8?1676380675"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas tarjetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/516/66072d2ee96621bc47b2d8fd17e40c8c/master.m3u8?1676380681"
+                },
+                {
+                    "id": null,
+                    "title": "Packaging con serigrafía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/509/261d62243b88733ad94b4b1a4ad5a511/master.m3u8?1676380675"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pfswfz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El catálogo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de encuadernación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/510/9fcae0f20ea68a5afc82665512dd699e/master.m3u8?1676380674"
+                },
+                {
+                    "id": null,
+                    "title": "Maquetando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/511/52f5ef63fe62f1dfa2a4151d5139a5db/master.m3u8?1676380677"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando el catálogo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/206/f28e14f5f4f7f2887deb290873ef8aec/master.m3u8?1676381022"
+                },
+                {
+                    "id": null,
+                    "title": "Encuadernando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/207/3fb33444b5b9ba32a81a29e990c53b98/master.m3u8?1676381028"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rwe0fw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/yo9w1p.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 29,
+        "product_name": "Handmade Visual Identity",
+        "teacher_name": "Tatabi Studio",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9228,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

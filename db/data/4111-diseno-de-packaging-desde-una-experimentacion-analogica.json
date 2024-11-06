@@ -1,0 +1,178 @@
+{
+    "id": "4111",
+    "title": "Diseño de packaging desde una experimentación analógica",
+    "url": "https://www.domestika.org/es/courses/4111-diseno-de-packaging-desde-una-experimentacion-analogica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/029/c16f7fc76f2b696327bc3853fd7aa7f6/master.m3u8?1676407596"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/030/58a9b84f1cfa16ecd368047875eb1b8b/master.m3u8?1676407596"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8ikpwo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando el esqueleto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/036/bef5df6b8d77d325bcdcc4ee769db179/master.m3u8?1676407595"
+                },
+                {
+                    "id": null,
+                    "title": "Comprender el resumen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/038/b884344edf030ea4d57706b14ffc6433/master.m3u8?1676407598"
+                },
+                {
+                    "id": null,
+                    "title": "El tablero de humor 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/041/c2e3ccef33db9452bf3a643d492ba38d/master.m3u8?1676407603"
+                },
+                {
+                    "id": null,
+                    "title": "El tablero de humor 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/042/2b023793a5fb3ab2d89ca7b239ac27a3/master.m3u8?1676407604"
+                },
+                {
+                    "id": null,
+                    "title": "El mapa mental y los bocetos conceptuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/040/337d4a77d729a751c79fbf66d7a9f1ce/master.m3u8?1676407601"
+                },
+                {
+                    "id": null,
+                    "title": "El logotipo la tipografía y la paleta de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/046/4ae33bd285b812728f07735a8cdf1031/master.m3u8?1676407606"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8vg6y5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El diseño del embalaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Jugando con pincel y tinta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/047/1f9c3d462aa9e416dba6d787798d88a8/master.m3u8?1676407606"
+                },
+                {
+                    "id": null,
+                    "title": "Experimentando con carbón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/048/967749b7e9f28efbff35d0e0c2af1b85/master.m3u8?1676407603"
+                },
+                {
+                    "id": null,
+                    "title": "Adobe Photoshop selección escaneo y edición de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/049/2c6594a5f289c4f9d93cf168e049f562/master.m3u8?1676407607"
+                },
+                {
+                    "id": null,
+                    "title": "Explorando el linóleo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/050/5ac527076760f5154824968f4a89170e/master.m3u8?1676407608"
+                },
+                {
+                    "id": null,
+                    "title": "Adobe Illustrator creación de la guía de corte y preparación del diseño 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/051/3b0e65050c9a8561ae9687285b63e4af/master.m3u8?1676407612"
+                },
+                {
+                    "id": null,
+                    "title": "Adobe Illustrator creación de la guía de corte y preparación del diseño 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/052/786a0faef3e15fd8495a39d9c5b1204f/master.m3u8?1676407613"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oer0pg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalizar y documentar el diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Imprimir y hacer maquetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/053/8eeb88df63ec205d1645c2d743d0df29/master.m3u8?1676407609"
+                },
+                {
+                    "id": null,
+                    "title": "Añadiendo personalidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/054/68abbb58daf8363725a2be10eaa69008/master.m3u8?1676407608"
+                },
+                {
+                    "id": null,
+                    "title": "La presentación del cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/055/17ce233fe1497e171c3c6384231e8fba/master.m3u8?1676407609"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x6ph1w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/pzmoxx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4111,
+        "product_name": "Packaging Design through analogue experimentation",
+        "teacher_name": "Pata Studio",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 9793,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "id": "1990",
+    "title": "Diseño de aplicaciones creación de prototipos para principiantes",
+    "url": "https://www.domestika.org/es/courses/1990-diseno-de-aplicaciones-creacion-de-prototipos-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción a la creación rápida de prototipos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/139/aaf2bebc0ca633ec5f70755e7ea7f868/master.m3u8?1676397008"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/140/1437009facc8cf755d8b421bf0d09bfb/master.m3u8?1676397007"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gfcvh2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la idea al prototipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El increíble poder de la creación de prototipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/141/4516f8a7162b05c2793fe01a24be0600/master.m3u8?1676397008"
+                },
+                {
+                    "id": null,
+                    "title": "La evolución de las herramientas de creación de prototipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/142/1828440336944b31426000b6a0cc2a48/master.m3u8?1676397009"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a Figma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/143/d4f4b686b92e801bb4f7490e8b154e3f/master.m3u8?1676397011"
+                },
+                {
+                    "id": null,
+                    "title": "Kits de interfaz de usuario de abastecimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/144/556142594a76fc965123c05561437bea/master.m3u8?1676397012"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v1pcvs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación del diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recopilación de referencias e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/145/af355012452ef1041a65072bfa413bc2/master.m3u8?1676397012"
+                },
+                {
+                    "id": null,
+                    "title": "Esbozando tu idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/146/1aaca55e809186237c5d9f0bc40dbfbe/master.m3u8?1676397018"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de archivos y componentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/147/20aeb75529f28c834a22d36009374fd0/master.m3u8?1676397017"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l8pgfg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño y creación de prototipos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Flujo de registro 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/148/3fa9119066f82c4442c9ed8945044fd5/master.m3u8?1676397015"
+                },
+                {
+                    "id": null,
+                    "title": "Flujo de registro 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/149/79a2c8980e7db078e47861c88e14ac2c/master.m3u8?1676397015"
+                },
+                {
+                    "id": null,
+                    "title": "Hogar estado de ánimo meditación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/150/6684db4de659ae8c4e7adb9c53f7946b/master.m3u8?1676397016"
+                },
+                {
+                    "id": null,
+                    "title": "Hogar estado de ánimo meditación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/151/0b2a08b2f64e068057cb176bb24d76aa/master.m3u8?1676397017"
+                },
+                {
+                    "id": null,
+                    "title": "Hogar estado de ánimo meditación 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/152/b0cd3c7c693b834a5e2e12429e5dd019/master.m3u8?1676397016"
+                },
+                {
+                    "id": null,
+                    "title": "Hogar estado de ánimo meditación 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/153/a5d58b23bd7fcdc631d1d65d442e586b/master.m3u8?1676397016"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/154/1cc51cfd91eb0a66df69a93a9b4e57dc/master.m3u8?1676397019"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/155/15e77464d7a82d36ddf5a8b4fa344cd6/master.m3u8?1676397028"
+                },
+                {
+                    "id": null,
+                    "title": "Pulido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/156/317e60ec7dd1e12fc228bf2fa82515d8/master.m3u8?1676397021"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fwyinn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Validar y probar su idea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a las pruebas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/157/0f466167230e450202c2dde5be2ae28b/master.m3u8?1676397017"
+                },
+                {
+                    "id": null,
+                    "title": "Prueba de usuario moderada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/158/407c9b4f468c3be64eb35d49d866e261/master.m3u8?1676397022"
+                },
+                {
+                    "id": null,
+                    "title": "Pruebas no moderadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/159/650858d35d30e33333599a23462fcbe7/master.m3u8?1676397017"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/10k09t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/08jb8q.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1990,
+        "product_name": "App Design: Prototyping for Beginners",
+        "teacher_name": "Filippos Protogeridis",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 15766,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "id": "2011",
+    "title": "Diseño de estampados para superficies textiles con Photoshop",
+    "url": "https://www.domestika.org/es/courses/2011-diseno-de-estampados-para-superficies-textiles-con-photoshop/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/816/62ff11b5609699786df627fbb5052255/master.m3u8?1676400020"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/817/787e04ce0e074dc08dbfbd8347e43c1b/master.m3u8?1676400019"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/818/640170e86e57a0e7f5d8cc637328422b/master.m3u8?1676400020"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uhq768.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "planificando la impresión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/821/a103146778aa9035910301c6e8947a08/master.m3u8?1676400029"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/822/98a1d0a4e7f419f1af4ae4f83d96b6a1/master.m3u8?1676400025"
+                },
+                {
+                    "id": null,
+                    "title": "Montaje del boceto del patrón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/823/096346c47a26ca99a43dd8919a4cef8b/master.m3u8?1676400029"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tlgjyi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "dibujando el patrón",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Componer un patrón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/837/24481100301565ad0cdd22ad4eb6a86f/master.m3u8?1676400040"
+                },
+                {
+                    "id": null,
+                    "title": "compenetración y simulación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/838/50efd89444ce83128d1ffe2b4b595e3e/master.m3u8?1676400037"
+                },
+                {
+                    "id": null,
+                    "title": "Variaciones de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/839/0e72e6daba82588c2d7f2af150534c07/master.m3u8?1676400036"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ilaiiz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Terminando el patrón",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ajustes finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/847/2a850a3afa15512dacbe0e308777677c/master.m3u8?1676400040"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación para imprimir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/849/7275cedeac6efa736396b71c1fa65845/master.m3u8?1676400042"
+                },
+                {
+                    "id": null,
+                    "title": "Difusión del trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/851/54c6e668e12a6594a023200bff974038/master.m3u8?1676400046"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4mn149.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6yyms2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2011,
+        "product_name": "Textile Pattern Design with Photoshop",
+        "teacher_name": "Isabela de Oliveira",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5022,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

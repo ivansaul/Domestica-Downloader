@@ -1,0 +1,173 @@
+{
+    "id": "1737",
+    "title": "Introducción a la investigación UX",
+    "url": "https://www.domestika.org/es/courses/1737-introduccion-a-la-investigacion-ux/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/503/517e23d266ec664c60e7efa78250a5d8/master.m3u8?1676391424"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/504/60839a86aff170cd14ae217f6db42fa1/master.m3u8?1676391423"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/506/622ee8cc43ce5872f865ec33a38ddf54/master.m3u8?1676391422"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p57wrj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de la investigación de usuarios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la investigación de UX",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/507/0c3fb8ddf2156f6a0217c579196114fa/master.m3u8?1676391424"
+                },
+                {
+                    "id": null,
+                    "title": "Cuáles son las metodologías más comunes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/508/b4ae5215a67aa2cbe8057ffda535d96f/master.m3u8?1676391423"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación cuantitativa de usuarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/509/b7e55f36e9cea6c0c28235ed48dc9177/master.m3u8?1676391424"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación cualitativa de usuarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/510/f74ff019cd1adbec743871f3710fcded/master.m3u8?1676391425"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lk3674.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Planifique su investigación plan de investigación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Planificación de su investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/511/34bb80943ea883274336617710d14e16/master.m3u8?1676391423"
+                },
+                {
+                    "id": null,
+                    "title": "Redacción del plan de investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/512/f1c72eabedb57f44c37315a03a57fe27/master.m3u8?1676391428"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo elegir a los participantes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/513/7a8730bcb7f40a98e0ddff3cfbf39e48/master.m3u8?1676391424"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo escribir una guía de discusión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/514/12aa1b59f92f965492dc153eafbf0727/master.m3u8?1676391427"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r729nw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Planificación y realización de investigaciones de usuarios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo preparar la sesión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/515/be0b06db6643d85fa2068bfaa0156d4f/master.m3u8?1676391427"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo es una sesión cualitativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/516/65ed1ad38badf5899f8aba7ab9e52f07/master.m3u8?1676391427"
+                },
+                {
+                    "id": null,
+                    "title": "Visualice su investigación de usuario cualitativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/517/f3737ea20ac6701fc3a852672f9ad903/master.m3u8?1676391431"
+                },
+                {
+                    "id": null,
+                    "title": "Mapa de viaje del usuario y personas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/518/a89c6269c555538a0b210d09ea1b086e/master.m3u8?1676391431"
+                },
+                {
+                    "id": null,
+                    "title": "Mapa de viaje del usuario y Personas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/519/d6aecf303e176b4f9fa451f9302add63/master.m3u8?1676391432"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dsnv7k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/r5zkir.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1737,
+        "product_name": "UX Research 101",
+        "teacher_name": "Patricia Reiners",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 7943,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

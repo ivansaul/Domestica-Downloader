@@ -1,0 +1,153 @@
+{
+    "id": "986",
+    "title": "Diseño e identidad visual explora procesos creativos",
+    "url": "https://www.domestika.org/es/courses/986-diseno-e-identidad-visual-explora-procesos-creativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/059/719f3dc620431987f4b34670f6b29db5/master.m3u8?1676399097"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/060/534fdb86a6fb0955d7ecc34335df7adf/master.m3u8?1676399108"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5w4ro1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Adquisición de repertorio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Búsqueda y creación de repertorio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/062/7a5b29002a3dce2d657a8acb5ab0c4bd/master.m3u8?1676399099"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo el tema qué es un evento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/063/3b55201ce61dad9912e88120c980d3aa/master.m3u8?1676399102"
+                },
+                {
+                    "id": null,
+                    "title": "entendiendo la sesión informativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/064/66767e54a6b908239ece89d870c09887/master.m3u8?1676399099"
+                },
+                {
+                    "id": null,
+                    "title": "Organizando el trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/065/4f29ac2e80e3f945b7813ac2da226774/master.m3u8?1676399099"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s1l1ib.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de identidad visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dibujo a mano alzada registrar pensamientos e ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/066/0c3fd43e36369b047c2d5b25770393e4/master.m3u8?1676399103"
+                },
+                {
+                    "id": null,
+                    "title": "Tablero de estado de ánimo y creación de un registro de proceso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/067/e7e23e96658e651ceea495cbb134e283/master.m3u8?1676399104"
+                },
+                {
+                    "id": null,
+                    "title": "desarrollo de conceptos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/068/2f152a2c1c14336d3f17c4b8be567216/master.m3u8?1676399106"
+                },
+                {
+                    "id": null,
+                    "title": "Creando la identidad visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/069/0ebb319d02c10ecc61a8d16ce19cc65c/master.m3u8?1676399108"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v9uxr6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentando su proyecto al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/070/af8c47a0b05fb65b9b3f9491f2534a1f/master.m3u8?1676399107"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicar la comunicación visual en diferentes medios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/071/6069f6435f07bfddd71debdb9ef4c5cb/master.m3u8?1676399108"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x7hgcq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7trgp1.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 986,
+        "product_name": "Visual Identity Design: Explore Creative Processes",
+        "teacher_name": "kiko farkas",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 8771,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}
