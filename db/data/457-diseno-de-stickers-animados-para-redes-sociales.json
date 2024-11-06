@@ -1,0 +1,163 @@
+{
+    "id": "457",
+    "title": "Diseño de stickers animados para redes sociales",
+    "url": "https://www.domestika.org/es/courses/457-diseno-de-stickers-animados-para-redes-sociales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/899/9e9acbdae89739f19e3765bf27938f85/master.m3u8?1676385494"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/937/e43ebc29131d58b3d38543e5246cc2df/master.m3u8?1676385511"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/njdyva.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crea tus propios stickers",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Categorías y tendencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/900/5d94ed57968290061fa107c726429d4d/master.m3u8?1676385498"
+                },
+                {
+                    "id": null,
+                    "title": "Conoce a tu sticker",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/901/b8beba629e33dba33855c60c8b3edf0a/master.m3u8?1676385496"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración y selección de acciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/902/faef5d8990f780c7bbbab467d0c0b86c/master.m3u8?1676385497"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/35f3vi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Taller de diseño de pegatinas animadas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis teórico sobre la morfología del sticker",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/903/57fbed750b8f9ae7ef30c22e7d8f63bc/master.m3u8?1676385499"
+                },
+                {
+                    "id": null,
+                    "title": "Laboratorio de la imagen en sticker",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/904/ec3497d71ceefdf688ed0da2425a2354/master.m3u8?1676385502"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajo de campo propedéutico hacia la animación de un sticker",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/905/5802072a477d9edec7718004e5df3502/master.m3u8?1676385497"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9yp3i6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Animación y salida",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a Animate CC",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/906/01aa854b63317e95e88e8b1fbf265d1e/master.m3u8?1676385498"
+                },
+                {
+                    "id": null,
+                    "title": "Principios de animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/907/121149c24426c8aec0286257b2ec47d5/master.m3u8?1676385501"
+                },
+                {
+                    "id": null,
+                    "title": "Planeando la animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/908/5581a446c84cdf24a06d5743f0aeb386/master.m3u8?1676385503"
+                },
+                {
+                    "id": null,
+                    "title": "Ejecutar la animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/909/b07c934bd63c17b26fd2aa8b08a0617c/master.m3u8?1676385500"
+                },
+                {
+                    "id": null,
+                    "title": "Optimización y salida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/910/c57d7e1b7c351c7a14986a4a8419a658/master.m3u8?1676385501"
+                },
+                {
+                    "id": null,
+                    "title": "Tus propios stickers en Giphy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/911/0757d439bded1fcb0348f642489870c6/master.m3u8?1676385502"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f30woz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/k6wm65.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 457,
+        "product_name": "Design of Animated Stickers for Social Networks",
+        "teacher_name": "Sociedad Fantasma",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8167,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

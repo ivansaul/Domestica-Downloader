@@ -1,0 +1,158 @@
+{
+    "id": "2918",
+    "title": "Brand innovation para startups",
+    "url": "https://www.domestika.org/es/courses/2918-brand-innovation-para-start-ups/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/570/b6850cb5901b00934e8ab82ae069eca4/master.m3u8?1676399898"
+                },
+                {
+                    "id": null,
+                    "title": "Fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/572/6fb8ad5fdd781cdbd27c31ace6b7ae23/master.m3u8?1676399900"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/itqmf5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Innovación de marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Que es una marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/580/335ff0d099817c1378965c6fd29c2e12/master.m3u8?1676399905"
+                },
+                {
+                    "id": null,
+                    "title": "Marca e innovación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/590/bd78ab3f03e664b90d1094cfdc87affc/master.m3u8?1676399907"
+                },
+                {
+                    "id": null,
+                    "title": "El proceso de innovación de la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/594/032aa53986ad50b576ab3e83b95f2ceb/master.m3u8?1676399910"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/18fb79.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El concepto de marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Instrucciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/596/f65d8595d6b691a9ee6419f33b8ed2d5/master.m3u8?1676399911"
+                },
+                {
+                    "id": null,
+                    "title": "Marcas narrativas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/597/32d91a8e6de3a6c564b9592f00f92bbb/master.m3u8?1676399913"
+                },
+                {
+                    "id": null,
+                    "title": "Personalidad marcada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/598/3af1099f1d05b32f0070001ea55aef37/master.m3u8?1676399911"
+                },
+                {
+                    "id": null,
+                    "title": "Notas sobre la denominación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/599/c98139030092559ddbe3e28747e6c2ce/master.m3u8?1676399911"
+                },
+                {
+                    "id": null,
+                    "title": "Identidad visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/601/6e3d166497568589c8734df27a653b59/master.m3u8?1676399914"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/58dlns.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo crear una nueva marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ecosistema de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/602/ea4b5ba6aea90300f47404c0fbfb77ed/master.m3u8?1676399914"
+                },
+                {
+                    "id": null,
+                    "title": "Directrices de la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/603/dae8b010c6fb14185ed63ce16109cb27/master.m3u8?1676399914"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de un documento de pautas de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/604/3080a4c32a51b850898c0ae233ade03a/master.m3u8?1676399915"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bkzxpe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/s5n8q8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2918,
+        "product_name": "Brand Innovation for Startups",
+        "teacher_name": "Max Bosio",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6605,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

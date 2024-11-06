@@ -1,0 +1,200 @@
+{
+    "id": "639",
+    "title": "Técnicas de composición digital para animación 3D",
+    "url": "https://www.domestika.org/es/courses/639-tecnicas-de-composicion-digital-para-animacion-3d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Bienvenidos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/562/19b1438128557f23a0065a73b3da6e27/master.m3u8?1676389689"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/563/1e39145d533b1dfd43c5a763cfcd2129/master.m3u8?1676389697"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/564/96181655a560f9dd732da6372a8f64d3/master.m3u8?1676389689"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kyip4n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La composición digital y su importancia en el pipeline de producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Agregar valor mediante la composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/573/e24455b99cccf3e01dd7a913d889caa6/master.m3u8?1676389696"
+                },
+                {
+                    "id": null,
+                    "title": "Descomponiendo nuestra escena 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/574/00ea773546883c10ea12e794cd673106/master.m3u8?1676389700"
+                },
+                {
+                    "id": null,
+                    "title": "Descomponiendo nuestra escena 3D P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/575/2da28d2ada973307dcfeed1428916ec2/master.m3u8?1676389701"
+                },
+                {
+                    "id": null,
+                    "title": "Planea tus renders para composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/576/4db042c3e1e251fe8d02db99086035b2/master.m3u8?1676389700"
+                },
+                {
+                    "id": null,
+                    "title": "Planea tus renders para composición P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/578/685e9bdd3111e679f93760da3de898cf/master.m3u8?1676389703"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vk4i14.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Generando los renders necesarios para un mejor centro en composición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Generemos nuestros renders",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/582/6b2b0a5e5f79ff717a6d7fe14ad6fbaf/master.m3u8?1676389708"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar una cámara 3D a After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/583/b4ad54897a2932d1b943efba2bf33d03/master.m3u8?1676389704"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/blyj2v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Composición en After Effects",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importemos nuestros renders a After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/588/226f97aa123b082ca19939b70ee3af46/master.m3u8?1676389706"
+                },
+                {
+                    "id": null,
+                    "title": "Componer nuestra escena dentro de After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/590/1b492b812a7260d3b4b6c4d7417a33e0/master.m3u8?1676389713"
+                },
+                {
+                    "id": null,
+                    "title": "Componer nuestra escena dentro de After Effects P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/593/0a5ee30c3dca680befe6e6d585ca4556/master.m3u8?1676389717"
+                },
+                {
+                    "id": null,
+                    "title": "Componer nuestra escena dentro de After Effects P3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/594/7955aed827bea609df1fd1ea4f41ab8c/master.m3u8?1676389708"
+                },
+                {
+                    "id": null,
+                    "title": "Componer nuestra escena dentro de After Effects P4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/595/eaa6628e27d90d6333f735eb70319715/master.m3u8?1676389718"
+                },
+                {
+                    "id": null,
+                    "title": "Integrar elementos animados en After Effects a nuestra escena 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/598/e53274509cf98395cd76b0b914e9783a/master.m3u8?1676389715"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ggsyym.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Efectos y Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Efectos y postproducción de nuestra escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/599/a04a588d17768483bbbcc73d17505f1d/master.m3u8?1676389720"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos y postproducción de nuestra escena P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/600/3883eba7c6b566909c4b817f6ba19fa3/master.m3u8?1676389715"
+                },
+                {
+                    "id": null,
+                    "title": "Toques finales y export de tu escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/601/30030b9851b19f219d9f7ffeedea8339/master.m3u8?1676389714"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tsk11t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3ly90o.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 639,
+        "product_name": "Digital Composition Techniques for 3D Animation",
+        "teacher_name": "DON PORFIRIO",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 14166,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "id": "549",
+    "title": "Introducción al dibujo arquitectónico en AutoCAD",
+    "url": "https://www.domestika.org/es/courses/549-introduccion-al-dibujo-arquitectonico-en-autocad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/554/7167a5ee588102a99441aa2b5de6ae67/master.m3u8?1676385392"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/555/edce77c11944ca8f61e42cb85e58f837/master.m3u8?1676385392"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/604l1o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conociendo AutoCAD",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La interfaz de AutoCAD en Mac y Windows",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/056/6de2c9e2a1452b3d8fe74c3ea0e5f1a9/master.m3u8?1676391701"
+                },
+                {
+                    "id": null,
+                    "title": "Las unidades de dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/057/fde8dbeed171c2e9048cf002241f86a4/master.m3u8?1676391699"
+                },
+                {
+                    "id": null,
+                    "title": "Seleccionar elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/058/f0d4e0a5a31655a5ac9ea6ea6a6b263c/master.m3u8?1676391702"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas de dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/059/416b5ad3f216ba70d0c32c31100baa40/master.m3u8?1676391701"
+                },
+                {
+                    "id": null,
+                    "title": "Modificar elementos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/060/7d48510943772dfdd9ffee47b55fd8b7/master.m3u8?1676391704"
+                },
+                {
+                    "id": null,
+                    "title": "Modificar elementos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/061/cd03d332264bdf57e78d91a9dca33361/master.m3u8?1676391703"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qj0jy7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujando un proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/062/e7c3f5829e690a0b51e15f24fc044fa5/master.m3u8?1676391703"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas avanzadas de dibujo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/063/2c19dd4af95f8fdad665dc1f2e6b2f14/master.m3u8?1676391706"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas avanzadas de dibujo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/064/60abae3555bdcc1956029c6faf7c2116/master.m3u8?1676391702"
+                },
+                {
+                    "id": null,
+                    "title": "Hatch rellenos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/065/a5fdb8115cec3dc9df945570813f9e54/master.m3u8?1676391704"
+                },
+                {
+                    "id": null,
+                    "title": "Hatch rellenos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/066/62ca704ac4edc58041d6421d60ce8a43/master.m3u8?1676391703"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1xymgq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elementos externos y espacio layout",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Imágenes y referencias externas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/068/76a57119b611e0be2bd06ec3de18286d/master.m3u8?1676391709"
+                },
+                {
+                    "id": null,
+                    "title": "Espacio modelo y espacio layout",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/069/dbc8d4e3a1a34f74cc8a12c87cfddd04/master.m3u8?1676391710"
+                },
+                {
+                    "id": null,
+                    "title": "La cartela de los planos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/070/5fa3b8b858528b88226deb4fe53e435e/master.m3u8?1676391708"
+                },
+                {
+                    "id": null,
+                    "title": "Escala gráfica e indicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/071/364041a6fb3744b314c2d7123a4a831e/master.m3u8?1676391709"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qjs4oe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Alzado y perspectiva",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El dibujo de un alzado 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/072/a4d475efc603db8541d29b07056741c5/master.m3u8?1676391725"
+                },
+                {
+                    "id": null,
+                    "title": "El dibujo de un alzado 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/073/0cd2acd5a738b6de3df9ab87fc68dcc2/master.m3u8?1676391711"
+                },
+                {
+                    "id": null,
+                    "title": "La perspectiva axonométrica 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/074/121b1d1e4fa1063b99003a945a4aee8d/master.m3u8?1676391712"
+                },
+                {
+                    "id": null,
+                    "title": "La perspectiva axonométrica 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/075/a968c38e6edec6894a9193cb5b67f722/master.m3u8?1676391710"
+                },
+                {
+                    "id": null,
+                    "title": "Control de la impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/076/f63b49993f493ea6089d8a97d44a686f/master.m3u8?1676391710"
+                },
+                {
+                    "id": null,
+                    "title": "AutoCAD web y celular",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/571/02bf418b72d9bf4392a37f70547df58f/master.m3u8?1676385393"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5hza9o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/0525v4.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 549,
+        "product_name": "Introduction to Architectural Drawing in AutoCAD",
+        "teacher_name": "Isabel Martínez",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 23,
+        "course_total_duration_sec": 15421,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

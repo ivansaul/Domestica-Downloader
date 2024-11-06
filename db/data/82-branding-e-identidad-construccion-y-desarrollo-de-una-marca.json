@@ -1,0 +1,158 @@
+{
+    "id": "82",
+    "title": "Branding e Identidad construcción y desarrollo de una marca",
+    "url": "https://www.domestika.org/es/courses/82-branding-e-identidad-construccion-y-desarrollo-de-una-marca/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Hola",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bienvenidos a Saffron",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/690/6511c348f5c581ec660931dc5dc61817/master.m3u8?1676381263"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/691/f13fad82d8e3c4a25e8badef953dccd1/master.m3u8?1676381260"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gbqly8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definiendo el ADN",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tuenti",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/692/05ec9658806079f29212519a6a915e54/master.m3u8?1676381260"
+                },
+                {
+                    "id": null,
+                    "title": "Inmersión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/693/e18ec58c2b74134e0a60e7f650d7ee8c/master.m3u8?1676381265"
+                },
+                {
+                    "id": null,
+                    "title": "El alma de Tuenti",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/694/88b3156175b4397705c269cf1e0407d5/master.m3u8?1676381263"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i1caib.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Identidad Visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/703/c8f5468298f84150d63a93bd126d8059/master.m3u8?1676381270"
+                },
+                {
+                    "id": null,
+                    "title": "Rutas de diseño 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/696/b79ec86c5eeda479979acd33888e7d5f/master.m3u8?1676381267"
+                },
+                {
+                    "id": null,
+                    "title": "Rutas de diseño 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/697/04ab34b6bd0f0c4d512a902ed1a807ac/master.m3u8?1676381266"
+                },
+                {
+                    "id": null,
+                    "title": "Sistema visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/698/13bee7eea64dfb7d047b6001c44c9210/master.m3u8?1676381268"
+                },
+                {
+                    "id": null,
+                    "title": "Documentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/699/dc31a09cf1ee9eacc183928a76e01273/master.m3u8?1676381268"
+                },
+                {
+                    "id": null,
+                    "title": "Experiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/702/4c77a9f5284d1ef27b2c472aae27efe3/master.m3u8?1676381268"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mytcwk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Y más allá",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Legos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/700/4f203a09fb22fee1a1b566a09b70ff71/master.m3u8?1676381269"
+                },
+                {
+                    "id": null,
+                    "title": "Mirando hacia el futuro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/701/32498fa13ddb92b45c8fecaf1a0acb07/master.m3u8?1676381265"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m0jb36.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/sbexqk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 82,
+        "product_name": "Branding and Identity: Construction and Development of a Brand",
+        "teacher_name": "Saffron",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8384,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

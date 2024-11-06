@@ -1,0 +1,183 @@
+{
+    "id": "3327",
+    "title": "Storytelling para cómics explora acción y perspectiva",
+    "url": "https://www.domestika.org/es/courses/3327-storytelling-para-comics-explora-accion-y-perspectiva/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/997/7e6b46d4041c65a235416ada10acb66b/master.m3u8?1676403301"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/998/50852da6bca29fa3d1fe9922d83ea2dc/master.m3u8?1676403306"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/idizav.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos de los cómics",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/119/942f5b69ced8a2314afeda463d49934e/master.m3u8?1676403362"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas para la narración de historietas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/120/8612f3ee72d21f5b45597234db72e33f/master.m3u8?1676403364"
+                },
+                {
+                    "id": null,
+                    "title": "La perspectiva como herramienta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/121/84a98c580736f01ed0aacdd35c539972/master.m3u8?1676403366"
+                },
+                {
+                    "id": null,
+                    "title": "Anatomía en perspectiva para personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/122/678a958162830f489f3ea5dcd2b174d8/master.m3u8?1676403360"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cugqb7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Del guión a la página terminada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Etapa de planificación y redacción el poder de una página en blanco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/123/1a68d74cc6604cd3f800d5c45624c2ce/master.m3u8?1676403360"
+                },
+                {
+                    "id": null,
+                    "title": "Diseños 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/124/0cbea97d98b9487aae9647211ba6554f/master.m3u8?1676403360"
+                },
+                {
+                    "id": null,
+                    "title": "Diseños 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/125/e7c669acb91470672c15c06cf06f3a78/master.m3u8?1676403364"
+                },
+                {
+                    "id": null,
+                    "title": "La etapa del lápiz 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/127/eaa586d6de79cf76db12c9b3bac3a631/master.m3u8?1676403368"
+                },
+                {
+                    "id": null,
+                    "title": "La etapa del lápiz 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/129/60e22e7362441a28c0ef6353ce43849c/master.m3u8?1676403369"
+                },
+                {
+                    "id": null,
+                    "title": "La etapa de entintado 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/130/6ecace64fcf20c3d567ad6a416ac35af/master.m3u8?1676403375"
+                },
+                {
+                    "id": null,
+                    "title": "La etapa de entintado 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/135/99e83b100f7a384a649bf054e7b2bbec/master.m3u8?1676403371"
+                },
+                {
+                    "id": null,
+                    "title": "La etapa de entintado 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/139/b5fffd8ed61c621e00378de3ad7a4620/master.m3u8?1676403372"
+                },
+                {
+                    "id": null,
+                    "title": "La etapa de los tonos grises 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/143/f1f25e3b6ba403c3b5825b1b1e9aa63c/master.m3u8?1676403377"
+                },
+                {
+                    "id": null,
+                    "title": "La etapa de los tonos grises 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/144/7edc6973ed5fee4f8855491794ce2aa4/master.m3u8?1676403374"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ai9164.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo encontrar un trabajo en cómics",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hacer un portafolio y la importancia de las creaciones originales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/149/b8a1ac852c3205f247b50adc017f8576/master.m3u8?1676403377"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo entrar en los cómics",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/150/f9f3afaf0ca1da7d249cb1159d043753/master.m3u8?1676403375"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x7vjui.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/chxg20.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3327,
+        "product_name": "Storytelling for Comics: Explore Action and Perspective",
+        "teacher_name": "André Lima Araújo",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 13582,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

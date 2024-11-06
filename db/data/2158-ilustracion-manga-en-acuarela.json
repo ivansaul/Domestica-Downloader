@@ -1,0 +1,168 @@
+{
+    "id": "2158",
+    "title": "Ilustración manga en acuarela",
+    "url": "https://www.domestika.org/es/courses/2158-ilustracion-manga-en-acuarela/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/375/1439079c2f16a6d92bb8a6ca32cfb237/master.m3u8?1676396050"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/376/d93b37d1fb1ddaf6e216c02abf127b4e/master.m3u8?1676396052"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/377/5f060f80d3b9d6d67269370d8ba330e8/master.m3u8?1676396051"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4fo8mu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/378/84c85c745c904de26c316e84f3e63192/master.m3u8?1676396056"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar con proporciones de anime",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/379/1c857cf9fa7aea9cb8c16295132623f2/master.m3u8?1676396055"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de acuarela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/380/7f6f2abe290f0da073100db64f270b8d/master.m3u8?1676396061"
+                },
+                {
+                    "id": null,
+                    "title": "Mezcla de pintura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/381/78d4b13ee91a5f1c6c76d6423845a8e5/master.m3u8?1676396059"
+                },
+                {
+                    "id": null,
+                    "title": "Recopilación de referencias e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/382/d0e21b23c4845042af5015d92f920af6/master.m3u8?1676396056"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2e6dq3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso de pintura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Composiciones de miniaturas y mapeo de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/384/d1a27b314e76b4558f3c10bb734ab945/master.m3u8?1676396057"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo el Linework",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/385/417203e81950dcdf852bc86fc1772c37/master.m3u8?1676396058"
+                },
+                {
+                    "id": null,
+                    "title": "Calcar sobre papel de acuarela y pintar la capa base",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/386/dd9f4232a4693190b827b39b9f31fee6/master.m3u8?1676396062"
+                },
+                {
+                    "id": null,
+                    "title": "Capa de sombra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/387/e7ceb706edad5f70be47780a3e94d336/master.m3u8?1676396069"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/388/b5c541a829d6f68f71491a8d2bfe410a/master.m3u8?1676396058"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xqbt0f.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotografía tu trabajo para las redes sociales y  o imprimir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografiando tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/389/a8935a2e90e0320e00344a8afd6337b9/master.m3u8?1676396057"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de archivos web e impresos en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/390/212d030eec9b043eff46d94d32134e5a/master.m3u8?1676396062"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lxsfvg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/5fd2ks.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2158,
+        "product_name": "Expressive Manga Illustration in Watercolor",
+        "teacher_name": "Geoff Pascual",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7013,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

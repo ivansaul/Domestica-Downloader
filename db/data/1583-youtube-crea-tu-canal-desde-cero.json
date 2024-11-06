@@ -1,0 +1,173 @@
+{
+    "id": "1583",
+    "title": "YouTube crea tu canal desde cero",
+    "url": "https://www.domestika.org/es/courses/1583-youtube-crea-tu-canal-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/879/b6f81e729908b1d492edf8b4428b2423/master.m3u8?1676391607"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/880/2073920186311623e14fa85f05229cba/master.m3u8?1676391610"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/881/05c49f214cc9a53ab292bdcdb2f4b3f8/master.m3u8?1676391607"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zxme6k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Objetivos y valores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/882/eee0ab23f6e28915bd5da1bbf0ba5622/master.m3u8?1676391607"
+                },
+                {
+                    "id": null,
+                    "title": "Branding",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/583/1e0b2c65dc85f37dcbae62c8f5f18ca5/master.m3u8?1676391968"
+                },
+                {
+                    "id": null,
+                    "title": "Setup del canal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/884/ce58cc07d169f48bc07ef9f20f427b07/master.m3u8?1676391610"
+                },
+                {
+                    "id": null,
+                    "title": "La estrategia de tu canal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/885/bdce06795057f28ce30a06463dfe8fae/master.m3u8?1676391608"
+                },
+                {
+                    "id": null,
+                    "title": "Políticas de YouTube",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/886/2901406104ab27b01250b455a03d6a1e/master.m3u8?1676391607"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7psmj0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/887/6b52f8d1499b21fa03c6c127f3c85206/master.m3u8?1676391611"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de grabación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/888/24a1ad27dc7c730770b08611c472c240/master.m3u8?1676391611"
+                },
+                {
+                    "id": null,
+                    "title": "Grabación Producción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/889/a7e59054d9c37c8aa36ecfd503ff153b/master.m3u8?1676391613"
+                },
+                {
+                    "id": null,
+                    "title": "Edición Postproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/890/82564afffe31077daf89841cf9e5a511/master.m3u8?1676391618"
+                },
+                {
+                    "id": null,
+                    "title": "Sube tu primer vídeo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/891/1eab8e9c9e7024b8cde551a91f671b6b/master.m3u8?1676391614"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e33oxl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Que te descubran",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Monetiza tu canal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/892/d3d81d012513d8a6a92f230107fc2901/master.m3u8?1676391614"
+                },
+                {
+                    "id": null,
+                    "title": "Otras funciones de YouTube",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/893/f7baa7c49816e841b91d431cb4a4eacc/master.m3u8?1676391613"
+                },
+                {
+                    "id": null,
+                    "title": "Haz que tu canal crezca y claves para saber que funciona",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/894/d5b432fe691be140f16038d9e734545a/master.m3u8?1676391615"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4ej4i9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/l2fjf5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1583,
+        "product_name": "YouTube: Creating a Channel from Scratch",
+        "teacher_name": "Kaos",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 7038,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

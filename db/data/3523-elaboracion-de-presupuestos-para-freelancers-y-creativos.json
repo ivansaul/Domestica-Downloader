@@ -1,0 +1,158 @@
+{
+    "id": "3523",
+    "title": "Elaboración de presupuestos para freelancers y creativos",
+    "url": "https://www.domestika.org/es/courses/3523-elaboracion-de-presupuestos-para-freelancers-y-creativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/568/32485542d89fc5d5ee14ffe6fa12c207/master.m3u8?1676406889"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/569/cc0eb2bbf592249ccecaf2d59cf42df8/master.m3u8?1676406888"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h9hemk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Decir tu propio valor",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El capital inicial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/570/137cc6633b5d8545beb1d045ac2614fa/master.m3u8?1676406891"
+                },
+                {
+                    "id": null,
+                    "title": "Creando un ecosistema creativo de dinero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/573/b603409af342aece284ef238c9b9cb28/master.m3u8?1676406889"
+                },
+                {
+                    "id": null,
+                    "title": "Consigue el presupuesto que necesitas sin preguntar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/572/dc8e203246a8bd484b3554d34e21a408/master.m3u8?1676406887"
+                },
+                {
+                    "id": null,
+                    "title": "Historia contra narración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/574/780ae78ad1d1840fcd05aedabcdfdd0d/master.m3u8?1676406889"
+                },
+                {
+                    "id": null,
+                    "title": "La línea de comunicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/575/441075851e614ab5926222407bc55acd/master.m3u8?1676406892"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dxj6m9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear el presupuesto perfecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Investigación y diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/576/47563e350061aa20f24e554d62eae3aa/master.m3u8?1676406892"
+                },
+                {
+                    "id": null,
+                    "title": "El acuerdo con el cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/577/f8f67e360d7664e1d19517d55e2fef4e/master.m3u8?1676406895"
+                },
+                {
+                    "id": null,
+                    "title": "Capacidad y dinero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/578/ec23ec19bc9762161896d69264dbb4a7/master.m3u8?1676406894"
+                },
+                {
+                    "id": null,
+                    "title": "Conversión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/579/585675f647e5aff51779e886768b8c98/master.m3u8?1676406894"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5ajlgb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo invertir tus recursos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La fórmula Seat42",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/580/8108ec1025fc8c34ae21e994df84f3c1/master.m3u8?1676406895"
+                },
+                {
+                    "id": null,
+                    "title": "Las respuestas a las diez preguntas más difíciles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/581/b5590525f732a29beafa92adf93cb2c0/master.m3u8?1676406897"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zt0d51.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/q618br.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3523,
+        "product_name": "Pricing for Creatives and Freelancers",
+        "teacher_name": "Stefano Scozzese",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6485,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

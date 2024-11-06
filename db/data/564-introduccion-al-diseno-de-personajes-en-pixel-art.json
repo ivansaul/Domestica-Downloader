@@ -1,0 +1,169 @@
+{
+    "id": "564",
+    "title": "Introducción al diseño de personajes en pixel art",
+    "url": "https://www.domestika.org/es/courses/564-introduccion-al-diseno-de-personajes-en-pixel-art/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/005/a7867dd8626a65c409ae3ccf4e336017/master.m3u8?1676385930"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/006/462ce29c20e2761877a4f71625facec8/master.m3u8?1676385932"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/007/61f6c0dd8bf434aa5e4d9bc7dfd843d0/master.m3u8?1676385932"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jxlyhq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pyxel Edit Alternativas Interfaz y Herramientas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Programas para pixelar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/008/d3af343798dc6a3a4d598fabf63a29dd/master.m3u8?1676385933"
+                },
+                {
+                    "id": null,
+                    "title": "Pyxel Edit",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/009/62f51e6b91b9c699bb20397b6e49e8f3/master.m3u8?1676385933"
+                },
+                {
+                    "id": null,
+                    "title": "Interfaz herramientas colores y capas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/010/64455632b704e18c9a78b14a3ff1ef60/master.m3u8?1676385937"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/97i22u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de un personaje pixel art y su entorno",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/011/b6b994d88fe777a09fb78d7038fbf8ae/master.m3u8?1676385935"
+                },
+                {
+                    "id": null,
+                    "title": "Formas básicas silueta del personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/012/2e3e67ace3db0a3a3a848d4d34a73591/master.m3u8?1676385935"
+                },
+                {
+                    "id": null,
+                    "title": "Contorno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/014/1de7beb4fa6c4fc51f2f0aa704e38b44/master.m3u8?1676385942"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación y Sombreado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/015/e4be2273511fc33e74215049c0c8c055/master.m3u8?1676385940"
+                },
+                {
+                    "id": null,
+                    "title": "Añadiendo color Teoría del color básica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/451/1d44d65b1ac4051408b8537ac83a05ad/master.m3u8?1676386133"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uaifyu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Resultado final y Exportación Transparencias escalas y formatos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Resultado Final 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/019/ee4429b3feb23c0f011f20530f810684/master.m3u8?1676385952"
+                },
+                {
+                    "id": null,
+                    "title": "Resultado Final 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/020/b3b8194d7b7a1626bbc04c85f81a38e6/master.m3u8?1676385942"
+                },
+                {
+                    "id": null,
+                    "title": "Resultado Final 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/021/5f2ab4e7a0da974ae914fc17ae390b12/master.m3u8?1676385940"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/022/b4aaa5c69a1ee23fa8ec86a939cad6cb/master.m3u8?1676385939"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/whaajh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6d6ym9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 564,
+        "product_name": "Introduction to Character Design in Pixel Art",
+        "teacher_name": "Daniel Benítez",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8324,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

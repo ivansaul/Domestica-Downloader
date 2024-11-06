@@ -1,0 +1,178 @@
+{
+    "id": "4517",
+    "title": "Introducción al diseño de moda 3D con CLO",
+    "url": "https://www.domestika.org/es/courses/4517-introduccion-al-diseno-de-moda-3d-con-clo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/401/9024990efa870ddf448ed85e1e4fe6d5/master.m3u8?1690357679"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/402/0dcd75ff826be2989bf60cd556501f5c/master.m3u8?1690357942"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/of821q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos en CLO",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué moda en 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/404/25ce31ea8435b60bf565279f7194724b/master.m3u8?1690358170"
+                },
+                {
+                    "id": null,
+                    "title": "La interfaz de CLO",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/405/639eb50b9a0e3b317d6b2fec1942c375/master.m3u8?1677687120"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas básicas dibujar y editar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/406/076d209db75ab3bdbb5ee036377d9deb/master.m3u8?1677687181"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas básicas simetría costuras y simulación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/407/547438dbe53bd9d082765f231bf306dd/master.m3u8?1677687247"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas básicas simetría costuras y simulación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/408/61321398b3d60a0e39400970e13d8341/master.m3u8?1677687301"
+                },
+                {
+                    "id": null,
+                    "title": "Los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/409/2fa2f4616594c9f7b6a25a5629dcf4e2/master.m3u8?1677687351"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de la prenda panel de inspiración y boceto final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/410/4947786f197f0b08c71295dec098b7d8/master.m3u8?1690358308"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ya6zey.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construir la prenda",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Construcción del pantalón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/411/8b20241bc0fc6c8ac0fefa597e92e6d7/master.m3u8?1677687484"
+                },
+                {
+                    "id": null,
+                    "title": "Patronaje del top",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/412/ab06169c8c13d70b738eb402ce5b9203/master.m3u8?1677687536"
+                },
+                {
+                    "id": null,
+                    "title": "Acabados finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/413/8f39965cc1c96bfb941b10fd2cbac1da/master.m3u8?1677687594"
+                },
+                {
+                    "id": null,
+                    "title": "Simulación final y customización de avatar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/414/816bc7058c4ed60c25ea782a09d3d7b4/master.m3u8?1677687647"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mahxmd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Generación de imágenes fijas y animación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación puntos de vista y renderizado de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/415/bcb6a7c5371d24e1804924ca167568e4/master.m3u8?1677687731"
+                },
+                {
+                    "id": null,
+                    "title": "Crear una animación estilo pasarela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/416/fe28a4862f16f8097b96e9b06636d094/master.m3u8?1677687779"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del vídeo en Adobe Premiere Pro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/417/373dd24175bcb6e20b68573fc5508250/master.m3u8?1677687839"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar el patrón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/418/ac7e127f8d73dd883755c0c03c6f7a60/master.m3u8?1677687884"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/auceoz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qd6ng8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4517,
+        "product_name": "Introduction to 3D Fashion Design with CLO",
+        "teacher_name": "Soledad Gallardo",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 11317,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

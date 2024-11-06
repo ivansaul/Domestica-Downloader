@@ -1,0 +1,153 @@
+{
+    "id": "3609",
+    "title": "Hand lettering para composiciones personalizadas y divertidas",
+    "url": "https://www.domestika.org/es/courses/3609-hand-lettering-para-composiciones-personalizadas-y-divertidas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/692/560283d5dc5a9721c46b37bee96d26b6/master.m3u8?1676412902"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/693/990a0ed52616e981e00dbc395abdf39c/master.m3u8?1676412905"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dgdk1w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Un poco de preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Clasificaciones tipográficas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/694/ce30a3736b4e2225970cde5c949dbbb7/master.m3u8?1676412919"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y jerarquía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/695/c23d256e8aef0a9e38202ef67f40ab72/master.m3u8?1676412908"
+                },
+                {
+                    "id": null,
+                    "title": "Espaciado la lección más importante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/696/2aa724fdac6225424f5d7be228b23f40/master.m3u8?1676412910"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v0iodi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Es hora de hacer algo genial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tu mejor amigo observación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/697/e7f29a79aa1940f2f36c46c7e466d6d8/master.m3u8?1676412912"
+                },
+                {
+                    "id": null,
+                    "title": "Explorando infinitas composiciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/698/39eee3d0dc7872e3cfd088470361050e/master.m3u8?1676412909"
+                },
+                {
+                    "id": null,
+                    "title": "Empaquetarlo y limpiarlo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/699/63f5f70cb2a1cf8ec6d649b7d9b18e93/master.m3u8?1676412914"
+                },
+                {
+                    "id": null,
+                    "title": "Delicadeza hasta la muerte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/700/e4be8187e2b8f8bf204ee1261b54cfa0/master.m3u8?1676412927"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ivy3bn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Colorear texturizar y vectorizar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Técnicas de vectorización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/701/53ea35f26e4f21831bc5be61be7faa2e/master.m3u8?1676412910"
+                },
+                {
+                    "id": null,
+                    "title": "Un paso más allá colorear y texturizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/702/5bc04bd980129a815c4c7b4cba187d0c/master.m3u8?1676412913"
+                },
+                {
+                    "id": null,
+                    "title": "Presentar y compartir tu obra maestra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/703/2c97aff90a5b55558c21636753214172/master.m3u8?1676412909"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ycp2q6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/94uwpg.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3609,
+        "product_name": "Custom Hand-Lettering for Playful Compositions",
+        "teacher_name": "Scott Biersack",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7258,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

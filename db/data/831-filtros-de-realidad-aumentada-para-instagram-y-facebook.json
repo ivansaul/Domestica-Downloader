@@ -1,0 +1,178 @@
+{
+    "id": "831",
+    "title": "Filtros de realidad aumentada para Instagram y Facebook",
+    "url": "https://www.domestika.org/es/courses/831-filtros-de-realidad-aumentada-para-instagram-y-facebook/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conóceme",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/695/204adb3661eec701ea3c05b9f87f8bd9/master.m3u8?1676387951"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/696/629013463b1797ab9065c9a980c3e248/master.m3u8?1676387948"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/697/9dca61f8e9bd55b7e5336ad3c147d5b2/master.m3u8?1676387946"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gd0xci.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a Spark AR",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al AR",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/699/0615d569375ab23461f4117a4717d07f/master.m3u8?1676387950"
+                },
+                {
+                    "id": null,
+                    "title": "Trackers y Elementos básicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/700/d0119ea262d6229122608adb7569747b/master.m3u8?1676387952"
+                },
+                {
+                    "id": null,
+                    "title": "Planeación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/701/aa42f0f4c37c912dfbe72d2d8ac08290/master.m3u8?1676387952"
+                },
+                {
+                    "id": null,
+                    "title": "Instalación del software",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/702/0d8fdff951a884256ca79b1fd5bafd7e/master.m3u8?1676387952"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8n221s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crea tu máscara",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elementos 2D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/703/c82a29c60c2493020522a3e9cd7b1747/master.m3u8?1676387959"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/704/fed5714ca3210923894ceac42369118d/master.m3u8?1676387955"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/705/a9c812aedec2a29a58ace1ec4f800663/master.m3u8?1676387959"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y texturas P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/706/3785d6d00aeea191693e2b61b5f0cf8c/master.m3u8?1676387958"
+                },
+                {
+                    "id": null,
+                    "title": "Partículas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/367/6943b9d20b665a525a620f0fe1b1f28c/master.m3u8?1676388206"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gp7lcm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Interactividad y publicación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo funcionan los Visual Patches",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/707/8cf6c95ada98417238de5aca14e8724b/master.m3u8?1676387956"
+                },
+                {
+                    "id": null,
+                    "title": "Crear opciones con Visual Patches",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/708/766cc13c7140009c24c02591f27eee6e/master.m3u8?1676387956"
+                },
+                {
+                    "id": null,
+                    "title": "Movimientos y animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/709/e12b0c2a3af48f896ba283922e06b38b/master.m3u8?1676387958"
+                },
+                {
+                    "id": null,
+                    "title": "Pruebas y exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/710/aa8e3140a63fea75326a38352cd00968/master.m3u8?1676387964"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación y requerimientos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/108/45b66d1a364791bbad3280ae368c14af/master.m3u8?1676388101"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z358b0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zw2zvb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 831,
+        "product_name": "Augmented Reality Filters for Instagram and Facebook",
+        "teacher_name": "Paul Brown",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 10489,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

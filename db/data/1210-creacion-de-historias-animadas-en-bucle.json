@@ -1,0 +1,198 @@
+{
+    "id": "1210",
+    "title": "Creación de historias animadas en bucle",
+    "url": "https://www.domestika.org/es/courses/1210-creacion-de-historias-animadas-en-bucle/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introduction",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hola",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/125/6f72f0ad4f1d0956a0d0f815c19406c6/master.m3u8?1676388967"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/153/5b63896e655d34916376a8832852961f/master.m3u8?1676388975"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/923/f3650115b57469dbb013fed45f99c62e/master.m3u8?1676389363"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/924/87c52cf11949c07109f1c8ffa3166449/master.m3u8?1676389362"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/08gvjp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tiempo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/925/c58d403cedad5b9b111eba37673824a7/master.m3u8?1676389373"
+                },
+                {
+                    "id": null,
+                    "title": "Espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/926/2c6be077ce960fc56948eff6509f5540/master.m3u8?1676389373"
+                },
+                {
+                    "id": null,
+                    "title": "Dale vida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/927/1d31eeb88f34da77904b51009af115d8/master.m3u8?1676389366"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7lfxsc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Movimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Plantear la idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/937/190df0efb7e1a083dedc93b370555a7a/master.m3u8?1676389369"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñar los personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/953/aa901909ec128438d983c1abe503aa21/master.m3u8?1676389380"
+                },
+                {
+                    "id": null,
+                    "title": "Animatic",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/954/277f9db3b6ec1cc2b199f60bc0fdf19f/master.m3u8?1676389380"
+                },
+                {
+                    "id": null,
+                    "title": "Rough pass I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/093/29f4e3b28dc208bcf09587d2073343d3/master.m3u8?1676389450"
+                },
+                {
+                    "id": null,
+                    "title": "Rough pass II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/120/701d2d2c67092635b36a2299ce782b90/master.m3u8?1676389467"
+                },
+                {
+                    "id": null,
+                    "title": "Asistencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/122/02d9147c7c6f8e596facfb7a6f859548/master.m3u8?1676389463"
+                },
+                {
+                    "id": null,
+                    "title": "Coser el loop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/123/eabab4cbbf4331b770e38f1eb756647f/master.m3u8?1676389462"
+                },
+                {
+                    "id": null,
+                    "title": "Clean up I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/134/5c122a089b234e3af21317b707ed6768/master.m3u8?1676389471"
+                },
+                {
+                    "id": null,
+                    "title": "Clean up II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/138/d330a54b1e6b59f4c0db7bf6babe5285/master.m3u8?1676389467"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y post",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/142/7f542e700a4827221e524c317f66529d/master.m3u8?1676389473"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iqbd3z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Extras",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/145/6bc3166aa29023f6bb4df55206809757/master.m3u8?1676389476"
+                },
+                {
+                    "id": null,
+                    "title": "Sonido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/148/171e1e2b658d6f9dcc9b1a8a8568c9b6/master.m3u8?1676389476"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un gif",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/149/3bc66058b46a127abdec7600ead327ae/master.m3u8?1676389481"
+                },
+                {
+                    "id": null,
+                    "title": "Cierre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/151/ae5d4ec9360aee988f38abaa91af89fc/master.m3u8?1676389481"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fy6tce.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/5s17e9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1210,
+        "product_name": "Creating Loop Animation Stories",
+        "teacher_name": "Pablo Cuello",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 10127,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

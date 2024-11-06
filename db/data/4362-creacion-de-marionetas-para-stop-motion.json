@@ -1,0 +1,169 @@
+{
+    "id": "4362",
+    "title": "Creación de marionetas para stop motion",
+    "url": "https://www.domestika.org/es/courses/4362-creacion-de-marionetas-para-stop-motion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/504/b694670ecd1bdf14e44e027412c9f948/master.m3u8?1676410987"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/505/58ebdc5a0f2265be45678e8d360fbb6d/master.m3u8?1676410987"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hkwfb1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas diseño de personajes y bocetos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Espacio de trabajo y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/506/c152c10c897f0315bc658479f8e5330a/master.m3u8?1676410991"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño del personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/507/9fcfe543279e307b44b5b1ed61a76c7f/master.m3u8?1676410992"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujo a escala y muestras de tela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/508/f25c7240d6e8079ae52a6a9eb9df2084/master.m3u8?1676410993"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lj160e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fabricación de marionetas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Armadura y punto de rigging 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/509/172ddcff2efc6756006ed5015b7f7eb7/master.m3u8?1676410996"
+                },
+                {
+                    "id": null,
+                    "title": "Armadura y punto de rigging 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/510/abb9952db6216724a9cb8d8a1bd6baee/master.m3u8?1676411002"
+                },
+                {
+                    "id": null,
+                    "title": "Armadura y punto de rigging 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/511/d2194f6963737677d18d2286104765c4/master.m3u8?1676411000"
+                },
+                {
+                    "id": null,
+                    "title": "Armadura y punto de rigging 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/512/8fd565a3b3eefaf7de50585a69dd9684/master.m3u8?1676410995"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar espuma a la marioneta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/513/399152cac3234183297f82f2796ca7dc/master.m3u8?1676411000"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar la tela de la piel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/515/a9bfcd73f2834c3ce32564a3ec6a1d1b/master.m3u8?1676411007"
+                },
+                {
+                    "id": null,
+                    "title": "Vestir a la marioneta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/516/c18b22dfcc165514173f48adbcb8601b/master.m3u8?1676411004"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles de la cabeza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/517/77f90376b026dcf95f945f7f52bcd95e/master.m3u8?1676411004"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b9r8qn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pose y animación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Posando para fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/518/ec4cb95a9092eb34d03a4af95e8e49ea/master.m3u8?1676411001"
+                },
+                {
+                    "id": null,
+                    "title": "Animación básica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/519/7f2325637f65feb6785008cda18a3ad2/master.m3u8?1676411000"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hdj3ek.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/i1k82m.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4362,
+        "product_name": "Introduction to Puppet Making for Stop Motion",
+        "teacher_name": "Adeena Grubb",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9937,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

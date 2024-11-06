@@ -1,0 +1,213 @@
+{
+    "id": "1404",
+    "title": "Introducción al voxel art para el diseño de personajes",
+    "url": "https://www.domestika.org/es/courses/1404-introduccion-al-voxel-art-para-el-diseno-de-personajes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/855/c405c0a884ee5618aef90d0d17c2ee6e/master.m3u8?1676391170"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/856/48f39761bca2d3a8eb3bd4aaff1d1241/master.m3u8?1676391169"
+                },
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/707/a75b3794d8eeab674386efc350730078/master.m3u8?1676391502"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rfuwim.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Recursos para sacarte de cualquier apuro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo empezar pensar en ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/858/20db679117424ddce0827da23297a4f0/master.m3u8?1676391173"
+                },
+                {
+                    "id": null,
+                    "title": "Calcular la escala",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/860/3ab2a6675f7a520e193e00e37362660a/master.m3u8?1676391174"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de referencias de animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/862/d0c81a45afb15db8f59ec950f76a1243/master.m3u8?1676391176"
+                },
+                {
+                    "id": null,
+                    "title": "Buscar referencias y organizarlas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/876/547fe420f30b4e4c5caee4254af21bac/master.m3u8?1676391176"
+                },
+                {
+                    "id": null,
+                    "title": "Averiguar el color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/877/905aea93da2bf960daff7e4a11c83eb2/master.m3u8?1676391178"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/22h5wm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Produciendo tu voxel art",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bloqueando tu escena 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/863/aa4b8d267ca3800d7529cff76dd20bae/master.m3u8?1676391176"
+                },
+                {
+                    "id": null,
+                    "title": "Bloqueando tu escena 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/878/6dbba29cb1b2df5c7b28f63010f6d60c/master.m3u8?1676391182"
+                },
+                {
+                    "id": null,
+                    "title": "Bloqueando tu escena 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/891/d24931b19a43de9e9b3a9683035daca5/master.m3u8?1676391191"
+                },
+                {
+                    "id": null,
+                    "title": "PreRiggingCharacter Testing  1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/893/4d7081635ae5b6963f71984af0074453/master.m3u8?1676391187"
+                },
+                {
+                    "id": null,
+                    "title": "PreRiggingCharacter Testing 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/881/575c6d1a4ba4b1f33bfe5f29bcd6f141/master.m3u8?1676391178"
+                },
+                {
+                    "id": null,
+                    "title": "PreRiggingCharacter Testing 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/882/6d840c0416e1435f39962e2867d1ba12/master.m3u8?1676391192"
+                },
+                {
+                    "id": null,
+                    "title": "Character Rigging 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/883/98d4b0409bbeaea5eaab79aee4c98f28/master.m3u8?1676391184"
+                },
+                {
+                    "id": null,
+                    "title": "Character Rigging 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/894/d4f6d65835672e99b7aef1806ae3aae6/master.m3u8?1676391188"
+                },
+                {
+                    "id": null,
+                    "title": "Character Rigging 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/884/68179c8d8c4a67802b07a21e5914a148/master.m3u8?1676391185"
+                },
+                {
+                    "id": null,
+                    "title": "Animando en Maya Habilidades transferibles a Blender",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/872/3a32ddf08ac713732937fd51b9b2c89f/master.m3u8?1676391183"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de animación basada en fotogramas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/885/44506de1c033e66a06dd623c8b37e2aa/master.m3u8?1676391184"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de animación basada en fotogramas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/886/7c0b676383ce3223d39b842f00e54e0b/master.m3u8?1676391188"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2g21g5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exponiendo tu arte al mundo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configurando tu escena e iluminación en Unity",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/890/0136a856c48a255da63398a5bfc2884f/master.m3u8?1676391185"
+                },
+                {
+                    "id": null,
+                    "title": "Finalizando tu escena 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/888/d64e0300f8236cc200cfef762027bb98/master.m3u8?1676391186"
+                },
+                {
+                    "id": null,
+                    "title": "Finalizando tu escena 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/708/447de78b3a40f1c0d90e637815fc06d6/master.m3u8?1676392021"
+                },
+                {
+                    "id": null,
+                    "title": "Capturar y renderizar tu animación  proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/707/e1f50f64760553e2c68ad02dfbe7d269/master.m3u8?1676392016"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6m5u6i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/43gbu8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1404,
+        "product_name": "Introduction to Voxel Art for Character Design",
+        "teacher_name": "Zach Soares",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 18832,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

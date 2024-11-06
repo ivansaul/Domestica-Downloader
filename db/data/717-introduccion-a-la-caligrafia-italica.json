@@ -1,0 +1,198 @@
+{
+    "id": "717",
+    "title": "Introducción a la caligrafía itálica",
+    "url": "https://www.domestika.org/es/courses/717-introduccion-a-la-caligrafia-italica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/905/960b5b2e79cebcebfcbffd7a4eb26a29/master.m3u8?1676387124"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/906/c9371f5d47192ceaeabb3cbb3639ae66/master.m3u8?1676387127"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/907/928c36f1f017675c8344f465be8b8359/master.m3u8?1676387122"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n83uw4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modo preparación conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Un poco de historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/746/b5934ffa4edd5c808296c78e64490339/master.m3u8?1676387049"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación de las herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/749/f717be1e4916a167bfa836a95e66a86e/master.m3u8?1676387055"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos caligráficos y tipográficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/965/d5d41064266ef33563541b427cfa3467/master.m3u8?1676387159"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o2jajb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conozcamos las itálicas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo hacer guías caligráficas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/756/fc84021f48f60ecf684ff0a482675ae9/master.m3u8?1676387059"
+                },
+                {
+                    "id": null,
+                    "title": "Familiarización con las herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/757/65ee4fe476cebc46a1a5dd19dc3c9b0a/master.m3u8?1676387062"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de minúsculas I primera parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/898/27a38c27b51f59964086c58fad61067d/master.m3u8?1676387123"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de minúsculas I segunda parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/899/3cbf256584adb59be46d21bce0818ddd/master.m3u8?1676387123"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de minúsculas II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/791/235e1a17e534a5075498bca95339479f/master.m3u8?1676387087"
+                },
+                {
+                    "id": null,
+                    "title": "Mayúsculas con pluma primera parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/886/f6ff3dcdfaea240c5b3be9fc028e36f9/master.m3u8?1676387120"
+                },
+                {
+                    "id": null,
+                    "title": "Mayúsculas con pluma segunda parte parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/901/db324f2fd38e795334f608d091033709/master.m3u8?1676387122"
+                },
+                {
+                    "id": null,
+                    "title": "Exploremos las itálicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/902/bfeb7458ba509edb5970ae101e8d466b/master.m3u8?1676387130"
+                },
+                {
+                    "id": null,
+                    "title": "Juguemos con las mayúsculas primera parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/903/9f83551a2f037bba1e7b798ead19ba63/master.m3u8?1676387128"
+                },
+                {
+                    "id": null,
+                    "title": "Juguemos con las mayúsculas segunda parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/904/56ba17f79c663401c2871aa8c11a3e4f/master.m3u8?1676387131"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bkxlv0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mi afiche caligráfico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de frase y su concepto gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/908/e6a0fa74d20d040ad0b4159185f90708/master.m3u8?1676387136"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos para la composición de la frase",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/910/49cb02c419160a85cbdf81ca0cfd06bc/master.m3u8?1676387130"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación del papel y las herramientas para la pieza final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/911/2b48c6649ec915dd01963f7b41d988d7/master.m3u8?1676387126"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de la pieza final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/912/0cb67e8c1590b6a40fd9170a3979f692/master.m3u8?1676387127"
+                },
+                {
+                    "id": null,
+                    "title": "Digitalización Retoque y paso a otros formato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/913/aeca877aed80d3870b4eb746a56782d8/master.m3u8?1676387127"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/flbrw6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zm9h21.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 717,
+        "product_name": "Introduction to Italic Calligraphy",
+        "teacher_name": "Belén La Rivera",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 15207,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

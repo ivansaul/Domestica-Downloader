@@ -1,0 +1,159 @@
+{
+    "id": "4415",
+    "title": "Diario de dibujo crea personajes fantásticos",
+    "url": "https://www.domestika.org/es/courses/4415-diario-de-dibujo-crea-personajes-fantasticos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/490/6ae93007dd7563c0ae16c4e082055745/master.m3u8?1676409738"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/491/8bc54c60870f2a81c9e60fdbc43c5eba/master.m3u8?1676409738"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uv1tc7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La importancia del boceto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué un diario de dibujo de criaturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/492/ca1edbb3deda6a813a43d189cc3be7de/master.m3u8?1676409742"
+                },
+                {
+                    "id": null,
+                    "title": "Calentamiento soltar la mano y dibujar desde la imaginación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/493/900f59a3197445417f771f23dd93e3fd/master.m3u8?1676409739"
+                },
+                {
+                    "id": null,
+                    "title": "Calentamiento encontrar las formas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/494/b8935b2cad1cd2c48b0f6ae264f88f3a/master.m3u8?1676409741"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/495/49e0bfb4661bd7d5102eddcbc307e679/master.m3u8?1676409738"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zkgrcf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Abocetar un bosque de brujas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cosas de brujas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/496/a19fb9edf95b9ff7ba37850673e99b69/master.m3u8?1676409742"
+                },
+                {
+                    "id": null,
+                    "title": "Criaturas del bosque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/497/2e4f98e87471fd66819682251c1d13ed/master.m3u8?1676409743"
+                },
+                {
+                    "id": null,
+                    "title": "Thumbnails de personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/498/452d8f9251133be1caf73017ad85a433/master.m3u8?1676409738"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wsuckh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de personajes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollo de personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/499/a737818dc1def09c221df1f20db230d7/master.m3u8?1676409752"
+                },
+                {
+                    "id": null,
+                    "title": "Conexión entre dos personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/501/44e5fd5e5060bd657e8efcb6847da87c/master.m3u8?1676409750"
+                },
+                {
+                    "id": null,
+                    "title": "Expresividad corporal y facial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/502/fbe967c73f8b3dec6b2fabf1bbd2c85e/master.m3u8?1676409747"
+                },
+                {
+                    "id": null,
+                    "title": "Tips de diseño de personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/503/351ed03cbffe7ae4bab1c32f1766c715/master.m3u8?1676409742"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ufbkyd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ibl09w.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4415,
+        "product_name": "Drawing Journal: Create Fantasy Characters",
+        "teacher_name": "Guille Rancel",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7149,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

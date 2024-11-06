@@ -1,0 +1,153 @@
+{
+    "id": "178",
+    "title": "Freelance claves y herramientas para triunfar siendo tu propio jefe",
+    "url": "https://www.domestika.org/es/courses/178-freelance-claves-y-herramientas-para-triunfar-siendo-tu-propio-jefe/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/174/65c99d91718ae7a2c72d762d9829852a/master.m3u8?1676382473"
+                },
+                {
+                    "id": null,
+                    "title": "Freelance  emprendedor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/176/2f29bc9634e400c8bdb4564193af6840/master.m3u8?1676382476"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hya84u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear tu portfolio y ser tu propio cliente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Construir un portfolio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/177/edbd66dd1b24e2fa72dddc2ef371cb3b/master.m3u8?1676382478"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo presentarte a ti mismo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/178/9bad92d589f7893fc0fbcd79dfbb9fc9/master.m3u8?1676382475"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d2unep.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Buscar clientes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrar clientes dónde y cómo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/179/17ee4edb62c6c71e4ffc3457b9fa12d9/master.m3u8?1676382485"
+                },
+                {
+                    "id": null,
+                    "title": "Un representante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/180/91fe9776d564fddedba28ebc562dddb8/master.m3u8?1676382477"
+                },
+                {
+                    "id": null,
+                    "title": "Construir una audiencia Redes Sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/181/209db366237f8f28e449fbd55add06d6/master.m3u8?1676382483"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nvnv0s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ser un profesional",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo poner precio a tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/182/76bf896b937550246154a6c4ad0d67fd/master.m3u8?1676382481"
+                },
+                {
+                    "id": null,
+                    "title": "El primer contacto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/183/3112f1f01fff516a9f0e20bb7b81c0ba/master.m3u8?1676382479"
+                },
+                {
+                    "id": null,
+                    "title": "Un proceso de trabajo profesional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/184/12b62dd4e93d81435a26ccb7f197a500/master.m3u8?1676382479"
+                },
+                {
+                    "id": null,
+                    "title": "Administrar el tiempo y la organización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/185/223e2136d7a8f33a3976174fa2b7b870/master.m3u8?1676382480"
+                },
+                {
+                    "id": null,
+                    "title": "Fijar estándares en tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/186/c4ee1e7ca010d83b3b7789bdb30462ef/master.m3u8?1676382481"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gqcbrq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/29a75k.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 178,
+        "product_name": "Freelance: Keys and Tools to Find Success as Your Own Boss",
+        "teacher_name": "Martina Flor",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7166,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

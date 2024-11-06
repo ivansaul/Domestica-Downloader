@@ -1,0 +1,148 @@
+{
+    "id": "4733",
+    "title": "Introducción al diseño arquitectónico de espacios residenciales",
+    "url": "https://www.domestika.org/es/courses/4733-introduccion-al-diseno-arquitectonico-de-espacios-residenciales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/124/ee3a279d849092c76177c489ddea0a4f/master.m3u8?1676412553"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/125/ce224b851284fc7bf00c49956e288741/master.m3u8?1676412552"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zbbd4e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Analizar el sitio y al usuario",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis del usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/126/5c74082d7168b86b87b61857f03ce75a/master.m3u8?1676412555"
+                },
+                {
+                    "id": null,
+                    "title": "Contexto natural y urbano del sitio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/127/65da227e5637f1e1484cc8012538e3bb/master.m3u8?1676412554"
+                },
+                {
+                    "id": null,
+                    "title": "Contexto histórico y referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/128/aadfa8bee80dca3e307a717159e26809/master.m3u8?1676412554"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación de casos análogos y elección de la materialidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/129/44b4c79127e0e3037e7fa5cee5d78d30/master.m3u8?1676412555"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6i3ysv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Propuesta de diseño planta arquitectónica y volumen",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entender la masa y desarrollar la planta arquitectónica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/130/649259f11fdc6fefbca0afc94f94bb46/master.m3u8?1676412556"
+                },
+                {
+                    "id": null,
+                    "title": "Concluir la propuesta volumétrica y layout final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/131/9dc2aff849d797f572ed5e1b1d093915/master.m3u8?1676412555"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2cw8q8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Storytelling",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/132/90aea81926b2f8b343225e19b4ec148c/master.m3u8?1676412555"
+                },
+                {
+                    "id": null,
+                    "title": "Mood boards y look and feel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/133/953289ff617ca35dda3ddcacc866dbf2/master.m3u8?1676412557"
+                },
+                {
+                    "id": null,
+                    "title": "Plantas cortes fachadas y perspectivas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/134/e955be8106e5f75238d41afeaf14c6f5/master.m3u8?1676412556"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ywzl5q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rw3hny.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4733,
+        "product_name": "Intro to Architectural Design of Residential Spaces",
+        "teacher_name": "Cristina Grappin",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 3597,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

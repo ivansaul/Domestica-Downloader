@@ -1,0 +1,163 @@
+{
+    "id": "2522",
+    "title": "Dibujo de personajes expresivos",
+    "url": "https://www.domestika.org/es/courses/2522-dibujo-de-personajes-expresivos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/475/36699b422ac7a7085d322ba6c9e17ac7/master.m3u8?1676398228"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/476/e04c28aee4ef511b1fde1a82e4f42758/master.m3u8?1676398228"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nuwtiw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la imaginación a la expresión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la creación del personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/478/85688fed5f157d2bfafbfadabcea116c/master.m3u8?1676398229"
+                },
+                {
+                    "id": null,
+                    "title": "Definición y documentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/480/abc41fd9ace5b1376d7bb7560a08a111/master.m3u8?1676398233"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción del personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/481/9e3f0127777e246d493223dee996f067/master.m3u8?1676398233"
+                },
+                {
+                    "id": null,
+                    "title": "Tips para mejorar la composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/482/1c1307ec03e24fad5c0519b937da1389/master.m3u8?1676398233"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e5b2jb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollar la idea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lluvia de ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/483/d5db422b2554ae5b748d3faae2cae55e/master.m3u8?1676398231"
+                },
+                {
+                    "id": null,
+                    "title": "De la idea al boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/484/faa36eaabf2f2b25ef2840d3c392a3b4/master.m3u8?1676398236"
+                },
+                {
+                    "id": null,
+                    "title": "Pose y gesticulación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/485/79bec1a92dbcce87d31d45d5662eba18/master.m3u8?1676398236"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza y finalizado del dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/486/dbf19b595e1fe68ef623745af61f72be/master.m3u8?1676398232"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/275f80.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Color y detalles finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definir la paleta de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/487/3ce29f388e453a0513ca6de6c221629e/master.m3u8?1676398237"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicar los colores base",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/488/46d02bc224902bc57412ab64b3aab98a/master.m3u8?1676398239"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicar volúmenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/489/9f2332d5ae74c09003b368ff299dd012/master.m3u8?1676398238"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos y detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/490/fc431e55c47b47e16d5a4bfe301d2773/master.m3u8?1676398239"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u9hmhi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/z1bq19.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2522,
+        "product_name": "Drawing Expressive Characters",
+        "teacher_name": "Omar Lozano",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8714,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

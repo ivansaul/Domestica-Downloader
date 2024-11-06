@@ -1,0 +1,240 @@
+{
+    "id": "608",
+    "title": "Diseño y modelado de una nave scifi en 3D",
+    "url": "https://www.domestika.org/es/courses/608-diseno-y-modelado-de-una-nave-sci-fi-en-3d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/123/755d1c3421fbb2baa4e45f3c6e2ac361/master.m3u8?1676386379"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/129/a10a07a08e3d3a8838f472f30eb232ac/master.m3u8?1676386387"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/131/91e38c9cac42901d8706205b91c95b9d/master.m3u8?1676386378"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/89ahnu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Boceto en 2D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Búsqueda de referencias y preparación del board reference",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/134/a7aa440dd36c86272f353ebe5cdff155/master.m3u8?1676386385"
+                },
+                {
+                    "id": null,
+                    "title": "Generación de thumbnails",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/143/096d136b6de1121e40e332c12d78cd07/master.m3u8?1676386388"
+                },
+                {
+                    "id": null,
+                    "title": "Selección y refinación de un thumbnail",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/144/73c49026bc5c751bac779654c393c23f/master.m3u8?1676386388"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/67z71x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado del vehículo en 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Formas principales I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/145/c8a307f24dbb7073558eed1924e735eb/master.m3u8?1676386389"
+                },
+                {
+                    "id": null,
+                    "title": "Formas principales II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/327/676e25f4b085fcfd0718c8a244741daf/master.m3u8?1676386448"
+                },
+                {
+                    "id": null,
+                    "title": "Formas secundarias I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/328/052168c6c292fed4a7b46b0c27e19f5c/master.m3u8?1676386446"
+                },
+                {
+                    "id": null,
+                    "title": "Formas secundarias II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/343/3a727b42b8115d57002c8b8f93b74654/master.m3u8?1676386456"
+                },
+                {
+                    "id": null,
+                    "title": "Formas terciarias I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/344/2d57c2bd961895699a8babd702a449c2/master.m3u8?1676386455"
+                },
+                {
+                    "id": null,
+                    "title": "Formas terciarias II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/374/e2b479c3d662ccd5cc97267053a0fbec/master.m3u8?1676386464"
+                },
+                {
+                    "id": null,
+                    "title": "Formas terciarias III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/375/fe0f3511de2f9e8c2bfb92a2d68e9fc8/master.m3u8?1676386467"
+                },
+                {
+                    "id": null,
+                    "title": "Formas terciarias IV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/376/007751642f1050296dd0cb4ebd1a001d/master.m3u8?1676386466"
+                },
+                {
+                    "id": null,
+                    "title": "Utilización de Alphas I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/380/c1a47976420aaf3816ae15570147e607/master.m3u8?1676386466"
+                },
+                {
+                    "id": null,
+                    "title": "Utilización de Alphas II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/433/db4b3ab6e91560676efe8b937e9f0666/master.m3u8?1676386498"
+                },
+                {
+                    "id": null,
+                    "title": "Kitbashing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/437/26824a74128b32f697af529d12c66514/master.m3u8?1676386497"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u3lh4o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Texturizado del vehículo en 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparado del modelo Low en Maya",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/445/64ec2ddb74afb0fd8d4fef17df50e00f/master.m3u8?1676386503"
+                },
+                {
+                    "id": null,
+                    "title": "Coordenadas UV I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/444/a233c46307d532084ec215e64ea93322/master.m3u8?1676386501"
+                },
+                {
+                    "id": null,
+                    "title": "Coordenadas UV II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/446/296e5af235ca7ec782627a44683c54be/master.m3u8?1676386505"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizado base en Substance Painter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/447/057b7a065cc046416595cafe9efc5e14/master.m3u8?1676386504"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizado final en Substance Painter I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/448/b76a6ae4603feb3169d7890f206b19b5/master.m3u8?1676386503"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizado final en Substance Painter II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/450/c16674bf430866ad16aedd394bd3bbd3/master.m3u8?1676386506"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a9x53r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación de nuestro vehículo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Render en Toolbag",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/452/7e31b610003eea89e6779201057887f5/master.m3u8?1676386508"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque en Photoshop I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/639/2c38aa1033468c171e41d3554d862fbf/master.m3u8?1676386571"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque en Photoshop II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/529/97ac661dc17d1f9e14c1370dfe9c5c14/master.m3u8?1676386535"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos para tu portfolio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/640/0263c92c2aa4719c808ceba25c8ff556/master.m3u8?1676386569"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sqoqbt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/bwxitw.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 608,
+        "product_name": "Design and Modeling of a 3D Sci-Fi Ship",
+        "teacher_name": "Juan Novelletto",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 27,
+        "course_total_duration_sec": 20595,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

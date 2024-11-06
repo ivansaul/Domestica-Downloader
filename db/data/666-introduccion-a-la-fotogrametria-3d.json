@@ -1,0 +1,173 @@
+{
+    "id": "666",
+    "title": "Introducción a la fotogrametría 3D",
+    "url": "https://www.domestika.org/es/courses/666-introduccion-a-la-fotogrametria-3d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/565/ebf2a1ba99db9774887c5bf7fc6def32/master.m3u8?1676387905"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/566/72540f3f672c22f72981053ec465060d/master.m3u8?1676387909"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/568/c8fa3ba8d5619e65a3c8dbd5fd505394/master.m3u8?1676387906"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a5jlkr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué es la fotogrametría",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bases de la fotogrametría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/636/34c57cb731bc0af8ae784ed43663c983/master.m3u8?1676387929"
+                },
+                {
+                    "id": null,
+                    "title": "Puntos clave y programas de procesado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/637/3651c70caaae7c51a6a2f1f1ca4f822b/master.m3u8?1676387928"
+                },
+                {
+                    "id": null,
+                    "title": "Material y equipo necesario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/638/dc79558cede315a56d9acd975cb5a766/master.m3u8?1676387925"
+                },
+                {
+                    "id": null,
+                    "title": "Scouting y preparación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/639/0d3a371f1b1f4d7b0c72938d31a30351/master.m3u8?1676387931"
+                },
+                {
+                    "id": null,
+                    "title": "Setup del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/640/516cdef31314c4ff3d59814cef9bc66d/master.m3u8?1676387926"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x5pafv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasamos a la acción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Shooting fotográfico I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/641/89eb75d9de02e7ece13ae04739ea855a/master.m3u8?1676387934"
+                },
+                {
+                    "id": null,
+                    "title": "Shooting fotográfico II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/642/8ccee3d0e21d75ff76646326d4465705/master.m3u8?1676387928"
+                },
+                {
+                    "id": null,
+                    "title": "Edición en Photoshop de los archivos RAW",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/643/f4a0c04080d95885aebac700f25f49bc/master.m3u8?1676387929"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a Agisoft",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/644/ffcf24fefdf376a6af9f9c35da5f5108/master.m3u8?1676387930"
+                },
+                {
+                    "id": null,
+                    "title": "Alineado de cámaras y creación de las nubes de puntos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/733/ce9e03a81a01d8310aafc9ab05149ab7/master.m3u8?1676387966"
+                },
+                {
+                    "id": null,
+                    "title": "Reconstrucción final del scan en 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/734/575e551e287a6177bb060b1dc5b63782/master.m3u8?1676387965"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o3ubqt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Render y Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Renderizado del modelo en Marmoset Toolbag",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/648/e2347349e29438b987aa3a248b7d2146/master.m3u8?1676387932"
+                },
+                {
+                    "id": null,
+                    "title": "Subimos nuestro scan a Sketchfab",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/649/6026cf3de84425fbfc31a193bd1035d0/master.m3u8?1676387932"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dlgknb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9ex6vk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 666,
+        "product_name": "Introduction to 3D Photogrammetry",
+        "teacher_name": "David Chumilla",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 8574,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

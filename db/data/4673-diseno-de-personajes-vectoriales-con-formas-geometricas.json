@@ -1,0 +1,163 @@
+{
+    "id": "4673",
+    "title": "Diseño de personajes vectoriales con formas geométricas",
+    "url": "https://www.domestika.org/es/courses/4673-diseno-de-personajes-vectoriales-con-formas-geometricas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre nosotros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/014/b022fb989f8b6e233c13e4f5f145f64c/master.m3u8?1695404284"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/015/15b6121cfa43f6e1e3556698f696bf6a/master.m3u8?1695404298"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vvuu10.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación y bocetos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Algunas herramientas útiles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/016/4ac5d8eed0092844fa721af3cbe4711c/master.m3u8?1695404315"
+                },
+                {
+                    "id": null,
+                    "title": "Proponer ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/017/5eea05a3a224243cd4ddf5061b9559c0/master.m3u8?1695404328"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/018/d009f7656425c61c512b63b974b6c29e/master.m3u8?1695404341"
+                },
+                {
+                    "id": null,
+                    "title": "Rejillas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/019/a1a76360cc629e8861d26c569f6e3710/master.m3u8?1695404356"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e18lhi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo un personaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Esbozando algunas ideas aproximadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/020/9581ca5affd88ff3ecd7d31e0511ba0c/master.m3u8?1695404374"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo con formas básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/021/099482c637710a24fdc65e453d5a2951/master.m3u8?1695404389"
+                },
+                {
+                    "id": null,
+                    "title": "Creando expresiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/022/0675d6f6d9417b2c513ac1338d216ddc/master.m3u8?1695404408"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/023/2b3e621e8f4359b290078ce92af06cd0/master.m3u8?1695404424"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer una pose",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/024/372c2083ba38609f45d765483b697287/master.m3u8?1695404442"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e7nni8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear un conjunto de productos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Una pegatina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/025/b2bec1e2acb162175bfb5c1b1a6af953/master.m3u8?1695404462"
+                },
+                {
+                    "id": null,
+                    "title": "un alfiler",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/026/456fbcf38277b9795d88ffa924c94d6d/master.m3u8?1695404477"
+                },
+                {
+                    "id": null,
+                    "title": "Un cuaderno de bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/027/ec37f92aa9bcefff8495fa5544c74eb0/master.m3u8?1695404499"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wqv7ld.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/5rc0lg.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4673,
+        "product_name": "Vector Character Design With Geometric Shapes",
+        "teacher_name": "Loulou & Tummie",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8885,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

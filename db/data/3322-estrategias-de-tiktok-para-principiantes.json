@@ -1,0 +1,163 @@
+{
+    "id": "3322",
+    "title": "Estrategias de TikTok para principiantes",
+    "url": "https://www.domestika.org/es/courses/3322-estrategias-de-tiktok-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/438/db90fa31dc56eaaf96cb115cca629762/master.m3u8?1676405340"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/439/88f06b6a3086eed0149cdb7976536b96/master.m3u8?1676405340"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/opjg8i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Esenciales de TikTok",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "TikTok 101 algoritmo y feeds",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/440/d1e15b55747729901ca00ab3c5754ecf/master.m3u8?1676405344"
+                },
+                {
+                    "id": null,
+                    "title": "Una guía de las herramientas de TikTok 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/441/fc7af755613ddedb821f8884393a233d/master.m3u8?1676405347"
+                },
+                {
+                    "id": null,
+                    "title": "Una guía para las herramientas de TikTok 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/442/bfd87ae425e3099f949a7df05a4c385c/master.m3u8?1676405345"
+                },
+                {
+                    "id": null,
+                    "title": "Esquema de la estrategia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/443/97e2ba97a0cbf48775b2ccda2ccbcaa5/master.m3u8?1676405359"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cnz4vp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Reflexión e investigación social",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Auditoría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/444/c2e887534a7618e89a3d4144db6361e7/master.m3u8?1676405349"
+                },
+                {
+                    "id": null,
+                    "title": "Audiencia actual y objetivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/445/5abe7221debaed657c1a514ac3f7b145/master.m3u8?1676405344"
+                },
+                {
+                    "id": null,
+                    "title": "Brand Voice estética y tono",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/528/8ec02c540e30b71517f8a1d4b8fda1da/master.m3u8?1676405385"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5kj7d5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cuando la creatividad se encuentra con la estrategia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrar tus grupos de contenido y franquicias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/446/cea76c819bcc31b7e883e067653b361f/master.m3u8?1676405346"
+                },
+                {
+                    "id": null,
+                    "title": "Creando tu contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/447/16fe2e2683115c1286bb7e1cf69d3daf/master.m3u8?1676405346"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de contenido e interacción con tu audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/448/17a44917a07781593dc7376250d20a1d/master.m3u8?1676405347"
+                },
+                {
+                    "id": null,
+                    "title": "Comprendiendo tus métricas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/449/fae14778e28e1695b7789094b82908f3/master.m3u8?1676405346"
+                },
+                {
+                    "id": null,
+                    "title": "Para aprender más creación de contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/451/4838aaf1803d7278b4cf925fb52e95c1/master.m3u8?1676405346"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sor3ml.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4plqoa.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3322,
+        "product_name": "TikTok Strategy for Beginners",
+        "teacher_name": "Molly McGlew",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 9181,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

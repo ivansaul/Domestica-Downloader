@@ -1,0 +1,168 @@
+{
+    "id": "2527",
+    "title": "Metodología de diseño de interiores para espacios a medida",
+    "url": "https://www.domestika.org/es/courses/2527-metodologia-de-diseno-de-interiores-para-espacios-a-medida/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre nosotros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/196/7f54352f93dbecf5c7a9ab643af8bc22/master.m3u8?1676397037"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/231/c445f81dc9906fa4f1eb9fb183379ba2/master.m3u8?1676397050"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/50vkpb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Metodología del proceso de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Flujo de trabajo del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/197/5368f5d2df1d5c3ebc3b6ecb5c647b98/master.m3u8?1676397032"
+                },
+                {
+                    "id": null,
+                    "title": "Ejemplo de flujo de trabajo del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/198/cbd7af471abf9d390c00b45e2f9dc790/master.m3u8?1676397036"
+                },
+                {
+                    "id": null,
+                    "title": "Compromiso del cliente para un flujo de trabajo eficaz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/199/fd3d8bdf87059008e2691b7492fe3f0c/master.m3u8?1676397032"
+                },
+                {
+                    "id": null,
+                    "title": "Optimización del trabajo Crea tu propio sistema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/200/8b4990071393cc7e3150be78c195b9ef/master.m3u8?1676397033"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a la metodología de proyectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/230/c0e3a54b7a7451de6c1dcd95dbd40604/master.m3u8?1676397048"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k8zfnu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño conceptual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al diseño conceptual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/201/06a8167e4f467123c741b97473f7f0a0/master.m3u8?1676397032"
+                },
+                {
+                    "id": null,
+                    "title": "Recopilación de información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/202/e39488630cecabbe85fe943070aeda67/master.m3u8?1676397035"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de soluciones de la inspiración al concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/203/e18492fcb10b35a11093742915bb87df/master.m3u8?1676397037"
+                },
+                {
+                    "id": null,
+                    "title": "Comunicación con el cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/204/72bbc89ced55ffc257f03631e640f2f2/master.m3u8?1676397035"
+                },
+                {
+                    "id": null,
+                    "title": "Reuniones de clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/205/b1aec5a347a0a7d5c813c355543b2fe6/master.m3u8?1676397037"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8zw49d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo técnico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "De los documentos de construcción a las obras de construcción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/206/680bf89a011775539773d797572f1259/master.m3u8?1676397038"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización y promoción del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/228/63e1270e7d977ca3d2cf51023893e44b/master.m3u8?1676397051"
+                },
+                {
+                    "id": null,
+                    "title": "Desde el desarrollo del diseño hasta el documento de construcción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/229/c84c416c5bd906d1fcc1039fbc3b43ad/master.m3u8?1676397047"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dyatfy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1j2s1m.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2527,
+        "product_name": "Interior Design Methodology for Custom Projects",
+        "teacher_name": "YLAB Architects",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 5978,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

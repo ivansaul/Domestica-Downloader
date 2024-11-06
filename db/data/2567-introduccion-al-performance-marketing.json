@@ -1,0 +1,158 @@
+{
+    "id": "2567",
+    "title": "Introducción al performance marketing",
+    "url": "https://www.domestika.org/es/courses/2567-introduccion-al-performance-marketing/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/594/c3144665345cc3aa98216bde4ec216e3/master.m3u8?1676403111"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/595/d8aa9eb744698f511c5b5690a76d5a4b/master.m3u8?1676403113"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/92vmfr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Performance marketing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Plan de marketing y performance digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/596/578e9d064d0d220015f39019eee1f724/master.m3u8?1676403116"
+                },
+                {
+                    "id": null,
+                    "title": "Errores clásicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/597/59e0e232827265b6d2a04b3581d113ef/master.m3u8?1676403114"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo analizar el caso de estudio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/598/f4a3aabda3578436a84336d1afe052c7/master.m3u8?1676403117"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f8be95.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del plan de performance marketing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Funnel de conversión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/599/c5a451322f091b48ef295ad8a321daa8/master.m3u8?1676403117"
+                },
+                {
+                    "id": null,
+                    "title": "Audiencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/600/d637ab2c7c62416a525d77b2dfd551fb/master.m3u8?1676403123"
+                },
+                {
+                    "id": null,
+                    "title": "Plataformas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/601/dee4a17335f829245889564fd1f303bf/master.m3u8?1676403118"
+                },
+                {
+                    "id": null,
+                    "title": "Monitorear",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/602/0d3272659f2446a064876f825ab94a53/master.m3u8?1676403119"
+                },
+                {
+                    "id": null,
+                    "title": "Optimizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/603/93e3f4c30aeeb597aea4985b0efd81d1/master.m3u8?1676403118"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/odk9u8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El análisis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Analizar los resultados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/604/706c305f3bbc2a5b26aea83a28e76ccb/master.m3u8?1676403119"
+                },
+                {
+                    "id": null,
+                    "title": "Proyección y oportunidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/605/97563c043743350de3b18a7fbdb3ebc6/master.m3u8?1676403132"
+                },
+                {
+                    "id": null,
+                    "title": "Otras aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/606/9ddf69ef4278d145eb3537c67149bdbc/master.m3u8?1676403118"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yni39j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3hcsz7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2567,
+        "product_name": "Introduction to Performance Marketing",
+        "teacher_name": "Felipe Vallejos",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6470,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

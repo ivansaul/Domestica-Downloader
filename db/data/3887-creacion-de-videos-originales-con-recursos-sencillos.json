@@ -1,0 +1,183 @@
+{
+    "id": "3887",
+    "title": "Creación de videos originales con recursos sencillos",
+    "url": "https://www.domestika.org/es/courses/3887-creacion-de-videos-originales-con-recursos-sencillos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/640/38b148c792c6791c7f4804d935f8e9d5/master.m3u8?1676409830"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/641/992233671d4e4cb7257df67ce739246a/master.m3u8?1676409836"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u2kh60.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Propósito e identidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrando tu voz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/642/a19dbd4ae94112d96125c117b66de053/master.m3u8?1676409833"
+                },
+                {
+                    "id": null,
+                    "title": "Historias sabrosas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/643/2e3919ae8b55216c9efea17bec2f9a31/master.m3u8?1676409833"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrando tus ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/644/78cfc0a229cd766670a00a828a4f88d3/master.m3u8?1676409838"
+                },
+                {
+                    "id": null,
+                    "title": "Creando una estética",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/645/2f296d92c260340fe4a897ba647cdc56/master.m3u8?1676409835"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/unvjxc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción y grabación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de una hoja de ruta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/646/7b6add72748675392d5c2669aaffaa70/master.m3u8?1676409837"
+                },
+                {
+                    "id": null,
+                    "title": "Creando tu mundo escenográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/647/5ce108cb523e4684db2a413b52e614fd/master.m3u8?1676409838"
+                },
+                {
+                    "id": null,
+                    "title": "Creando tu belleza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/648/7bea6954464defb5d06646bf9a2a3112/master.m3u8?1676409837"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/649/ed23b47947193bb263e088785f40f3a5/master.m3u8?1676409837"
+                },
+                {
+                    "id": null,
+                    "title": "Montaje equipamiento e iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/650/50a6946469b6b43f2b5117af67ba5aa1/master.m3u8?1676409842"
+                },
+                {
+                    "id": null,
+                    "title": "Grabación de vídeo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/651/a15344ba58db8ebd80905c5e48706bd3/master.m3u8?1676409840"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3bnepx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Editando tu video 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/652/a75f2fb62409202235bb28b3411a9faa/master.m3u8?1676409842"
+                },
+                {
+                    "id": null,
+                    "title": "Editando tu video 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/653/fe5e93fd600f41335006a27038366d6a/master.m3u8?1676409841"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir una banda sonora 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/654/3fecc1679d0e748e084ddc9784a9a6b9/master.m3u8?1676409842"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir una banda sonora 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/655/94d03cf0238dbd25401072b9d4c61cb7/master.m3u8?1676409842"
+                },
+                {
+                    "id": null,
+                    "title": "Coloreando tu video",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/656/976524c454aad9daa290f0096cbac3f5/master.m3u8?1676409842"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía y gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/657/e741ac23327b5fdf92e2c10773017db8/master.m3u8?1676409844"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/95ken4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/15b6i8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3887,
+        "product_name": "Authentic Video Creation with Minimal Resources",
+        "teacher_name": "Letícia Ribeiro",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 9341,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

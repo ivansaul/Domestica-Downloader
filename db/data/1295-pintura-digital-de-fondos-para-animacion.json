@@ -1,0 +1,163 @@
+{
+    "id": "1295",
+    "title": "Pintura digital de fondos para animación",
+    "url": "https://www.domestika.org/es/courses/1295-pintura-digital-de-fondos-para-animacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/257/60b2ae05358cc29538512666db29d197/master.m3u8?1676397070"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/258/67571c6fdd512f5178a0d82860ec6a03/master.m3u8?1676397077"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/259/6e9958bf4f463a8248149913be7a47b9/master.m3u8?1676397071"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/symqlc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación color iluminación y Photoshop",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Principios de color e iluminación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/260/72f1072497c461f50ade4bfd0b5b05ac/master.m3u8?1676397075"
+                },
+                {
+                    "id": null,
+                    "title": "Principios de color e iluminación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/261/edf6ba764b4367006211d4bdc66dd192/master.m3u8?1676397077"
+                },
+                {
+                    "id": null,
+                    "title": "Capas y atajos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/262/e44d92044b59097fef20a873abe870d9/master.m3u8?1676397075"
+                },
+                {
+                    "id": null,
+                    "title": "Pinceles y texturas de Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/263/4e387e21a25e90c8e1bc7ee3f89e77f8/master.m3u8?1676397077"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/264/04a1ed79e290e3ba4c333028dc9d7dcf/master.m3u8?1676397077"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5baper.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Planifiquemos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Agrupando tu composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/265/98898463e04257759d6b81ae29b3955a/master.m3u8?1676397074"
+                },
+                {
+                    "id": null,
+                    "title": "Miniaturas de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/266/191febe830cf155ade001eacd14c7f1b/master.m3u8?1676397093"
+                },
+                {
+                    "id": null,
+                    "title": "Práctica de iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/267/65558b4e9af831c1470519e5e962c3ad/master.m3u8?1676397086"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k6igla.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dándole vida",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Agreguemos un poco de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/268/d5db9599814a3f571a715eba149ab2b9/master.m3u8?1676397089"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/269/a42f0fe1c9f17e9750f50f6dc4202401/master.m3u8?1676397081"
+                },
+                {
+                    "id": null,
+                    "title": "Enciéndelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/270/bd30fcf7897107ed9729e3b72edf639f/master.m3u8?1676397079"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zmvhki.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ju90ok.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1295,
+        "product_name": "Digital Background Painting for Animation",
+        "teacher_name": "Susan Yung",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8443,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

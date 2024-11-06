@@ -1,0 +1,153 @@
+{
+    "id": "3879",
+    "title": "Product management desde cero de la idea al lanzamiento",
+    "url": "https://www.domestika.org/es/courses/3879-product-management-desde-cero-de-la-idea-al-lanzamiento/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/207/6dd627994d75edca669e31813386fc4a/master.m3u8?1676408173"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/208/83b4d722c1c219c95e8e050ba83b79f6/master.m3u8?1676408172"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hzer99.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comprender los conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el product management",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/209/d8c4b8018f1b8ac7028ca3ce70d63b14/master.m3u8?1676408174"
+                },
+                {
+                    "id": null,
+                    "title": "Producto vs programa vs proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/210/e4925bcd92cfe16b404eac9234086575/master.m3u8?1676408175"
+                },
+                {
+                    "id": null,
+                    "title": "Los marcos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/211/9668b8d5a680c385137fa222b9a2a703/master.m3u8?1676408177"
+                },
+                {
+                    "id": null,
+                    "title": "Los marcos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/212/e433bfb0830c559d9856fdada17508d1/master.m3u8?1676408177"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x0x1yu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El producto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La idea el qué y el por qué",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/213/66a231a09f17eaadcb7ea7993bcb0956/master.m3u8?1676408177"
+                },
+                {
+                    "id": null,
+                    "title": "Gestión de los interesados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/214/1c1f700dcd9065bb70be48082924bc5f/master.m3u8?1676408177"
+                },
+                {
+                    "id": null,
+                    "title": "Desglosar el proceso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/215/06ff9a460b943fb6af6f7805dbb73554/master.m3u8?1676408177"
+                },
+                {
+                    "id": null,
+                    "title": "El lanzamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/216/dcf038ebad8e376a97cf7376226a25bd/master.m3u8?1676408176"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/720c3g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Y ahora qué",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Medir el éxito del producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/217/e7722fec7e1d3ae5d7c299aa68eb7729/master.m3u8?1676408175"
+                },
+                {
+                    "id": null,
+                    "title": "Evolución vs transición vs ocaso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/218/ab2336520acf44b150d0234d79e9d385/master.m3u8?1676408178"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7dzt2c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/42bs3v.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3879,
+        "product_name": "Product Management 101: From Idea to Launch",
+        "teacher_name": "Victor Niharra",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5285,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

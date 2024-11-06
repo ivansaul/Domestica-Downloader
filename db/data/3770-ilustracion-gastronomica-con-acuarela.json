@@ -1,0 +1,158 @@
+{
+    "id": "3770",
+    "title": "Ilustración gastronómica con acuarela",
+    "url": "https://www.domestika.org/es/courses/3770-ilustracion-gastronomica-con-acuarela/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/462/01b1df2e88e93a99ad4e284d52b7cf8c/master.m3u8?1676404909"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/466/f3d269f0ea75b1d413df9f12dbbfaa73/master.m3u8?1676404911"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/74d3s1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas y técnicas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/470/8d304c30f7cef95adcc5ecc6f92ab67d/master.m3u8?1676404911"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/472/95c664471f1fdc0618ce40ae17603c3f/master.m3u8?1676404917"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas de comida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/473/1e33ed39745014e1263e5fc3aa53dc3b/master.m3u8?1676404921"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7ty0cm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La ilustración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referencias y croquis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/474/3c6076694902923bc8800b335beb0114/master.m3u8?1676404920"
+                },
+                {
+                    "id": null,
+                    "title": "Paletas de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/475/c72e6e3198eef8af927a8d4335d591c8/master.m3u8?1676404917"
+                },
+                {
+                    "id": null,
+                    "title": "Pintar con acuarela 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/476/8f7b50e8810820946d5572018e6ee1eb/master.m3u8?1676404922"
+                },
+                {
+                    "id": null,
+                    "title": "Pintar con acuarela 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/477/f9665d6c44bb160e8ab898e8c35a77d9/master.m3u8?1676404924"
+                },
+                {
+                    "id": null,
+                    "title": "Pintar con acuarela 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/478/1e781b709556fd70825e8ee99f2714b2/master.m3u8?1676404918"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wuw659.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exhibiendo tu trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Retoques en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/479/575d1cc98c0a3a6135c38dfc3cb3fb2f/master.m3u8?1676404919"
+                },
+                {
+                    "id": null,
+                    "title": "Presencia en línea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/480/060d11316813b0321a21b39dc8a0020b/master.m3u8?1676404917"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo conseguir trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/481/1093527e1e5fe4e2a6b3371f5c34f10d/master.m3u8?1676404917"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gr8iuf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/opme3k.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3770,
+        "product_name": " Flavorful Food Illustration with Watercolor",
+        "teacher_name": "Enya Todd",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8631,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

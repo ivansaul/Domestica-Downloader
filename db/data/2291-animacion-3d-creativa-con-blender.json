@@ -1,0 +1,163 @@
+{
+    "id": "2291",
+    "title": "Animación 3D creativa con Blender",
+    "url": "https://www.domestika.org/es/courses/2291-animacion-3d-creativa-con-blender/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/742/a949190beffbf30ec24d4846229d0b93/master.m3u8?1676398372"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/743/159dc88b011a175edc145506fb25920d/master.m3u8?1676398373"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qs5lzj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "conociendo el proceso",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado creando objetos desde cero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/745/cc00d68e2fd6d5bfb52a833fed3f07fa/master.m3u8?1676398373"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación mucho más allá de la luz y la oscuridad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/746/7e32fa8aa53954bcf14461be7f274eec/master.m3u8?1676398375"
+                },
+                {
+                    "id": null,
+                    "title": "Sombreado dando vida al gris",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/747/c5544b626a454ffa7da8ca7cd9c30b38/master.m3u8?1676398375"
+                },
+                {
+                    "id": null,
+                    "title": "Basta de inercia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/748/624d0be72e3ae0dd31bdd34cb381847f/master.m3u8?1676398375"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rendjq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción de proyectos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "creando la escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/750/f8e79ac08639e7ae564a1388bb0a8201/master.m3u8?1676398380"
+                },
+                {
+                    "id": null,
+                    "title": "Concéntrate en la historia plano de cámara luces y composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/751/f5ac639072c03fb6223007d303458f47/master.m3u8?1676398379"
+                },
+                {
+                    "id": null,
+                    "title": "Más animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/752/a0553a28da1a8205f7249bb31ced571c/master.m3u8?1676398378"
+                },
+                {
+                    "id": null,
+                    "title": "Lookdev y más lookdev",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/753/442e1d2c27cca45916432d627768e4ff/master.m3u8?1676398381"
+                },
+                {
+                    "id": null,
+                    "title": "últimos retoques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/754/e0a068e11a65f5bf8154b2a41738092e/master.m3u8?1676398379"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2vlhed.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción y retoque",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Perdiendo el miedo a Blender Composer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/755/b798e9348790985e787d120e6beaafbd/master.m3u8?1676398381"
+                },
+                {
+                    "id": null,
+                    "title": "Tramo final postproducción en After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/756/dc96e2e32160a48c1e6361d152b985c1/master.m3u8?1676398383"
+                },
+                {
+                    "id": null,
+                    "title": "Pero y si todavía está Postproducción en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/757/f5df1d7000b806be1448bd63b9a16bae/master.m3u8?1676398384"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/npuwct.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6mf0tp.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2291,
+        "product_name": "Creative 3D Animation in Blender",
+        "teacher_name": "Paulo Filipe Souza",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 9506,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "id": "1140",
+    "title": "Teoría del color cómo aplicarla a tus imágenes",
+    "url": "https://www.domestika.org/es/courses/1140-teoria-del-color-como-aplicarla-a-tus-imagenes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación Quién soy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/548/052fdc9cca9294e420eacf40e331e9fe/master.m3u8?1676390590"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/549/f63c98199cae4a64e667674503f02369/master.m3u8?1676390591"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/550/49771e92e9d8e1fb950b0096c7302a02/master.m3u8?1676390591"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k7nbub.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Color para concept 4 millones de colores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tú ya eres experto en color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/551/f4a727772235e50f41dbe2237f617529/master.m3u8?1676390590"
+                },
+                {
+                    "id": null,
+                    "title": "Crear historias con color y contrastes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/552/05b8100d4ed983d431d1d3d42bd31614/master.m3u8?1676390591"
+                },
+                {
+                    "id": null,
+                    "title": "Entender la luz para poder iluminar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/553/5b8713adc8bddb7f7b609592b125d093/master.m3u8?1676390596"
+                },
+                {
+                    "id": null,
+                    "title": "Paso a paso de la creación de un concept a color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/554/74f3bd5a538127c0f5972a33470040c0/master.m3u8?1676390594"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b87led.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Color para ilustración 50 colores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Éxito y fracaso de una imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/555/e8781ff8e435d4180ea8b30fbaf225a9/master.m3u8?1676390595"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando la armonía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/556/b8ac100a2165043e5cc3925f4e595902/master.m3u8?1676390595"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando la armonía II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/557/d927d3265e22fe34a9c54672b122aae6/master.m3u8?1676390595"
+                },
+                {
+                    "id": null,
+                    "title": "Ritmo y equilibrio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/558/4a5e6124b03af245a5c39252bb81efec/master.m3u8?1676390597"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas para qué sirven y cómo generarlas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/559/81475f46ce4363d20a4b769b1a5322bb/master.m3u8?1676390600"
+                },
+                {
+                    "id": null,
+                    "title": "Historia el pretexto perfecto para agregar color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/560/2aa1ad0dbb685ac414e149c58e8c6f45/master.m3u8?1676390599"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nki9ir.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El color gráfico 10 colores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La fuerza de la simpleza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/561/cc323f65ec399801d3faafed80837db1/master.m3u8?1676390599"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría del color al fin",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/562/5369a2208298f3bc5c98719b9754f7a5/master.m3u8?1676390599"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría del color al fin II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/563/88e8d43649136f0978a84e37d40be60c/master.m3u8?1676390598"
+                },
+                {
+                    "id": null,
+                    "title": "Los ingredientes secretos temperatura y saturación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/564/64063cec104c6aa8bbb12204e1bff3d8/master.m3u8?1676390601"
+                },
+                {
+                    "id": null,
+                    "title": "BONUS Cómo resolver problemas frecuentes con el color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/565/22462848fbc3f60ffe8f066ad3daf054/master.m3u8?1676390600"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0v6kr7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/nyo3jt.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1140,
+        "product_name": "Color Theory: How to Apply It to Your Images",
+        "teacher_name": "Jean Fraisse",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 14025,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

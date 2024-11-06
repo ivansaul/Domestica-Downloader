@@ -1,0 +1,168 @@
+{
+    "id": "1388",
+    "title": "Arte abstracto en 3D",
+    "url": "https://www.domestika.org/es/courses/1388-arte-abstracto-en-3d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/509/734c5b45aef47f3f8e3b6286093d0c93/master.m3u8?1676392479"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/510/f3f92138a2929830ccfad797f2bf54ec/master.m3u8?1676392479"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/511/e282b992fc3b80ed6b1124ca263723bf/master.m3u8?1676392484"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x34xvr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Formulación del concepto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El concepto y la idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/512/a81b3e982140d22c5e10ba4b04efb04d/master.m3u8?1676392484"
+                },
+                {
+                    "id": null,
+                    "title": "El mood board y los recursos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/513/f76049d78b9eda70f7b64194d8541854/master.m3u8?1676392485"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hexagq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Combinación creativa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando el modelo base en Cinema 4D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/514/3c71ac7ba3f7181d4fc43d69af436d9a/master.m3u8?1676392484"
+                },
+                {
+                    "id": null,
+                    "title": "Traer el modelo base en Marvelous Designer y simulación de telas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/515/5c7a5f4b1b4bac6b02051b537aea7261/master.m3u8?1676392488"
+                },
+                {
+                    "id": null,
+                    "title": "Traer el modelo base en Marvelous Designer y simulación de telas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/516/8aba5ef6202aeed4f9da99a9b8c96e0d/master.m3u8?1676392484"
+                },
+                {
+                    "id": null,
+                    "title": "Composición e iluminación en Cinema 4d y Redshift Render Engine 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/517/560a8169371ae71576463d1e2fc32f40/master.m3u8?1676392487"
+                },
+                {
+                    "id": null,
+                    "title": "Composición e iluminación en Cinema 4d y Redshift Render Engine 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/518/155116da7fcee3bb3e797c31d35cc81e/master.m3u8?1676392484"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizado y sombreado en Cinema 4D y Redshift 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/519/8567ff48696e1d77ccf69d1a7a76397f/master.m3u8?1676392489"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizado y sombreado en Cinema 4D y Redshift 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/520/ac99aad826d0faf4b092143a96a175b2/master.m3u8?1676392489"
+                },
+                {
+                    "id": null,
+                    "title": "Configurando el Render",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/521/4cf872de1d4d13c5678a9e6f087d194d/master.m3u8?1676392489"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/07lwd7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Posproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Corrección y edición de color en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/522/b5ab2b5f010d493b57885a7708193bf8/master.m3u8?1676392487"
+                },
+                {
+                    "id": null,
+                    "title": "Muestra tu trabajo en Instagram yo Behance",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/523/4389269526c9120d6480b070e603c116/master.m3u8?1676392485"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mr0zwl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9z350q.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1388,
+        "product_name": "Abstract 3D Art",
+        "teacher_name": "Ali Sahba",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9335,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

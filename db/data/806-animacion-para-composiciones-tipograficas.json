@@ -1,0 +1,206 @@
+{
+    "id": "806",
+    "title": "Animación para composiciones tipográficas",
+    "url": "https://www.domestika.org/es/courses/806-animacion-para-composiciones-tipograficas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/782/9be8ce4dedff9f1433fe3a37edb80f2e/master.m3u8?1676387580"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación Quién soy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/796/026f0b1c5cb5af4462617a9096790fce/master.m3u8?1676387582"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/830/0fc5613d0cb3149897a2daf0f011cb89/master.m3u8?1676387603"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l5nxup.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pongamos a punto nuestras armas After Effects y Cinema 4D Lite",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Instalar y preparar Adobe After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/783/37c21a52f9ef5af897ba475367e5e43c/master.m3u8?1676387580"
+                },
+                {
+                    "id": null,
+                    "title": "Cinema 4D Lite Cómo acceder a él y un primer vistazo a la interfaz y algunas funciones básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/784/4d5e08e848210fb327c18b320afd7480/master.m3u8?1676387584"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hr2abw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bases sobre tipografía y métodos para enfocar este tipo de trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es Adobe Fonts y cómo se utiliza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/797/476af781abc4cf684a31a311953cf71d/master.m3u8?1676387584"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos tipográficos Qué podemos y que no debemos hacer con nuestras letras animadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/798/4fbfc350808f9677e15b998fae9ac775/master.m3u8?1676387584"
+                },
+                {
+                    "id": null,
+                    "title": "Enfocar el trabajo desde un concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/799/852ecec6a704324e1ccf3837c2cbe188/master.m3u8?1676387583"
+                },
+                {
+                    "id": null,
+                    "title": "Enfocar el trabajo desde una referencia previa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/800/f6941dcd672a48240cc697d8cd7e2c33/master.m3u8?1676387585"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9ftcvr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Experimentando con tipografía en movimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Happy  Sad Un ejercicio básico en After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/801/5f741745fbbd4956e953e85559503f12/master.m3u8?1676387590"
+                },
+                {
+                    "id": null,
+                    "title": "Creando letras elásticas en After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/802/57b59841c5ad0433047eddc9d2e26666/master.m3u8?1676387593"
+                },
+                {
+                    "id": null,
+                    "title": "Multiplicidad y locura tipográfica en After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/803/cf13ff9b827f664e1ead2869d9811773/master.m3u8?1676387589"
+                },
+                {
+                    "id": null,
+                    "title": "Just finish it El rodillo loco en Cinema 4D Lite",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/804/cea88cb392b796ac92efc09e36f4aabb/master.m3u8?1676387591"
+                },
+                {
+                    "id": null,
+                    "title": "La ola infinita en Cinema 4D Lite",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/805/8ede03672a52144bca9dc681f4f7cb62/master.m3u8?1676387590"
+                },
+                {
+                    "id": null,
+                    "title": "Twist en Cinema 4D Lite",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/806/4bf8562cc1481412e2f8ed67c07e5cff/master.m3u8?1676387594"
+                },
+                {
+                    "id": null,
+                    "title": "El loop eterno en un vórtice",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/807/30a90d4c147a594043c0461497b0d697/master.m3u8?1676387592"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zz1icx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El póster animado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué tipo de póster podemos animar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/808/4c4d713b01bffd489f40dbf0970e50d7/master.m3u8?1676387590"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando nuestro póster",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/809/539cd02c5c06bf2ae04cd7ebdb476b21/master.m3u8?1676387589"
+                },
+                {
+                    "id": null,
+                    "title": "Realizando nuestras animaciones y montaje final en Cinema 4D y  After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/810/074c9d1853be6ce7bdab0867699d7810/master.m3u8?1676387595"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos sobre formatos de salida para las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/811/b79ebb899690bdd1dbc10150d38e0630/master.m3u8?1676387592"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iey2vu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4z7w9m.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 806,
+        "product_name": "Animation for Typographic Compositions",
+        "teacher_name": "Holke 79",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 11302,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

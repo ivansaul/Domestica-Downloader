@@ -1,0 +1,193 @@
+{
+    "id": "199",
+    "title": "Iniciación a la pintura con spray",
+    "url": "https://www.domestika.org/es/courses/199-iniciacion-a-la-pintura-con-spray/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/605/06a9151dc9188c5224e1d458a4d5cfc2/master.m3u8?1676382731"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/606/5075f325c3cb3e57386b3c19b08a538d/master.m3u8?1676382723"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r5g56j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desde el boceto al soporte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/607/66d2adcb9ac2fc528af23cd349984016/master.m3u8?1676382727"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/608/bbfc033e02c5b2c08725ae2b0ff055b6/master.m3u8?1676382718"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ri8nep.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pintar con spray I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/609/ef9bba3b988b2e7f45f1000f3b0e80de/master.m3u8?1676382728"
+                },
+                {
+                    "id": null,
+                    "title": "Pintar con spray II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/610/5defde91239dc489962d22545763d4fb/master.m3u8?1676382730"
+                },
+                {
+                    "id": null,
+                    "title": "Llega el color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/611/28bc583d80893d9d5a4f1814dc7a8a65/master.m3u8?1676382725"
+                },
+                {
+                    "id": null,
+                    "title": "Encajar el boceto sobre el soporte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/612/5ecaccba730309d8a7decd40ea0c5a4f/master.m3u8?1676382734"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5dsqt6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pintando al detalle",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La piel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/613/2322807f490bd426097dbba1615723d2/master.m3u8?1676382731"
+                },
+                {
+                    "id": null,
+                    "title": "Los ojos I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/614/a3f11cd1cb0e18ad0577e6260743f217/master.m3u8?1676382732"
+                },
+                {
+                    "id": null,
+                    "title": "Los ojos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/615/827652d3d509e818056180b6b9df689e/master.m3u8?1676382735"
+                },
+                {
+                    "id": null,
+                    "title": "Los ojos III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/616/22ae91e5d88e452d6d74bd0aa8d15920/master.m3u8?1676382734"
+                },
+                {
+                    "id": null,
+                    "title": "Los ojos IV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/617/b7d851715ba90db05b7e427b62fbbda1/master.m3u8?1676382743"
+                },
+                {
+                    "id": null,
+                    "title": "La nariz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/696/2293353e7424509a1dfeb11104b8d94f/master.m3u8?1676382780"
+                },
+                {
+                    "id": null,
+                    "title": "Profundidad y detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/618/205d60f4bf9b43088712042d63fafde0/master.m3u8?1676382735"
+                },
+                {
+                    "id": null,
+                    "title": "La boca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/619/be2097d1665615d07a1d7e0331c02677/master.m3u8?1676382742"
+                },
+                {
+                    "id": null,
+                    "title": "Orejas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/621/c8e7b79b92fa54d758bfb9c7c8b8b60d/master.m3u8?1676382738"
+                },
+                {
+                    "id": null,
+                    "title": "Colores planos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/622/d366f924d8e11ac0ec979b8e53632703/master.m3u8?1676382744"
+                },
+                {
+                    "id": null,
+                    "title": "El fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/620/97473830252544c1c6b76c099a015d00/master.m3u8?1676382735"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer las líneas y el cuadro acabado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/623/654c43486d0dd8e78f0a3fecbc2fcb1f/master.m3u8?1676382743"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ks4zcu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ien76q.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 199,
+        "product_name": "Introduction to Spray Painting",
+        "teacher_name": "Miguel Ángel Belinchón Bujes",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 12228,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "id": "4258",
+    "title": "Dibujo para el autoconocimiento cuenta tu historia",
+    "url": "https://www.domestika.org/es/courses/4258-dibujo-para-el-autoconocimiento-cuenta-tu-historia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/690/153b8ce0ff2591a7eea4fab1dbca6606/master.m3u8?1676411704"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/691/7ad183d5587f0043a5f7c7192715f7d0/master.m3u8?1676411704"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o9qez1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El brillo de lo cotidiano",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El protagonista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/692/e32ab4b039a318ea8088de4780d49e79/master.m3u8?1676411707"
+                },
+                {
+                    "id": null,
+                    "title": "El entorno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/693/55d292c5de5ead482233ec1de1593b7d/master.m3u8?1676411710"
+                },
+                {
+                    "id": null,
+                    "title": "Paisajes emocionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/694/4bb7fff39596338ec8f372e569c3cdb9/master.m3u8?1676411707"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qd4yor.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El zine dibujo y narración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Contar con dibujos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/695/45eaa72c1b612b9f7ff3cb22be7c3f57/master.m3u8?1676411709"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es un zine",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/696/94424d5108553403fd581c9a90c47cd7/master.m3u8?1676411708"
+                },
+                {
+                    "id": null,
+                    "title": "Elaboración de un zine 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/697/3645ed3a7e08d8387b255307613cf2dc/master.m3u8?1676411714"
+                },
+                {
+                    "id": null,
+                    "title": "Elaboración de un zine 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/698/0f5a4eac87f44ee5feb31cd8da5ed052/master.m3u8?1676411709"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ss5bvc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Compartir una parte de ti",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tu trabajo en formato editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/737/38630b1c01b7271c2755afae6fba3c63/master.m3u8?1676411732"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación en redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/738/d57b0571dcb8bd3dc118402726a80fcc/master.m3u8?1676411731"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6a4oge.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/l2opci.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4258,
+        "product_name": "Drawing and Self-Expression: Tell Your Story",
+        "teacher_name": "Camilo Castaño Quinchía",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 5747,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

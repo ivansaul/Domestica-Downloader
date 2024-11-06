@@ -1,0 +1,158 @@
+{
+    "id": "3285",
+    "title": "Escenas en 3D inspiradas en la ciencia ficción con Cinema 4D y OctaneRender",
+    "url": "https://www.domestika.org/es/courses/3285-escenas-en-3d-inspiradas-en-la-ciencia-ficcion-con-cinema-4d-y-octanerender/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/286/f969ec5291b9baaf045321f6b0a0efb1/master.m3u8?1676403430"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/287/11d4aace10251617fcef1353b9057dcd/master.m3u8?1676403431"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ri1oog.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "preparación e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/288/ab41e886f13797fb8c6be1e087b64b3b/master.m3u8?1676403433"
+                },
+                {
+                    "id": null,
+                    "title": "Posicionamiento aproximado de la carretera y el material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/290/c3b4ad87ea0e97cd9b316df54b702b26/master.m3u8?1676403435"
+                },
+                {
+                    "id": null,
+                    "title": "modelos y texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/291/f8fb4ae80de1bee46ee7d05e5c263e2b/master.m3u8?1676403432"
+                },
+                {
+                    "id": null,
+                    "title": "Posicionamiento aproximado de activos y cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/292/cdc6f23ed7194cf9eca46da17137b663/master.m3u8?1676403440"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x6edxa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "iluminación y ambiente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación con texturas cielo nocturno y ventanas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/293/a0ba1bd64960f087addf1fab0254a2ae/master.m3u8?1676403439"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación con texturas letreros de neón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/295/b12a65f9e9ef5901459b96fe36654b81/master.m3u8?1676403441"
+                },
+                {
+                    "id": null,
+                    "title": "Dale vida a la escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/296/165174f94c406687100237b73ff48d1c/master.m3u8?1676403442"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación con Luces Falsas y Niebla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/297/b946e9c885ddbfa6d5c150ccc828eb0b/master.m3u8?1676403439"
+                },
+                {
+                    "id": null,
+                    "title": "detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/298/241bfcab43d5fe8a983e241e1e24f9d6/master.m3u8?1676403442"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/448q88.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Renderizado y PostProducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "cámara y renderizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/299/5b3b740bf79c81e384313d7b0fc87dca/master.m3u8?1676403442"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/300/02d7cd18e9e7dc5533ef6ed3f64c359b/master.m3u8?1676403443"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qbrjva.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/0db4gc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3285,
+        "product_name": "Sci-Fi Scenes in 3D with Cinema 4D and OctaneRender",
+        "teacher_name": "Fabian Oberhammer",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 10449,
+        "total_units": 4,
+        "subtitles_language": [
+            "de",
+            "es",
+            "en",
+            "pt",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "de"
+        ],
+        "original_language": "de"
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "id": "2991",
+    "title": "Diseño de personajes 3D del dibujo al modelado",
+    "url": "https://www.domestika.org/es/courses/2991-diseno-de-personajes-3d-del-dibujo-al-modelado/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/332/7840940c0a3d7a503f332ed74914ca48/master.m3u8?1676402481"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/333/3888520a05b16ffd4ab10b0df053e08e/master.m3u8?1676402482"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e00eph.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando el personaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recopilación de ideas y referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/334/9ce2218c978f5ed68bb1c2c0b6ac3c0f/master.m3u8?1676402483"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar en Photoshop 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/371/42674e13169a903f07fbbf0f43fc6c43/master.m3u8?1676402506"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar en Photoshop 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/373/6f7ce9496efcc877830f3601c34e2a52/master.m3u8?1676402507"
+                },
+                {
+                    "id": null,
+                    "title": "Adición de color y finalización del carácter 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/379/6f4a968c32486064aee350876ad38cfd/master.m3u8?1676402511"
+                },
+                {
+                    "id": null,
+                    "title": "Adición de color y finalización del carácter 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/380/fc9dea98a3b23f8325a33b7980f2be71/master.m3u8?1676402510"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cex8k1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Esculpir el personaje en ZBrush",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bloqueo en ZBrush 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/382/942534f607ce48f943cab751d96551ff/master.m3u8?1676402516"
+                },
+                {
+                    "id": null,
+                    "title": "Bloqueo en ZBrush 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/383/418c6204ffa08dcd3bb63499baa923fe/master.m3u8?1676402517"
+                },
+                {
+                    "id": null,
+                    "title": "Bloqueo en ZBrush 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/384/bb9d58bd0c8e53a6d7370ad69ff7116b/master.m3u8?1676402515"
+                },
+                {
+                    "id": null,
+                    "title": "Bloqueo en ZBrush 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/385/f82ac5f4a753861db798d5c03d8d0c8d/master.m3u8?1676402524"
+                },
+                {
+                    "id": null,
+                    "title": "Detallando el personaje 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/386/9ee5364f2a3d058508bc11167a3ad37b/master.m3u8?1676402516"
+                },
+                {
+                    "id": null,
+                    "title": "Detallando el personaje 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/387/c15ea6e3c8e600bb2e5a4fc18654a66a/master.m3u8?1676402515"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizar el personaje y perfeccionar la pose 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/388/b756c04944df163907812bd9463e1994/master.m3u8?1676402517"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizar el personaje y perfeccionar la pose 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/389/72c1f85c4d4c2a151555de87f8df06c1/master.m3u8?1676402522"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/imtoir.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Configurando el personaje en Maya",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configurar Shaders en Maya",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/390/18c25afaf4d57ba2b51263f46fee96b9/master.m3u8?1676402517"
+                },
+                {
+                    "id": null,
+                    "title": "Representando el personaje en Maya 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/391/8f95c0c30998409c0c93dd082f04dc6c/master.m3u8?1676402523"
+                },
+                {
+                    "id": null,
+                    "title": "Interpretando el personaje en Maya 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/392/93d05238c7c5509e4e4aeda724525564/master.m3u8?1676402518"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/393/d03831da91ffabcc2641e0f8cf4cb14f/master.m3u8?1676402522"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g44a6x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hjljyt.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2991,
+        "product_name": "3D Character Design: From Drawing to Modeling",
+        "teacher_name": "Segun Samson",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 16693,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "id": "727",
+    "title": "Animación 2D en clave de humor",
+    "url": "https://www.domestika.org/es/courses/727-animacion-2d-en-clave-de-humor/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/258/9965d936b3265f8ed54233da302f23a1/master.m3u8?1676387785"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/871/cecd12a8f8e904648db713559abe743d/master.m3u8?1676388012"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/872/852a0bb3ab52f30740655ef1d617fc4b/master.m3u8?1676388009"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c69o67.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Todo comenzó algún tiempo atrás",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "De buen humor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/873/ef437a96e6016f6e61e24caf2d32e23a/master.m3u8?1676388015"
+                },
+                {
+                    "id": null,
+                    "title": "Tengo una idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/874/8ba7c716a7322899e50d7aae4abd2814/master.m3u8?1676388012"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/70nr01.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hacemos algo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Workflows de animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/875/03a191647a62c9e04f4caa8c0eafba4d/master.m3u8?1676388011"
+                },
+                {
+                    "id": null,
+                    "title": "No tengo idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/876/f19eb615801d477d867085631f5e948c/master.m3u8?1676388010"
+                },
+                {
+                    "id": null,
+                    "title": "El 40",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/877/8d62959cfaee2af332f73c31e5f2ba4f/master.m3u8?1676388013"
+                },
+                {
+                    "id": null,
+                    "title": "Editando diálogos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/878/d28a2ce5f0a838ab023ad4c020f1b958/master.m3u8?1676388014"
+                },
+                {
+                    "id": null,
+                    "title": "Animatic  I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/879/b5c7cba3184b527a52b5f2f829b88e40/master.m3u8?1676388014"
+                },
+                {
+                    "id": null,
+                    "title": "Animatic  II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/880/0925bbf6a1e846805fc788dcc27dbe06/master.m3u8?1676388014"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/881/07895c7cd0e632c93d7e257f4387430e/master.m3u8?1676388018"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5090zs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vamos a animar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Animación Vol 1  I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/882/d31b80d4aaa2bf03d81ceaedf74f6682/master.m3u8?1676388030"
+                },
+                {
+                    "id": null,
+                    "title": "Animación Vol 1  II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/883/288453ff2e8cb9a4bce91d326c590be4/master.m3u8?1676388015"
+                },
+                {
+                    "id": null,
+                    "title": "Animación Vol 2  I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/884/53b51fa4be6ef8148c73089137b6ea6f/master.m3u8?1676388016"
+                },
+                {
+                    "id": null,
+                    "title": "Animación Vol 2  II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/885/a23435180aea3ebb205637ca68e7d2fe/master.m3u8?1676388021"
+                },
+                {
+                    "id": null,
+                    "title": "Animación Vol 2  III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/886/4c12f43b3fab7e8bbd7491696fd39742/master.m3u8?1676388019"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uae87w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Y ahora",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Color y Finish",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/887/a68cfe5e3157ff3b0528aadb1c4fb8aa/master.m3u8?1676388020"
+                },
+                {
+                    "id": null,
+                    "title": "Distribución en Internet",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/888/93974ce726c43f787db744401e783471/master.m3u8?1676388017"
+                },
+                {
+                    "id": null,
+                    "title": "Cierre y conclusiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/889/0fbf19e74cec3276b1b33171bdf124b7/master.m3u8?1676388016"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bwpmw3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vwkdz4.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 727,
+        "product_name": "2D Animation with a Comedic Tone",
+        "teacher_name": "Alexis Moyano",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 12482,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

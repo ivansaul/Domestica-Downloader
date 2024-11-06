@@ -1,0 +1,158 @@
+{
+    "id": "9",
+    "title": "Motivos para repetir",
+    "url": "https://www.domestika.org/es/courses/9-motivos-para-repetir/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Hola Soy Moniquilla",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/099/5546d12bcb7a16440cdf4e2b29361da9/master.m3u8?1676380491"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando Inspiración 1 El Moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/097/17f921dc3d7728bc6eba95fa0328e25e/master.m3u8?1676380485"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando Inspiración 2 Referencias interesantes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/734/c33770f7f36d70841a6deb9a86e23c0c/master.m3u8?1721037558"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jgojw6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Con qué dibujo y qué dibujo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/100/9ad4afabeff7d93515b46a74d194dd1c/master.m3u8?1676380495"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujos y garabatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/102/6458bc7b333f58c7c083f3cadf5b3ff9/master.m3u8?1676380494"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hg6pcu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Escanea limpia y cambia de color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Limpieza 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/103/3413a7aec60a711c71158d44e9ef264c/master.m3u8?1676380493"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/104/5235b1bfd8494f1a79f9e183089e5bde/master.m3u8?1676380494"
+                },
+                {
+                    "id": null,
+                    "title": "Color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/113/7ca73698e36f0503a508f6cbb635886c/master.m3u8?1676380497"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4t1k4t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Del papel a la pantalla",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/106/c08a49de52531a64e9b87d8e001c5b78/master.m3u8?1676380491"
+                },
+                {
+                    "id": null,
+                    "title": "Rapportar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/114/d71a606f3a1a6e8f7fea1f5bf7798247/master.m3u8?1676380499"
+                },
+                {
+                    "id": null,
+                    "title": "Raportar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/108/d54fa5fed9714c6e9032aa8b469ea137/master.m3u8?1676380492"
+                },
+                {
+                    "id": null,
+                    "title": "El motivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/109/f1795fbb22d29edaf773f98bc25832af/master.m3u8?1676380496"
+                },
+                {
+                    "id": null,
+                    "title": "Mockup",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/110/3b1a90b61ce34d6277a5b4c93950705a/master.m3u8?1676380502"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1ory0v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/picm9e.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 9,
+        "product_name": "Creative Pattern Development ",
+        "teacher_name": "Mónica Muñoz Hernández",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8311,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

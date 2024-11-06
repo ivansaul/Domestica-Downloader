@@ -1,0 +1,148 @@
+{
+    "id": "4696",
+    "title": "El poder del networking crea oportunidades profesionales",
+    "url": "https://www.domestika.org/es/courses/4696-el-poder-del-networking-crea-oportunidades-profesionales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/067/55144c075a9426a5725d243dc9c5e3f7/master.m3u8?1676411343"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/068/3152bc76ab22f3a238e486fd15052670/master.m3u8?1676411343"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bj2a35.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos de networking",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pero qué es el netowrking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/069/d7165884ed524d46cca61dbfc58a225d/master.m3u8?1676411342"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo encontrar tu comunidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/070/114b06bfae996d13c4c651001c057def/master.m3u8?1676411343"
+                },
+                {
+                    "id": null,
+                    "title": "Una introducción a la marca personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/071/b51073a32d3f09be45a805a970da87c4/master.m3u8?1676411346"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fz5a6z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Redes en la práctica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tus objetivos de networking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/072/0b905649d056694fd1e671d308535000/master.m3u8?1676411343"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo contactar online",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/073/dbac1dfa17705756f99bf99d7f48c403/master.m3u8?1676411345"
+                },
+                {
+                    "id": null,
+                    "title": "El tono del ascensor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/074/b70f669ce8d90170ca9a61cf40377c9d/master.m3u8?1676411348"
+                },
+                {
+                    "id": null,
+                    "title": "La lista de objetivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/075/3156599cb1b6350674ddd4a1ac94037b/master.m3u8?1676411344"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sz806k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Networking es un verbo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acompañamiento y seguimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/076/7ba28dd7d4ae0b0e5690f9ad6fba5204/master.m3u8?1676411348"
+                },
+                {
+                    "id": null,
+                    "title": "Comentarios y manejo del rechazo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/077/b3dd1c9790e41234ade51140987a6415/master.m3u8?1676411348"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6hciku.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zc0qi3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4696,
+        "product_name": "The Power of Networking: Build Professional Opportunities",
+        "teacher_name": "Isabel Sachs",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 4434,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

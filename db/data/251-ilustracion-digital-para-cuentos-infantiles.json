@@ -1,0 +1,174 @@
+{
+    "id": "251",
+    "title": "Ilustración digital para cuentos infantiles",
+    "url": "https://www.domestika.org/es/courses/251-ilustracion-digital-para-cuentos-infantiles/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hola",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/623/f9e61e3aa99a167ca613843499c46acc/master.m3u8?1677753528"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/679/e3aefb8874eae3f0b509b58cc2667366/master.m3u8?1676383349"
+                },
+                {
+                    "id": null,
+                    "title": "Interpretando el texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/624/2019b2446cbde6f040ab48bba9be4138/master.m3u8?1676383324"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r23sjd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bocetemos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/625/6511075471a393d4aa02fd854600953d/master.m3u8?1676383326"
+                },
+                {
+                    "id": null,
+                    "title": "Storyboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/626/4658a872c4b1da447ec9e9990993ae32/master.m3u8?1676383331"
+                },
+                {
+                    "id": null,
+                    "title": "Composición de una escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/627/baa041a8069a986e50abc6bb41493592/master.m3u8?1676383330"
+                },
+                {
+                    "id": null,
+                    "title": "Estudio de valores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/638/8fb217db7ba59a1417937daeb01b770f/master.m3u8?1676383328"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zhliy2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Paleta de color I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/628/91ce2b1b0d076c44a1fc5cece932ce5b/master.m3u8?1676383327"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de color II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/629/c631a1b05efd81a0345f5c06fd7ee9b4/master.m3u8?1676383328"
+                },
+                {
+                    "id": null,
+                    "title": "Área de trabajo I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/680/1fd4f5ef02d324193df8bf03f9873606/master.m3u8?1676383348"
+                },
+                {
+                    "id": null,
+                    "title": "Área de trabajo II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/631/a4c050fc5b4c965a05f396c284c00e48/master.m3u8?1676383330"
+                },
+                {
+                    "id": null,
+                    "title": "Pintando I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/632/b3e053faf4480ccf61c4f8e85d347d8d/master.m3u8?1676383331"
+                },
+                {
+                    "id": null,
+                    "title": "Pintando II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/633/caac127054bbec8d96e552362911533a/master.m3u8?1676383329"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zvudxa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Detalles y efectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/634/2fe8b75b78b6ad976a593a2fbfc7ac00/master.m3u8?1676383328"
+                },
+                {
+                    "id": null,
+                    "title": "Cambiando el ambiente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/635/5bc9adcce9d657724ecec6f51e588e35/master.m3u8?1676383330"
+                },
+                {
+                    "id": null,
+                    "title": "Presentando el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/636/81c3643eb852d01c7d8368d2ead0b4a7/master.m3u8?1676383326"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9k6otl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rqzo0w.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 251,
+        "product_name": "Digital Illustration for Children’s Stories",
+        "teacher_name": "Teresa Martínez",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 10797,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

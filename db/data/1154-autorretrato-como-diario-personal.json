@@ -1,0 +1,168 @@
+{
+    "id": "1154",
+    "title": "Autorretrato como diario personal",
+    "url": "https://www.domestika.org/es/courses/1154-autorretrato-como-diario-personal/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/222/fa82c7449f19966235c9921531a0d1ed/master.m3u8?1676398639"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/226/c0deb9c6bceea0350a23dcda84cb98cc/master.m3u8?1676398648"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/atbmtr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Inspiración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Distintos caminos para un proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/228/119d7ef2fcb33bf739b8d22d27332346/master.m3u8?1676398646"
+                },
+                {
+                    "id": null,
+                    "title": "Cinco preguntas clave para pensar tu proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/230/f09080c2570be75dd0a9a3879062cdf5/master.m3u8?1676398647"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo crear un mood board para el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/231/4ae78d415607b88ad083fcf61335ddfa/master.m3u8?1676398644"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/233/e9ae5c76113d32be81e85412a3d734f0/master.m3u8?1676398643"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zy91b3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo llevar a cabo tus autorretratos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Del elogio a la prueba y error recursividad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/236/14c5b1bbac4cf9a2c1a97b1b031ea8a8/master.m3u8?1676398646"
+                },
+                {
+                    "id": null,
+                    "title": "Shooting autorretrato claves",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/240/a9c63a7b1267cc4b0cdec14b602a8978/master.m3u8?1676398652"
+                },
+                {
+                    "id": null,
+                    "title": "Shooting autorretrato cómo incluir otra persona en tu foto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/241/c6f94d6138910bc2ad4062c12f434b87/master.m3u8?1676398651"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j2nuo9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El toque final que necesita tu imagen",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de imágenes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/242/7eca1960b16e1e6047639f304edd38ed/master.m3u8?1676398654"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de imágenes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/243/a592d39f4ff4e1357e284a3294857398/master.m3u8?1676398651"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado básico en Lightroom 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/244/9fe07b73b74819a77debcd5bdf9f8125/master.m3u8?1676398653"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado básico en Lightroom 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/245/d3baa63712d3d6e902d731e2f10c7ee4/master.m3u8?1676398655"
+                },
+                {
+                    "id": null,
+                    "title": "Intervención manual de la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/246/9e66a78f3b715acf9e9b02a6dc75b35f/master.m3u8?1676398657"
+                },
+                {
+                    "id": null,
+                    "title": "Storytelling y vida personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/247/ac53645f4a1d2a2a621ac8267198eadc/master.m3u8?1676398657"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/obdlx6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/kp3dfk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1154,
+        "product_name": "Self-Portrait as a Personal Diary",
+        "teacher_name": "Daniella Benedetti",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9552,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

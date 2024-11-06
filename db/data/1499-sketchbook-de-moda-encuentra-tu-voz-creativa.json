@@ -1,0 +1,158 @@
+{
+    "id": "1499",
+    "title": "Sketchbook de moda encuentra tu voz creativa",
+    "url": "https://www.domestika.org/es/courses/1499-sketchbook-de-moda-encuentra-tu-voz-creativa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/322/409633895f28344d109ea6dc836630a6/master.m3u8?1676399766"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/754/f3e367d34ecab46dae16bd31580c4a78/master.m3u8?1676399987"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8b3sxp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Salida para la travesía el diseño de la colección",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales del curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/335/99fb0d9f65e2abd759ac4f3391c0c9c1/master.m3u8?1676399768"
+                },
+                {
+                    "id": null,
+                    "title": "Cuaderno de dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/336/f944c65e39575b2ca50f69c6f30d6091/master.m3u8?1676399774"
+                },
+                {
+                    "id": null,
+                    "title": "Entrando en la historia que se contará",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/337/af25abe9a8f092a853cfaeb34e3015bf/master.m3u8?1676399774"
+                },
+                {
+                    "id": null,
+                    "title": "Abriendo los chakras de la creatividad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/338/ef5ec8cd8c92f0fe198e2ad973cd9a63/master.m3u8?1676399776"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xetrhr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cruzando a la creación ilustración de moda",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "psicografía ilustrada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/339/73bc0eb66c3034f50e966529f549702e/master.m3u8?1676399773"
+                },
+                {
+                    "id": null,
+                    "title": "la piel de la ropa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/340/54f6994b3353c53e5c5a0127d0dd8289/master.m3u8?1676399773"
+                },
+                {
+                    "id": null,
+                    "title": "Impresiones y diseño de superficies",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/341/70a4249670e6c0e764b3ab500b3b5df5/master.m3u8?1676399771"
+                },
+                {
+                    "id": null,
+                    "title": "ilustracion tecnica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/342/56bb8cf26e2cab511b07dfb78f749e78/master.m3u8?1676399773"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/id0c87.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tomando vuelo la creación toma forma",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ropa gratis Siguiente tela estampada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/374/8b57dd4409a8729114005717af4a5a73/master.m3u8?1676399789"
+                },
+                {
+                    "id": null,
+                    "title": "Habla de moda Siguiente Porcelana estampada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/378/d9fe94c06619696ce266aec19b1357c9/master.m3u8?1676399793"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos de Ronaldo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/379/8c64475e852e3ca7e16e1d4146d36c10/master.m3u8?1676399793"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dn0r3k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/igiklh.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1499,
+        "product_name": "Fashion Sketchbook: Find Your Creative Voice",
+        "teacher_name": "Ronaldo Fraga",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7265,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

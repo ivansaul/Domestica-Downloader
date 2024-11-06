@@ -1,0 +1,179 @@
+{
+    "id": "2495",
+    "title": "Visualización de datos y diseño de la información crea un modelo visual",
+    "url": "https://www.domestika.org/es/courses/2495-visualizacion-de-datos-y-diseno-de-la-informacion-crea-un-modelo-visual/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/051/b3a0a1bb4236e2298f2dab82ed0c6d2f/master.m3u8?1676396967"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/052/524033f4d7aa42970aab6e9826520be4/master.m3u8?1676396973"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ql9iy6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acerca de la visualización de datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseñar alfabetos visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/053/733531ccdafe9c798acbbb0286665d8f/master.m3u8?1676396968"
+                },
+                {
+                    "id": null,
+                    "title": "El amplio campo de la visualización de datos lectores y contexto de uso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/054/a657d842bbce95b0d6deeafa9cad6646/master.m3u8?1676396969"
+                },
+                {
+                    "id": null,
+                    "title": "La relación con los lectores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/055/1ba7b49b2db08ab86ce9f649bce1ae01/master.m3u8?1676396970"
+                },
+                {
+                    "id": null,
+                    "title": "Colaboración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/056/2a9aed34204c6b062040e0a62aea4387/master.m3u8?1676396970"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ry0lfp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Poniendo el proyecto en movimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrar los datos las fuentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/057/4258d647b44b99b5e8b6af7801f89fa4/master.m3u8?1676396971"
+                },
+                {
+                    "id": null,
+                    "title": "Los datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/058/56da9c56faa9542c0da618728dacc50f/master.m3u8?1676396974"
+                },
+                {
+                    "id": null,
+                    "title": "De las Hojas de cálculo de Google al papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/059/6871f758b7223fb5e5aba1eca8c17d26/master.m3u8?1676396972"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9n5c34.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Visualizando los datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inspiración visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/060/fb8aafc4682be2e5dfaa3d597d4588a0/master.m3u8?1676396973"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando el esqueleto con RAWGraphs",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/061/a8cf0cdaed7bcff3066f81e7d98bc827/master.m3u8?1676396973"
+                },
+                {
+                    "id": null,
+                    "title": "Adobe Illustrator 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/062/afe51702b58536189902c88577c0037f/master.m3u8?1676396976"
+                },
+                {
+                    "id": null,
+                    "title": "Adobe Illustrator 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/063/47bb5a70e9778d13a85a476f261262fe/master.m3u8?1676396978"
+                },
+                {
+                    "id": null,
+                    "title": "Adobe Illustrator 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/064/19cfef3b2605c5b4deba622006bd149b/master.m3u8?1676396976"
+                },
+                {
+                    "id": null,
+                    "title": "Siempre teniendo en cuenta a los lectores leyendas y comentarios 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/065/c9a0c80390127d77d909f936fb9d57f9/master.m3u8?1676396978"
+                },
+                {
+                    "id": null,
+                    "title": "Siempre teniendo en cuenta a los lectores leyendas y comentarios 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/066/fef5b35139199d9aa1fd1884e9a92dda/master.m3u8?1676396977"
+                },
+                {
+                    "id": null,
+                    "title": "Terminando el trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/067/9625a9146d3cbc13ad3154ef2743957e/master.m3u8?1676396976"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2flpua.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/prvcpo.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2495,
+        "product_name": "Data Visualization and Information Design: Create a Visual Model",
+        "teacher_name": "Federica Fragapane",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 8469,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

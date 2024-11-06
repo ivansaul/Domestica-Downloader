@@ -1,0 +1,168 @@
+{
+    "id": "2255",
+    "title": "Animación digital con técnicas experimentales",
+    "url": "https://www.domestika.org/es/courses/2255-animacion-digital-con-tecnicas-experimentales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/419/e02856e377a3cf6efaa4b36f0571c9c7/master.m3u8?1676395519"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/420/c2d34534bba02a9251562cdb33ee0314/master.m3u8?1676395519"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q9f0oz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparando los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/422/9062464c18a53e3b84a8422612c52a7c/master.m3u8?1676395519"
+                },
+                {
+                    "id": null,
+                    "title": "Mi proceso creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/687/91f98184b220bb71262d26b3d3bb7434/master.m3u8?1676396237"
+                },
+                {
+                    "id": null,
+                    "title": "Recopilación de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/688/50e08879bf959102b9f4512ec409fb58/master.m3u8?1676396238"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7joyyx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La fase de producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "CD4 Animando un cubo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/425/fe1b889fb74eb33c28568d1e19817327/master.m3u8?1676395523"
+                },
+                {
+                    "id": null,
+                    "title": "InDesign",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/426/f20c84090872cb802b1116d344e1e52e/master.m3u8?1676395521"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/427/38853a2c8aa4d5348f2fdbf646d286de/master.m3u8?1676395525"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/428/b05ab32ac311f65e0b97cf60bca8f789/master.m3u8?1676395527"
+                },
+                {
+                    "id": null,
+                    "title": "Escanear",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/429/b4ae2a5250c68735fadd99a08ceb950c/master.m3u8?1676395521"
+                },
+                {
+                    "id": null,
+                    "title": "Devolver la secuencia a la computadora",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/430/9a1d4585d61bea29180d273012ae7298/master.m3u8?1676395525"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2m1tv1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción de nuestro trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Marcos de limpieza 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/431/95d4ddbac41f9cef374fa7963f699363/master.m3u8?1676395525"
+                },
+                {
+                    "id": null,
+                    "title": "Marcos de limpieza 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/432/12a4330393561dd2132293c556a3f64d/master.m3u8?1676395527"
+                },
+                {
+                    "id": null,
+                    "title": "Corrección de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/433/d16796ef91d6482ebc5b89b5645f9250/master.m3u8?1676395525"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/434/cc6ce2d7bf5685efce59092cd79b2359/master.m3u8?1676395526"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jq5pco.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/n6i8h7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2255,
+        "product_name": "Digital Animation with Experimental Techniques",
+        "teacher_name": "Danaé Gosset",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7061,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "id": "3555",
+    "title": "Fotografía para principiantes bases técnicas profesionales",
+    "url": "https://www.domestika.org/es/courses/3555-fotografia-para-principiantes-bases-tecnicas-profesionales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/010/a1fe06cd375b445917e69571befe14be/master.m3u8?1699861463"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/011/761627d2ed0454eaaa6bd39f42c1b493/master.m3u8?1676406627"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4k3xr1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los principios de la cámara fotográfica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La cámara sus partes y controles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/013/c5e2a059308f0f25125e284d927805ba/master.m3u8?1676406632"
+                },
+                {
+                    "id": null,
+                    "title": "El triángulo de la exposición diafragma obturador y ASA 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/023/3b67d3bfc87a7276804372fc843633ae/master.m3u8?1676406632"
+                },
+                {
+                    "id": null,
+                    "title": "El triángulo de la exposición diafragma obturador y ASA 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/028/06084496c13f267a4f58a05887dec887/master.m3u8?1676406639"
+                },
+                {
+                    "id": null,
+                    "title": "El triángulo de la exposición diafragma obturador y ASA 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/029/8491444943682d43a12efbd2e221e60d/master.m3u8?1699861465"
+                },
+                {
+                    "id": null,
+                    "title": "El triángulo de la exposición diafragma obturador y ASA 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/030/ccae862851e4c6f01f070eeb9749a437/master.m3u8?1676406636"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al sistema de zonas o tonos nitidez y profundidad de campo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/014/1501c02fba77a3f531c8abe92425f4d2/master.m3u8?1676406634"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo calibrar una cámara digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/015/a83c7add04992c1b0fd70f6afe0825a6/master.m3u8?1699861463"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/itz4az.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La composición como parte del lenguaje visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las bases del encuadre fotográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/016/2a8c71f6d24300bf41e6d820a057f5cf/master.m3u8?1676406632"
+                },
+                {
+                    "id": null,
+                    "title": "El plano fotográfico equilibrio y perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/017/cb5da65860347e1ecc79fbea30763ac8/master.m3u8?1676406630"
+                },
+                {
+                    "id": null,
+                    "title": "Las cualidades de los objetos fotografiados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/018/ceef4c19a846506b43a55ec0dd24acf3/master.m3u8?1676406631"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z0fkbi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La luz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Características físicas de la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/019/f322d205ec6bd2b0b4f269f613201340/master.m3u8?1676406632"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de reflejos y ángulos de reflectancia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/020/7e252dafe51878e64366053dc4219a1e/master.m3u8?1699861465"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptualizar un ensayo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/021/4c69f9942bb2f545d899bd3e8fd75f03/master.m3u8?1676406631"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8lcjj9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ynbvox.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3555,
+        "product_name": "Photography for Beginners: Professional Techniques",
+        "teacher_name": "Gerardo Montiel Klint",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 10315,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "id": "4180",
+    "title": "Dales un toque de humor a tus animaciones 3D en Blender",
+    "url": "https://www.domestika.org/es/courses/4180-dales-un-toque-de-humor-a-tus-animaciones-3d-en-blender/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/951/2f17d13a5b4e4538b75d96a8d0a67699/master.m3u8?1676408030"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/952/6e5a64f8a39de2e884a511471df394bc/master.m3u8?1676408031"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yow5gl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Historia movimiento y diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/953/0d45678c7a67375ab34ae07359d7f34e/master.m3u8?1676408033"
+                },
+                {
+                    "id": null,
+                    "title": "Guión gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/954/ddfbc2b61c59f97255cb796652e4c79e/master.m3u8?1676408033"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/955/bc8a06c9df99931d40aefc64d5aba1da/master.m3u8?1676408032"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d4gmz8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando los personajes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El gusano los fundamentos del modelado 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/956/2f5c99ea5418909477ada3567193b317/master.m3u8?1676408034"
+                },
+                {
+                    "id": null,
+                    "title": "El gusano texturizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/957/14e98eaeddc4e0123f026959b0df36a1/master.m3u8?1676408033"
+                },
+                {
+                    "id": null,
+                    "title": "El gusano aparejo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/958/78a1b7c4b8985f2b678e971ad623bf30/master.m3u8?1676408034"
+                },
+                {
+                    "id": null,
+                    "title": "La Gaviota Modelado 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/959/0c8afadeb2cb5d8b0e32e1c97f2b77dd/master.m3u8?1676408039"
+                },
+                {
+                    "id": null,
+                    "title": "La Gaviota Modelando 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/960/ef35af2ee3fee73560003f8d7662e42f/master.m3u8?1676408034"
+                },
+                {
+                    "id": null,
+                    "title": "La Gaviota Texturizando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/961/9c11970fbac0f3835862837df4ce40f5/master.m3u8?1676408035"
+                },
+                {
+                    "id": null,
+                    "title": "La Gaviota Aparejo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/962/50cdb4bf78beb1d828a6842480346814/master.m3u8?1676408036"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bpqeiv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ponlo todo junto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/963/e0cf35371fb851f0949835ffbfadda5b/master.m3u8?1676408038"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminando la escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/964/3997137f31a86c109a18315f69d0676b/master.m3u8?1676408035"
+                },
+                {
+                    "id": null,
+                    "title": "Configurar la cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/965/0af42da194766003aa9c0fb5905704b0/master.m3u8?1676408037"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/44y33p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La animación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La gaviota",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/966/76f232a2b62420455546eda31ff7940c/master.m3u8?1676408039"
+                },
+                {
+                    "id": null,
+                    "title": "El gusano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/967/c81c66dd1dc8724148540913b99dadd6/master.m3u8?1676408040"
+                },
+                {
+                    "id": null,
+                    "title": "Reuniendo a todos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/968/fb6a3c63053dfdf77d5a9bcc80033099/master.m3u8?1676408038"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jvjv91.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los últimos detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La representación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/969/3b8c5b97c52599a5325d339d928e4adc/master.m3u8?1676408038"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo convertirlo en un GIF",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/970/895aea0f9595ddded6eaccb99dbd36d6/master.m3u8?1676408037"
+                },
+                {
+                    "id": null,
+                    "title": "Promoción en línea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/971/b87358848d027f67f03c033d1c679db9/master.m3u8?1676408043"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2unura.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mzhc5j.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4180,
+        "product_name": "Bring humour to your 3D animations in Blender",
+        "teacher_name": "Leanne Rule",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 10177,
+        "total_units": 6,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

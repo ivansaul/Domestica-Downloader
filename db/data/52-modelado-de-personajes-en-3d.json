@@ -1,0 +1,174 @@
+{
+    "id": "52",
+    "title": "Modelado de personajes en 3D",
+    "url": "https://www.domestika.org/es/courses/52-modelado-de-personajes-en-3d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación de mi trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/932/492c95ea1dedfa7fd62c99da16f3e57b/master.m3u8?1676380918"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/933/a10d71c9e1a641108aa13f6c072a1ac7/master.m3u8?1676380912"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wmplam.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "ZBrush",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conociendo Zbrush interfaz y entorno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/934/a1cd97bd7a6bcb9083d4251f049ba79f/master.m3u8?1676380914"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo usar ZBrush I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/935/9ec660d20d5241effeec458241e90ded/master.m3u8?1676380915"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo usar ZBrush II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/936/619b85d590b42f5836c3798a91723067/master.m3u8?1676380916"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/87o25o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La idea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Búsqueda de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/937/0ed9ac8e00faa880a5f4652c52395c96/master.m3u8?1676380916"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1p29kw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "A modelar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Personaje Básico I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/938/e27cb49201943f2e38246bf35ebbe777/master.m3u8?1676380918"
+                },
+                {
+                    "id": null,
+                    "title": "Personaje Básico II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/939/185837a5d86a3b7a4f612241db83c11e/master.m3u8?1676380918"
+                },
+                {
+                    "id": null,
+                    "title": "Personaje Medio I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/940/28d307a9bb661d330614ac65c242f8c0/master.m3u8?1676380919"
+                },
+                {
+                    "id": null,
+                    "title": "Personaje Medio II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/941/7cfe00782895cf1ee0af593ac52251b3/master.m3u8?1676380919"
+                },
+                {
+                    "id": null,
+                    "title": "Personaje Medio III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/944/61bb11ae1abc59448ea1871331dfdd8f/master.m3u8?1676380917"
+                },
+                {
+                    "id": null,
+                    "title": "Personaje Difícil I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/948/599a063fb7be7558a84c7c1cd89ea49d/master.m3u8?1676380924"
+                },
+                {
+                    "id": null,
+                    "title": "Personaje Difícil II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/947/46109fa3006fcefed77ae34a5089f534/master.m3u8?1676380923"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v36n7t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Color y presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/949/50d681ff1b1f7358463cd8458e780ed8/master.m3u8?1676380927"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y turnaround",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/950/d79cf539207a0f7350e49a0206269656/master.m3u8?1676380922"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/anc969.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cb6cl3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 52,
+        "product_name": "3D Character Modeling",
+        "teacher_name": "Luis Gomez-Guzman",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 14091,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

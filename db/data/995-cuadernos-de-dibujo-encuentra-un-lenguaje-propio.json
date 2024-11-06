@@ -1,0 +1,153 @@
+{
+    "id": "995",
+    "title": "Cuadernos de dibujo encuentra un lenguaje propio",
+    "url": "https://www.domestika.org/es/courses/995-cuadernos-de-dibujo-encuentra-un-lenguaje-propio/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación quién soy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/049/c74effdbf83dea351383465be91caf3d/master.m3u8?1676388506"
+                },
+                {
+                    "id": null,
+                    "title": "Mis influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/071/544061beb718a7cc18c208dc2b8ac6fa/master.m3u8?1676388517"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/089/8aa636d9671bf43eea2d0b9b8aa4a729/master.m3u8?1676388517"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7c0dak.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La forma",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Formato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/075/bfb92bc439e30fc38940ab2dc9a66552/master.m3u8?1676388518"
+                },
+                {
+                    "id": null,
+                    "title": "Tipo de papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/076/ba473ad45175cc883193b188a0097ae8/master.m3u8?1676388525"
+                },
+                {
+                    "id": null,
+                    "title": "Formatos híbridos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/079/73266cbf568a49674b2d39fcc33253fd/master.m3u8?1676388519"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kh0n3t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La técnica sigue a la función",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pensar la técnica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/051/a1bd8a1ed9539cb89358a9cf203a53a3/master.m3u8?1676388504"
+                },
+                {
+                    "id": null,
+                    "title": "Pasar fijándose Dibujo de campo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/052/9872d572913e891fc1ffc15a46047639/master.m3u8?1676388508"
+                },
+                {
+                    "id": null,
+                    "title": "Experimentar Dejarse sorprender",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/053/73cdc90820efea2bc87b1b7b9249628e/master.m3u8?1676388505"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nwohs1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Temática",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hay temas que nos persiguen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/062/83542ec3c1c44c87fe6dd6b0bc4822d8/master.m3u8?1676388510"
+                },
+                {
+                    "id": null,
+                    "title": "Disección en géneros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/064/a607dbfd3f7f3bfadebc1b5aed2759bf/master.m3u8?1676388521"
+                },
+                {
+                    "id": null,
+                    "title": "Mashup",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/065/faed7067fb70ae72f36b324ea9c0e67c/master.m3u8?1676388513"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9yo7mr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/v9p7a0.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 995,
+        "product_name": "Sketchbook Creation: Find Your Own Language",
+        "teacher_name": "Santiago Guevara",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5128,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

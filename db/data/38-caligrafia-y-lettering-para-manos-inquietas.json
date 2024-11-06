@@ -1,0 +1,162 @@
+{
+    "id": "38",
+    "title": "Caligrafía y lettering para manos inquietas",
+    "url": "https://www.domestika.org/es/courses/38-caligrafia-y-lettering-para-manos-inquietas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bienvenida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/665/9a23f2ad9567fb41a0de20fdf0ad8baf/master.m3u8?1676380769"
+                },
+                {
+                    "id": null,
+                    "title": "Referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/666/f6432d87ba7f2b3cfd5f1e1f5bf58c30/master.m3u8?1676380772"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/682/69f03e7063284c54f3cea8460d6eff02/master.m3u8?1676380783"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/651wjh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Caligrafía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ejercicios iniciales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/668/c3f977d727dcee002f23d5b497bef0a8/master.m3u8?1676380771"
+                },
+                {
+                    "id": null,
+                    "title": "Alfabeto básico Itálica cursiva Cancilleresca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/669/179dd77f98c07cf813dddcf5e707b7e4/master.m3u8?1676380777"
+                },
+                {
+                    "id": null,
+                    "title": "Mayúsculas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/670/f55593cd02d37f8016eb2b2c1d4f5329/master.m3u8?1676380772"
+                },
+                {
+                    "id": null,
+                    "title": "Ligaduras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/671/b3248decf48653dc1760a387640ae48a/master.m3u8?1676380772"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto inicial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/672/41ec705885a94b7c5126482176082ca4/master.m3u8?1676380776"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q98p85.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lettering",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Calco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/673/dd871ca1178d2f388ea86d965dc62876/master.m3u8?1676380775"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza y retoques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/674/1e8107f3c0ca2c0e20430749f28aa3f6/master.m3u8?1676380774"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/we8cyg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vector",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escaner e importación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/675/7a82a2cf76482a259bf345a31b31193f/master.m3u8?1676380776"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorizando I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/676/1183111e16116825ad652e04be9e6282/master.m3u8?1676380779"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorizando II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/677/82ca70ac70bb03a589a69e39648eaf3c/master.m3u8?1676380783"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorizando III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/678/9385bc6c443c489f67b4112408b10bb2/master.m3u8?1676380782"
+                },
+                {
+                    "id": null,
+                    "title": "Exportamos y listo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/679/73a024628bc9d6ad42c5c8e23d96dac8/master.m3u8?1676380776"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/goy9tv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/17b9k8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 38,
+        "product_name": "Calligraphy and Lettering for Restless Hands",
+        "teacher_name": "Victor Kams",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 10850,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

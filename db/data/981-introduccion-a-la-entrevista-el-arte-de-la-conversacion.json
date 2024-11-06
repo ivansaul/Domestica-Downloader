@@ -1,0 +1,158 @@
+{
+    "id": "981",
+    "title": "Introducción a la entrevista el arte de la conversación",
+    "url": "https://www.domestika.org/es/courses/981-introduccion-a-la-entrevista-el-arte-de-la-conversacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/639/5fcfac75be566508bda483b3bd1c89f3/master.m3u8?1676404547"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/640/494f2332dc05d28ef4132c0a4ace74a4/master.m3u8?1676404547"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/omi85m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué es una entrevista",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una entrevista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/641/be8e60a941f4e8071c9859debe14eb0c/master.m3u8?1676404547"
+                },
+                {
+                    "id": null,
+                    "title": "La investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/642/4f9c146678bc8aad893be109ef496754/master.m3u8?1676404548"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dl4bq5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entendiendo el tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/643/e58ccc97585210593adcd3d8082d4f31/master.m3u8?1676404550"
+                },
+                {
+                    "id": null,
+                    "title": "Organizando la investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/644/dd99ab8bd7aaa671858cab9f91fd5ced/master.m3u8?1676404551"
+                },
+                {
+                    "id": null,
+                    "title": "El documento guía que llevas al escenario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/645/4f780958967b5f5ddd7293bad03dc003/master.m3u8?1676404550"
+                },
+                {
+                    "id": null,
+                    "title": "La intro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/646/64aff462a0a48d00cfd1288ea1c730a3/master.m3u8?1676404547"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kzdotl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La entrevista",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Habitando el escenario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/647/76a68fa883178fcfb74126004b07c0f6/master.m3u8?1676404552"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de la entrevista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/649/8e3a4bc3339ac8bfb5a3b1df11a738ca/master.m3u8?1676404550"
+                },
+                {
+                    "id": null,
+                    "title": "De la locución a la escritura y más allá",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/650/76f4762dcbf9b174748fb6b4223abf4e/master.m3u8?1676404548"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de saber escuchar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/651/ba7bc14d12c7aae1a4b03886cc40c4a3/master.m3u8?1676404549"
+                },
+                {
+                    "id": null,
+                    "title": "La entrevista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/069/ff2d9618ae1239f7a7a403e9156e1501/master.m3u8?1676407113"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v9n5kr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ngqnwp.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 981,
+        "product_name": "Introduction to Interviewing: The Art of Conversation",
+        "teacher_name": "Elvira Liceaga",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8621,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

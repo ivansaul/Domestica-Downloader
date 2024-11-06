@@ -1,0 +1,207 @@
+{
+    "id": "471",
+    "title": "Diseño de sets en 3D para productos",
+    "url": "https://www.domestika.org/es/courses/471-diseno-de-sets-en-3d-para-productos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/747/316d6251e65b6ec8d4f8bb664b454c0e/master.m3u8?1676385062"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/748/96b78c0cd8b3d70639e5a54cf778f487/master.m3u8?1676385063"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sl6gmx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Asentando las bases de nuestra pieza",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Moodboard de dirección de arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/751/58ef6c5e9c38337df79572f6bfc78ab9/master.m3u8?1676385067"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptualización y bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/754/7dc7c15db6a15c2a08fedaf18c33d524/master.m3u8?1676385065"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis del brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/757/8ccce8030d3fd0b082a8f8d30af4c221/master.m3u8?1676385066"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lc1gfa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Del producto físico al 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tomar medidas del producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/765/5e685930d005e3817cc40c52cf44e28b/master.m3u8?1676385067"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografías el producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/766/a122873a873597e83d14d2625548be15/master.m3u8?1676385067"
+                },
+                {
+                    "id": null,
+                    "title": "De las fotografías al 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/767/9ad075733eb5009fb8a4f2d66942f294/master.m3u8?1676385069"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hu9dvf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado de producto I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/768/e72206573ece26922abe7f8e5a15a8ca/master.m3u8?1676385071"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de producto II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/769/b14a84a4b3393d277a5ed5c726e1db30/master.m3u8?1676385071"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y render",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/770/2f6a84a56fe1212a136ca72133002a4e/master.m3u8?1676385075"
+                },
+                {
+                    "id": null,
+                    "title": "PostProducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/771/339327d86cad0f78de8e849f8855904b/master.m3u8?1676385073"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yix105.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de set",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado de elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/772/f82247f28904350e9386e20cbd8b0547/master.m3u8?1676385075"
+                },
+                {
+                    "id": null,
+                    "title": "Composición final e iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/773/576e5ce6d747262a38b5084d270a959a/master.m3u8?1676385075"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y tips de render I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/774/70d8dd855f744eef024012f4639547b0/master.m3u8?1676385075"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y tips de render II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/220/622c300be6c01e214911427c6349e42b/master.m3u8?1676385244"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h7h4xa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de pieza adicional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/775/514c6c86849a1171fc0bed50c321029c/master.m3u8?1676385072"
+                },
+                {
+                    "id": null,
+                    "title": "Documento de sustentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/776/39546189f80be32cc8843bd0dfcd49b5/master.m3u8?1676385072"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tzl7nv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/htibh3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 471,
+        "product_name": "Design of 3D Sets for Products",
+        "teacher_name": "Alejandro Herrada González",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 7724,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

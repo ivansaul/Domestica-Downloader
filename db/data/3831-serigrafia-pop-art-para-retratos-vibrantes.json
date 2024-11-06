@@ -1,0 +1,153 @@
+{
+    "id": "3831",
+    "title": "Serigrafía pop art para retratos vibrantes",
+    "url": "https://www.domestika.org/es/courses/3831-serigrafia-pop-art-para-retratos-vibrantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/037/aae3a5c7b17130a6f95a7291860dd54e/master.m3u8?1676406637"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/580/1c2c636d49d21cc3968f4667a17c0d6f/master.m3u8?1676407377"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cryz15.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparando la pantalla",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/036/b9cbe5405327043d91e3d025b3cc030b/master.m3u8?1676406636"
+                },
+                {
+                    "id": null,
+                    "title": "Buscar la foto de referencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/038/345c64343ecbb1172e0994aabb465801/master.m3u8?1676406636"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando la foto con Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/039/4c488864be9713f77f18c132152bbafd/master.m3u8?1676406639"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando la impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/040/15cf343e67ac7a3e9a7a33ec1845ffc3/master.m3u8?1676406639"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pjzu2c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear la impresión para ser serigrafiada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación de su estación de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/043/91e3d9903fb5056725bcc634d60dd75e/master.m3u8?1676406641"
+                },
+                {
+                    "id": null,
+                    "title": "Registro de la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/044/05973a406cacf4107494b0a57ff11160/master.m3u8?1676406638"
+                },
+                {
+                    "id": null,
+                    "title": "Quemando la pantalla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/525/662e49e62c530672883f6351c03c5044/master.m3u8?1686825402"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tkj4ig.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hora de imprimir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Impresión de tu imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/045/199c3be0c385eef5e46ff67d072e6a88/master.m3u8?1676406649"
+                },
+                {
+                    "id": null,
+                    "title": "Adornos y toques finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/046/fbc2251e58393d5f01f3035984b0ec9c/master.m3u8?1676406642"
+                },
+                {
+                    "id": null,
+                    "title": "Enmarcar y compartir su trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/047/092a3bfbffe21a2f0f016694535f34c0/master.m3u8?1676406641"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/94li6e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/wfafi6.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3831,
+        "product_name": "Pop Art Screen Printing for Vibrant Portraits",
+        "teacher_name": "M.Tony Peralta",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5743,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

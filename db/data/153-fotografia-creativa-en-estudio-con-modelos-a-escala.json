@@ -1,0 +1,213 @@
+{
+    "id": "153",
+    "title": "Fotografía creativa en estudio con modelos a escala",
+    "url": "https://www.domestika.org/es/courses/153-fotografia-creativa-en-estudio-con-modelos-a-escala/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/550/5828fa2c58a9705e8de24b3bc4decaef/master.m3u8?1676382102"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/522/607dd8fe184ef6ebd3cba0024afb4135/master.m3u8?1676382089"
+                },
+                {
+                    "id": null,
+                    "title": "Toy Photography una breve introducción  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/523/0abb063821d4392047a91b50a2cbcddc/master.m3u8?1676382083"
+                },
+                {
+                    "id": null,
+                    "title": "Toy Photography una breve introducción  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/524/83e80f3fe436b9f9b6b5b6396b2bfe9f/master.m3u8?1676382083"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hz3bn7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación del concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/600/0d2276f472160fa977143eec8e127740/master.m3u8?1676382123"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestro modelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/556/03ff8f3ca14ed3db938fef2c1c2d94ec/master.m3u8?1676382105"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y Equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/555/426aeb1d9a62aaa6c6e63e1d21fe865f/master.m3u8?1676382107"
+                },
+                {
+                    "id": null,
+                    "title": "Tips de materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/554/cd2de58bb949ebc9e10c59466401089e/master.m3u8?1676382103"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oi7762.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación Light painting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/558/365521c451953edfa635660a7a7e33f4/master.m3u8?1676382104"
+                },
+                {
+                    "id": null,
+                    "title": "La escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/559/93732f01048a6aba8866f73666afb3f9/master.m3u8?1676382107"
+                },
+                {
+                    "id": null,
+                    "title": "Shooting de prueba  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/560/6374465032a5a33cee726aa733002ca8/master.m3u8?1676382107"
+                },
+                {
+                    "id": null,
+                    "title": "Shooting de prueba  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/561/5cb54e420d5524c376a3e74b847b1435/master.m3u8?1676382114"
+                },
+                {
+                    "id": null,
+                    "title": "Shooting final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/563/76d8e3c0ed420dfba8b1347ffff3d005/master.m3u8?1676382106"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wrr8fl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparado de archivo digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/510/edc3c5e6dbb49fd9cdc64c8cb1d8e118/master.m3u8?1676382073"
+                },
+                {
+                    "id": null,
+                    "title": "Negativo Digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/511/aba61704deaf1b7b47c3a3ad99fa67aa/master.m3u8?1676382077"
+                },
+                {
+                    "id": null,
+                    "title": "Composite  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/512/10b5c396064f3ee50369f77f590cc8ae/master.m3u8?1676382085"
+                },
+                {
+                    "id": null,
+                    "title": "Composite  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/513/7744d0f80d98cd37e83416541fb72ffb/master.m3u8?1676382077"
+                },
+                {
+                    "id": null,
+                    "title": "Composite  Parte III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/514/9586f2d39b28087f65a05a1c83d0cff2/master.m3u8?1676382079"
+                },
+                {
+                    "id": null,
+                    "title": "Composite  Parte IV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/564/c69e38e80739f808eb6a0d1f835d21c6/master.m3u8?1676382113"
+                },
+                {
+                    "id": null,
+                    "title": "Composite  Parte V",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/516/7f06dd7d4e29548419a608f36c1a2a83/master.m3u8?1676382079"
+                },
+                {
+                    "id": null,
+                    "title": "Composite  Parte VI",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/517/826f96c2280789dc965ee8caf5209803/master.m3u8?1676382090"
+                },
+                {
+                    "id": null,
+                    "title": "Color grading  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/518/4648200769bb431356cedd4ee2a9b74b/master.m3u8?1676382081"
+                },
+                {
+                    "id": null,
+                    "title": "Color grading  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/565/e9a18d165b378cfab62db2ef9d9f56da/master.m3u8?1676382110"
+                },
+                {
+                    "id": null,
+                    "title": "Salida final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/520/eeafd675d363df2e1675e9f39b34ee02/master.m3u8?1676382080"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4xvvsa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1alml7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 153,
+        "product_name": "Creative Studio Photography with Scale Models",
+        "teacher_name": "Felix Hernandez Dreamphography",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 18333,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "id": "1569",
+    "title": "Community management desde cero",
+    "url": "https://www.domestika.org/es/courses/1569-community-management-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/034/679e5d15c7b1a196d4a01ef86edd4222/master.m3u8?1676391253"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/035/287712a6e6a7bfe2c54098ff07c39eca/master.m3u8?1676391251"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/036/9eae1233ae2ff6799663dbcf11ff786e/master.m3u8?1676391248"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/72espf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Gestión comunitaria 101",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es Community Management",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/037/23f2d4ff02d601204b0034c05500e3a8/master.m3u8?1716292595"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del estudio de caso Tarsila Kruse 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/038/f82dee5ad5d6efad9dab44446412e63f/master.m3u8?1716292745"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del estudio de caso Tarsila Kruse 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/039/6995b9a39c2760f2a61cd331e738c685/master.m3u8?1716293081"
+                },
+                {
+                    "id": null,
+                    "title": "Qué está pasando en el mundo de las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/040/d6e11d490bf8798b13d38203e3b81b0d/master.m3u8?1676391249"
+                },
+                {
+                    "id": null,
+                    "title": "Establecer metas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/057/60f5c6cc523f73ac3ba214403cd61780/master.m3u8?1676391263"
+                },
+                {
+                    "id": null,
+                    "title": "Medir los resultados la clave del éxito 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/041/ead13931a3d67f5fcb9b99d8e5985a7f/master.m3u8?1676391260"
+                },
+                {
+                    "id": null,
+                    "title": "Medir los resultados la clave del éxito 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/042/484ad42765b2f7b72e2de010295b2bc7/master.m3u8?1676391256"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0p5pyj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la fundación a una comunidad próspera",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elegir la plataforma adecuada para Community Management",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/043/ac50aa0e4c00dfdd734a03d71784f92a/master.m3u8?1676391255"
+                },
+                {
+                    "id": null,
+                    "title": "Público objetivo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/044/7a3aa70f93de708128e44cab4e407e5c/master.m3u8?1676391257"
+                },
+                {
+                    "id": null,
+                    "title": "Público objetivo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/045/c003d2a7023cd25c0529091a88dc504d/master.m3u8?1676391257"
+                },
+                {
+                    "id": null,
+                    "title": "Escucha social",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/046/02518fc6f4c6d27527c40b75b351e835/master.m3u8?1676391256"
+                },
+                {
+                    "id": null,
+                    "title": "Voz y tono de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/048/603925544786fe4c2927d8f5989ad09d/master.m3u8?1676391254"
+                },
+                {
+                    "id": null,
+                    "title": "Moderación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/049/b21574bdd7ed236833253095e0a57458/master.m3u8?1676391258"
+                },
+                {
+                    "id": null,
+                    "title": "Compromiso técnicas para la prueba social 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/051/e76af82b5776c5ae9949fb7632290de0/master.m3u8?1676391258"
+                },
+                {
+                    "id": null,
+                    "title": "Compromiso técnicas para la prueba social 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/052/682b9a10ec6b737998bfaa051ad42caa/master.m3u8?1676391261"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1nlkoq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Gestión de la comunidad mejores prácticas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollar una estrategia de gestión comunitaria",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/053/a0dc0dc4f70bfab51c03d9f716250afd/master.m3u8?1676391261"
+                },
+                {
+                    "id": null,
+                    "title": "Qué hacer y qué no hacer en Community Management",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/054/753e00927f092aa77600fdb6cf76b7ce/master.m3u8?1676391260"
+                },
+                {
+                    "id": null,
+                    "title": "Roles de equipo en el marketing de redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/055/41e93ffc8db98f8eb765617cefbbd36d/master.m3u8?1676391260"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mtcf4u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/kzbp5m.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1569,
+        "product_name": "Community Management from Scratch",
+        "teacher_name": "Hana Klokner",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 14469,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

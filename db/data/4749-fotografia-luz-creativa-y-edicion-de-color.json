@@ -1,0 +1,148 @@
+{
+    "id": "4749",
+    "title": "Fotografía luz creativa y edición de color",
+    "url": "https://www.domestika.org/es/courses/4749-fotografia-luz-creativa-y-edicion-de-color/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/403/6365a5d1f0a219080fe412ec093513aa/master.m3u8?1681297079"
+                },
+                {
+                    "id": null,
+                    "title": "Fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/404/42e825d3d02dcc67a62956e14786e752/master.m3u8?1681297090"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u8xwl6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comprender el color y el autorretrato",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Teoría del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/405/16b1db8b735e942318a60c1677527233/master.m3u8?1681297116"
+                },
+                {
+                    "id": null,
+                    "title": "Instrumentación y lentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/406/02b279144d1983efb8697084e8858d89/master.m3u8?1681297128"
+                },
+                {
+                    "id": null,
+                    "title": "El autorretrato como ejercicio preparatorio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/407/9ac7b4c35e9ede28e3e79f7045e95daf/master.m3u8?1681297141"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u0r0l4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de conceptos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseña el ambiente de la serie",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/408/b2bc4f44d26e39eeb648a57ac212253d/master.m3u8?1681297157"
+                },
+                {
+                    "id": null,
+                    "title": "Primer disparo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/409/534ac5ab24bf4ba569c13a5d2c6b2084/master.m3u8?1681465204"
+                },
+                {
+                    "id": null,
+                    "title": "Segundo disparo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/410/8375b15172f58f544bf0a67a0770cc84/master.m3u8?1681297180"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m71903.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Camera Raw configuración de preproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/411/ed1b4a776a82188e665922a9af3fca53/master.m3u8?1681297200"
+                },
+                {
+                    "id": null,
+                    "title": "Corrección de color en Photoshop primera toma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/412/f7cbb99c019534f737d85bdac6d36f18/master.m3u8?1681297213"
+                },
+                {
+                    "id": null,
+                    "title": "Corrección de color en Photoshop segunda toma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/413/ffe95581fe44e01ad66aa9ff3bc57732/master.m3u8?1681297226"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hcw30o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ne1zbw.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4749,
+        "product_name": "Photography: Creative Light and Color Grading ",
+        "teacher_name": "Paolo Emanuele Barretta",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 5803,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

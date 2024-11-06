@@ -1,0 +1,158 @@
+{
+    "id": "1748",
+    "title": "Ilustración de viñetas para redes sociales",
+    "url": "https://www.domestika.org/es/courses/1748-ilustracion-de-vinetas-para-redes-sociales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/287/98fa363a651c083e84520a7e3143e103/master.m3u8?1676394873"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/288/7389088427618709733568cd3fee349e/master.m3u8?1676394873"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/289/0c3468d534c9ccb79c63205d9ac7db3d/master.m3u8?1676394872"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pu3mxk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Storytelling en la publicidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/290/d4b18b8d4a81d24964f0d35bfce94f61/master.m3u8?1676394873"
+                },
+                {
+                    "id": null,
+                    "title": "De la idea al cómic",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/291/5f9838019338e372164e52528b15a84e/master.m3u8?1676394873"
+                },
+                {
+                    "id": null,
+                    "title": "Básicos de la ilustración en Procreate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/292/96739f015f227f63cd9a69e54088621e/master.m3u8?1676394876"
+                },
+                {
+                    "id": null,
+                    "title": "Básicos de dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/293/43c6e6a8c6875b24548a98b7112ae782/master.m3u8?1676394878"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/60dil3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elaboración del cómic",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/294/5dceadba118068ee5941cc56a0126de2/master.m3u8?1676394874"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategias y guion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/295/2be03e4fe8581715fcfdb24dbf12c59c/master.m3u8?1676394875"
+                },
+                {
+                    "id": null,
+                    "title": "Storyboard y boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/296/7df13e7ca6d1b8410c452e5b681b11c7/master.m3u8?1676394878"
+                },
+                {
+                    "id": null,
+                    "title": "Línea y Color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/297/01a6e57e804e08f53c388e674e8bfb9a/master.m3u8?1676394883"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ehie8k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/298/3cedf86530f5471ccc53f83eb461d00f/master.m3u8?1676394879"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación y presencia online",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/299/f907431a7a255aa4c37f3764c92edece/master.m3u8?1676394880"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/phu7ks.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ifrpw3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1748,
+        "product_name": "Digital Comic Illustration for Social Media",
+        "teacher_name": "Rocío Diestra Villavicencio",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5877,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

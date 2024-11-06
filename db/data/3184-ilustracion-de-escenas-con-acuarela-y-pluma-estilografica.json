@@ -1,0 +1,163 @@
+{
+    "id": "3184",
+    "title": "Ilustración de escenas con acuarela y pluma estilográfica",
+    "url": "https://www.domestika.org/es/courses/3184-ilustracion-de-escenas-con-acuarela-y-pluma-estilografica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/350/6d541f4ebd185314c7f9b311158948d7/master.m3u8?1676405296"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/351/a55dc5f5e08ca9406c44306b78349556/master.m3u8?1676405299"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dswsjt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Eligiendo tus herramientas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/352/8d01a608e6e4ca95faed1e439da2da0e/master.m3u8?1676405298"
+                },
+                {
+                    "id": null,
+                    "title": "Plumas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/354/5510b32938dc227098cdbf60c1b9ff0d/master.m3u8?1676405300"
+                },
+                {
+                    "id": null,
+                    "title": "Extrayendo colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/355/cce326d397837ec84761227dffadeb79/master.m3u8?1676405301"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir el papel ideal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/356/c188427f0ceb860f8ab1fa7695ae2784/master.m3u8?1676405300"
+                },
+                {
+                    "id": null,
+                    "title": "Practicando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/357/88f94c30b33a403fa7349dfee3ea2020/master.m3u8?1676405301"
+                },
+                {
+                    "id": null,
+                    "title": "Planificando tu ilustración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/358/c3b72a019369b5e6840bd3f44874c96a/master.m3u8?1676405302"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sx4a3b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo una casa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/359/f6ddbd24cd993330e480b45cbffb0e02/master.m3u8?1676405300"
+                },
+                {
+                    "id": null,
+                    "title": "Levantando las paredes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/360/8e70ac385022a06bc9a5253a48605c85/master.m3u8?1676405300"
+                },
+                {
+                    "id": null,
+                    "title": "Pintando la casa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/361/49f5dcecdacae71d7d7cf67b04c0977a/master.m3u8?1676405305"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/363/2b41c5d9e1201bf79372f8378a22cbc3/master.m3u8?1676405306"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4osrth.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consejos finales conservación y venta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo guardar y conservar sus proyectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/364/c57ef9151ea9221b180c17f684681485/master.m3u8?1676405301"
+                },
+                {
+                    "id": null,
+                    "title": "Vendiendo tu arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/365/65f9ee060c5b52b01a7b33e4a66b6d76/master.m3u8?1676405301"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2pplkm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9fl1fr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3184,
+        "product_name": "Illustrating Charming Scenes with Watercolor and Ink",
+        "teacher_name": "Go Carvalho",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 5343,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

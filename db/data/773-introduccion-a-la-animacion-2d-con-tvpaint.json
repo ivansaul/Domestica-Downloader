@@ -1,0 +1,183 @@
+{
+    "id": "773",
+    "title": "Introducción a la animación 2D con TVPaint",
+    "url": "https://www.domestika.org/es/courses/773-introduccion-a-la-animacion-2d-con-tvpaint/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/374/6d3175fcd8486fd72a7bf7cc9481704e/master.m3u8?1676388209"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/375/10f451ee2983ec3e4ff09003a4e45aef/master.m3u8?1676388205"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/240/cae45fa51c811b4a99012e4595613533/master.m3u8?1676390909"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jm82es.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estudio y Preproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dibujo dibujo dibujo Afuera y adentro P1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/376/ca80084495732d514560cde7f8d78c46/master.m3u8?1676388213"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujo dibujo dibujo Afuera y adentro P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/377/1429c9ace7e45ad600012f9a3c6907cf/master.m3u8?1676388207"
+                },
+                {
+                    "id": null,
+                    "title": "La interfaz y sistema de trabajo en TvPaint P1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/378/a39ffdf5655833367564b4d78b318747/master.m3u8?1676388211"
+                },
+                {
+                    "id": null,
+                    "title": "La interfaz y sistema de trabajo en TVPaint P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/379/522ed5951f8281e4e3fdb8851708128b/master.m3u8?1676388211"
+                },
+                {
+                    "id": null,
+                    "title": "Sistemas de Dibujo en TvPaint P1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/380/960d2468e59a8fa21be085c8fb7c5be3/master.m3u8?1676388215"
+                },
+                {
+                    "id": null,
+                    "title": "Sistemas de Dibujo en TvPaint P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/381/11445e5b1c34aec0fea1392913321870/master.m3u8?1676388211"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/030768.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Animación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Character Sheet Conoce a tu personaje P1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/382/ed26b7b9b389c757bd9f4ca481a9db11/master.m3u8?1676388216"
+                },
+                {
+                    "id": null,
+                    "title": "Character Sheet Conoce a tu personaje P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/383/f42a3cb7c0c16a6d45381c6ce50a697b/master.m3u8?1676388214"
+                },
+                {
+                    "id": null,
+                    "title": "Haciendo tu storyboard y animatics P1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/399/e75d883aaa0550aff629d88b5fea5591/master.m3u8?1676388221"
+                },
+                {
+                    "id": null,
+                    "title": "Haciendo tu storyboard y animatics P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/400/1514b8d206dd4db78e9ae755a56f15fe/master.m3u8?1676388221"
+                },
+                {
+                    "id": null,
+                    "title": "Primer boceto de animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/401/9edfa41fe6a321db602d46aaa43cb050/master.m3u8?1676388230"
+                },
+                {
+                    "id": null,
+                    "title": "Segundo boceto de animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/402/e6c9e35cef7f8646a937cbd1024c82df/master.m3u8?1676388229"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ca3lqy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Wrap Up",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Line Clean Up y Sombras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/403/178bd6a3ff3a468a254ffff0d84a4131/master.m3u8?1676388224"
+                },
+                {
+                    "id": null,
+                    "title": "Colorización y sombreado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/404/54bb0038f32c92a2c4372d635bb7979b/master.m3u8?1676388221"
+                },
+                {
+                    "id": null,
+                    "title": "TvPaint After Effects y otros formatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/439/32e476725e13ae49d5257c95b27029cc/master.m3u8?1676388239"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rer0gz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/j1bwjt.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 773,
+        "product_name": "Introduction to 2D Animation with TVPaint",
+        "teacher_name": "Kultnation",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 13149,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

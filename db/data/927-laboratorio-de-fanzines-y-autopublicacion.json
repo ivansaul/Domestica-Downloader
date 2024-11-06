@@ -1,0 +1,180 @@
+{
+    "id": "927",
+    "title": "Laboratorio de fanzines y autopublicación",
+    "url": "https://www.domestika.org/es/courses/927-laboratorio-de-fanzines-y-autopublicacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/410/6e97fe539a53472213898e0683a06a1f/master.m3u8?1676388223"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/411/de2ea8bd306aae8aba7ac8feabf6c21e/master.m3u8?1676388223"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/412/3c0e197e650be6dce5a98226b2688d09/master.m3u8?1676388223"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e570du.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fanzines",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un fanzine y sus antecedentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/414/8e433fb698a58f0aa6871e92b5f18963/master.m3u8?1676388229"
+                },
+                {
+                    "id": null,
+                    "title": "De qué y para qué",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/416/3fb53d79a20276dc8167986ed58612bf/master.m3u8?1676388231"
+                },
+                {
+                    "id": null,
+                    "title": "Ritmo editorial y tu primer fanzine",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/417/fdc910214f8d438e2ecf9ed5d4256c3d/master.m3u8?1676388230"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e401nn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cool pero de qué hago mi fanzine",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "No tener ideas no es problema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/413/bf91d5c967bcb53cd9c54057904e39b7/master.m3u8?1676388224"
+                },
+                {
+                    "id": null,
+                    "title": "Documenta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/418/7087d1b811b418d0d362d9708ee54d1a/master.m3u8?1676388228"
+                },
+                {
+                    "id": null,
+                    "title": "Figuras repetidas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/419/d682337b8e1d07ff0de2c2779c7091dc/master.m3u8?1676388231"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nryqv5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción y selección de contenido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Teoría editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/443/e6bfb198d836c265f7364d4aebbc5b0d/master.m3u8?1676388241"
+                },
+                {
+                    "id": null,
+                    "title": "Dummy y máster",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/445/467fa7aaefcfa19bb42110a74477f619/master.m3u8?1676388242"
+                },
+                {
+                    "id": null,
+                    "title": "Portada en risografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/446/1e3b8eb70b5088e6f07281995247e5f7/master.m3u8?1676388240"
+                },
+                {
+                    "id": null,
+                    "title": "Armado de nuestros zines",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/447/7009c8421efd766ac21d9aa96d2d9420/master.m3u8?1676388242"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1ugass.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Y luego",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué hacer con tus fanzines",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/464/b59eccec26af2594ddab8750af5d5fb3/master.m3u8?1676388244"
+                },
+                {
+                    "id": null,
+                    "title": "La cereza del pastel Extras en tu fanzine",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/465/9e4cb5a333b16ca24a6f92f12b08d35c/master.m3u8?1676388244"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/krpx8y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/favsl0.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 927,
+        "product_name": "Fanzine and Self-publishing Lab",
+        "teacher_name": "Alfonso De Anda",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 6499,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

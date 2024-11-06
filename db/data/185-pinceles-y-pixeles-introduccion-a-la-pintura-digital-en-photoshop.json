@@ -1,0 +1,262 @@
+{
+    "id": "185",
+    "title": "Pinceles y pixeles introducción a la pintura digital en Photoshop",
+    "url": "https://www.domestika.org/es/courses/185-pinceles-y-pixeles-introduccion-a-la-pintura-digital-en-photoshop/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Hola",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Quién soy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/362/e7394f7156a1dca8b0dc5a21d0ab1e31/master.m3u8?1676382574"
+                },
+                {
+                    "id": null,
+                    "title": "Combustible visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/347/46e76f465c1d7d5a8123b1900be92b31/master.m3u8?1676382559"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo lo hago",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/346/43d8a4ed59524baa9e49a7f76837c9e1/master.m3u8?1676382560"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4aw2a6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lo básico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hola Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/320/52fd9c29912862d415aff4cd6c54f9d0/master.m3u8?1676382542"
+                },
+                {
+                    "id": null,
+                    "title": "Los bloques fundacionales I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/321/b509a9a146bc122ac31c26e5f7c25e0f/master.m3u8?1676382542"
+                },
+                {
+                    "id": null,
+                    "title": "Los bloques fundacionales II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/322/bdcab87bcf4fc8006bd5ccb18305fafe/master.m3u8?1676382560"
+                },
+                {
+                    "id": null,
+                    "title": "Un poco de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/323/864240e1745c4abe914a5ec164c0d84b/master.m3u8?1676382542"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/32bocv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las brochas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Brochas redondas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/324/3bf35a95985bbb24cf5640a5dcc30434/master.m3u8?1676382545"
+                },
+                {
+                    "id": null,
+                    "title": "Brochas planas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/325/4aa47ad40f74ff7880d3c211989bf71b/master.m3u8?1676382546"
+                },
+                {
+                    "id": null,
+                    "title": "Seleccionar y pintar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/326/9e06d9125654d3a2e927551b519842d4/master.m3u8?1676382546"
+                },
+                {
+                    "id": null,
+                    "title": "Mis brochas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/329/2a7178472c24cfd84633fdd8a7e8eb37/master.m3u8?1676382547"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x6rtan.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La escala de grises",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Colorear Vs Pintar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/349/2d33264f78902cb21c33b67ff720db20/master.m3u8?1676382559"
+                },
+                {
+                    "id": null,
+                    "title": "Un poco de teoría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/330/dcf07f4d799e4256275bd6ef2f1cc454/master.m3u8?1676382547"
+                },
+                {
+                    "id": null,
+                    "title": "El tema y la línea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/359/24b8e72e667a8b960fe089fce6b5d8e3/master.m3u8?1676382566"
+                },
+                {
+                    "id": null,
+                    "title": "Valores generales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/331/b60207d73f9bd4d9a39b02856910f299/master.m3u8?1676382549"
+                },
+                {
+                    "id": null,
+                    "title": "Valores particulares",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/332/7deb5422625cf2b864899390d67b3b02/master.m3u8?1676382551"
+                },
+                {
+                    "id": null,
+                    "title": "Recordando la teoría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/333/17e14e8e47c8fbb53b2d1e406671c091/master.m3u8?1676382549"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hwjlp6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El círculo de colores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El círculo cromático",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/341/e1bca8eb309882f0afde79d25db340b6/master.m3u8?1676382556"
+                },
+                {
+                    "id": null,
+                    "title": "Diálogos y rivalidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/345/3b522e2a2e1df61be3730ca72d030bec/master.m3u8?1676382560"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustando la gama",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/342/9e00662a412299961b14ec153ca1b021/master.m3u8?1676382557"
+                },
+                {
+                    "id": null,
+                    "title": "Esto no es el final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/344/198348f1a4237cdb9b0f1a75f9ba938a/master.m3u8?1676382563"
+                },
+                {
+                    "id": null,
+                    "title": "Brochas y formas de colorizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/343/9f1c9c0b37327172aec8725e279ff343/master.m3u8?1676382562"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dde4w6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Avanzados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Layouts de composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/350/e28c2ae4f02051070c7158f077c6dcef/master.m3u8?1676382563"
+                },
+                {
+                    "id": null,
+                    "title": "Layouts de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/351/cf9ba31ca90d7ad6fafd8b5e6a99971f/master.m3u8?1676382561"
+                },
+                {
+                    "id": null,
+                    "title": "Un paisaje I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/352/01a1add931421578c808ab63dd0a7a3d/master.m3u8?1676382563"
+                },
+                {
+                    "id": null,
+                    "title": "Un paisaje II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/356/e90f6bc0bb3a314630d6d294ee49993f/master.m3u8?1676382567"
+                },
+                {
+                    "id": null,
+                    "title": "Realismo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/354/177aa66beef27eb37e00070a8e6da8ed/master.m3u8?1676382565"
+                },
+                {
+                    "id": null,
+                    "title": "Copiando una foto I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/355/8265ce1cdf1e9e8ea6e4d7a65aa48d4b/master.m3u8?1676382569"
+                },
+                {
+                    "id": null,
+                    "title": "Copiando una Foto II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/357/40424ccfe63c3f121b9b1d5ac65a1b71/master.m3u8?1676382574"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e64smh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/f6slaj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 185,
+        "product_name": "Brushes and Pixels: Introduction to Digital Painting in Photoshop",
+        "teacher_name": "Patricio Betteo",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 29,
+        "course_total_duration_sec": 19282,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

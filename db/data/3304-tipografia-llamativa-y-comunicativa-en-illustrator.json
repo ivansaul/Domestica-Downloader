@@ -1,0 +1,168 @@
+{
+    "id": "3304",
+    "title": "Tipografía llamativa y comunicativa en Illustrator",
+    "url": "https://www.domestika.org/es/courses/3304-tipografia-llamativa-y-comunicativa-en-illustrator/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/722/40d14f4159edd92c4599c100eb3b11fd/master.m3u8?1676403658"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/723/a7ed4947d2e0c3ac9f92949c6676af7a/master.m3u8?1676403665"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zxm3o4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparar jugar y aprender los conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo la tipo crea el estado de ánimo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/724/52eed8a0d87cb8908a71d8408e08097d/master.m3u8?1676403663"
+                },
+                {
+                    "id": null,
+                    "title": "Mensaje y composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/725/dba5422318bf4aef0ee47afcbb28e239/master.m3u8?1676403668"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de su espacio de trabajo de Illustrator",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/726/48fdf89034604a03903d670925236486/master.m3u8?1676403663"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo crear una tipo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/727/8bbe45a1a7d32714b9871319448fd820/master.m3u8?1676403663"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo crear una tipo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/728/d3ee7457537009de6a09beff0951ce10/master.m3u8?1676403664"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/729/27abdc5566f47ebef99f9a4f7e33822e/master.m3u8?1676403671"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ygtuok.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comenzando tu póster lúdico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Composición básica en Illustrator",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/730/af7bbbee755498c44b8ca1c4102c7b93/master.m3u8?1676403666"
+                },
+                {
+                    "id": null,
+                    "title": "Elaborando las letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/731/b55a3fbb61f7188d2f61213eb7146c71/master.m3u8?1676403670"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/732/cb5d70e58d1fce7efdedecd4a36ed52d/master.m3u8?1676403669"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustar y finalizar tu póster",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/733/6d46034eb13032b46f0f472fcb7f21fd/master.m3u8?1676403667"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/litnlz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Llevar tu póster al mundo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Técnicas de impresión Digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/734/3d2e11658ffcefd2a717c348040c4e8d/master.m3u8?1676403668"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración para una impresión de risografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/735/07d6662a30ae23a166c898221d026b01/master.m3u8?1676403676"
+                },
+                {
+                    "id": null,
+                    "title": "Más que carteles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/736/8f5f7c1c7919053edd5f3f410a5d81f3/master.m3u8?1676403668"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ell39l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/953w69.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3304,
+        "product_name": "Playful Typography for Powerful Communication in Illustrator",
+        "teacher_name": "Dani Molyneux",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 10537,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

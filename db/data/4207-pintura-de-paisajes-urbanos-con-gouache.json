@@ -1,0 +1,148 @@
+{
+    "id": "4207",
+    "title": "Pintura de paisajes urbanos con gouache",
+    "url": "https://www.domestika.org/es/courses/4207-pintura-de-paisajes-urbanos-con-gouache/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/254/a3625148de5c6928aedf6acfbe76bb08/master.m3u8?1676408753"
+                },
+                {
+                    "id": null,
+                    "title": "Mis artistas favoritos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/255/ef592f44aeb7e63215a2d66d2588594c/master.m3u8?1676408756"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h83n3m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El medio gouache comenzando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/257/889fe704f96956c63901f17c69207b02/master.m3u8?1676408759"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrando inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/258/62c3f68c2234d5e9ca4e5d8cbd3b3334/master.m3u8?1676408756"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo dibujar la escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/259/db66aac82562ebdd34ce4dfbbb42accd/master.m3u8?1676408760"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9p1shh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pintar la escena",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los valores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/260/2c7de67f97e430520fb31fc462fa029d/master.m3u8?1676408766"
+                },
+                {
+                    "id": null,
+                    "title": "Comprender el color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/261/ea11692ee0cfea5325e7d9f4decd4ac1/master.m3u8?1676408759"
+                },
+                {
+                    "id": null,
+                    "title": "Empezando a pintar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/263/5441cceb73ff94cfdbbf8707c3e1782c/master.m3u8?1676408766"
+                },
+                {
+                    "id": null,
+                    "title": "Pintar las formas medianas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/264/064a9ec515b0bd75181d4dfb3a102658/master.m3u8?1676408763"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bke13e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cerrando la pieza",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pintura al aire libre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/266/8dc7bf07f8cda1f0c660289460fda777/master.m3u8?1676408761"
+                },
+                {
+                    "id": null,
+                    "title": "Los detalles más finos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/343/8560b5d0efee555985478454a293a043/master.m3u8?1676408818"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e5avwo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8gandx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4207,
+        "product_name": "Gouache Painting of Urban Landscapes",
+        "teacher_name": "Tommy Kim",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 5850,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}
