@@ -1,0 +1,159 @@
+{
+    "id": "3772",
+    "title": "Diseño de logotipos creación de monogramas",
+    "url": "https://www.domestika.org/es/courses/3772-diseno-de-logotipos-creacion-de-monogramas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/662/319060b1b525844b8957edc48cb56885/master.m3u8?1719569158"
+                },
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/912/cb999a78b2ac78e4e46c53b3a9af9c01/master.m3u8?1724943329"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/970yq4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los principios del diseño de logotipos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear profundidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/666/4fc6344c42c042c439a7e82cfb8c4300/master.m3u8?1712847813"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es el logotipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/913/4e1acf3e4592e33657d0f0ea5aefb7c9/master.m3u8?1723540225"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos y estilos de logotipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/914/6a47bbccda89d3e83d92e3bcaae5c01e/master.m3u8?1723541975"
+                },
+                {
+                    "id": null,
+                    "title": "Formas y equilibrio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/915/32b0e029fe1bbd5acd8e9c66fdf694a0/master.m3u8?1723542241"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r8h89g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proceso de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La técnica sprint",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/668/2cf5475fff05471e7041774ef78681a9/master.m3u8?1712853180"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo llevar un diario visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/916/2d3cf4925cfaa5f92e17e3cd9002b4d8/master.m3u8?1723542542"
+                },
+                {
+                    "id": null,
+                    "title": "Perfeccionamiento del concepto 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/917/4786a5ee2f89cf632757fb63873d77de/master.m3u8?1723542716"
+                },
+                {
+                    "id": null,
+                    "title": "Perfeccionamiento del concepto 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/918/d42c97b9976874925f8671ba3d9185ae/master.m3u8?1723542872"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xpdtof.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Digitalización y últimos retoques",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cuadrícula 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/921/a20d265327ea04ba32bd76a787f179a5/master.m3u8?1723543619"
+                },
+                {
+                    "id": null,
+                    "title": "Cuadrícula 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/929/00fb0bac1806b4b02fcfcdba2af24bfe/master.m3u8?1724683020"
+                },
+                {
+                    "id": null,
+                    "title": "Iteraciones digitales y lista de control del logotipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/930/f04b3eea5c4090d2e7cd1171d6797964/master.m3u8?1724415220"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v18qag.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rxxgpc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3772,
+        "product_name": "Logo design: creation of monograms",
+        "teacher_name": "Tamari Chabukiani",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5648,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}

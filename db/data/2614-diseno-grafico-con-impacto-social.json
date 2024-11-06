@@ -1,0 +1,147 @@
+{
+    "id": "2614",
+    "title": "Diseño gráfico con impacto social",
+    "url": "https://www.domestika.org/es/courses/2614-diseno-grafico-con-impacto-social/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/365/6ca4ee2de1107bb87f25af32b4e8670b/master.m3u8?1676403016"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/366/9a68052d17e9ced5fb33ebb7343b976c/master.m3u8?1676403018"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6lsub7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño social",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Experiencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/367/48f8d65463ba4c9bf1daf1da40c6b62b/master.m3u8?1676403018"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño social",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/368/f56e2486d6f09ddc3628c9fe47d4a413/master.m3u8?1676403020"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos básicos del diseño gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/369/44f0f6f508fc4be76d856a666f52f672/master.m3u8?1676403023"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q9d5kj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo de identidad visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conociendo el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/387/848b0b2d7635fe3aa8a9c2462174c852/master.m3u8?1676403025"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/388/9789208b4e129f6edcd8ec5e85b60f6e/master.m3u8?1676403027"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de referencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/389/58f5d7ec2895e037cb8fe418dbcf2cae/master.m3u8?1676403027"
+                },
+                {
+                    "id": null,
+                    "title": "Estudios visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/390/da12a0bdb146a911b8ef1dfa1318acef/master.m3u8?1676403032"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vnj64b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/391/f08b0376e3f8c6d2aa720b1371ca8ee1/master.m3u8?1676403027"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización y adaptación a diferentes formatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/392/e6939f8e8119decb24e8c7cc6b7cbb16/master.m3u8?1676403028"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f3hr8t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/josd2l.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2614,
+        "product_name": "Graphic Design with a Social Impact",
+        "teacher_name": "Giulia Fagundes",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 7397,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

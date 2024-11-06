@@ -1,0 +1,180 @@
+{
+    "id": "2890",
+    "title": "Espacio e información combina diseño gráfico y arquitectura",
+    "url": "https://www.domestika.org/es/courses/2890-espacio-e-informacion-combina-diseno-grafico-y-arquitectura/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/227/3fe2b4827a7b8e87efae68c2888eaf87/master.m3u8?1676402951"
+                },
+                {
+                    "id": null,
+                    "title": "Mis fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/228/b5e084a4716a9230ac0bb823adb6b10c/master.m3u8?1676402956"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r6wez9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Coloque un texto en un espacio 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/229/8eca59a5af0efb181b4bfcb7adeaf448/master.m3u8?1676402951"
+                },
+                {
+                    "id": null,
+                    "title": "Coloque un texto en un espacio 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/230/966e11fab5fd142f61b1d83e1358507f/master.m3u8?1676402951"
+                },
+                {
+                    "id": null,
+                    "title": "Modelización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/231/b51769bc3f23bd9a715e8b960f46951e/master.m3u8?1676402953"
+                },
+                {
+                    "id": null,
+                    "title": "Elige una expresión gráfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/232/b7f8b767a8a74923b0d40adc1d74300b/master.m3u8?1676402952"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/233/57d17cdf64b1f030d13f4a17caecefeb/master.m3u8?1676402951"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1pk8ak.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Gráficos para reforzar la arquitectura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sesgos arquitectónicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/234/8b5edcb0720c14ce38b3f69cb142558e/master.m3u8?1676402952"
+                },
+                {
+                    "id": null,
+                    "title": "Materialidad y colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/235/450a7a0974e2b4789fb8959585442093/master.m3u8?1676402956"
+                },
+                {
+                    "id": null,
+                    "title": "Luz directa o indirecta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/236/275949f039fbcfeb930e444430a7eea1/master.m3u8?1676402954"
+                },
+                {
+                    "id": null,
+                    "title": "Registro digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/237/4ec96f29513e4918a00bda63012456af/master.m3u8?1676402954"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/67et2g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Puesta en practica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elección del espacio para magnificar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/238/c9dda8b0ace046eb93aca656bbebc1e3/master.m3u8?1676402954"
+                },
+                {
+                    "id": null,
+                    "title": "La función y el mensaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/239/d024c2a300c653aa45b2db4fa595802c/master.m3u8?1676402959"
+                },
+                {
+                    "id": null,
+                    "title": "Jardinería las inscripciones presentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/240/3989e1fcd98cbc5485829d64b653a2eb/master.m3u8?1676402955"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/es727z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aberturas y reflejos adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Gráficos e información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/241/68311f4237fa064d0d4b1f6788323260/master.m3u8?1676402956"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ecjk6w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/r909qt.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2890,
+        "product_name": "Graphic Design for Architectural Spaces",
+        "teacher_name": "Ruedi Baur",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 11092,
+        "total_units": 5,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

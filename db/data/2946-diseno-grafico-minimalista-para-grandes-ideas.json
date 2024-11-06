@@ -1,0 +1,143 @@
+{
+    "id": "2946",
+    "title": "Diseño gráfico minimalista para grandes ideas",
+    "url": "https://www.domestika.org/es/courses/2946-diseno-grafico-minimalista-para-grandes-ideas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/784/6817983aa4c9a28cb1971a27f0519a27/master.m3u8?1676402732"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/785/911549841e03505a382bc158133f4eba/master.m3u8?1676402732"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xh0z3r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comprensión de las herramientas de diseño visual e Illustrator",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Investigación de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/786/283a8caf20944699d111b57138f5cfd4/master.m3u8?1676402732"
+                },
+                {
+                    "id": null,
+                    "title": "Creando significado con texto e imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/787/ea6a7085c86fbf312e863a0d64daf058/master.m3u8?1676402736"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas de Illustrator y bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/788/0ca556e02ecaaca46cd9cfadc50988d7/master.m3u8?1676402737"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/upvqdi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de un diseño visual propio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear la plantilla de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/789/226faed42ea95b345bba273f45a5b313/master.m3u8?1676402736"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar con propósito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/790/6351607a019335cac3ef47eb9100a50b/master.m3u8?1676402741"
+                },
+                {
+                    "id": null,
+                    "title": "Finalizando la Serie",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/792/c0fe0ab75d8d3684ac98456b53622e7f/master.m3u8?1676402740"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/53sbfr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué hacer con su diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Convirtiendo sus diseños en carteles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/793/b6119ebfcdd508d6fe78b4629edf4040/master.m3u8?1676402736"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo promover su proyecto personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/794/b5936b44172b31edb0fa27a38675500f/master.m3u8?1676402738"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/omyo1r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/dg1yvo.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2946,
+        "product_name": "Minimalist Graphic Design for Big Ideas",
+        "teacher_name": "Julian Montague",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 10,
+        "course_total_duration_sec": 5732,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

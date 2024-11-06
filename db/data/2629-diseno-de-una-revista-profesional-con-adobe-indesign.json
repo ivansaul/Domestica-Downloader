@@ -1,0 +1,173 @@
+{
+    "id": "2629",
+    "title": "Diseño de una revista profesional con Adobe InDesign",
+    "url": "https://www.domestika.org/es/courses/2629-diseno-de-una-revista-profesional-con-adobe-indesign/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/258/fa6618aab488d45ea3ac4e8ce6a87293/master.m3u8?1676400257"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/259/bdd7b992e7bd6c3af1dbad143fe48952/master.m3u8?1676400257"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ocaw07.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Descubre la revista que quieres hacer",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definir y organizar el contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/262/df8fe905eb559fb2833c04a330ffb950/master.m3u8?1676400256"
+                },
+                {
+                    "id": null,
+                    "title": "Entender y conceptualizar una revista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/145/1755873b882abfbbb8b35e5ed77a7690/master.m3u8?1676401280"
+                },
+                {
+                    "id": null,
+                    "title": "Las revistas como fuente de diseño e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/146/0388fc700b029d2a5199c42081aab121/master.m3u8?1676401278"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3i41bo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando tu propia revista",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La página maestra creación de archivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/263/5379cc6e5f932ba2a0fe9178612fa68f/master.m3u8?1676400258"
+                },
+                {
+                    "id": null,
+                    "title": "La página maestra los estilos de la revista 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/264/dda434202451db958498b48b6336e366/master.m3u8?1676400258"
+                },
+                {
+                    "id": null,
+                    "title": "La página maestra los estilos de la revista 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/265/29fb91fc783af6bcf04e60a0d594cc27/master.m3u8?1676400261"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando la primera sección 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/266/2ce2204386485cfe31703cedd22c82fe/master.m3u8?1676400259"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando la primera sección 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/267/107825a97947a1bfbdfbec7696f2357f/master.m3u8?1676400260"
+                },
+                {
+                    "id": null,
+                    "title": "El artículo principal 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/268/3af0703dead15ec2ffa7710c9a56e1fe/master.m3u8?1676400263"
+                },
+                {
+                    "id": null,
+                    "title": "El artículo principal 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/269/f2c5256182ec26e253ec19feb82677bd/master.m3u8?1676400265"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p6dwwv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cerrando la revista",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Páginas preliminares 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/327/a3f4a14f27646822be8b9e231fb3df9c/master.m3u8?1676400288"
+                },
+                {
+                    "id": null,
+                    "title": "Páginas preliminares 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/328/b97b3b9c36cd83dd24f6330670c80002/master.m3u8?1676400286"
+                },
+                {
+                    "id": null,
+                    "title": "La portada o la joya de la corona",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/329/a86f6b4ebb2cef52f951648f578f8f68/master.m3u8?1676400290"
+                },
+                {
+                    "id": null,
+                    "title": "Terminamos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/330/42170312e7ce1c42910320ccd69d329b/master.m3u8?1676400292"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s2nqfh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/nfq3hq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2629,
+        "product_name": "Professional Magazine Design with Adobe InDesign",
+        "teacher_name": "Wil Huertas",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 12278,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}
