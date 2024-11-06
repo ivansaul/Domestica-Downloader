@@ -1,0 +1,190 @@
+{
+    "id": "4588",
+    "title": "Programación creativa arte inmersivo con openFrameworks",
+    "url": "https://www.domestika.org/es/courses/4588-programacion-creativa-arte-inmersivo-con-openframeworks/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/939/c3a595e95c1a88a5efc1eb1bb03cc3a9/master.m3u8?1676411861"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/940/0130dbd56ec29e7411d7ea23071fcdec/master.m3u8?1676411860"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8ldeu2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Descubriendo la codificación creativa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Codificación creativa e interacciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/941/221f3559ecbd96c2b977de7a625253f8/master.m3u8?1676411865"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo instalar OpenFrameworks",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/942/b93161b40900d24ddb18d9e505251e5e/master.m3u8?1676411864"
+                },
+                {
+                    "id": null,
+                    "title": "Comenzando a codificar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/943/acfba221cb95e153552d213a92eafde7/master.m3u8?1676411864"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1bk5zy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos de la programación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "las variables",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/944/50cfff408d0c858cfeb966b64872b945/master.m3u8?1676411864"
+                },
+                {
+                    "id": null,
+                    "title": "Las funciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/945/97cd37aa0ab385212a5ff05794d9beb3/master.m3u8?1676411866"
+                },
+                {
+                    "id": null,
+                    "title": "Declaraciones condicionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/946/d11e8322aa2c558446ff1117984e3203/master.m3u8?1676411863"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s25gem.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las imágenes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Animaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/947/129f00abc6710300b02cc074a1d6b6c8/master.m3u8?1676411866"
+                },
+                {
+                    "id": null,
+                    "title": "Loops",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/948/fd9c0370491ae791f9515d73c5394dfa/master.m3u8?1676411864"
+                },
+                {
+                    "id": null,
+                    "title": "Clases y matrices",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/949/2526db55eb1438f181a6ec603d001a98/master.m3u8?1676411867"
+                },
+                {
+                    "id": null,
+                    "title": "Sistemas de partículas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/950/635cb617edbfa2f9052c0a435e5e04a0/master.m3u8?1676411867"
+                },
+                {
+                    "id": null,
+                    "title": "Sistemas de partículas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/951/076bce0b3022034ad88d5feaef6c2b4f/master.m3u8?1676411869"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t2iou2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Interactividad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Visión artificial e interactividad 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/952/ca8f103836809865b3f40a7edb43e005/master.m3u8?1676411869"
+                },
+                {
+                    "id": null,
+                    "title": "Visión artificial e interactividad 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/953/21245d244e74f97f4c0006a590d58924/master.m3u8?1676411869"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de la instalación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/954/e1ebe716cee22097a465168b01fc7071/master.m3u8?1676411869"
+                },
+                {
+                    "id": null,
+                    "title": "Proyectar el video",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/955/c1c75cd60b21bc487280ba6167f88c35/master.m3u8?1676411868"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5irjyx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cdxy76.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4588,
+        "product_name": "Creative Coding: Immersive Art with openFrameworks",
+        "teacher_name": "Paul Ferragut",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 10631,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

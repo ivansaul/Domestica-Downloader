@@ -1,0 +1,205 @@
+{
+    "id": "748",
+    "title": "Creación de mockups para diseño gráfico",
+    "url": "https://www.domestika.org/es/courses/748-creacion-de-mockups-para-diseno-grafico/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/315/3afa324d7b28de8146045646d23e849e/master.m3u8?1676391388"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/318/1c36e3d387f66eaab1d17e8782522597/master.m3u8?1676391381"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/319/d1c6f7f5c44f1c94f18402117d74db81/master.m3u8?1676391378"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uvxj8x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La importancia de un buen mockup",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un mockup y para qué sirve",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/334/16f3f73c841383570a59fdf0f47e4355/master.m3u8?1676391385"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de mockups y sus características",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/336/77a7c7c56a5788dfa4e5cc4afee77ab3/master.m3u8?1676391386"
+                },
+                {
+                    "id": null,
+                    "title": "Dónde encontrar recursos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/337/82b7d67a60ff4abbeb45fcf076bf0ad5/master.m3u8?1676391387"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5ew31e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción del Proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Búsqueda de inspiración y dirección de arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/338/e9c490a268e19494da430bb7bf136e30/master.m3u8?1676391392"
+                },
+                {
+                    "id": null,
+                    "title": "Proyección  bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/339/4060e22e92c5231928338e77a7385ae3/master.m3u8?1676391396"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo generar nuestras fotografías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/340/8e88da8e6def612f0c0bb650c7d6ce68/master.m3u8?1676391388"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bjtia0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción Proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de mockup simple 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/341/c25026131785c8aa8bfc6893372e1a76/master.m3u8?1676391393"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de mockup simple 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/342/3c86d26bc8a4f9517e599bf57d4be7f8/master.m3u8?1676391396"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de mockup Composición 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/343/05bcd914fb6c9655a1c9ec2402bdbdde/master.m3u8?1676391392"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de mockup Composición 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/344/0fef40fc3055d2d85debf5760be591d5/master.m3u8?1676391398"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de mockup de detalle 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/345/d1fb9214963a31a5c2b9b5da1d389dc4/master.m3u8?1676391393"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de mockup de detalle 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/346/68abb93076453eef8dc2da2cdb1714a3/master.m3u8?1676391393"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de mockup sobre objeto de tela 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/347/4bd69322efb676de37d226209e5a23e4/master.m3u8?1676391396"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de mockup sobre objeto de tela 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/348/df1d9176d851cd9ccd7e0c528d57ae7c/master.m3u8?1676391396"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de mockup de una doble página",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/349/edec0ae1d16b7a33e47553bdbfa77ddc/master.m3u8?1676391395"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3oxi0t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La importancia del recorrido visual y la edición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La importancia del recorrido visual y la edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/350/11c592228b522525ccc96ff9f95c97a0/master.m3u8?1676391394"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/351/4a591d89066651652305178626792fc5/master.m3u8?1676391392"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gtxip6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/j0ww9n.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 748,
+        "product_name": "Creating Graphic Design Mockups",
+        "teacher_name": "Asís",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 10464,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

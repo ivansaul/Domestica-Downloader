@@ -1,0 +1,187 @@
+{
+    "id": "127",
+    "title": "Diseño de logotipos caligráficos",
+    "url": "https://www.domestika.org/es/courses/127-diseno-de-logotipos-caligraficos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bienvenidos todos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/896/8664d5c1549f061efaaa440a39c18f15/master.m3u8?1676381739"
+                },
+                {
+                    "id": null,
+                    "title": "Libros e imágenes de ayuda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/897/4bd4d5e2b3094430be7b8f69d16ed615/master.m3u8?1676381738"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/giyheo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mise en place",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Degustando las herramientas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/898/b290c859bf6788cc840d8d5db32391ec/master.m3u8?1676381745"
+                },
+                {
+                    "id": null,
+                    "title": "Degustando las herramientas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/899/44bee8db29ea6f30ab1b571f59443082/master.m3u8?1676381738"
+                },
+                {
+                    "id": null,
+                    "title": "Bases para una buena construcción del alfabeto 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/904/6ed22f1198a883531950f1e500b21bab/master.m3u8?1676381747"
+                },
+                {
+                    "id": null,
+                    "title": "Bases para una buena construcción del alfabeto 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/901/f55b254b77082536f7a304a2ddaa029c/master.m3u8?1676381742"
+                },
+                {
+                    "id": null,
+                    "title": "Del script al script expresivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/902/dc59be1da6f1d4ba17d0c7dc930c8a57/master.m3u8?1676381744"
+                },
+                {
+                    "id": null,
+                    "title": "Cocinando el script expresivo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/903/04aa2217b41765e6f905864bbc9c1edb/master.m3u8?1676381747"
+                },
+                {
+                    "id": null,
+                    "title": "Cocinando el script expresivo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/905/5dfb7f4dc36b7a11a01b1fd257533c26/master.m3u8?1676381748"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando un logo al gusto 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/906/114669c78c6c44f8f2188837ac2b4b80/master.m3u8?1676381749"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando un logo al gusto 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/907/fac00064d35020193efbd097dad5e890/master.m3u8?1676381749"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u0ntcw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Al horno",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preselección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/908/d79e039ed476a332283771ff29d8ebac/master.m3u8?1676381746"
+                },
+                {
+                    "id": null,
+                    "title": "Calcado y lápiz quemado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/909/3ad9478a40f1aa8eba6ff9ff4a7e2c0d/master.m3u8?1676381752"
+                },
+                {
+                    "id": null,
+                    "title": "Entintado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/910/069f990a311d3d86ad10e9e1634d00f7/master.m3u8?1676381752"
+                },
+                {
+                    "id": null,
+                    "title": "Selección y ajuste óptico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/911/895986c8e20637a6f2ccb6152539dc06/master.m3u8?1676381746"
+                },
+                {
+                    "id": null,
+                    "title": "Escaneo  photoshop y presentación a cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/912/768f479ae26570b4085c84d70d0badfd/master.m3u8?1676381749"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorización 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/913/230f1d0fc87936d00e269c477c1b79a3/master.m3u8?1676381752"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorización 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/914/9dfaf3ddb06ff0c89a0d5d580b3a79f4/master.m3u8?1676381751"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mjg7ng.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Emplatar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ajustes ópticos pruebas de tamaño negativo y positivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/915/431b6d7c525a3f449ea8418bab2c8704/master.m3u8?1676381751"
+                },
+                {
+                    "id": null,
+                    "title": "Otros formato del lettering camisetas portadas poster",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/916/937f887d7bdc2962b5eedd437abfa2a3/master.m3u8?1676381754"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fa1ksy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/m5ilqy.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 127,
+        "product_name": "Design of Calligraphy Logos",
+        "teacher_name": "Joluvian",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 15944,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

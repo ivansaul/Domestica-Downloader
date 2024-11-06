@@ -1,0 +1,162 @@
+{
+    "id": "259",
+    "title": "Creación de membership sites con WordPress",
+    "url": "https://www.domestika.org/es/courses/259-creacion-de-membership-sites-con-wordpress/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/880/5dadb3f3167d0219c553880eed5b5403/master.m3u8?1676383461"
+                },
+                {
+                    "id": null,
+                    "title": "Membership sites",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/881/763f99214b9aded8dbb20c40001ccf4f/master.m3u8?1676383464"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v7nlay.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparando el terreno",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Instalar WordPress",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/882/b7b722c8333be3e4b62ee61f0bffcce1/master.m3u8?1676383463"
+                },
+                {
+                    "id": null,
+                    "title": "Instalar plugins necesarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/883/18a4e71bc7c6cdcfd21e1f3c8b060062/master.m3u8?1676383468"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sjeex5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando el membership site",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Niveles de membresía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/884/d557425037ff5ba742bb69d077ac8320/master.m3u8?1676383467"
+                },
+                {
+                    "id": null,
+                    "title": "Páginas de gestión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/885/c3c88e929e3ad80ae8f36e6f81ac5bfe/master.m3u8?1676383468"
+                },
+                {
+                    "id": null,
+                    "title": "Pasarelas de pagos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/886/f147c7e6fd9ea2949a9f8b1377f79fa1/master.m3u8?1676383469"
+                },
+                {
+                    "id": null,
+                    "title": "Emails",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/887/15734faefad14a3950f421849bda3d96/master.m3u8?1676383466"
+                },
+                {
+                    "id": null,
+                    "title": "Restricción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/888/c52662f4505596095c3b4f454f7a4ba4/master.m3u8?1676383467"
+                },
+                {
+                    "id": null,
+                    "title": "Opciones avanzadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/889/e22e58ce994c5df5c2d679a714c11dee/master.m3u8?1676383466"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wprn5w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Gestión del membership site",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Gestión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/890/eaa9084aa7255ecd723bf993e4a89708/master.m3u8?1676383469"
+                },
+                {
+                    "id": null,
+                    "title": "Descuentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/891/33013c3697c9cbf586d3811ff1989e7a/master.m3u8?1676383469"
+                },
+                {
+                    "id": null,
+                    "title": "Textos y traducciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/892/51ca14defb1abea5af71471541d713f8/master.m3u8?1676383470"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/893/65cddb541751af6d93f998af044a2fa6/master.m3u8?1676383473"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/894/79be466bfc909e6536816e734b8942be/master.m3u8?1676383470"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d1hylr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/b6eqfn.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 259,
+        "product_name": "Creation of Membership Sites with WordPress",
+        "teacher_name": "Joan Boluda",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9737,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

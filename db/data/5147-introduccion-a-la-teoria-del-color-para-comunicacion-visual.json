@@ -1,0 +1,180 @@
+{
+    "id": "5147",
+    "title": "Introducción a la teoría del color para comunicación visual",
+    "url": "https://www.domestika.org/es/courses/5147-introduccion-a-la-teoria-del-color-para-comunicacion-visual/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/350/ade2f50614679eb09df6facd52916c6c/master.m3u8?1709141795"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/351/eb91db804ea3ba71512ed87214efe3ef/master.m3u8?1709141835"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4qul1x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Color de cobertura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el color y por qué es importante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/352/779425347b1e223c055127764352087c/master.m3u8?1709141859"
+                },
+                {
+                    "id": null,
+                    "title": "Propiedades y teoría del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/353/19c2e6d65447f1762db9cf54b36cfd94/master.m3u8?1709141879"
+                },
+                {
+                    "id": null,
+                    "title": "Color cultura y significado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/354/65634a93b6e68e5ba0fba67d06611b34/master.m3u8?1709141900"
+                },
+                {
+                    "id": null,
+                    "title": "Paletas de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/355/fe9942fe70c899ed5704932e06791b47/master.m3u8?1709141920"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jbrofw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo de diseño y creación de conceptos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Material de investigación y referencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/356/8cfe1fd63f9aa4d6a743aa5cbc9b08be/master.m3u8?1709141946"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos de dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/357/aa031027e01b1d37642d6e6c9faa4711/master.m3u8?1709141985"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de diseño y color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/358/9736927f8f603d7a81f806ee253b7f35/master.m3u8?1709142001"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gxlqzr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Refinamiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Refinamiento del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/359/b47c2869c00a7dcf9f951f5644d975bc/master.m3u8?1709142022"
+                },
+                {
+                    "id": null,
+                    "title": "Contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/360/b424780123168b0a81fa6f656c2c6041/master.m3u8?1709142054"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicaciones y problemas técnicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/361/c87ed0ec21539cad66cb6c65046fd029/master.m3u8?1709142081"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fmqaa0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación y Portafolio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentando el trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/362/98afcfaa20d5e80de9bf0a3539ff056e/master.m3u8?1709142099"
+                },
+                {
+                    "id": null,
+                    "title": "Organizar y presentar su trabajo en un portafolio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/363/4c635434c76ab17d204518b686ecc006/master.m3u8?1709142125"
+                },
+                {
+                    "id": null,
+                    "title": "Haz tu proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/364/4ad38bbfee2bc57fc291ac631d3c2182/master.m3u8?1709142153"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2wpkb9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/709iys.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5147,
+        "product_name": "Introduction to Color Theory for Visual Communication",
+        "teacher_name": "Sean Adams",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8816,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

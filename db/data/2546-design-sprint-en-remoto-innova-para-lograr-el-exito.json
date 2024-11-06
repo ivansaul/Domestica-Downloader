@@ -1,0 +1,158 @@
+{
+    "id": "2546",
+    "title": "Design Sprint en remoto innova para lograr el éxito",
+    "url": "https://www.domestika.org/es/courses/2546-design-sprint-en-remoto-innova-para-lograr-el-exito/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/896/c7ceb79dc612ce728961464bdff7ac98/master.m3u8?1676401098"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/897/b5ae7510dc85c245ae1d7e419eb3a23b/master.m3u8?1676401100"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2mvlhk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Antes de la carrera",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un Design Sprint",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/898/dc5dc6830c2bb505df1dddcd472690c8/master.m3u8?1676401101"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y reglas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/899/4bed4ae535ad448ec3bec0ef343fb01e/master.m3u8?1676401101"
+                },
+                {
+                    "id": null,
+                    "title": "Inicio de su Sprint de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/900/15c3354236161f972f846609ed29388e/master.m3u8?1676401103"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/83j8b4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Silencio por favor diseñe Sprint en sesión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Día 1 Mapeo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/901/2facea885994e0bcd0a5effb501ac033/master.m3u8?1676401103"
+                },
+                {
+                    "id": null,
+                    "title": "Día 1 Mapeo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/902/8c0d2204cfc5a34b88b4b32b22a6af52/master.m3u8?1676401102"
+                },
+                {
+                    "id": null,
+                    "title": "Día 2 Dibujar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/903/79f1bba4a381bb9aaad697806eccb298/master.m3u8?1676401105"
+                },
+                {
+                    "id": null,
+                    "title": "Día 3 Votación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/904/acd6ffc2213c4cb891c06104f45b8eb6/master.m3u8?1676401103"
+                },
+                {
+                    "id": null,
+                    "title": "Día 4 Prototipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/905/9193e3799c3ec16eae72dc8cb8414747/master.m3u8?1676401105"
+                },
+                {
+                    "id": null,
+                    "title": "Día 5 Prueba",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/906/d93beebc5245a59c2c94de70594ecc41/master.m3u8?1676401107"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pt98mz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comprender y compartir los resultados del Sprint",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recopilación de comentarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/907/22f25d7a05d286c1ae52ff742fca6720/master.m3u8?1676401105"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de un documento de descubrimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/908/f0608b6614ba5049c05c466cbe7a56e8/master.m3u8?1676401110"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/noculb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/utascb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2546,
+        "product_name": "Remote Design Sprints: Innovating for Success",
+        "teacher_name": "Stanley Vaganov",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7261,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

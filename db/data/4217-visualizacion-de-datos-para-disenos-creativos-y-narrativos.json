@@ -1,0 +1,188 @@
+{
+    "id": "4217",
+    "title": "Visualización de datos para diseños creativos y narrativos",
+    "url": "https://www.domestika.org/es/courses/4217-visualizacion-de-datos-para-disenos-creativos-y-narrativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/516/80896e566525ae3ac9938d80974a7e1e/master.m3u8?1678190834"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/517/e8e7cdb008846cb1b0094e966ffc2e0c/master.m3u8?1676409755"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2btht4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El diseño de narrativas visuales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Una traducción visual de contenidos el papel de la percepción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/523/4fad269ed876eff200489afafff03132/master.m3u8?1676409769"
+                },
+                {
+                    "id": null,
+                    "title": "Las preguntas para empezar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/524/ce8a54470416ebd61e1f015cc852bfdf/master.m3u8?1676409763"
+                },
+                {
+                    "id": null,
+                    "title": "Palabras visuales y escritas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/525/35f973af23e23cb5160baec3097647cf/master.m3u8?1676409764"
+                },
+                {
+                    "id": null,
+                    "title": "El proceso de contar historias con datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/526/2c6acb0b12001468d9722fa8a3b394eb/master.m3u8?1676409771"
+                },
+                {
+                    "id": null,
+                    "title": "Usar y desafiar metáforas visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/527/89e23cdd8a284f3c36f79652deeccf27/master.m3u8?1676409767"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jpt0g9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección del tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/528/3ec03b02dc145786a2b8b52f3bffa2d9/master.m3u8?1676409767"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del conjunto de datos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/529/c7a15eadbbcfed3c49e98da7aad50101/master.m3u8?1676409769"
+                },
+                {
+                    "id": null,
+                    "title": "Crear el conjunto de datos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/530/6ba6ea44c5a7c6913855349ecdab5d46/master.m3u8?1676409771"
+                },
+                {
+                    "id": null,
+                    "title": "Bosquejar la macroestructura de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/531/20c3aec3660999a4c2e1bd7962c2dc23/master.m3u8?1676409768"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r3r9ss.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de la visualización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Gráficos RAW",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/532/a474f4f9c3fce011b986f9c20e2a5d06/master.m3u8?1676409770"
+                },
+                {
+                    "id": null,
+                    "title": "Adobe Illustrator creación de la visualización 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/533/521243b7fe8ab1af6d5ded26da6af621/master.m3u8?1676409774"
+                },
+                {
+                    "id": null,
+                    "title": "Adobe Illustrator creación de la visualización 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/534/ec369babc06926fa2d732a6523bcdf57/master.m3u8?1676409774"
+                },
+                {
+                    "id": null,
+                    "title": "Adobe Illustrator creación de la visualización 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/535/ffb9e8952332ba2da38920b4f42cc3bf/master.m3u8?1676409775"
+                },
+                {
+                    "id": null,
+                    "title": "Adobe Illustrator refinando la visualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/536/b68073a8079c552daaef6ba754d76981/master.m3u8?1676409781"
+                },
+                {
+                    "id": null,
+                    "title": "La leyenda y el texto 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/537/255c828f62d6ad23a75d84811c576591/master.m3u8?1676409780"
+                },
+                {
+                    "id": null,
+                    "title": "La leyenda y el texto 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/538/106c5bd649bc618b8e9cd36bbe32d30d/master.m3u8?1676409776"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles finales versión móvil y exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/539/73f11b3bf7828c50b5954565c7615f2b/master.m3u8?1676409777"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mlu9y9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3uvmrc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4217,
+        "product_name": "Creative Data Visualization for Narrative Designs",
+        "teacher_name": "Federica Fragapane",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 11991,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

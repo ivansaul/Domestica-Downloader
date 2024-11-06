@@ -1,0 +1,138 @@
+{
+    "id": "2330",
+    "title": "Diseño Ad Hoc identidades gráficas memorables",
+    "url": "https://www.domestika.org/es/courses/2330-diseno-ad-hoc-identidades-graficas-memorables/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/134/c78e4e5ada619b8d6bd7a7d72d584e5d/master.m3u8?1676399674"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/135/8a025e22a5a7209fc56ea658accfff93/master.m3u8?1676399671"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/flvu90.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el diseño ad hoc",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/136/fa2aa4a4a5a9bb8417d285587b900aeb/master.m3u8?1676399665"
+                },
+                {
+                    "id": null,
+                    "title": "Primer contacto con el cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/137/a0d0d5b1913ef3d5f5a7683c372578ba/master.m3u8?1676399666"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación del problema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/138/6b230a456f0500bf8b370161accc4a23/master.m3u8?1676399666"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qr3zlr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo de la idea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrar la idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/139/db14763d7b0b75bf6eca7a61df011bab/master.m3u8?1676399667"
+                },
+                {
+                    "id": null,
+                    "title": "La forma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/140/f8ac73aeb60698368d3b0b8845fb5ec7/master.m3u8?1676399673"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uet18l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación al cliente y buenas prácticas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/142/cb676900ff9558f5933c345727e5f9c5/master.m3u8?1676399671"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/143/f9120d52a3373bc91b78d4db53d4dea9/master.m3u8?1676399669"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mlrkwm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1wlnrf.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2330,
+        "product_name": "Ad Hoc Design: Memorable Graphic Identities",
+        "teacher_name": "Mario Eskenazi",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 9,
+        "course_total_duration_sec": 7162,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

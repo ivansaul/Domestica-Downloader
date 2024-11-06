@@ -1,0 +1,185 @@
+{
+    "id": "4329",
+    "title": "Accesibilidad digital como método",
+    "url": "https://www.domestika.org/es/courses/4329-accesibilidad-digital-como-metodo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/092/4af39b9c2ab591c62230eb083d4391fc/master.m3u8?1685530547"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/093/5d251b1fbfffaf9259e26abf9f4e52e7/master.m3u8?1685530653"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/97fmrs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Por qué es importante la accesibilidad digital",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la accesibilidad digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/094/01cda246605133a3bc10a55327e99318/master.m3u8?1685530760"
+                },
+                {
+                    "id": null,
+                    "title": "Los beneficios de la accesibilidad digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/095/6b7a1554670b3f4fe50c74dc937289f5/master.m3u8?1685530850"
+                },
+                {
+                    "id": null,
+                    "title": "Accesibilidad en la vida real",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/096/4eacfcf510933de6eae6affa08ed3142/master.m3u8?1685530934"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0zch41.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bloques de construcción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Colores y contraste",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/097/882f5a415d0d53c27dd1b6f3b62637ef/master.m3u8?1685531178"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de letra y jerarquía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/098/4d56775fa694eb1e490b2d4da975ba7d/master.m3u8?1694686000"
+                },
+                {
+                    "id": null,
+                    "title": "Texto alternativo y microcopia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/099/83793dc9bff152c902f90d830ea70e13/master.m3u8?1685531591"
+                },
+                {
+                    "id": null,
+                    "title": "Estados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/100/d45d8591cb5518beaca945e53cf89b54/master.m3u8?1685531660"
+                },
+                {
+                    "id": null,
+                    "title": "Animaciones y controles multimedia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/101/e85c2d405788c5c6c2b4186f7fff047c/master.m3u8?1685531877"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tr7lfr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Reuniendo todo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estructura alámbrica para accesibilidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/102/7e137d384f0a65e847aabf12b5bb2aab/master.m3u8?1685531951"
+                },
+                {
+                    "id": null,
+                    "title": "Un sistema de diseño básico y accesible",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/103/5a8be4eca22232cc6218c683117a0831/master.m3u8?1685531993"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/104/105d82d4ab521f10aa92dd153f2875ae/master.m3u8?1685532205"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u43xe1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de prototipos y pruebas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El prototipo interactivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/105/cb9fe880f97ac660656afd4f896f2c87/master.m3u8?1685532307"
+                },
+                {
+                    "id": null,
+                    "title": "Pruebas pruebas pruebas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/106/6223bf6e39849de54fd4bdcb369a575a/master.m3u8?1685532378"
+                },
+                {
+                    "id": null,
+                    "title": "Pensamiento omnicanal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/107/a98ecc1f6936e1964e4d2ee5a3538f53/master.m3u8?1685532589"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/phswmx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6bjsml.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4329,
+        "product_name": "Digital Accessibility as a Mindset",
+        "teacher_name": "Margot Gabel",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 7479,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

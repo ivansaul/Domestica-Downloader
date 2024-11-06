@@ -1,0 +1,174 @@
+{
+    "id": "2983",
+    "title": "Creación de ramos de flores desde cero",
+    "url": "https://www.domestika.org/es/courses/2983-creacion-de-ramos-de-flores-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/005/80c74d97eb43ee7b93feeaf41988bc5b/master.m3u8?1676401755"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/006/6c1d6c5883789f2cc802235570c69cae/master.m3u8?1676401761"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zm12ub.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño y materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Historia de los ramos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/007/db88749bfe4db06ecf3eba6acb34e98b/master.m3u8?1676401757"
+                },
+                {
+                    "id": null,
+                    "title": "Tipologías de flores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/008/008e24e28f604c6a24ab9c42b669f9f3/master.m3u8?1676401760"
+                },
+                {
+                    "id": null,
+                    "title": "Gama cromática 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/009/99e2011e898a1b2a6971a942c4db6277/master.m3u8?1676401761"
+                },
+                {
+                    "id": null,
+                    "title": "Gama cromática 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/010/e1602734cfcb8711f95f3c64fc68341a/master.m3u8?1676401761"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6zqt6v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Montaje de los ramos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/011/8ae72c8980998e05b56ec3229947e39e/master.m3u8?1676401763"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/012/696c232e4f2d3793452c173a79ba83d2/master.m3u8?1676401760"
+                },
+                {
+                    "id": null,
+                    "title": "Ramo circular 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/397/caae302b6097d60ad99d068bd64b2d0a/master.m3u8?1676401974"
+                },
+                {
+                    "id": null,
+                    "title": "Ramo circular 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/013/31e159ecfa7580f93e9adc7a41c71835/master.m3u8?1676401760"
+                },
+                {
+                    "id": null,
+                    "title": "Ramo vertical",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/398/701a67f28d579f3bf581046f01aad1e9/master.m3u8?1676401975"
+                },
+                {
+                    "id": null,
+                    "title": "Ramo horizontal 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/019/b3f8b620170bf99e37e5a2bc9f45df22/master.m3u8?1676401768"
+                },
+                {
+                    "id": null,
+                    "title": "Ramo horizontal 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/014/fea3f9aca629aaf72038189e1d347e25/master.m3u8?1676401769"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9t5d76.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conservación envío y fotografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conservación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/015/9f4e64b7e5a9b55f57e9b3492d3d8739/master.m3u8?1676401759"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/016/78add826a798c290f3591559ae5d2952/master.m3u8?1676401761"
+                },
+                {
+                    "id": null,
+                    "title": "Envío",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/017/3e61ca9c70d8a9d1468b35564dbe87fa/master.m3u8?1676401761"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o49qrh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4twc5x.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2983,
+        "product_name": "Floral Bouquet Creation for Beginners",
+        "teacher_name": "Savia Bruta Flower School",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 11303,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

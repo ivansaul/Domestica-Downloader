@@ -1,0 +1,185 @@
+{
+    "id": "3191",
+    "title": "Introducción al diseño CMF color material y acabado",
+    "url": "https://www.domestika.org/es/courses/3191-introduccion-al-diseno-cmf-color-material-y-acabado/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/006/e8aca0d8144d9037203b72019732fbd5/master.m3u8?1676402843"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/007/bf04058e6e8d319cb38f3c5ed26e304c/master.m3u8?1676402843"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dvdq94.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acerca de CMF Design",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño CMF",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/008/0592d4f6ebfc569eee47b3b804630a30/master.m3u8?1676402847"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y software",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/009/1c996f724d3ef2fe367f0eb05e998920/master.m3u8?1676402844"
+                },
+                {
+                    "id": null,
+                    "title": "Color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/010/f38a19fffd43e0755ede09c248b51948/master.m3u8?1676402847"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/011/568eea5338641e7b5675cc411e5e294b/master.m3u8?1676402847"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ztmfvb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación para el informe de diseño de CMF",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Perfil comportamiento y cambios del consumidor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/012/4273bb56a952b7127c34c3229071459b/master.m3u8?1676402850"
+                },
+                {
+                    "id": null,
+                    "title": "Pronóstico de tendencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/013/2bcb555fd1ba72a2345b3863c23e7112/master.m3u8?1676402851"
+                },
+                {
+                    "id": null,
+                    "title": "Seleccionar una paleta de colores CMF",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/014/da1232f2480d6ff3024f47d288e0dded/master.m3u8?1676402849"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de materiales y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/015/2ef7d68dfb0fdee34e4f0a2692f2e1af/master.m3u8?1676402848"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ofedqi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación digital final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recopilación de tablero de estado de ánimo digitalizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/016/1db17420bf3417cc0fc552021623836e/master.m3u8?1676402851"
+                },
+                {
+                    "id": null,
+                    "title": "Material y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/017/18f58b69b3600a2f0b98647efc6205dc/master.m3u8?1676402853"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de acabados a los auriculares",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/018/d85931ec890faa4125116d9f5abffb88/master.m3u8?1676402851"
+                },
+                {
+                    "id": null,
+                    "title": "Terminando la Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/019/e7b4c7c13aadc2c67f596e07a3622cf8/master.m3u8?1676402849"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/30wm9m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mejores prácticas para la presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mejores prácticas para la presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/020/56154aab77e82f981253b29c766e0e5a/master.m3u8?1676402847"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos de la industria",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/021/e08a570688b3a40206502bd3fdfaf3bb/master.m3u8?1676402850"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ud5bmu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/h4tt6d.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3191,
+        "product_name": "Introduction to CMF Design: Color, Material, and Finish",
+        "teacher_name": "Laura Perryman",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 10194,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "id": "3232",
+    "title": "Diseño gráfico comunica ideas complejas con imágenes sencillas",
+    "url": "https://www.domestika.org/es/courses/3232-diseno-grafico-comunica-ideas-complejas-con-imagenes-sencillas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/175/796ca510ae30ae9fd5f5e12d61daddfd/master.m3u8?1676405222"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/179/2943e533a0e33d744aaa696e68f9921b/master.m3u8?1676405225"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iaitq8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Convertir ideas en formas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Comunicarse con imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/187/ae1ab6ad85228906dfdad7afc0681a9a/master.m3u8?1676405226"
+                },
+                {
+                    "id": null,
+                    "title": "Decir más con menos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/194/ca7b49d0615d8a1b9c0439d04cf07223/master.m3u8?1676405228"
+                },
+                {
+                    "id": null,
+                    "title": "Pensando en color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/195/b36f5fddb8d97c5b55149ca63e148182/master.m3u8?1676405239"
+                },
+                {
+                    "id": null,
+                    "title": "Lluvia de ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/197/d3447c0143777cac046efe8cf7e0436e/master.m3u8?1676405240"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/71zq2j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando con sentido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explorando rutas creativas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/205/a01f8da5ae38492c38063d1870916a71/master.m3u8?1676405247"
+                },
+                {
+                    "id": null,
+                    "title": "Explorando rutas creativas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/207/501dad0f98d84da840e17728a2f6a529/master.m3u8?1676405234"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo un sistema visual 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/240/742282fc01e06ebffe39be11aa04743b/master.m3u8?1676405249"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo un sistema visual 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/241/a3772791c47cf07138f127767dc981f3/master.m3u8?1676405251"
+                },
+                {
+                    "id": null,
+                    "title": "Jugando con las palabras y la tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/243/f4ea241278d4e2f9ff0c64d8dab3a73b/master.m3u8?1676405253"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zs6xje.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de su propia serie de carteles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estructura y diseño 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/288/0c0c7f8e867b164e4ab8b02d5c8d03ba/master.m3u8?1676405273"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura y diseño 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/290/c4fb2db3e0113f5483f220916ddddc79/master.m3u8?1676405274"
+                },
+                {
+                    "id": null,
+                    "title": "Color convivencia y armonía 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/312/c994a7e6583ccf1524697df8ddb69222/master.m3u8?1676405286"
+                },
+                {
+                    "id": null,
+                    "title": "Color convivencia y armonía 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/313/a959061542de9e1404b2ab49c3af59a9/master.m3u8?1676405285"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación y maquetas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/315/4cd549980ae1b7c915cb6854b3dec481/master.m3u8?1676405288"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación y maquetas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/316/7d3d6c2542e1afd2fac179647d850144/master.m3u8?1676405289"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dmjn9p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/23aedd.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3232,
+        "product_name": "Graphic Design: Communicate Complex Ideas with Simple Images",
+        "teacher_name": "Genis Carreras",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 12064,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "id": "2350",
+    "title": "Diseño de identidad visual geometrías claras y simples",
+    "url": "https://www.domestika.org/es/courses/2350-diseno-de-identidad-visual-geometrias-claras-y-simples/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/094/63e682490d2b30feef41cac5d8fbd976/master.m3u8?1676397533"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/095/369e3b83f76553a792e41a48b34a85fe/master.m3u8?1676397534"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/thd4zb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La teoría en torno a los sistemas visuales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El proceso cognitivo y la percepción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/096/9a1e5fd3dc7e474a0574fd86f1a94d36/master.m3u8?1676397538"
+                },
+                {
+                    "id": null,
+                    "title": "Geometrización de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/097/aa2211b2daf69bf26944cc14dc9960ab/master.m3u8?1676397534"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es un sistema de identidad visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/098/c4bc551a76465df9d4048c8af1cee246/master.m3u8?1676397538"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h2mah2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los principales elementos gráficos del sistema de identidad visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Buscar inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/099/62bc69d698f8f79d5d376f25db50f4be/master.m3u8?1676397538"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de formas básicas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/100/6f6c5283039ecab53cd7c87fb88727b3/master.m3u8?1676397540"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de formas básicas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/101/3b5e085530ab00abbfd7057902f73c68/master.m3u8?1676397536"
+                },
+                {
+                    "id": null,
+                    "title": "Combinación de formas para generar elementos gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/102/3b988cfa82afaf7086ff18198bc20fd7/master.m3u8?1676397538"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/40nva4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pruebas y maquetas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear un fondo de pantalla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/103/c31646665733760af600e3ae4a83c766/master.m3u8?1676397541"
+                },
+                {
+                    "id": null,
+                    "title": "Póster",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/104/3c29d9870b5d461afb6106207d416d3d/master.m3u8?1676397540"
+                },
+                {
+                    "id": null,
+                    "title": "Cancha de baloncesto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/105/defd678f7f9d572733aeca22d3ed413d/master.m3u8?1676397540"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cblrjk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7go0mx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2350,
+        "product_name": "Visual Identity Design: Clean and Simple Geometry",
+        "teacher_name": "Marco Oggian",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 8703,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}
