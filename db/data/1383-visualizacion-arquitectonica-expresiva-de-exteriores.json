@@ -1,0 +1,190 @@
+{
+    "id": "1383",
+    "title": "Visualización arquitectónica expresiva de exteriores",
+    "url": "https://www.domestika.org/es/courses/1383-visualizacion-arquitectonica-expresiva-de-exteriores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/622/5120f811f5a97d93fcf9846ca99a8704/master.m3u8?1676390627"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/623/f754b800f0cb98c46c547d850a4de62d/master.m3u8?1676390625"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/624/15e62032248109d363972b12a2cf092a/master.m3u8?1676390623"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y6vfsm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasos previos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Puesta a punto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/626/8a65147eb7b58a2fc905e268957eb86c/master.m3u8?1676390626"
+                },
+                {
+                    "id": null,
+                    "title": "Recursos y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/627/80839e5775f4039f00a25026380ca12e/master.m3u8?1676390627"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/raicye.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado con SketchUp",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/628/00a006cf5b6427ec28be7b21cf2f0993/master.m3u8?1676390632"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado del entorno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/629/0daedff5056f2d1b5264da7725bb2db6/master.m3u8?1676390630"
+                },
+                {
+                    "id": null,
+                    "title": "Inserción de detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/630/7c3ea17d1c462c671af076bc75110d20/master.m3u8?1676390633"
+                },
+                {
+                    "id": null,
+                    "title": "Puntos de vista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/631/3e37ffa5669339e008c23899f54057c3/master.m3u8?1676390634"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/30tgbj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Renderizado con VRay NEXT",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/632/39ce2ddc2efd2865fdfc9071db32d811/master.m3u8?1676390636"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/633/9d9ac8354c12b4e3c9c3443d60ea69b5/master.m3u8?1676390634"
+                },
+                {
+                    "id": null,
+                    "title": "Parámetros de corrección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/634/89f2027d309208ce6342b5c99145ffdd/master.m3u8?1676390629"
+                },
+                {
+                    "id": null,
+                    "title": "Render elements y generación de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/635/ce2247cf9cee12f2646a467ef9147183/master.m3u8?1676390629"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kmlsng.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción con Adobe Photoshop",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Capas y máscaras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/636/98785610aed583fa860e27bc1ab2bf74/master.m3u8?1676390631"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos del entorno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/637/f8ae31ce567ba2cd72df714f9405eb6c/master.m3u8?1676390634"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas e iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/638/e9a0dc68081903737ca20508508a9a4c/master.m3u8?1676390633"
+                },
+                {
+                    "id": null,
+                    "title": "Cutouts y toques finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/639/071509df6b76043715aa3115f004fea8/master.m3u8?1676390639"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q0tryc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/eh4yrk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1383,
+        "product_name": "Expressive Exteriors ArchViz",
+        "teacher_name": "Alejandro Soriano",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 11877,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

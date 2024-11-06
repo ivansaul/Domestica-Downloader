@@ -1,0 +1,217 @@
+{
+    "id": "618",
+    "title": "Introducción al blogging",
+    "url": "https://www.domestika.org/es/courses/618-introduccion-al-blogging/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/481/a8d887dc7ec37e48aca8303412e546d8/master.m3u8?1676386511"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/482/5c02dc703a22187f82ec31db40c3c2f6/master.m3u8?1676386513"
+                },
+                {
+                    "id": null,
+                    "title": "Proyecto final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/484/71c294a6744855da9937c63a92026a50/master.m3u8?1676386515"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6l60il.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encuentra tu nicho",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/483/4574df38d67209a627839d2868859895/master.m3u8?1676386512"
+                },
+                {
+                    "id": null,
+                    "title": "Naming  Branding",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/486/0178dea47cffca42cb72cd06143dea91/master.m3u8?1676386513"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/leto3t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Contenido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Comencemos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/487/9140283d3675960470524d541cae7321/master.m3u8?1676386513"
+                },
+                {
+                    "id": null,
+                    "title": "SEO",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/488/e8fd2b31fe8b78ecd91e9ea35f905536/master.m3u8?1676386517"
+                },
+                {
+                    "id": null,
+                    "title": "Qué quieren tus lectores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/493/32a909730324e3c3254e915a2ebb84b8/master.m3u8?1676386519"
+                },
+                {
+                    "id": null,
+                    "title": "Calendario editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/494/4b0496e5cbce5c451005b773773a6ae6/master.m3u8?1676386519"
+                },
+                {
+                    "id": null,
+                    "title": "Contenido atractivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/495/ec49ebf849f8920a7a0a7288663fa9e8/master.m3u8?1676386520"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo hacer títulos que generen clicks",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/497/8d8153ca724f737f2fd62cc797958cd5/master.m3u8?1676386525"
+                },
+                {
+                    "id": null,
+                    "title": "Variedad de contenidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/498/c17d4e8961eb9624836120f080192d2f/master.m3u8?1676386528"
+                },
+                {
+                    "id": null,
+                    "title": "Tu primer post",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/501/2f93fabadadb90a69c2be0d3e572adce/master.m3u8?1676386528"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/778uol.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Amplificación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Social Media",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/580/61e4d2b2a4fef463f1ec81b17733e621/master.m3u8?1676386551"
+                },
+                {
+                    "id": null,
+                    "title": "Newsletter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/581/0b30cf70063cddf021e00bd3004dcca3/master.m3u8?1676386553"
+                },
+                {
+                    "id": null,
+                    "title": "Alianzas estratégicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/582/5d66086ba6dd3312951e1b4e90cf2cd5/master.m3u8?1676386552"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/djosat.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo monetizar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Content Marketing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/583/cbe294c8ce92a9f7f9ea3f26993c33ca/master.m3u8?1676386551"
+                },
+                {
+                    "id": null,
+                    "title": "Autogestión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/584/4319e894d8bc65d7a6737f0c929d0cbe/master.m3u8?1676386550"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c5tbcy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mide tus resultados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué la mayoría de los blogs fracasan",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/579/c6ba8895cfa404643efd003421bf3eba/master.m3u8?1676386549"
+                },
+                {
+                    "id": null,
+                    "title": "Data y estadísticas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/593/6918c6910ba25399b893b8d1e1eb0703/master.m3u8?1676386554"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9n4dvf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/lkg20s.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 618,
+        "product_name": "Introduction to Blogging",
+        "teacher_name": "Abigail Quesnel",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 5435,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "id": "20",
+    "title": "Tipografía Construye tu palabra",
+    "url": "https://www.domestika.org/es/courses/20-tipografia-construye-tu-palabra/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/304/a59e385f527c93cc757e797516963edb/master.m3u8?1676380588"
+                },
+                {
+                    "id": null,
+                    "title": "Entender la letra aroma y ejercicio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/305/f557a9d44530fcaf714874683e24090b/master.m3u8?1676380601"
+                },
+                {
+                    "id": null,
+                    "title": "Bibliografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/306/350c9747d7e76d8b86be0cdb23d1211e/master.m3u8?1676380592"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qjt5r2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Anatomía de la letra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Formas básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/323/1c2f6da0d43c740f1e2a4f49f95512b3/master.m3u8?1676380597"
+                },
+                {
+                    "id": null,
+                    "title": "Leyes ópticas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/308/af58fa50421a4c7d8b4e9b0613241876/master.m3u8?1676380596"
+                },
+                {
+                    "id": null,
+                    "title": "Espaciado y ritmo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/309/459c9b34075037db0f7fd2618aead73f/master.m3u8?1676380590"
+                },
+                {
+                    "id": null,
+                    "title": "Lectura y legibilidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/310/1bb6e26c2f6012afc01ae9df16116fc9/master.m3u8?1676380590"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m1ps85.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Arquitectura de la letra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estructura y ritmo con doble lápiz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/311/faeab1cb93282d5c62fe191ba001f2aa/master.m3u8?1676380596"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujo de base",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/312/592a597abf9ce57fe5d20c23cb1411c3/master.m3u8?1676380592"
+                },
+                {
+                    "id": null,
+                    "title": "Ajuste y refinamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/313/af7ab3c033a1bb6a2650b2d069d92b61/master.m3u8?1676380594"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wuzsjx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Digitalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la vectorización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/314/757163b93dd746ac40d00440f8e25cc8/master.m3u8?1676380592"
+                },
+                {
+                    "id": null,
+                    "title": "Digitalización con Illustrator",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/315/99f9362e44e6eb00bf8c12cafc0f0343/master.m3u8?1676380594"
+                },
+                {
+                    "id": null,
+                    "title": "Digitalización con Glyphs 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/316/49c73b8d202aa86a1b1f62a536b0b957/master.m3u8?1676380596"
+                },
+                {
+                    "id": null,
+                    "title": "Digitalización con Glyphs 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/317/f439a884ff62679224d76bb7dbd1caac/master.m3u8?1676380595"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación y pruebas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/318/eec811deea2f51cebdbd3ac2af2712f3/master.m3u8?1676380596"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2n340r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Microtipografía diacríticos y espaciado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ajustes microtipográficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/319/d5dbeb4932ab57bd52b788153a78097c/master.m3u8?1676380600"
+                },
+                {
+                    "id": null,
+                    "title": "Diacríticos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/320/3420687222116c5ed0eb2a64991b9f82/master.m3u8?1676380596"
+                },
+                {
+                    "id": null,
+                    "title": "Espaciado entre letras y final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/321/e8dbcab3d06ef729ca2b6c847ce07c24/master.m3u8?1676380606"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uzovhx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/u251t4.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 20,
+        "product_name": "Fonts: Build your Word",
+        "teacher_name": "Glíglifo",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 7725,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

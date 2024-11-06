@@ -1,0 +1,153 @@
+{
+    "id": "4706",
+    "title": "Escritura de historias sobre crímenes",
+    "url": "https://www.domestika.org/es/courses/4706-escritura-de-historias-sobre-crimenes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Quién soy mi historia lo que hago",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/016/015d118f5958c9cdfd12fd1bf14c638d/master.m3u8?1676410671"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/017/4152d6321f947c133510fb094f8f4944/master.m3u8?1676410671"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sn3diu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas del oficio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo cuándo y por qué",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/018/104afd513091d09d78d42afe6a40cdf0/master.m3u8?1676410672"
+                },
+                {
+                    "id": null,
+                    "title": "Qué se entiende por historia criminal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/019/8a98dbb9562a81635ae5e2918c47bcb7/master.m3u8?1676410674"
+                },
+                {
+                    "id": null,
+                    "title": "La trama",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/020/e5500ef84e57084eba4519922c45e380/master.m3u8?1676410672"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r76pn0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los elementos esenciales de una historia criminal",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El personaje impresionante el héroe de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/021/f2c320a8b6878bb14a6f554a00c7ad93/master.m3u8?1676410673"
+                },
+                {
+                    "id": null,
+                    "title": "El tiempo de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/022/0b20c0184e9a3575de3e5bdb9345300d/master.m3u8?1676410674"
+                },
+                {
+                    "id": null,
+                    "title": "El escenario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/023/3d8ed8d8666c4016907305c0fde5a366/master.m3u8?1676410672"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/024/20058260407e9bf9ceaaef6eb2fce7c3/master.m3u8?1676410674"
+                },
+                {
+                    "id": null,
+                    "title": "Las diferentes declinaciones de la historia del crimen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/025/eb9218511988ff9ce0aab7c223ce5ce8/master.m3u8?1676410674"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7ejii2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ya casi terminas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revisar y editar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/026/554c52941239aaf01b138fc2b6679830/master.m3u8?1676410676"
+                },
+                {
+                    "id": null,
+                    "title": "Un poco de magia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/027/49a9d1d2c984282ecd1c5d2c6c0fc1c2/master.m3u8?1676410677"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dxqmyz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/wpxstb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4706,
+        "product_name": "Writing Crime Stories for Beginners",
+        "teacher_name": "paolo roversi",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5137,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

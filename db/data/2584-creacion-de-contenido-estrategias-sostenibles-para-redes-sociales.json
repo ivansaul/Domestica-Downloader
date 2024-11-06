@@ -1,0 +1,158 @@
+{
+    "id": "2584",
+    "title": "Creación de contenido estrategias sostenibles para redes sociales",
+    "url": "https://www.domestika.org/es/courses/2584-creacion-de-contenido-estrategias-sostenibles-para-redes-sociales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/757/69013cf371f81ab41532cc5354aa1e1e/master.m3u8?1676402713"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/758/fd626eda2fd3537b62fbbf87ef8cbe2d/master.m3u8?1676402715"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i7akac.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Base estratégica para la creación de contenido sostenible",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El Proyecto Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/759/2642864cb3669243586cf0efa4067841/master.m3u8?1676402718"
+                },
+                {
+                    "id": null,
+                    "title": "Plantilla una descripción general rápida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/760/5b6c874c62c36b582876610184bcd2fa/master.m3u8?1676402715"
+                },
+                {
+                    "id": null,
+                    "title": "Tu meta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/761/2f4ca7c4fb2dc5789b51a7b65da04109/master.m3u8?1676402718"
+                },
+                {
+                    "id": null,
+                    "title": "Tu contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/762/386ac979f6e437365b37d57b5041b734/master.m3u8?1676402721"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/etcj4i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Su caja de herramientas de contenido cree y reutilice contenido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tu caja de herramientas creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/775/f2dbae6ff679da907986115623283457/master.m3u8?1676402726"
+                },
+                {
+                    "id": null,
+                    "title": "reaccionando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/776/e7b32959256e97cfa6b33cd2de2a6213/master.m3u8?1676402725"
+                },
+                {
+                    "id": null,
+                    "title": "Documentando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/777/7be2bd3caaa655042af526d58f49e479/master.m3u8?1676402727"
+                },
+                {
+                    "id": null,
+                    "title": "Tu turno sigue construyendo sobre esto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/778/8eaee93aeeb7c6093f29b99b204ca223/master.m3u8?1676402730"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5jpumk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sistemas Flexibles Ahorro de Tiempo y Energía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseña tu Canal de TV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/779/d613f8e5e8085e97886a907ab4061a25/master.m3u8?1676402731"
+                },
+                {
+                    "id": null,
+                    "title": "Tus programas de televisión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/780/9d05369e76f2a29bf7a08be69d46d85a/master.m3u8?1676402732"
+                },
+                {
+                    "id": null,
+                    "title": "Probando Aprendiendo Adaptando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/781/ebd70e8f712d5e2fa984b159c1cf327c/master.m3u8?1676402731"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c5iuj3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/2shn7l.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2584,
+        "product_name": "Content Creation: Sustainable Social Media Strategies",
+        "teacher_name": "Tiago Henriques",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6532,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

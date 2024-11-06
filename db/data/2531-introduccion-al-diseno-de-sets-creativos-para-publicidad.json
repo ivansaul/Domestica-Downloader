@@ -1,0 +1,148 @@
+{
+    "id": "2531",
+    "title": "Introducción al diseño de sets creativos para publicidad",
+    "url": "https://www.domestika.org/es/courses/2531-introduccion-al-diseno-de-sets-creativos-para-publicidad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/369/4c6f736ade26c8297dfa4f4c110fcad9/master.m3u8?1676401954"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/370/9d1bcec4966bb5e44d000a4e153a353e/master.m3u8?1676401953"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8sw5n6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El set design como valor creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el Set Design",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/371/e32aea8c6cd4d640eb72f8ee5c446c60/master.m3u8?1676401958"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo de trabajo y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/372/5e6f708e6fba0a71a3d9687a0ff7753c/master.m3u8?1676401955"
+                },
+                {
+                    "id": null,
+                    "title": "El brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/373/331b9686841d74bb26b785cb54d16bc2/master.m3u8?1676401953"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bw4ykv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Echar a volar la creatividad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/374/3f5d78c23432a376c7aa6387f3718900/master.m3u8?1676401957"
+                },
+                {
+                    "id": null,
+                    "title": "Brainstorming visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/375/5fd66853ba0292ec2e792e6c2bac8d68/master.m3u8?1676401959"
+                },
+                {
+                    "id": null,
+                    "title": "Síntesis visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/376/41b044ede7f9485b2f3917851f24c433/master.m3u8?1676401958"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/377/6843a6ab634d6bc63335f687ffc9f553/master.m3u8?1676401958"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lwhil2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dirección de arte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Devolución creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/378/c48be544d73548878a07fd067a5793b1/master.m3u8?1676401958"
+                },
+                {
+                    "id": null,
+                    "title": "Amplificando la propuesta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/379/24a5e38c36a4e04fad9d839a481d24ed/master.m3u8?1676401956"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/omoe58.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vlb2c5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2531,
+        "product_name": "Introduction to Creative Set Design for Advertising",
+        "teacher_name": "Estudio Cielo",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 9651,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

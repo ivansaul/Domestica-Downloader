@@ -1,0 +1,163 @@
+{
+    "id": "802",
+    "title": "Creación de proyectos fotográficos",
+    "url": "https://www.domestika.org/es/courses/802-creacion-de-proyectos-fotograficos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/679/6b08847f1c031e70b31c6ac81aec9090/master.m3u8?1676389224"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/680/bc470a1492d376bf530dcba8cc40151f/master.m3u8?1676389225"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/681/0bf4d4004996d247da552c50425b3f52/master.m3u8?1676389226"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k1pasu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hola fotografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de mapa para el trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/683/18f75da8fed8e4117d3add59a8863d64/master.m3u8?1676389227"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales fotográficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/684/ff0b866e963ec25daa29d9d08eb9771d/master.m3u8?1676389226"
+                },
+                {
+                    "id": null,
+                    "title": "Test de cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/685/b81d17a287c44e90bdce312f2fdd185b/master.m3u8?1676389228"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación artística recopilación de materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/724/04afdac870c0e17371cc0ad765a2ee59/master.m3u8?1676389246"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/euhbpj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "A fotografiar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Localización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/687/70a2a661dd9d338ff16d2aeb37b30d74/master.m3u8?1676389227"
+                },
+                {
+                    "id": null,
+                    "title": "El Retrato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/688/e1c7578085d76398fb3eaffe7f16e7e1/master.m3u8?1676389230"
+                },
+                {
+                    "id": null,
+                    "title": "El bodegón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/689/d467316c8d59a7d7538e1a3a6db28820/master.m3u8?1676389231"
+                },
+                {
+                    "id": null,
+                    "title": "Casting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/725/dd676d303d58f83bfbd4a2233dcf7fdd/master.m3u8?1676389250"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/06yxfo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La recta final o cómo darle vida al proyecto edición y publicación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/691/7e3beaa610d06d5f09fba11ea214bca4/master.m3u8?1676389237"
+                },
+                {
+                    "id": null,
+                    "title": "Revelados de fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/692/bfa91c623b8c2f14e721cab47210016e/master.m3u8?1676389233"
+                },
+                {
+                    "id": null,
+                    "title": "Publicamos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/693/106d3b73503ec5fb875cf10d94fe0274/master.m3u8?1676389228"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1ii7z9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ucblkd.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 802,
+        "product_name": "Photographic Project Creation",
+        "teacher_name": "Tanit Plana",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7879,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

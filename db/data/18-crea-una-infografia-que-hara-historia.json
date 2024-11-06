@@ -1,0 +1,201 @@
+{
+    "id": "18",
+    "title": "Crea una infografía que hará historia",
+    "url": "https://www.domestika.org/es/courses/18-crea-una-infografia-que-hara-historia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Qué es la infografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fernando Baptista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/271/4648849c87b776ca97055982385db7b4/master.m3u8?1676380575"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/270/09b137252c0c5f108bb950a870d4f66d/master.m3u8?1676380572"
+                },
+                {
+                    "id": null,
+                    "title": "Historia de la infografía y tendencias actuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/272/868433cb2e43ea25cea5fb6337420016/master.m3u8?1676380569"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/53dhb1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bases de la infografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explicando un proceso con un gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/273/b3813eeb9e9fee2bc759c79d8c8aa080/master.m3u8?1676380580"
+                },
+                {
+                    "id": null,
+                    "title": "Plantillas de perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/274/f152ed7dd05d5f64b7961e1d9648d059/master.m3u8?1676380569"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yqt8tr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El elemento principal del gráfico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Enunciado del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/287/e75aa112be6f5d9babb00189e7d06abb/master.m3u8?1676380578"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptualización y esquema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/275/fddc873e14bc35e1eb513df8a818477c/master.m3u8?1676380579"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto en plastilina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/276/6b9e90995ccbc324342daf317c615ee7/master.m3u8?1676380580"
+                },
+                {
+                    "id": null,
+                    "title": "Los diferentes elementos en ordenador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/277/496540b8b86802abce5076ca77265226/master.m3u8?1676380577"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kmbon6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los elementos secundarios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Delineado del elemento secundario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/278/c2fd875ca29b7d3f98d80c184add2ead/master.m3u8?1676380576"
+                },
+                {
+                    "id": null,
+                    "title": "Sombreado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/279/1cf465535cc56f6b94a165360ebc6466/master.m3u8?1676380573"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos secundarios en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/280/a302fd649f2d019861b3869fefedfe4d/master.m3u8?1676380573"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yi59jk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Soluciones plásticas La Escultura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La escultura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/281/e99573689cb1e532073f739922599c05/master.m3u8?1676380579"
+                },
+                {
+                    "id": null,
+                    "title": "El fondo del gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/283/035d5be757ce52c442613652f33b9703/master.m3u8?1676380577"
+                },
+                {
+                    "id": null,
+                    "title": "Digitalización de la escultura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/284/b2f0561bd21e0fea43837c9787ed92ed/master.m3u8?1676380578"
+                },
+                {
+                    "id": null,
+                    "title": "Retoques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/286/75d28836e6b1760a3674eec4a251a600/master.m3u8?1676380578"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iqg7sh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Soluciones plásticas La Ilustración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ilustración Boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/288/7f988ddff2860236ee36e8e44131f9d0/master.m3u8?1676380579"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustración Ordenador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/289/5601ecf70373194c6eb7850c2eb0ed8e/master.m3u8?1676380583"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/of38zl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/os2b3i.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 18,
+        "product_name": "Create an Infograph that will Make History",
+        "teacher_name": "Fernando Gomez Baptista",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 7913,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

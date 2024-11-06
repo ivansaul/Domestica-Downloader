@@ -1,0 +1,190 @@
+{
+    "id": "4133",
+    "title": "Design thinking innova y lidera proyectos de éxito",
+    "url": "https://www.domestika.org/es/courses/4133-design-thinking-innova-y-lidera-proyectos-de-exito/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/984/8da3ce22a9120859a2284a8863cd0764/master.m3u8?1676407068"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/985/053b01590a9a0b03033156af8dae996a/master.m3u8?1676407069"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tsvmys.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos del design thinking",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Design Thinking el significado y el propósito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/988/b43d8897c439342f1f029d83bf8ba445/master.m3u8?1676407069"
+                },
+                {
+                    "id": null,
+                    "title": "La mentalidad pensar como un diseñador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/989/bbd46937fd6ef69d7433b3225c21d6bf/master.m3u8?1676407070"
+                },
+                {
+                    "id": null,
+                    "title": "El proceso las 5 fases del design thinking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/990/38343191abe328bf7628bb815b6271db/master.m3u8?1676407074"
+                },
+                {
+                    "id": null,
+                    "title": "El comienzo correcto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/991/f9f886cd5c12cba4ddb514a2c0cc1576/master.m3u8?1676407072"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zax40n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comprender las necesidades del cliente y brindar soluciones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Empatía del cliente para quién estás diseñando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/992/3f93875611122c71dd84257843be7558/master.m3u8?1676407076"
+                },
+                {
+                    "id": null,
+                    "title": "Empatía del cliente realización de entrevistas y creación de mapas de empatía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/993/c79e50dc4418f96911c81bf82ea5240a/master.m3u8?1676407076"
+                },
+                {
+                    "id": null,
+                    "title": "Definiendo el problema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/994/47588a3b1510d31a1dd1989f5d6b4480/master.m3u8?1676407075"
+                },
+                {
+                    "id": null,
+                    "title": "Enmarcando el problema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/996/776fde260cc7d1cc465ba691b48fe89f/master.m3u8?1676407076"
+                },
+                {
+                    "id": null,
+                    "title": "El proceso de ideación lluvia de ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/998/a50a06d2aee3292d642b4960e2a7fedf/master.m3u8?1676407074"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de una idea para construir el concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/999/529feb9b3e56ade4381b990ac9a79632/master.m3u8?1676407075"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x4mo8h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de prototipos pruebas y evaluación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Del concepto al prototipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/000/709bf0be9395b7105c1c9462850e45f9/master.m3u8?1676407082"
+                },
+                {
+                    "id": null,
+                    "title": "Pruebas de usuarios obtener comentarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/001/9db03f8550eb9a9adb61c2b29913add4/master.m3u8?1676407076"
+                },
+                {
+                    "id": null,
+                    "title": "Evaluación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/002/aa562e27c27a3567e81fa886dc3c1484/master.m3u8?1676407078"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mgl1un.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicando tus habilidades y ahora qué",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Talleres estratégicos subiendo un nivel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/004/0dac04d08cae0f8a88a7809afcb75baf/master.m3u8?1676407082"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo destacar como diseñador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/006/4603dcfa23234054fb5d603dbe19dfd0/master.m3u8?1676407081"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/65302n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hggomo.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4133,
+        "product_name": "Design Thinking: Lead and Innovate Successful Projects",
+        "teacher_name": "Lisa Weinsberger",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 9373,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

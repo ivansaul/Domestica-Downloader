@@ -1,0 +1,168 @@
+{
+    "id": "4300",
+    "title": "Dibujo arquitectónico urbano con tinta",
+    "url": "https://www.domestika.org/es/courses/4300-dibujo-arquitectonico-urbano-con-tinta/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/606/f597af2f14a9cdf7feb87e1f55646bd7/master.m3u8?1676412852"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/607/2480a6657be193ef5ab24ddeff9585c1/master.m3u8?1676412854"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vbmwah.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los conceptos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y utensilios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/615/67647704d41bc528c1b097e4ae4af1a5/master.m3u8?1676412862"
+                },
+                {
+                    "id": null,
+                    "title": "Perspectiva y puntos de fuga",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/616/d493f991605d79bf6a677f6e5f529101/master.m3u8?1676412861"
+                },
+                {
+                    "id": null,
+                    "title": "El concepto de escala",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/617/aa5ab6f5bc108a1258e6486eb026aeee/master.m3u8?1676412861"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y entorno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/619/96254768c3abbf1ab3e9bccb27cc083d/master.m3u8?1676412863"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oqnweq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparar el dibujo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección del tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/620/b238607af1d163e4505521852f7535ab/master.m3u8?1676412861"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de la foto de referencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/621/99727f15b291ce25115009590dc3f77f/master.m3u8?1676412861"
+                },
+                {
+                    "id": null,
+                    "title": "El primer borrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/622/8d57e2748c37b0eff45a4bc2184e05d5/master.m3u8?1676412869"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e6pvsq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El dibujo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El contorno a lápiz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/623/231eb91a506968d0f885b05d3cbe4ca1/master.m3u8?1676412867"
+                },
+                {
+                    "id": null,
+                    "title": "Las líneas principales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/624/8dd5bf07678ed3638c50116e127c9c6f/master.m3u8?1676412863"
+                },
+                {
+                    "id": null,
+                    "title": "Detallar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/625/5e34acf3e2a93936766d06e363b07fb4/master.m3u8?1676412867"
+                },
+                {
+                    "id": null,
+                    "title": "Sombreado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/626/f16739f242b11307f81ead6eada103a5/master.m3u8?1676412869"
+                },
+                {
+                    "id": null,
+                    "title": "El entorno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/627/31b92b4ea15a9c2ee81e4a62795ae795/master.m3u8?1676412870"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión del trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/628/d1955b0140f650040108e068f218edd5/master.m3u8?1676412868"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n9u1np.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mng1wp.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4300,
+        "product_name": "Urban Architectural Sketching with Ink",
+        "teacher_name": "Dan Hogman",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9701,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "id": "4326",
+    "title": "Crear un álbum de fotos",
+    "url": "https://www.domestika.org/es/courses/4326-crear-un-album-de-fotos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introduzione",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentazione",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/773/fefdddf5c08dc7146475d651255d0a3e/master.m3u8?1726149022"
+                },
+                {
+                    "id": null,
+                    "title": "Modelli di riferimento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/774/5be5d2eca753295ea8ecb242ae40bccc/master.m3u8?1720446334"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ttcwnn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Photobook come linguaggio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cosa cè nella mia cassetta degli attrezzi",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/775/3a6a7aa8caaa134682ec9a3bb9438bc6/master.m3u8?1694434176"
+                },
+                {
+                    "id": null,
+                    "title": "Che cosè un photobook e perché si differenzia da una semplice raccolta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/776/1ee141b92e291f945b9d684b83ac02f4/master.m3u8?1694434225"
+                },
+                {
+                    "id": null,
+                    "title": "Lediting la scelta delle immagini",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/777/eb78affa7d04cdd41fd9cbefe7c46195/master.m3u8?1694434260"
+                },
+                {
+                    "id": null,
+                    "title": "La sequenza come mettere in relazione le immagini tra di loro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/778/8ce2dccb1a2ef72d4560ce5c0ab48f52/master.m3u8?1694434553"
+                },
+                {
+                    "id": null,
+                    "title": "Il design per rafforzare il messaggio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/779/70d7a932fb7e61a107307da9fad07779/master.m3u8?1694434638"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fv1xlm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creazione Fotolibro Selezione e Layout",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Editing  pensiero autoriale e prima selezione",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/780/31dbe7c204454bd5c21786319313490a/master.m3u8?1694441636"
+                },
+                {
+                    "id": null,
+                    "title": "Editing livelli narrativi e seconda selezione",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/781/3d44e116a7f147c3d228335a543869b8/master.m3u8?1694441823"
+                },
+                {
+                    "id": null,
+                    "title": "Sequenza di livelli narrativi e immagini",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/782/4729e1f22e4ef7bab40687f7a9480ae6/master.m3u8?1694442038"
+                },
+                {
+                    "id": null,
+                    "title": "Ultimare la sequenza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/783/11fa21209c184740195045ed5b49bdda/master.m3u8?1694442119"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipo cartaceo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/784/e661aec529b776f392d8a6fd713e9ab6/master.m3u8?1694442174"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipo digitale 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/785/9eb675d697569b21039da9c44daaf9d4/master.m3u8?1694442223"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipo digitale 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/786/3fa0dd7f3de62015ac2b1c30f6e4444f/master.m3u8?1694442306"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s5vwgb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Il Dummy e la diffusione",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Il dummy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/787/0320f989516ca3988f93758c1835bba6/master.m3u8?1694442443"
+                },
+                {
+                    "id": null,
+                    "title": "Cosa succede dopo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/788/b43115b0d2e589aecd83c1a1c08e3dc0/master.m3u8?1694442540"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/noqs6p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/eokm7k.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4326,
+        "product_name": "Create a Photobook",
+        "teacher_name": "Tommaso Parrillo",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 10829,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it",
+            "en"
+        ],
+        "original_language": "it"
+    }
+}

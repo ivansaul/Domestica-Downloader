@@ -1,0 +1,163 @@
+{
+    "id": "4563",
+    "title": "Liderazgo desde cero obtén lo mejor de tus equipos creativos",
+    "url": "https://www.domestika.org/es/courses/4563-liderazgo-desde-cero-obten-lo-mejor-de-tus-equipos-creativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/195/d03997d4f10982e749233dfb31286e57/master.m3u8?1683626397"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/210/c41b1aa6127770f7c80184787db28ab4/master.m3u8?1683631863"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rlvmeq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los componentes básicos del liderazgo y la comunicación amables",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la inteligencia emocional en los negocios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/197/134953bed74953435788e5a8dc7d1f81/master.m3u8?1683626669"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo comunicarse bien por escrito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/198/3dbf508a08b8bb60f9d4e15078264b37/master.m3u8?1683628137"
+                },
+                {
+                    "id": null,
+                    "title": "El valor creativo de las ideas y el cambio 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/199/14db29aa2e220f49a1bac155726c3f3d/master.m3u8?1683628240"
+                },
+                {
+                    "id": null,
+                    "title": "El valor creativo de las ideas y el cambio 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/200/7233c2029472aa6daabad71602aa903c/master.m3u8?1683628327"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo navegar por Power Dynamics",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/201/3ebfabbdba9cf1fdf93f83a168009b86/master.m3u8?1683628552"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8c67ge.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición de su propósito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/202/89626cd872cef537f0391402eae14009/master.m3u8?1683628714"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo elegir un equipo creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/203/9bf15d4ffa80be313129c7c3a3f32b2d/master.m3u8?1683628875"
+                },
+                {
+                    "id": null,
+                    "title": "Comunicación interpersonal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/204/b3c72a086400bf6353086b17da660c29/master.m3u8?1683629094"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo mantener a la gente creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/205/94f907f6892aa3913649ade6bf5e9587/master.m3u8?1683629190"
+                },
+                {
+                    "id": null,
+                    "title": "Mis 5 objetivos como líder y cómo mantener el rumbo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/206/f62cd8a2cbaf61ab3504de734aa82eb2/master.m3u8?1683630422"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/inp6eh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inteligencia Emocional en curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/207/da7b42d3377e69a91e4abf6da0c5dc04/master.m3u8?1683630636"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo registrarse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/208/ad0db638c4cfd7f4db4bbc75d713854a/master.m3u8?1683630843"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qn0an0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/h8nsa1.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4563,
+        "product_name": "Leadership 101: Get the Best Out of Creative Teams",
+        "teacher_name": "Charlie Gladstone",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8327,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

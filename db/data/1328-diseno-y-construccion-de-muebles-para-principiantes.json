@@ -1,0 +1,242 @@
+{
+    "id": "1328",
+    "title": "Diseño y construcción de muebles para principiantes",
+    "url": "https://www.domestika.org/es/courses/1328-diseno-y-construccion-de-muebles-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/992/2c493b7bacfb26cf59aada0c5d1497e9/master.m3u8?1676393225"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/993/fe22ee91582c0a166d9b62b51ce27515/master.m3u8?1676393228"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/994/bc2c97900e941523c98aeead0f744e26/master.m3u8?1676393226"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1olf2q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Nociones estructurales funcionales y estéticas básicas para el diseño de mobiliario",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Nociones estructurales básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/995/a546f54915232a17aa9b3026a6787805/master.m3u8?1676393229"
+                },
+                {
+                    "id": null,
+                    "title": "Consideraciones funcionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/996/165f539ee51574e9549ea3c1323b2591/master.m3u8?1676393231"
+                },
+                {
+                    "id": null,
+                    "title": "La dimensión estética",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/997/f0f026c538f964ca3c5c31695a71534b/master.m3u8?1676393234"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión del diálogo estructural funcional y estético en los muebles de Maderística 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/998/e662952c98b6828f8cc86fc8cb7639ff/master.m3u8?1676393230"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión del diálogo estructural funcional y estético en los muebles de Maderística 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/999/353f4ce3dc8b9ab506a8547fb2ae15de/master.m3u8?1676393230"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9fr5d2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El maravilloso mundo de la carpintería",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pensar como carpintero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/000/832a6acad78b2d12a1ba2f2d786e5719/master.m3u8?1676393231"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/001/9efd955786d9efeed8448ed5000d0a19/master.m3u8?1676393237"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/002/6457b61585dfd4e3a5c0dc9b2c4c5df5/master.m3u8?1676393237"
+                },
+                {
+                    "id": null,
+                    "title": "Mesón de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/003/364699057897aed27156ad50ccc92389/master.m3u8?1676393231"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño y dimensionado 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/004/b431ea29f3a0359daa0427b3b735e62f/master.m3u8?1676393236"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño y dimensionado 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/005/05c3a51ba24660701c3a4b55af11d3f6/master.m3u8?1676393236"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aqzdg9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección del material corte identificación de las piezas y lijado 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/006/9b7408007a85583faa074a7ffbf49a76/master.m3u8?1676393237"
+                },
+                {
+                    "id": null,
+                    "title": "Selección del material corte identificación de las piezas y lijado 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/007/3818a4a2968b2c6469e8c732a43d07ba/master.m3u8?1676393241"
+                },
+                {
+                    "id": null,
+                    "title": "Selección del material corte identificación de las piezas y lijado 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/086/50c6fcbb74a68fb74c5f6c5f2892552f/master.m3u8?1676393287"
+                },
+                {
+                    "id": null,
+                    "title": "Marcado y perforación de tornillos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/008/08ebfaa14473a91bdc5e47c25c3b6ff5/master.m3u8?1676393242"
+                },
+                {
+                    "id": null,
+                    "title": "Entarugado 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/009/56257ba0e37aa7099f61bed7eab5744c/master.m3u8?1676393245"
+                },
+                {
+                    "id": null,
+                    "title": "Entarugado 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/010/c42623f43b1a31cfd6ce6b4312b205ba/master.m3u8?1676393244"
+                },
+                {
+                    "id": null,
+                    "title": "Rebajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/011/007748221f62c23098633cb951a681a9/master.m3u8?1676393246"
+                },
+                {
+                    "id": null,
+                    "title": "Montaje del cuerpo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/012/4f83bc582611079087dd5db0183a2ad1/master.m3u8?1676393246"
+                },
+                {
+                    "id": null,
+                    "title": "Las patas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/013/437be2a1b9a9c33faaf8165b12894478/master.m3u8?1676393246"
+                },
+                {
+                    "id": null,
+                    "title": "Las patas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/014/dd6b85c77b457de66f6e8c9e713c8871/master.m3u8?1676393246"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/twsp1h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Terminaciones y detalles de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Terminaciones y detalles en el cuerpo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/015/e3416564b3032667535970a40a46b5c7/master.m3u8?1676393245"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajo de textura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/016/129022e3426b277be946bb09274b587f/master.m3u8?1676393245"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles finales y el acabado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/017/11f2c37b7337afdfe7d0b5ae689407ac/master.m3u8?1676393249"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2f29ls.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/m5w5op.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1328,
+        "product_name": "Furniture Design and Construction for Beginners",
+        "teacher_name": "Patricio Ortega (Maderística)",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 27,
+        "course_total_duration_sec": 19096,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

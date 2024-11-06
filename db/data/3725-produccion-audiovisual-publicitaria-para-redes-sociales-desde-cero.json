@@ -1,0 +1,168 @@
+{
+    "id": "3725",
+    "title": "Producción audiovisual publicitaria para redes sociales desde cero",
+    "url": "https://www.domestika.org/es/courses/3725-produccion-audiovisual-publicitaria-para-redes-sociales-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/422/c9e193526f2a94c614c31fc430b99a07/master.m3u8?1676406825"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/423/e70aa56d0da5e3edcb98a1e76ebae4e6/master.m3u8?1676406824"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dylz68.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hablar de marcas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a los videos en redes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/424/7bdf16dd32fc3debb432565e331617bb/master.m3u8?1676406825"
+                },
+                {
+                    "id": null,
+                    "title": "La personalidad de tu marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/425/370b5cb043a6b1db37c85d77268f3243/master.m3u8?1676406827"
+                },
+                {
+                    "id": null,
+                    "title": "Tu producto habla solo debes escucharlo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/426/a07f905ad1dd0ed98150dc3549bb23b7/master.m3u8?1676406824"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9kj8ym.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas para crear",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografiar es escribir con luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/427/ecf87ffac11a3587b23c04b6a6322d26/master.m3u8?1676406829"
+                },
+                {
+                    "id": null,
+                    "title": "Es mejor el celular que la cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/428/14f7a12632ba6f4c365939efa2119b24/master.m3u8?1676406830"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/429/064613849328c41c7e29b7b2952fdbda/master.m3u8?1676406829"
+                },
+                {
+                    "id": null,
+                    "title": "La cámara composición y movimientos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/430/dfd58ffc6898417579fceb54fc4c390c/master.m3u8?1676406828"
+                },
+                {
+                    "id": null,
+                    "title": "El storyboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/431/1bd519daec1dea824fb0ed8c6a9460a6/master.m3u8?1676406831"
+                },
+                {
+                    "id": null,
+                    "title": "Producir el video",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/432/05bd1e64bc9aa9393c10771c1610e96b/master.m3u8?1676406828"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a69w12.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La edición de video",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Seleccionar el material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/433/569538c1472a3f70ed64dd845e05db96/master.m3u8?1676406834"
+                },
+                {
+                    "id": null,
+                    "title": "El audio es la mitad de la experiencia audiovisual 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/434/2fc6f391839319c933d074fb7ab80b9f/master.m3u8?1676406832"
+                },
+                {
+                    "id": null,
+                    "title": "El audio es la mitad de la experiencia audiovisual 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/435/15b350e37661c3f4553679add7a8ec41/master.m3u8?1676406831"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo exportar y agregar los detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/436/b8c0419f1cc3debdedb11648069d6765/master.m3u8?1676406836"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dgjx06.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ixh17p.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3725,
+        "product_name": "Introduction to Audiovisual Ad Production for Social Media",
+        "teacher_name": "Ojo Con Oscar",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 11465,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "4621",
+    "title": "Diseño gráfico técnicas para desatar tu creatividad",
+    "url": "https://www.domestika.org/es/courses/4621-diseno-grafico-tecnicas-para-desatar-tu-creatividad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/686/3b2b1fe438464024f780863eaa8011f3/master.m3u8?1701907889"
+                },
+                {
+                    "id": null,
+                    "title": "Personas que amo lugares que veo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/687/db9e2da70367bece614b5f805a6ea69d/master.m3u8?1701907907"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0au3et.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparándose",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creativos y bloques creativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/688/1c60935180e71e8b9b71ffeeeba59e41/master.m3u8?1701907926"
+                },
+                {
+                    "id": null,
+                    "title": "Finalmente nos estamos preparando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/689/d9fb99592d1ee8763c53711a7ce51a7e/master.m3u8?1701907944"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración e investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/690/fa284ed9e136190f281e555f2ba076ac/master.m3u8?1701907963"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uqegby.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Todo se puede hacer de manera diferente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lo desconocido y lo alternativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/691/37132529d68ce76d86f2e8a7ae5724e8/master.m3u8?1701907984"
+                },
+                {
+                    "id": null,
+                    "title": "Alternativas en letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/692/5b8473f23dbf0fbb8bf26ad067c3fdf6/master.m3u8?1701908004"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando el color extraño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/693/4bf2b22905d57041592f988f9f494836/master.m3u8?1701908022"
+                },
+                {
+                    "id": null,
+                    "title": "Reflexionando sobre las formas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/694/b1546b403705e0652207c58d3b52e57f/master.m3u8?1701908040"
+                },
+                {
+                    "id": null,
+                    "title": "Dijiste composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/695/b20723f4366153c6adaf49811af8330c/master.m3u8?1701908071"
+                },
+                {
+                    "id": null,
+                    "title": "Juntos como uno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/696/9e3cd21c74e7301143e6fa40e50e8701/master.m3u8?1701908096"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dyfa25.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Menos es más o más es mejor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/697/3e34a81234b9ef07f651d03ac8dd27a1/master.m3u8?1701908273"
+                },
+                {
+                    "id": null,
+                    "title": "Preparados listos ya",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/699/142d7ac781ca9cfcbba7e592d8ae8802/master.m3u8?1701908580"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uajqo2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ncxcu3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4621,
+        "product_name": "Graphic Design: Techniques to Unlock your Creativity",
+        "teacher_name": "Raissa Pardini",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7682,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

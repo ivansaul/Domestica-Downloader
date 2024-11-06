@@ -1,0 +1,218 @@
+{
+    "id": "2863",
+    "title": "Idea y visualización arquitectónica con Blender",
+    "url": "https://www.domestika.org/es/courses/2863-idea-y-visualizacion-arquitectonica-con-blender/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/345/713da3e5e8ba9fbbbd474745c6510e82/master.m3u8?1676408246"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/346/2180fa3e1ae0b966e15be31b164210ea/master.m3u8?1676408250"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r3bb60.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Teorías",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/347/57b82ad217f0d507b5600341fd9fc805/master.m3u8?1676408250"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría de la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/372/7e04856cf896d6a1a7556e2b29a6ef45/master.m3u8?1676408264"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/373/79fff0abe823db6d9cd10c817d6f8b19/master.m3u8?1676408265"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/btxaxh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración de Blender",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/351/fe46b7423a46473ac238a2ad468cf9ec/master.m3u8?1676408247"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado básico modificadores y edición del entorno de trabajo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/352/ed6d0a53ab4c4555925f4cd4ae2188b2/master.m3u8?1676408254"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado básico modificadores y edición del entorno de trabajo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/353/c7021657498a63a3d513bc9a9ea362ad/master.m3u8?1676408253"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado la vegetación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/355/97e59a33775029ff8ccd2e90ff50cb53/master.m3u8?1676408253"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/357/963d0fa40fd5e50d764f377dd839853f/master.m3u8?1676408270"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g5e8wk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado la plataforma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/358/08412919fd5618157bd8b3585cbb4780/master.m3u8?1676408255"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado el piso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/360/926bbe5225afd4f634739a2e796f52c1/master.m3u8?1676408254"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado el atrio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/361/0565ff231f6c8492c551c7fbe093680a/master.m3u8?1676408260"
+                },
+                {
+                    "id": null,
+                    "title": "La estereotomía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/362/f798688a268121eb5e4d9622fd3f98bf/master.m3u8?1676408261"
+                },
+                {
+                    "id": null,
+                    "title": "El contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/363/23dbe9792d440b60b82ad6f758c0c7d3/master.m3u8?1676408260"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e3a484.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Composición e iluminación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/365/15e7475997e540c4805361335e3941e1/master.m3u8?1676408259"
+                },
+                {
+                    "id": null,
+                    "title": "Selección y composición de las vistas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/366/0c8357cfa3c34fb575b76da39af598ba/master.m3u8?1676408259"
+                },
+                {
+                    "id": null,
+                    "title": "Estudios de luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/367/bc415952eae1c15effd44fc5bea73a68/master.m3u8?1676408262"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vhc6qv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Render y edición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Renderizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/368/68e36883ef4a95423154d045bf9a0906/master.m3u8?1676408262"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/370/5b1ac0df39784d50700f53574bbc341e/master.m3u8?1676408267"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7krjkq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/veyql8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2863,
+        "product_name": "Architectural Design with Blender",
+        "teacher_name": "Aureus Studio",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 12515,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

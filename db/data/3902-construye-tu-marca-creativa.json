@@ -1,0 +1,168 @@
+{
+    "id": "3902",
+    "title": "Construye tu marca creativa",
+    "url": "https://www.domestika.org/es/courses/3902-construye-tu-marca-creativa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/039/07a82ba4f5eaa691f5a7bbaa995318db/master.m3u8?1685461755"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/040/d12b7c8c6a8f69495f3d075406ef362a/master.m3u8?1685461775"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eh51mm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Encontrar tu voz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conociendo al artista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/041/8e2ddf8d993271fd87cd724210f4e48e/master.m3u8?1685461795"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando tu carrera Creando la hoja de ruta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/043/dac96563d1b72bae376b02df6fdb51aa/master.m3u8?1685462062"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de los proyectos de pasión para construir su cartera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/045/d30dc53c3eb3dc6f78bd13046d3bdfdf/master.m3u8?1685462102"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando y Creando tus Propias Oportunidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/350/a42e105a2ca6a95d891dc82adab8a72e/master.m3u8?1691399636"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar tu nicho",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/353/ffe8565ba5879864068c4b6b1bfcaaa2/master.m3u8?1691399553"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xcfeqr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo tu marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear tu biografía y contar tu historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/046/6cd6dda2dfb89091fb87cf6a282fb69d/master.m3u8?1685462467"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando tu marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/047/eec3652b3eea1b31df3663556331d31e/master.m3u8?1685462568"
+                },
+                {
+                    "id": null,
+                    "title": "Presentar su trabajo con confianza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/049/3688a8f51a65097373aa535ebea14e94/master.m3u8?1685462590"
+                },
+                {
+                    "id": null,
+                    "title": "Repensar y curar su cartera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/351/bc563e913b0e65edaa801a37f9f3b327/master.m3u8?1691399607"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s80t1d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Kit de herramientas para autónomos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Precios de su trabajo y negociaciones de contratos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/051/dd6c2d1219c0063bc939cb9fa70b91c6/master.m3u8?1685462800"
+                },
+                {
+                    "id": null,
+                    "title": "Cultivando su red sus compañeros y relaciones con los clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/052/f06119e44431ef55881fafff6f8da68f/master.m3u8?1685462823"
+                },
+                {
+                    "id": null,
+                    "title": "Adoptar una mentalidad saludable organizarse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/053/321d14a192691e89cbc7da3216701fd8/master.m3u8?1685462832"
+                },
+                {
+                    "id": null,
+                    "title": "Comparación de lucha y síndrome del impostor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/352/b3dcbca6f44214f2bda79c65a2f8491d/master.m3u8?1691400065"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iixxef.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/m4rb4l.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3902,
+        "product_name": "Build Your Creative Brand",
+        "teacher_name": "Lisa Hassell - Inkygoodness",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 6254,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

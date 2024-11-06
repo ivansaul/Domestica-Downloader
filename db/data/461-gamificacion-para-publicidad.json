@@ -1,0 +1,185 @@
+{
+    "id": "461",
+    "title": "Gamificación para publicidad",
+    "url": "https://www.domestika.org/es/courses/461-gamificacion-para-publicidad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/185/0fbedce62de586822af0a1012a52982b/master.m3u8?1676384844"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/186/2b82be825bc9e6ba8585e892803f9fff/master.m3u8?1676384851"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zhggnd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a gamification",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Gamification definición e historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/187/261ab62ba5a0b3f23a195aad4a5e2ae0/master.m3u8?1676384848"
+                },
+                {
+                    "id": null,
+                    "title": "Experiencia de usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/188/f63978954ce9c14b656451afbf888454/master.m3u8?1676384850"
+                },
+                {
+                    "id": null,
+                    "title": "La revolución de los videojuegos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/189/1a076291019599dfa47fdb32ed92c3b0/master.m3u8?1676384848"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t2d35n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Espectro game thinking",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Playful design",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/190/180cc5e4a827f29b314908713ac7257b/master.m3u8?1676384848"
+                },
+                {
+                    "id": null,
+                    "title": "Games",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/191/9a350f216d8d18d8aee93877602a7782/master.m3u8?1676384849"
+                },
+                {
+                    "id": null,
+                    "title": "Game designer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/192/d31dbd7bd7bdcef8498b8a12b7ff650e/master.m3u8?1676384847"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0ukqbm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Gamification",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo hacer gamification",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/193/9f5dce9ed802b3d201ab7e56f11bd4d5/master.m3u8?1676384848"
+                },
+                {
+                    "id": null,
+                    "title": "Ejemplos de uso de mecánicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/194/468a11cab32a57a2667c612c56c2f5e3/master.m3u8?1676384848"
+                },
+                {
+                    "id": null,
+                    "title": "Clasificación de recompensas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/195/3d566b6a7666ff1d18ba75727f9571ba/master.m3u8?1676384847"
+                },
+                {
+                    "id": null,
+                    "title": "Hexaedro de jugadores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/196/a83bf1b32b497904458f5023222c8207/master.m3u8?1676384849"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0xzboh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Storytelling de la campaña",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Brief de la campaña",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/197/41d2a878a97038db5840573754c04b4e/master.m3u8?1676384851"
+                },
+                {
+                    "id": null,
+                    "title": "Historia y narrativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/198/01b32ffba41924d895c0bc9cc99e98a7/master.m3u8?1676384849"
+                },
+                {
+                    "id": null,
+                    "title": "Transmedia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/199/0c70043842815df31b32d4e9bde0735e/master.m3u8?1676384853"
+                },
+                {
+                    "id": null,
+                    "title": "Ejecución de la campaña",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/200/57eabb92cfead70fa3579174c36f8701/master.m3u8?1676384853"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ycuruj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/49itvo.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 461,
+        "product_name": "Gamification for Advertising",
+        "teacher_name": "Rémy Bastien",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 10600,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,237 @@
+{
+    "id": "388",
+    "title": "Guion para series de animación",
+    "url": "https://www.domestika.org/es/courses/388-guion-para-series-de-animacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/174/f685051f7b65d6b4e4bd26cbbe42668f/master.m3u8?1676386019"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/175/6721697875f34dbbb64b91e77b3819aa/master.m3u8?1676386024"
+                },
+                {
+                    "id": null,
+                    "title": "Qué vamos a hacer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/176/f642276792162eedaaaab11848db40c4/master.m3u8?1676386021"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u3klup.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Storytelling",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué contamos historias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/177/dcf8512ccdaa09d46d3b555acfe02b36/master.m3u8?1676386021"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo podemos contribuir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/178/0a62b4016162c66d9693004320afc6ad/master.m3u8?1676386022"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uz2pg6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo encontrar nuestro propio proceso creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/179/3beca775507ead47d711eb682371479e/master.m3u8?1676386024"
+                },
+                {
+                    "id": null,
+                    "title": "Contenido e investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/183/aa04eda2ecc0d1fa5f4daa3be521cab2/master.m3u8?1676386044"
+                },
+                {
+                    "id": null,
+                    "title": "La idea el conflicto y la premisa I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/185/2a97c53a587f48734aec4ddc0f3cdc18/master.m3u8?1676386029"
+                },
+                {
+                    "id": null,
+                    "title": "La idea el conflicto y la premisa II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/186/af0ccd19993d1c932164169bae64d5d5/master.m3u8?1676386030"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7pk90q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Formateo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo meter en caja nuestras ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/187/9ce60017a618cbd24573b9cd5a7ce0fb/master.m3u8?1676386028"
+                },
+                {
+                    "id": null,
+                    "title": "Información técnica género pantalla y target",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/188/287f1904f6d615ef852f731201160cae/master.m3u8?1676386031"
+                },
+                {
+                    "id": null,
+                    "title": "Personaje e identificación I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/195/6f2815aa41035594a71a170f052488e1/master.m3u8?1676386032"
+                },
+                {
+                    "id": null,
+                    "title": "Personaje e identificación II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/197/87e879034bcabf4a673c8065e39f5776/master.m3u8?1676386034"
+                },
+                {
+                    "id": null,
+                    "title": "Personaje e identificación III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/198/91200475360f1ba10a950e3334874b22/master.m3u8?1676386033"
+                },
+                {
+                    "id": null,
+                    "title": "Universo y propuesta estética",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/199/9aae374e6df69e577a511841248553e8/master.m3u8?1676386034"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uaqltz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Guion",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estructura dramática de tres actos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/200/d7d7bad4a52e8306293b96e51c446b33/master.m3u8?1676386036"
+                },
+                {
+                    "id": null,
+                    "title": "Sinopsis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/201/940ed090af62683704443655832d29d7/master.m3u8?1676386037"
+                },
+                {
+                    "id": null,
+                    "title": "Escaleta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/202/fd16de2357ee0ddde9ab5bda4e514e38/master.m3u8?1676386036"
+                },
+                {
+                    "id": null,
+                    "title": "Escritura del guion I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/203/d459601af21277a557ce652719197ca4/master.m3u8?1676386039"
+                },
+                {
+                    "id": null,
+                    "title": "Escritura del guion II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/204/5a897dd8f74e53209577860a6dc264b2/master.m3u8?1676386036"
+                },
+                {
+                    "id": null,
+                    "title": "Escritura del guion III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/205/620e60d2529bbd967d5b988f296b6ceb/master.m3u8?1676386039"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k4w7bc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo estructurar nuestra carpeta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/206/d5e5a408bc8956174f48a9141a959476/master.m3u8?1676386035"
+                },
+                {
+                    "id": null,
+                    "title": "Ya tengo la carpeta y ahora qué",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/207/0a23f9dbde120cf85520978c5fb97820/master.m3u8?1676386035"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas y consejos para el pitch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/208/8c34974d046dff324fec68d2f27eec39/master.m3u8?1676386038"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3yx733.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qev2ev.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 388,
+        "product_name": "Script for Animation Series",
+        "teacher_name": "Fer Salem",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 13325,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

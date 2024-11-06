@@ -1,0 +1,158 @@
+{
+    "id": "1711",
+    "title": "Food Styling el arte del emplatado",
+    "url": "https://www.domestika.org/es/courses/1711-food-styling-el-arte-del-emplatado/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/295/a1e08a03f1dc177293879f5e679fe5b2/master.m3u8?1676398147"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/296/f3753013ef821e01f71917aade164c9b/master.m3u8?1676398148"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/297/6e7485aa7545e80880771e6f46971249/master.m3u8?1676398145"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a7er9z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo e implementación de estilo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollar un estilo personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/298/46a01cb01e7bc8aae20fc57134266980/master.m3u8?1676398158"
+                },
+                {
+                    "id": null,
+                    "title": "Lluvia de ideas e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/299/7332e61d530a6169fb4051fd9c2e2e10/master.m3u8?1676398153"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo del concepto y los materiales originales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/300/3908ea44b82f9a6f808365666bf67d76/master.m3u8?1676398148"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4krrdz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comida de cuatro platos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sopa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/301/c88b598d4cee8b78ac254ad9544240af/master.m3u8?1676398149"
+                },
+                {
+                    "id": null,
+                    "title": "Ensalada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/302/ebf9124f74ff1454813cd62bcbf0e1e6/master.m3u8?1676398154"
+                },
+                {
+                    "id": null,
+                    "title": "Plato principal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/303/1d49668f4448406d1c55dd8ab01c3031/master.m3u8?1676398150"
+                },
+                {
+                    "id": null,
+                    "title": "Postre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/304/83cc8a85439ab241dbd1c146992008c4/master.m3u8?1676398150"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2qwu0n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando la imagen final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cosas a considerar antes de tomar la foto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/305/4541a6c9c4283e5a5ef6219773d26a2c/master.m3u8?1676398149"
+                },
+                {
+                    "id": null,
+                    "title": "Conseguir el tiro perfecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/306/db6a9239fc1318e805bd448c8d44e494/master.m3u8?1676398150"
+                },
+                {
+                    "id": null,
+                    "title": "Edición básica y creación de carteras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/307/229b1ae4e7a830ac9b81a283b4e53d0f/master.m3u8?1676398152"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ioiuw0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ecnhza.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1711,
+        "product_name": "Food Styling: The Art of Plating",
+        "teacher_name": "Jodi Moreno",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6467,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

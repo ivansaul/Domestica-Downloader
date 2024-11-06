@@ -1,0 +1,168 @@
+{
+    "id": "725",
+    "title": "Fotografía de retrato con modelos inexpertos",
+    "url": "https://www.domestika.org/es/courses/725-fotografia-de-retrato-con-modelos-inexpertos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/291/7aa3a903ca10dff335654b3d29a2efbf/master.m3u8?1676388599"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/292/379e7b9510651d9edebea877d0bf14c0/master.m3u8?1676388600"
+                },
+                {
+                    "id": null,
+                    "title": "Qué vamos a hacer en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/293/b316153082b05ed6fbcdda98561e2f51/master.m3u8?1676388598"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5wa5zv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué ofrezco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/355/3282a416bc5bf12f9f7dea2a9399d7e9/master.m3u8?1676388626"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo lo ofrezco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/356/c23c2f913e0d31e7be1108f3bc39c776/master.m3u8?1676388631"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales que necesito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/357/269ff6f161f201b567974f657cb265d8/master.m3u8?1676388629"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4c9kjd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Día de tomas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Armando el set",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/358/656bc0344e1f3c1c6d12d7b2c12d4669/master.m3u8?1676388633"
+                },
+                {
+                    "id": null,
+                    "title": "Headshot fondo blanco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/359/0947131d3e6610a483c2aa29be269b79/master.m3u8?1676388652"
+                },
+                {
+                    "id": null,
+                    "title": "Headshot fondo gris",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/360/c0eefe8d5fc83c0755d65e9327c7958e/master.m3u8?1676388639"
+                },
+                {
+                    "id": null,
+                    "title": "Retrato clásico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/361/0ade791fb1c331716da99471c99cb310/master.m3u8?1676388636"
+                },
+                {
+                    "id": null,
+                    "title": "Extra extra retrato creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/362/f6d83ccf1cb2243de8ea661d4959352f/master.m3u8?1676388632"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dl2u5y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Miro  analizo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/363/c475caa4d38e2234b4f1ee91001e4e07/master.m3u8?1676388636"
+                },
+                {
+                    "id": null,
+                    "title": "E de edición I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/364/bb034c5cd61326efc3c8937589e683f2/master.m3u8?1676388637"
+                },
+                {
+                    "id": null,
+                    "title": "E de edición II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/365/12ed100536b64cd70a6ed047e3a6733c/master.m3u8?1676388639"
+                },
+                {
+                    "id": null,
+                    "title": "R de retratos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/366/eaa5ec8947a81ef6a1769f568024dcc9/master.m3u8?1676388639"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/khs70j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zolqxx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 725,
+        "product_name": "Portrait Photography with Nonprofessional Models",
+        "teacher_name": "Catalina Bartolomé",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8464,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "id": "243",
+    "title": "Etalonaje digital con DaVinci Resolve",
+    "url": "https://www.domestika.org/es/courses/243-etalonaje-digital-con-davinci-resolve/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/536/8170469337b76ef8e9a614c1fb5d23e5/master.m3u8?1676383277"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/537/bb583c7bf8ca49e95039c6544ac78b2a/master.m3u8?1676383278"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6ccjfj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prevenidos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/538/1de52a9e846cfabe51bde1c718d094cf/master.m3u8?1676383283"
+                },
+                {
+                    "id": null,
+                    "title": "DaVinci Resolve Media",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/539/cfd9129aa43dbff0da4bf1f7847343f9/master.m3u8?1676383286"
+                },
+                {
+                    "id": null,
+                    "title": "DaVinci Resolve Edit 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/540/a6f663efd4102edc2bd6b328e90c3501/master.m3u8?1676383284"
+                },
+                {
+                    "id": null,
+                    "title": "DaVinci Resolve Edit 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/541/bdfc827c12c9f9eb919a3670c9142564/master.m3u8?1676383284"
+                },
+                {
+                    "id": null,
+                    "title": "DaVinci Resolve Color 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/542/0efebdb00994c72837b14f88911fe56c/master.m3u8?1676383284"
+                },
+                {
+                    "id": null,
+                    "title": "DaVinci Resolve Color 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/543/b676a20192e4d477fd8934719deb0dd1/master.m3u8?1676383284"
+                },
+                {
+                    "id": null,
+                    "title": "DaVinci Resolve Color 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/544/96b9121a71e8a08996cdd4dce142d1f3/master.m3u8?1676383285"
+                },
+                {
+                    "id": null,
+                    "title": "DaVinci Resolve Deliver",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/545/649614c5bc0a7e387dec7c4ec86ea055/master.m3u8?1676383284"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p6rj0g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acción Color cinematográfico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conformado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/546/f22c7247a70282b0f54740e820930ad3/master.m3u8?1676383284"
+                },
+                {
+                    "id": null,
+                    "title": "Colorear 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/547/f1420b54cd18ca200da6b86efb7ad8c2/master.m3u8?1676383289"
+                },
+                {
+                    "id": null,
+                    "title": "Colorear 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/548/b1ccb724b6f5e58a917d4355dad5dd22/master.m3u8?1676383289"
+                },
+                {
+                    "id": null,
+                    "title": "Colorear 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/549/79b826f664debf4cd5c1b169ebce8727/master.m3u8?1676383290"
+                },
+                {
+                    "id": null,
+                    "title": "Colorear 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/550/389e0ca87830e1be3d2be9b808d9d5ec/master.m3u8?1676383288"
+                },
+                {
+                    "id": null,
+                    "title": "Colorear 5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/551/d3dbc0a30fda7f4bafc6bb1a85a74cd8/master.m3u8?1676383289"
+                },
+                {
+                    "id": null,
+                    "title": "Colorear 6",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/552/85b9f303d2770e2fcf67ae144294e100/master.m3u8?1676383290"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o2kbyi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Toma 2 Color publicitario",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conformado 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/553/8a9fb3663795c25cc08509f36b2828c0/master.m3u8?1676383288"
+                },
+                {
+                    "id": null,
+                    "title": "Conformado 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/554/9f0b724589ca908345f47e7d9f121f15/master.m3u8?1676383296"
+                },
+                {
+                    "id": null,
+                    "title": "Colorear 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/555/01fbd0b3e4ba5a99c5f7a82180d7c969/master.m3u8?1676383297"
+                },
+                {
+                    "id": null,
+                    "title": "Colorear 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/556/c2fdd350498807dcd74d454c3688aa49/master.m3u8?1676383291"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5w5k31.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dale al play",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Afinar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/558/7e0a9c92e29422e71f9bae0eca6681c6/master.m3u8?1676383296"
+                },
+                {
+                    "id": null,
+                    "title": "Afinar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/557/69d82047c7858178d568cb519d2c58c1/master.m3u8?1676383297"
+                },
+                {
+                    "id": null,
+                    "title": "Render",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/560/77ce2713fb802d4d643f22fee9dd2fdd/master.m3u8?1676383290"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6816a6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9w1d2o.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 243,
+        "product_name": "Color Grading with DaVinci Resolve",
+        "teacher_name": "Sonia Abellán Avilés",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 17703,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

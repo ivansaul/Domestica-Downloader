@@ -1,0 +1,148 @@
+{
+    "id": "3096",
+    "title": "Escritura literaria para principiantes atrévete a escribir tu propio texto",
+    "url": "https://www.domestika.org/es/courses/3096-escritura-literaria-para-principiantes-atrevete-a-escribir-tu-propio-texto/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/766/8ea04285cab720d780671e930e586831/master.m3u8?1676404137"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/767/bd1187cb6f54e9ae00310bbc1beb643a/master.m3u8?1676404138"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ufspjs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sobre qué escribir búsqueda y recopilación de material",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ejercicios de escritura para ayudarte a empezar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/768/447bf0ddd3e93d8ca5017a52c7574fde/master.m3u8?1676404146"
+                },
+                {
+                    "id": null,
+                    "title": "Aprovechar el contenido y capturar impresiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/769/3293d0b8df8400dab94e4fe24e228926/master.m3u8?1676404138"
+                },
+                {
+                    "id": null,
+                    "title": "Aprender a ver rastrear historias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/770/e67b62102b0652acaae1d9d4fc305bfd/master.m3u8?1676404137"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ymr0pg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo escribir diseñar y revisar textos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El primer borrador encontrar una forma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/773/069cf4004fe835a6c14dfc0ecf82106b/master.m3u8?1676404140"
+                },
+                {
+                    "id": null,
+                    "title": "De la caja de herramientas técnicas de narración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/774/857e6b69aa8441c188cc78d188b01904/master.m3u8?1676404137"
+                },
+                {
+                    "id": null,
+                    "title": "Revisar dar forma y condensar textos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/775/ea8aaaa0c62c964cb3a0b5d8042bec97/master.m3u8?1676404138"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bomadr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Seguir escribiendo perseverar y publicar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Buscar aliados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/776/3d9ae16c37f1f7b50bb01a4a34a43862/master.m3u8?1676404138"
+                },
+                {
+                    "id": null,
+                    "title": "Fuera del cajón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/777/2b5abe6c5f830e5d7b97efde3119acd9/master.m3u8?1676404138"
+                },
+                {
+                    "id": null,
+                    "title": "Descubrir y desarrollar habilidades literarias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/778/f746bbf2f87c3a40d259001928ae4d20/master.m3u8?1676404138"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/35rlb3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8cpvm9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3096,
+        "product_name": "Literary Writing for Beginners: How to Become an Author",
+        "teacher_name": "Isabelle Lehn",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 7990,
+        "total_units": 4,
+        "subtitles_language": [
+            "de",
+            "es",
+            "en",
+            "pt",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "de"
+        ],
+        "original_language": "de"
+    }
+}

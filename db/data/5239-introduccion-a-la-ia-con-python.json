@@ -1,0 +1,264 @@
+{
+    "id": "5239",
+    "title": "Introducción a la IA con Python",
+    "url": "https://www.domestika.org/es/courses/5239-introduccion-a-la-ia-con-python/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/725/94cc6f6432721032da6b7202e44a2c44/master.m3u8?1707316594"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/726/66c6cb2dbfce6fd79f7317515f524ab1/master.m3u8?1687947910"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7d0stk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las bases del machine learning",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el machine learning",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/727/8ce5c7f0a058a3ddcf352df0fa5c0039/master.m3u8?1707316702"
+                },
+                {
+                    "id": null,
+                    "title": "Posibilidades del machine learning",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/728/dadaa1cced11e16ed3934c153bb3e4f6/master.m3u8?1707316807"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración del ambiente de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/729/996a7a12389b418afeec27ffffbb6f23/master.m3u8?1707317110"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gm6ati.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tus primeros modelos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos y ejemplos de machine learning",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/730/6ad11b67952e59065cc75eb29f64006b/master.m3u8?1707317176"
+                },
+                {
+                    "id": null,
+                    "title": "Los datos la base de cualquier modelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/731/76d10c5ee13926c0bc3e9e7c5588ab85/master.m3u8?1707317257"
+                },
+                {
+                    "id": null,
+                    "title": "Librerías de Python",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/732/5710d918da0df23e5e711ec008783dd7/master.m3u8?1687948100"
+                },
+                {
+                    "id": null,
+                    "title": "Tu primer modelo regresión lineal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/733/48e1decfaa37313259faced5c24899b3/master.m3u8?1707317376"
+                },
+                {
+                    "id": null,
+                    "title": "Regresión lineal en detalle",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/734/871d7eb88afce9b122deed47bbda721b/master.m3u8?1687948131"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yay7bs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Algoritmos de machine learning",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sets y análisis de datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/735/e7c5251929256f4580fd5cae1a466d9b/master.m3u8?1707317460"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicio de regresión lineal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/736/6392e485b2551f4a2a589b1ed39091e8/master.m3u8?1707317513"
+                },
+                {
+                    "id": null,
+                    "title": "Regresión logística",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/737/40d4c5a1de55ddb26a51fa03329308f3/master.m3u8?1707317559"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicio de regresión logística",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/738/72879b9fa3aa4f9a855b11a05a98a4b7/master.m3u8?1707317642"
+                },
+                {
+                    "id": null,
+                    "title": "Árboles de decisión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/739/fa252f0c2abfc5b174a04682f0004a58/master.m3u8?1707317711"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicio de árboles de decisión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/740/51fc6489b8e6ff4deae6542ef419aa46/master.m3u8?1707317780"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nkl193.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Más algoritmos de machine learning",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Máquinas de vectores de soporte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/741/887e6d70ffd5c7060d54f58264f0b66e/master.m3u8?1707317859"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicio de máquinas de vectores de soporte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/742/cbf60ef41d80e314e99d299591683c38/master.m3u8?1687948441"
+                },
+                {
+                    "id": null,
+                    "title": "Clusterización con Kmeans",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/743/a480e55fcc2b8fb15f605ca72989e4bb/master.m3u8?1707317987"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicio de clusterización con Kmeans",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/744/81825e1c7ff9495659a820d39a1971cc/master.m3u8?1687948643"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3aihcc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Redes neuronales y deep learning",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Intuición y cómo aprenden las redes neuronales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/745/b705448b9271d4be33d40665a37dc6d2/master.m3u8?1707318076"
+                },
+                {
+                    "id": null,
+                    "title": "Red neuronal de regresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/746/59fbdecf9b18bcadd72189f56cad3a2e/master.m3u8?1707318127"
+                },
+                {
+                    "id": null,
+                    "title": "Red neuronal de clasificación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/747/8163f6d524cebbf61a7e52ff6f946b5a/master.m3u8?1707318180"
+                },
+                {
+                    "id": null,
+                    "title": "Red neuronal de clasificación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/748/268f45b36fb8c08c29ba379f3b8d8701/master.m3u8?1707318250"
+                },
+                {
+                    "id": null,
+                    "title": "Convoluciones y filtros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/749/97f5af871fcfd4b830fdf462688e7c8f/master.m3u8?1707318318"
+                },
+                {
+                    "id": null,
+                    "title": "Redes neuronales convolucionales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/750/2d3d6535567c78b5db44ca2211f8c031/master.m3u8?1707318377"
+                },
+                {
+                    "id": null,
+                    "title": "Redes neuronales convolucionales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/751/a4404bdcf0fbe3f7f15dbe971d7a6913/master.m3u8?1707318426"
+                },
+                {
+                    "id": null,
+                    "title": "Transferencia de aprendizaje 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/752/08bbe7617061b76c940d8c05149fbb1a/master.m3u8?1707318492"
+                },
+                {
+                    "id": null,
+                    "title": "Transferencia de aprendizaje 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/753/e45c478e385000a05c683598dad61b11/master.m3u8?1707318537"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zr7rdp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/pvl3mf.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5239,
+        "product_name": "Introduction to AI with Python",
+        "teacher_name": "Rodrigo Montemayor",
+        "category_id": 23,
+        "category_name": "Artificial Intelligence",
+        "course_level": "beginner",
+        "course_number_of_lessons": 29,
+        "course_total_duration_sec": 15776,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

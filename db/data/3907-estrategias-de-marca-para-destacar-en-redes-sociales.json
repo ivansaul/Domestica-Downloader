@@ -1,0 +1,163 @@
+{
+    "id": "3907",
+    "title": "Estrategias de marca para destacar en redes sociales",
+    "url": "https://www.domestika.org/es/courses/3907-estrategias-de-marca-para-destacar-en-redes-sociales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/938/1d7a066169dc51a9171d0f55b99453b7/master.m3u8?1676406075"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/939/dd04582dcf46bfba834ff6006141bc3d/master.m3u8?1676406072"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xbqy0j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos para pequeñas y medianas empresas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Funciones del marketing en redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/945/252a919850133aa7bb4621a3c678e708/master.m3u8?1676406076"
+                },
+                {
+                    "id": null,
+                    "title": "Construir los fundamentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/946/178ed8a157c27443bca05053319af668/master.m3u8?1676406078"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/947/f350537a7dfbb94757f074773719a09d/master.m3u8?1676406076"
+                },
+                {
+                    "id": null,
+                    "title": "El estudio de caso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/949/65f395c55b110635e5926673f6f3589d/master.m3u8?1676406080"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u82nlo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estrategia y campañas en redes sociales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Objetivos y métricas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/956/f2e5e1d4281a7c9030c6793b2f19a55d/master.m3u8?1676406084"
+                },
+                {
+                    "id": null,
+                    "title": "Audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/957/afacf83033e9d4bef5ec58a3091d75f6/master.m3u8?1676406084"
+                },
+                {
+                    "id": null,
+                    "title": "Contenido y mensajería",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/958/9f8703c73adfbc7794b51dc8e1904f1d/master.m3u8?1676406083"
+                },
+                {
+                    "id": null,
+                    "title": "Campañas y anuncios de Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/960/a86061e0d6f31a7587bc194a8a33bd39/master.m3u8?1676406088"
+                },
+                {
+                    "id": null,
+                    "title": "Recursos y ejecución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/961/78b051fdd5e01bf337c7d4af95523ec9/master.m3u8?1676406088"
+                },
+                {
+                    "id": null,
+                    "title": "Recurso adicional para aprender más",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/213/2297873d72fae4f74aae46f74b2f0679/master.m3u8?1676406214"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h8ps1v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consejos adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Reutilización del contenido de las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/963/524624393cea130b4ad5a6b42e9177af/master.m3u8?1676406084"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos para mánagers de redes sociales y empresas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/964/056a267c24c1095b231c13425c7606e4/master.m3u8?1676406087"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fy1n5n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9m5pok.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3907,
+        "product_name": "Social Media for Brands: Strategies to Stand Out Online",
+        "teacher_name": "Hana Klokner",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8292,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

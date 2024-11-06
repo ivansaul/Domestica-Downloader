@@ -1,0 +1,173 @@
+{
+    "id": "4288",
+    "title": "Narrativa con visualización arquitectónica hiperrealista el poder de la inmersión",
+    "url": "https://www.domestika.org/es/courses/4288-narrativa-con-visualizacion-arquitectonica-hiperrealista-el-poder-de-la-inmersion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/180/a0b56676dfda5ad3c0cc34d4824f10d1/master.m3u8?1713890535"
+                },
+                {
+                    "id": null,
+                    "title": "Mis fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/181/37f0815a63088316edba83ce25713562/master.m3u8?1713890570"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3v4rx9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La narrativa arquitectónica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/182/5c4b239832061af72be1b1de84d57686/master.m3u8?1713890594"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría de la composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/183/d23ad2f4113e49d9dc060a9bc4c8d949/master.m3u8?1713890615"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/184/80469fb25a1558ac8ecbfde514941e7f/master.m3u8?1713890635"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ohhkvr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis del brief del cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/185/dbd533d865136b8576f3a1e61a164918/master.m3u8?1713890658"
+                },
+                {
+                    "id": null,
+                    "title": "Primeros elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/186/aef0f05c74886a94b3749d0b3514b632/master.m3u8?1713890683"
+                },
+                {
+                    "id": null,
+                    "title": "Procesamiento de luz y texturizado de escenas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/187/82826e888291fad5649a9e2c6673384f/master.m3u8?1713890708"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/188/0021aa3c2ae1b71d8d31c4145511942d/master.m3u8?1713890728"
+                },
+                {
+                    "id": null,
+                    "title": "Representación de la escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/189/2d50925c649f8403382206f61ff661b0/master.m3u8?1713890746"
+                },
+                {
+                    "id": null,
+                    "title": "Para saber mas dónde encontrar recursos para animar la escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/613/5d860e86aa612cadbd30b854b9d29bc0/master.m3u8?1713890858"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vh26c8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasos finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparar el archivo para la postproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/190/efc2d02bb114316dd10caf84393495fb/master.m3u8?1713890765"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/191/10218ad23f47ff9cb1c291e689faac49/master.m3u8?1713890783"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/192/eb86ac2abe0f3e9bd220fa5f36d59eef/master.m3u8?1713890801"
+                },
+                {
+                    "id": null,
+                    "title": "El metaverso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/193/0613701387195990111f25f3225f77a5/master.m3u8?1713890821"
+                },
+                {
+                    "id": null,
+                    "title": "Para saber más usando los sitios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/614/9592aadb8cfa017b1553c6ee7c3ab7d2/master.m3u8?1713890875"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g52a9b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/wb6x7u.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4288,
+        "product_name": "ArchViz Storytelling: the Power of Immersion",
+        "teacher_name": "ALMA",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 8014,
+        "total_units": 4,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

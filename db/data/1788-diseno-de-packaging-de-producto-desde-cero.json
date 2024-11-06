@@ -1,0 +1,163 @@
+{
+    "id": "1788",
+    "title": "Diseño de packaging de producto desde cero",
+    "url": "https://www.domestika.org/es/courses/1788-diseno-de-packaging-de-producto-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/160/39578e3416f37c55bed400df18e5fce5/master.m3u8?1676400202"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/161/9d8888bcc2e058f5ff0c80800d3704f8/master.m3u8?1676400206"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hupdz3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La investigación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Breve historia del packaging",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/162/4b77a29481c72af4abe6a155913d22bd/master.m3u8?1676400204"
+                },
+                {
+                    "id": null,
+                    "title": "Auditoría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/163/8e1f1ca91df8615d658abca8f898fc00/master.m3u8?1676400205"
+                },
+                {
+                    "id": null,
+                    "title": "Radiografía 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/164/c4f1b70632a6c9d34f582bf146c18148/master.m3u8?1676400210"
+                },
+                {
+                    "id": null,
+                    "title": "Radiografía 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/165/6ccb565f106981b455df7f716668b8a7/master.m3u8?1676400209"
+                },
+                {
+                    "id": null,
+                    "title": "Territorio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/166/6b0d5ddab55ea9f33f0aa90365ffcf40/master.m3u8?1676400206"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uo0z54.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La ejecución",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y tipos de impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/167/1711ecdb210e6874effcea113435311c/master.m3u8?1676400212"
+                },
+                {
+                    "id": null,
+                    "title": "Concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/168/c08650183df40bba46adb3fb5d2e1943/master.m3u8?1676400208"
+                },
+                {
+                    "id": null,
+                    "title": "Propuestas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/169/ade4bcde42fc27bb5c39bedfc7abd254/master.m3u8?1676400207"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de empaque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/170/f67aedf49051569eeac7e2753f91a53b/master.m3u8?1676400211"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ic1bs3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ser vendedores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mockups",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/191/4cc8ab1bae601d48ed93fbda6b20031d/master.m3u8?1676400220"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/192/5c8ee696c34cebd15cba2bcbe92075d8/master.m3u8?1676400228"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo documentar tu proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/193/5d01781b87d3672afd83a44007e55f34/master.m3u8?1676400220"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vlrf7a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/k0ezef.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1788,
+        "product_name": "Product Packaging Design for Beginners",
+        "teacher_name": "After",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6639,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

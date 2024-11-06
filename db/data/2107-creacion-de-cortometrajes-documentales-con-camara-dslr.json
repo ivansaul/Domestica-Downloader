@@ -1,0 +1,183 @@
+{
+    "id": "2107",
+    "title": "Creación de cortometrajes documentales con cámara DSLR",
+    "url": "https://www.domestika.org/es/courses/2107-creacion-de-cortometrajes-documentales-con-camara-dslr/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/261/b539638bd5f5e3d274f6ce92b936c03c/master.m3u8?1676395989"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/262/d6049c4639786abf0d3c1ada2ade77ec/master.m3u8?1676395990"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/brv3xs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparar el cortometraje documental",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo funciona una cámara réflex digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/264/fbbb149f056376865a9dcdba8544c3dd/master.m3u8?1676395990"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/265/db61dd4f16d1ca4ed41992c2f8a2dfee/master.m3u8?1676395990"
+                },
+                {
+                    "id": null,
+                    "title": "Elección de personajes e investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/266/64d6b6d6e1513d3914c620960a697d1f/master.m3u8?1676395992"
+                },
+                {
+                    "id": null,
+                    "title": "Guion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/267/869ff53a64afe9658de068008ac723ed/master.m3u8?1676395991"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pgzpal.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Es hora de salir a grabar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Antes de grabar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/268/c9b8f1eb07f10607642d799412d65742/master.m3u8?1676395991"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de equipo y plató",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/269/5e183c37278d148a9243b1f0a023aaf8/master.m3u8?1676395996"
+                },
+                {
+                    "id": null,
+                    "title": "Grabación de la entrevista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/270/5f9aa7fd4d66ba4b1e9693b564f6b2cc/master.m3u8?1676395996"
+                },
+                {
+                    "id": null,
+                    "title": "Imágenes de portada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/271/0cc874faa18e43cfa4e3b2afccd50592/master.m3u8?1676396001"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jc8ujq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición y difusión de cortometrajes documentales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Transferencia de archivos y organización de carpetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/272/775de648d08f50d7c200f3a6ac8fd8c7/master.m3u8?1676395992"
+                },
+                {
+                    "id": null,
+                    "title": "Edición en Adobe Premiere Pro 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/273/31742090630f834cc03b265c76442f46/master.m3u8?1676396000"
+                },
+                {
+                    "id": null,
+                    "title": "Edición en Adobe Premiere Pro 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/274/74e996e2f5b481a849597e46c6640140/master.m3u8?1676396002"
+                },
+                {
+                    "id": null,
+                    "title": "Edición en Adobe Premiere Pro 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/275/d06bd3b9fc5e6ba1c91d83dd1ad576c6/master.m3u8?1676396004"
+                },
+                {
+                    "id": null,
+                    "title": "Edición en Adobe Premiere Pro 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/276/b987922e3aabac1b54679069384e5006/master.m3u8?1676395997"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización corrección de color y exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/277/cfe96fefe9dfe37969d393e8861e2888/master.m3u8?1676396006"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas para la difusión de tu proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/278/4e63459084bc2c2f2e7fd022478e5362/master.m3u8?1676395995"
+                },
+                {
+                    "id": null,
+                    "title": "Resultado final la entrevista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/383/d611dcd6721b86e57fcb48b6c6b460bc/master.m3u8?1676396055"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y4pdl5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7ehuib.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2107,
+        "product_name": "Creating Documentary Short Films with a DSLR Camera",
+        "teacher_name": "Rafa Jacinto",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 11377,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

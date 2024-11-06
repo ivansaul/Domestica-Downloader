@@ -1,0 +1,153 @@
+{
+    "id": "4601",
+    "title": "Introducción al feng shui",
+    "url": "https://www.domestika.org/es/courses/4601-introduccion-al-feng-shui/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/921/173a339d42c770c2e99bcfaa970869b2/master.m3u8?1678813888"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/922/189a9e1019599a6f3aad138ebb1e0373/master.m3u8?1676410008"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1btt0o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos del Feng Shui",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el Feng Shui",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/923/86449db8fbb4609050643bb18cb8cf87/master.m3u8?1676410010"
+                },
+                {
+                    "id": null,
+                    "title": "Principios del Feng Shui Yin y Yang",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/924/88b52d0fc15e4c2722122bfa4368ed38/master.m3u8?1676410010"
+                },
+                {
+                    "id": null,
+                    "title": "Principios del Feng Shui el Chi",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/925/5629f26253d88f508f6f3061d53363b2/master.m3u8?1676410009"
+                },
+                {
+                    "id": null,
+                    "title": "Principios del Feng Shui la posición de mando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/926/1e624544a29b79eaead1b11d340b5218/master.m3u8?1676410010"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wzhh96.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comprender y organizar un espacio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El espacio aprendiendo a leerlo y representarlo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/927/1bed7f95ebc6acc6065e3a9c5f27f9c8/master.m3u8?1676410014"
+                },
+                {
+                    "id": null,
+                    "title": "El Cliente entendiéndolo a él y a sus necesidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/928/e06b93f7ad38f12bee96e35d2d45efa2/master.m3u8?1676410012"
+                },
+                {
+                    "id": null,
+                    "title": "Localizando energías llevando el Feng Shui a la práctica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/929/5f4d2fced550f92ff0a49d61a8866aa6/master.m3u8?1676410011"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación del espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/930/86e910cd80fa84014ad44374fd52a4dc/master.m3u8?1676410022"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rlvd6r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los accesorios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Accesorios clásicos del Feng Shui",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/931/a1c625943cd3501c6b94ec414f7b5f2e/master.m3u8?1676410017"
+                },
+                {
+                    "id": null,
+                    "title": "Interpretaciones y decoraciones modernas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/932/bb01b9e292e568b520aec6d030fffe60/master.m3u8?1676410014"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aq320k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/to92tj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4601,
+        "product_name": "Introduction to Feng Shui",
+        "teacher_name": "Cliff Tan",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6863,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

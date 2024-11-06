@@ -1,0 +1,153 @@
+{
+    "id": "1846",
+    "title": "Diseño de interiores aporta color y personalidad a tu hogar",
+    "url": "https://www.domestika.org/es/courses/1846-diseno-de-interiores-aporta-color-y-personalidad-a-tu-hogar/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/844/f7103e1cd14a5f017681229a7d3a6b6d/master.m3u8?1676406029"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/845/92e7909ebfda195382535fec282472b5/master.m3u8?1676406031"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x9q3hn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definiendo tu estilo y el espacio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de estilos de interiores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/850/1ece23bc7696c8a5d92705e810feaa29/master.m3u8?1676406033"
+                },
+                {
+                    "id": null,
+                    "title": "Identificar y definir el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/851/5b1df264e56170d4939b85360b4223be/master.m3u8?1676406033"
+                },
+                {
+                    "id": null,
+                    "title": "Color e iluminación natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/852/e690df6437ac7fd4218413462de3e247/master.m3u8?1676406032"
+                },
+                {
+                    "id": null,
+                    "title": "La psicología de los colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/853/969eb841d32347870aea1f65344a0a47/master.m3u8?1676406035"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k7knq7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estilo del espacio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El mood board aspiracional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/856/e031f02b3ddb1efebfc204a9c60e13c1/master.m3u8?1676406034"
+                },
+                {
+                    "id": null,
+                    "title": "El mood board final del espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/857/4b89528f0830db77f9cc4950b9bbff7e/master.m3u8?1676406038"
+                },
+                {
+                    "id": null,
+                    "title": "Decorando el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/858/f1144d9c8460f5140a88092bd4ed2dd0/master.m3u8?1676406034"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x44dgq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mejorando la experiencia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Color e iluminación artificial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/859/2f01e055621e037435bed8ac674100e4/master.m3u8?1676406034"
+                },
+                {
+                    "id": null,
+                    "title": "El color y los sentidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/860/b92351ce96673c21544546b3589046b5/master.m3u8?1676406033"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo promocionar tu trabajo en línea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/861/a845efd644b07a56011d39599f2df42e/master.m3u8?1676406035"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/stp6mi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7mwgv2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1846,
+        "product_name": "Colorful Interior Design: Styling Homes with Personality",
+        "teacher_name": "Geraldine Tan",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4982,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

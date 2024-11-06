@@ -1,0 +1,158 @@
+{
+    "id": "3012",
+    "title": "Libros de cocina escribe historias a través de recetas",
+    "url": "https://www.domestika.org/es/courses/3012-libros-de-cocina-escribe-historias-a-traves-de-recetas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/222/86112b936dd5f1d52f0ba1e9804e64cc/master.m3u8?1676403407"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/223/66f4e3df33abe33ebe54889f5c791dd7/master.m3u8?1676403408"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fwfugr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ingredientes de un libro de cocina",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué y cómo empezar un libro de cocina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/224/a074d28450b36bc006b5bf879e420313/master.m3u8?1676403408"
+                },
+                {
+                    "id": null,
+                    "title": "Metodología",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/225/be5ce4ea2576f2098f4f375a7108491a/master.m3u8?1676403410"
+                },
+                {
+                    "id": null,
+                    "title": "Desglosando los capítulos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/226/510a836317a10c9f67b6826ae7746850/master.m3u8?1676403407"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura necesaria para un campo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/227/17fdc99247bddf71cc2851fd11207781/master.m3u8?1676403407"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zi6j37.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear la narrativa para su libro de cocina",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El comienzo de un capítulo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/228/48eaf94817dbb62986b159fae4354ce4/master.m3u8?1676403408"
+                },
+                {
+                    "id": null,
+                    "title": "La historia que rodea la receta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/229/da876d4d6c53c817d287d3497cd51c40/master.m3u8?1676403407"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir una receta simple",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/230/31004a01783ee767c8758aefc1f77791/master.m3u8?1676403414"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir una receta de dos pasos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/231/f05458a98eb8557db3358c9938dbb7b9/master.m3u8?1676403416"
+                },
+                {
+                    "id": null,
+                    "title": "La conclusión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/232/9cc2e74c6807dd513f33075542b593a7/master.m3u8?1676403409"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kkqo77.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Llevando su libro de cocina a la siguiente etapa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentar su libro a un editor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/233/de0e6c9973db7318c1d51ca6107fbdc7/master.m3u8?1676403409"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos para la autopublicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/234/bcda9aca78e59981b585261962339d30/master.m3u8?1676403411"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8zcj65.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xaxqu0.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3012,
+        "product_name": "Cookbook Writing: Tell Stories Through Recipes",
+        "teacher_name": "Sumayya Usmani",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5840,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

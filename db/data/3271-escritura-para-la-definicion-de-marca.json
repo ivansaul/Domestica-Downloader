@@ -1,0 +1,153 @@
+{
+    "id": "3271",
+    "title": "Escritura para la definición de marca",
+    "url": "https://www.domestika.org/es/courses/3271-escritura-para-la-definicion-de-marca/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/337/70e4dfef180df7368db9ac382dfd42d0/master.m3u8?1676407261"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/338/a19d30c1585d76d708a60b2c4feb81e5/master.m3u8?1676407262"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j5qh40.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lo que necesitas saber para escribir o crear una marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición de una marca y formatos de redacción 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/340/7a99595bbbc18addcc02dab214f58ac0/master.m3u8?1676407260"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de una marca y formatos de redacción 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/341/b38846b646739fa4698e9ba9a7e8223d/master.m3u8?1676407261"
+                },
+                {
+                    "id": null,
+                    "title": "La personalidad de una marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/342/11f3f13bfb25e790f9f513b5869525bf/master.m3u8?1676407266"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del caso de estudio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/343/4a703eff8662eb2e1d02a6363756583b/master.m3u8?1676407256"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/46lq2w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Escribir la historia de una marca con impacto positivo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El propósito de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/344/c57faea401de7f850db417ff1785465c/master.m3u8?1676407264"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar el Naming",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/345/70d4acd768ad94088428736033377004/master.m3u8?1676407260"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir la historia de la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/346/582e3eed699a8c62e8f405dbc6ee2e61/master.m3u8?1676407258"
+                },
+                {
+                    "id": null,
+                    "title": "Crear la presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/348/a5a536e28ccfd11112d1ef192f620149/master.m3u8?1676407259"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m6gppr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La escritura de marca está lista para que la conozca el mundo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué puedo o debo hacer con la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/349/1a5b6c0410e07be6a0392f2712bc0262/master.m3u8?1676407261"
+                },
+                {
+                    "id": null,
+                    "title": "Otras formas para presentar la definición de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/350/7bdc313d39634547d2a2f01879f547f3/master.m3u8?1676407259"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hm0a8i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zew6nb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3271,
+        "product_name": "Writing Techniques: Define Your Brand",
+        "teacher_name": "Pancho González",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 8616,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

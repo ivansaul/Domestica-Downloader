@@ -1,0 +1,148 @@
+{
+    "id": "3280",
+    "title": "Creación de newsletters efectivas desde cero",
+    "url": "https://www.domestika.org/es/courses/3280-creacion-de-newsletters-efectivas-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/799/8e1c48aa815853443db977bf7f5fad33/master.m3u8?1676404618"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/800/f3d8b5106d14998e78d3157824410768/master.m3u8?1676404616"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m5r9b0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Antes de empezar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una newsletter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/801/eb6a44863c428c029f6eb38d1d8f6a1c/master.m3u8?1676404620"
+                },
+                {
+                    "id": null,
+                    "title": "Para qué escribir una newsletter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/802/348f1e7e89dd93085dcbd907aa33d596/master.m3u8?1676404619"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo monetizar una newsletter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/803/f13f3a4714c87838e6f03450308abebd/master.m3u8?1676404618"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0i2trn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bases para crear comunidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/816/8f0af2a078aca8d27b5ab1eb31408394/master.m3u8?1676404630"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/817/2145d688284dd6850efd7c215d6a295f/master.m3u8?1676404630"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/818/d2c9a402d6658ad9eae12d9c5f59b4e8/master.m3u8?1676404631"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l6mwtt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo conseguimos que nos lean",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estrategia de lanzamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/819/0e94740852d89bcd1d1405dd5db82f6d/master.m3u8?1676404628"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de adquisición y retención",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/820/9de499991ff3990d1f4756481d098b99/master.m3u8?1676404629"
+                },
+                {
+                    "id": null,
+                    "title": "Estadísticas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/821/f45732c933486ad5303dc54c6cb74595/master.m3u8?1676404630"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1tnadm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rib8di.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3280,
+        "product_name": "Creating Effective Newsletters from Scratch",
+        "teacher_name": "Charo Marcos",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 5825,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

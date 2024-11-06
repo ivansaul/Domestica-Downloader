@@ -1,0 +1,168 @@
+{
+    "id": "4767",
+    "title": "Diseño y decoración de cocinas",
+    "url": "https://www.domestika.org/es/courses/4767-diseno-y-decoracion-de-cocinas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/344/67b3e1e098c65a1b412b6ebd4b166f82/master.m3u8?1676413307"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/345/04c1d17e23c234820c2e789598fea24a/master.m3u8?1676413308"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4nkxd2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Todo sobre cocinas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tendencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/346/88577c4f74baddf97cd897632710b268/master.m3u8?1676413309"
+                },
+                {
+                    "id": null,
+                    "title": "Medidas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/348/85d578acdad84cf10c4f3e780d2f1313/master.m3u8?1676413309"
+                },
+                {
+                    "id": null,
+                    "title": "Look and Feel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/349/fbd803d66674d83ea4124f619a0f14cc/master.m3u8?1676413312"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/350/4852bbb340127bb624f5ed7cd703db5f/master.m3u8?1676413315"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación y complementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/351/eaf0882e6e8c52c26dfeee2c3a454c52/master.m3u8?1676413312"
+                },
+                {
+                    "id": null,
+                    "title": "Uso y diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/361/e62e46ad1eae2228cd226b29a48d4861/master.m3u8?1676413322"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wym5un.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tu cocina",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Soñar no cuesta nada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/353/17c3ce34d3b551eb570902dc6bb24186/master.m3u8?1676413313"
+                },
+                {
+                    "id": null,
+                    "title": "Evaluar lo que tenemos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/354/a3d73cc8cc4987310b4bc0d739006019/master.m3u8?1676413317"
+                },
+                {
+                    "id": null,
+                    "title": "Planificar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/355/9a3a75c9332452e9b0d2f0f774ec75c7/master.m3u8?1676413314"
+                },
+                {
+                    "id": null,
+                    "title": "Ejecutar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/356/2ca0cc83ac7bacf667e47389e42e6185/master.m3u8?1676413315"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xu9rsn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Toques finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Decoración y estilismo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/357/6f2fcf430c82ae42f52eda73bb750cf1/master.m3u8?1676413317"
+                },
+                {
+                    "id": null,
+                    "title": "Feng Shui",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/358/2fd0016d113d46b80b0744c47a9558fb/master.m3u8?1676413317"
+                },
+                {
+                    "id": null,
+                    "title": "Qué debemos evitar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/359/7e3056178912dd9c73f35603fd9176fa/master.m3u8?1676413317"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9rsdmk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/pqevwu.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4767,
+        "product_name": "Kitchen Design and Decoration",
+        "teacher_name": "Sofía Saraví O'Keefe",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7609,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

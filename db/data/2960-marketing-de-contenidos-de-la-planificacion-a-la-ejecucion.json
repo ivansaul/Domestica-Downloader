@@ -1,0 +1,168 @@
+{
+    "id": "2960",
+    "title": "Marketing de contenidos de la planificación a la ejecución",
+    "url": "https://www.domestika.org/es/courses/2960-marketing-de-contenidos-de-la-planificacion-a-la-ejecucion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/830/f48bbe2e56b687e3a980cf297f7f9131/master.m3u8?1676449585"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/831/7818c7d61ad78c5314f33da3349ca75e/master.m3u8?1676401078"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2es63u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "estructurando",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrar su voz y su audiencia 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/836/5ad6510dad3077e7fc0a00512e277f18/master.m3u8?1676401081"
+                },
+                {
+                    "id": null,
+                    "title": "entrando en el embudo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/837/fdc69272e88bfed7c44039be7f8c8f87/master.m3u8?1676401077"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es el marketing de contenidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/059/2ce7c17ab80bbb079fa836a694475100/master.m3u8?1676402330"
+                },
+                {
+                    "id": null,
+                    "title": "La estrategia de las 3 Hs",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/060/7c3ab9f704cac7cd73f629c8c3dc51b8/master.m3u8?1676402327"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar su voz y su audiencia 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/061/16bcd550b6cc0375ee13da50fc6df29e/master.m3u8?1678447708"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/raw4hl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exploración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Con qué plataforma voy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/838/103622b12777803abdb5bc1700c87e29/master.m3u8?1676401081"
+                },
+                {
+                    "id": null,
+                    "title": "Quizás viva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/841/3af5a1a8b04627734bacf650d02ff084/master.m3u8?1676401079"
+                },
+                {
+                    "id": null,
+                    "title": "101 razones para crear contenido que haga que tu dedo se detenga",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/062/f42a91932b329d9598d27f001377b2cb/master.m3u8?1678441017"
+                },
+                {
+                    "id": null,
+                    "title": "De viral a atemporal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/063/37f2ac7582df1e5806202af17f9a79a1/master.m3u8?1676402339"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oo409l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Organización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas para hacerlo bien",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/843/0744f180e957f75d6902b86744236ad0/master.m3u8?1676401079"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo medir el éxito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/845/19c498aeae50f439814168218f821f63/master.m3u8?1676401079"
+                },
+                {
+                    "id": null,
+                    "title": "Un calendario de contenido para llamar tuyo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/064/1ffc9b9b579998583ad93015b30d58b8/master.m3u8?1676402334"
+                },
+                {
+                    "id": null,
+                    "title": "Chatear e interactuar con su audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/065/bf84d28f04f50b8b364b87cde960768b/master.m3u8?1676402333"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u94d3b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/yrk7ij.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2960,
+        "product_name": "Content Marketing: From Planning to Execution",
+        "teacher_name": "Gustavo Miller",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 13331,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "id": "69",
+    "title": "Introducción a la fotografía digital",
+    "url": "https://www.domestika.org/es/courses/69-introduccion-a-la-fotografia-digital/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Jesús G Pastor y la fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/392/164535cc65f66676576147a4df0f174e/master.m3u8?1676381124"
+                },
+                {
+                    "id": null,
+                    "title": "Historia de la cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/393/92272cf8fdbea5f444e52cd17a0d30eb/master.m3u8?1676381121"
+                },
+                {
+                    "id": null,
+                    "title": "Referentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/394/7c7288ec7dbecd4db2a7af57f8a62f5d/master.m3u8?1676381128"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f08tq1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La cámara fotográfica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/395/777fd4d60f14b9426c002d3974e426a3/master.m3u8?1676381131"
+                },
+                {
+                    "id": null,
+                    "title": "Las lentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/396/c283d77598c9113bb79cbc48c997e02f/master.m3u8?1676381134"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5ce4m5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La santísima trinidad ISO Diafragma Velocidad de Obturación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El ISO",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/397/4a7b9a40261fb1b71064360cc5af6a1f/master.m3u8?1676381129"
+                },
+                {
+                    "id": null,
+                    "title": "Diafragma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/398/6a616151a9c03df8fc116b7eb9c0a3df/master.m3u8?1676381129"
+                },
+                {
+                    "id": null,
+                    "title": "Velocidad de Obturación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/400/00e95a87bd47fd8790701616b2532668/master.m3u8?1676381132"
+                },
+                {
+                    "id": null,
+                    "title": "Simulador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/401/88898d69c2341089d82c6cc1e0bbd439/master.m3u8?1676381132"
+                },
+                {
+                    "id": null,
+                    "title": "Modos semiautomáticos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/404/b99ecb7ee1df3f5e1368c98f17ab2f34/master.m3u8?1676381131"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vsp4y7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La luz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Compensación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/405/764c9ccfd22ec66fc2fc213e04e53b29/master.m3u8?1676381132"
+                },
+                {
+                    "id": null,
+                    "title": "Medición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/406/e97e30c8f63861d09c2054ef2918a586/master.m3u8?1676381133"
+                },
+                {
+                    "id": null,
+                    "title": "Temperatura de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/407/de0c8853bcdc4d1e9b29f5fdb2721215/master.m3u8?1676381137"
+                },
+                {
+                    "id": null,
+                    "title": "Histograma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/408/c537919e47af0e25343532d3a356467a/master.m3u8?1676381136"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vysdki.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Otros parámetros",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Foco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/409/8597d12b71b3ccad0c1c66ae49d9311a/master.m3u8?1676381139"
+                },
+                {
+                    "id": null,
+                    "title": "JPG vs RAW",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/410/357d3bcda06faaba5146a464f7a15c39/master.m3u8?1676381139"
+                },
+                {
+                    "id": null,
+                    "title": "Flash",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/415/1d5bb374931b58b21623c3dc9b093716/master.m3u8?1676381142"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ox7k81.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Práctica en la calle",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "En la calle",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/412/43db5e2182b795b3f95689377ae5c7dd/master.m3u8?1676381148"
+                },
+                {
+                    "id": null,
+                    "title": "Reportaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/413/2dfa83dbaf0e331cd3fbfad79c92c943/master.m3u8?1676381144"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mtwpip.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/deah5f.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 69,
+        "product_name": "Introduction to Digital Photography",
+        "teacher_name": "Jesús G. Pastor",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 9707,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

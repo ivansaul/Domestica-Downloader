@@ -1,0 +1,148 @@
+{
+    "id": "2622",
+    "title": "Mentalidad empresarial para creativos elabora un plan de acción",
+    "url": "https://www.domestika.org/es/courses/2622-mentalidad-empresarial-para-creativos-elabora-un-plan-de-accion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/431/bfe9c813ebecd3daace4b3edec98f4b5/master.m3u8?1676397702"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/432/acdd79643a8a92cf1dab537ae9c4a1eb/master.m3u8?1676397700"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r8cse6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Una mentalidad empresarial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una mentalidad empresarial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/112/a1713dbb8b778cabe23d5d2ee86d6392/master.m3u8?1676396994"
+                },
+                {
+                    "id": null,
+                    "title": "Entendiendo tu porqué",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/113/a10b379074c32fb571019b897e324ad9/master.m3u8?1676396993"
+                },
+                {
+                    "id": null,
+                    "title": "Presentando nuestro estudio de caso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/114/140e8118bcc050ce4120c3a393dd6242/master.m3u8?1676396998"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ypya7e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cuatro pilares clave para su hoja de ruta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando valor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/115/0a91bd6c823efb3ff0fc149be3f8d9cc/master.m3u8?1676396999"
+                },
+                {
+                    "id": null,
+                    "title": "Valor de la entrega",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/116/6e46f6679fcbb8a029c4ee3442938cea/master.m3u8?1676397002"
+                },
+                {
+                    "id": null,
+                    "title": "Capturando valor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/117/6f38d7f89bf68954879f1ef2c06a363f/master.m3u8?1676397002"
+                },
+                {
+                    "id": null,
+                    "title": "Evolución constante de su oferta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/433/9daef43fdb30236ae68c8b256bbc9de5/master.m3u8?1676397707"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qjznf8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acción y responsabilidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sea responsable de su hoja de ruta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/119/84e9beb53f83f75ad2ccc82c289b3d3b/master.m3u8?1676396997"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos para superar obstáculos comunes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/120/e29e1d9ea5751e13c46250e9499ffb00/master.m3u8?1676396997"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oc2nfs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/f1e1y0.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2622,
+        "product_name": "Business Mindset for Creatives: Make an Action Plan",
+        "teacher_name": "Abraham Asefaw",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 6044,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

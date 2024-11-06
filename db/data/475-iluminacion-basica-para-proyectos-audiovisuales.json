@@ -1,0 +1,175 @@
+{
+    "id": "475",
+    "title": "Iluminación básica para proyectos audiovisuales",
+    "url": "https://www.domestika.org/es/courses/475-iluminacion-basica-para-proyectos-audiovisuales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/225/d5ebe1516adb2b639bfaa75aa1d805c0/master.m3u8?1676385243"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/226/f641e83615224209a63f9239a4f83daa/master.m3u8?1676385247"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gda37e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparando nuestro proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las claves de la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/228/a8529da7f1cb1963b24e43b647632077/master.m3u8?1676385242"
+                },
+                {
+                    "id": null,
+                    "title": "El libro de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/243/db6a9fe90992c9f48b708f3924928bb5/master.m3u8?1676385249"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4y7qdb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de  iluminación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El lenguaje narrativo de las ópticas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/232/181d08a6907373fd1ea36928cf8db66c/master.m3u8?1676385248"
+                },
+                {
+                    "id": null,
+                    "title": "Calidad de la luz Escogiendo el tipo de luces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/233/db9e344496e0d90faefe4665bae69b46/master.m3u8?1676385248"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de la luz El poder expresivo de la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/234/51ae2bc31dcaf7d58cfee4200ab82046/master.m3u8?1676385246"
+                },
+                {
+                    "id": null,
+                    "title": "El contraste y la clave zonal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/235/4a71e96dc83110f2cd65126f814b5a3e/master.m3u8?1676385246"
+                },
+                {
+                    "id": null,
+                    "title": "El esquema clásico de iluminación con tres luces y el uso del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/236/83c81608156e8d63fa316a9713b5cc03/master.m3u8?1676385247"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/41s257.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo dar un look cinematográfico a tus proyectos e iluminar en exteriores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando tu propio estilo El uso expresivo de la luz y el encuadre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/237/c21f9b5c91f3fd3cbc87f7acf3647b11/master.m3u8?1676385246"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminando en un decorado real",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/238/63f17e49e24261311f2986196cd0198d/master.m3u8?1676385245"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminando para ficción la estética cinematográfica y la continuidad de la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/239/e7180f3391aa39c0eed22db16daa9d73/master.m3u8?1676385251"
+                },
+                {
+                    "id": null,
+                    "title": "luminación en exteriores día",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/240/85fa33f1b47dca809a3f80a7cf62bccb/master.m3u8?1676385249"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8jgls1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La corrección de color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Claves para un etalonaje creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/242/9d2f67b2fff8ddadc74ef61fdd29d074/master.m3u8?1676385250"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z3uqa1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cpslj5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 475,
+        "product_name": "Basic Lighting for Audiovisual Projects",
+        "teacher_name": "Enrique Silguero",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 11655,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

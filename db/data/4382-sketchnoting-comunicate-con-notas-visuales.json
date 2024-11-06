@@ -1,0 +1,221 @@
+{
+    "id": "4382",
+    "title": "Sketchnoting comunícate con notas visuales",
+    "url": "https://www.domestika.org/es/courses/4382-sketchnoting-comunicate-con-notas-visuales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/263/335ae98812a8426eeb63ab9160ce15f0/master.m3u8?1676410839"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/264/f2822b8ae68497c72e368c146c58599a/master.m3u8?1676410840"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c9ok53.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/345/fb9b71c1d757f1afcdb5c2fe4eacd538/master.m3u8?1676410885"
+                },
+                {
+                    "id": null,
+                    "title": "Sketchnotes qué son y para qué sirven 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/266/d9bf9a47cef6d70198279c2c5023e433/master.m3u8?1676410838"
+                },
+                {
+                    "id": null,
+                    "title": "Sketchnotes qué son y para qué sirven 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/267/8c04bed41c72d9148f7a7d8fad0e1e31/master.m3u8?1676410838"
+                },
+                {
+                    "id": null,
+                    "title": "Habilidades que necesitamos para dibujar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/268/57e66f60df079171aad72219270c41e6/master.m3u8?1676410835"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos básicos de dibujo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/269/394b0ae7e7c6cd164394ce83f1d90e73/master.m3u8?1676410843"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos básicos de dibujo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/270/4d0f718c2b107649479e3ae814531237/master.m3u8?1676410840"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos básicos de dibujo 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/346/f2d3fe66b72b306f5cb34d5984ff72f5/master.m3u8?1676410891"
+                },
+                {
+                    "id": null,
+                    "title": "Letra clara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/274/4f3c2b20e2de6f90e3e8d752b2842261/master.m3u8?1676410845"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f6myje.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estructura e ideas de imagen",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear jerarquía visual 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/275/e7f99177eff3520d0c4b62748e5be9d4/master.m3u8?1676410842"
+                },
+                {
+                    "id": null,
+                    "title": "Crear jerarquía visual 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/276/1f2a82963878f2d66696de163e6c487e/master.m3u8?1676410846"
+                },
+                {
+                    "id": null,
+                    "title": "Estructurar el contenido 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/278/5bf463b06f07287e09ea2a8840350318/master.m3u8?1676410848"
+                },
+                {
+                    "id": null,
+                    "title": "Estructurar el contenido 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/279/869fdd8287019b3ca1d29463aac802fe/master.m3u8?1676410847"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar ideas de imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/282/a8afc1263313ea46a7864a7aeaa32fb4/master.m3u8?1676410849"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lv608o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hacer sketchnotes de una presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desafíos en sketchnoting en tiempo real 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/285/a366fb45a319b066f432498bc44c9ddf/master.m3u8?1676410850"
+                },
+                {
+                    "id": null,
+                    "title": "Desafíos en sketchnoting en tiempo real 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/286/ae7aefa400275bdbbec64012ec3c713a/master.m3u8?1676410856"
+                },
+                {
+                    "id": null,
+                    "title": "Antes de la charla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/288/2a0c35ea7bd936836a22e6a3288eafb4/master.m3u8?1676410852"
+                },
+                {
+                    "id": null,
+                    "title": "Durante la charla 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/289/65ef62d582698c1230d26db5638116af/master.m3u8?1676410858"
+                },
+                {
+                    "id": null,
+                    "title": "Durante la charla 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/290/189620b6efb07c0273635fae99512211/master.m3u8?1676410858"
+                },
+                {
+                    "id": null,
+                    "title": "Durante la charla 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/292/50027435cdc89cab623161451f54e212/master.m3u8?1676410856"
+                },
+                {
+                    "id": null,
+                    "title": "Después de la charla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/294/8c80d898dd9e29fdf7e569c044d04964/master.m3u8?1676410854"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iz2549.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentar sketchnotes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Compartir sketchnotes en redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/296/f25d79c601803551acf8f6e8a66ca36a/master.m3u8?1676410856"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wtqbqp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/jkyey7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4382,
+        "product_name": "Sketchnoting: Communicate with Visual Notes",
+        "teacher_name": "Eva-Lotta Lamm",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 23,
+        "course_total_duration_sec": 18433,
+        "total_units": 5,
+        "subtitles_language": [
+            "de",
+            "es",
+            "en",
+            "pt",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "de",
+            "tr"
+        ],
+        "original_language": "de"
+    }
+}

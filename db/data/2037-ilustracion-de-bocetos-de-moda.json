@@ -1,0 +1,158 @@
+{
+    "id": "2037",
+    "title": "Ilustración de bocetos de moda",
+    "url": "https://www.domestika.org/es/courses/2037-ilustracion-de-bocetos-de-moda/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/922/93ec34d5a49e062dfaca896fcb381852/master.m3u8?1676394179"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/923/e077734a2639feb34496098799a206c2/master.m3u8?1676394177"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/924/b70eee885730f98e54cfc5444b0c2b43/master.m3u8?1676394179"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2bpo93.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación del boceto en fase inicial y elementos creativos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales de dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/925/09353904ef31487d025ab06b401349f3/master.m3u8?1676394179"
+                },
+                {
+                    "id": null,
+                    "title": "Proporciones y posiciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/926/f93998cc69d589e8189c74929667f936/master.m3u8?1676394181"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/927/06361561e4898669d8f5e70145beca9c/master.m3u8?1676394181"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bweof4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de ropa de mujer",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El boceto en Procreate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/928/c0757aa919831f7eae408f70d3895507/master.m3u8?1676394184"
+                },
+                {
+                    "id": null,
+                    "title": "Piel y cabello",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/929/d825cc17402e915c086f3ab4cae18bec/master.m3u8?1676394183"
+                },
+                {
+                    "id": null,
+                    "title": "El proceso de colorear y estampar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/931/778bb470d2eaf11a4ee1775ec7d9bae1/master.m3u8?1676394186"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de sombreado y luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/932/6ec3e57571136e1530d2b46c69e69dd4/master.m3u8?1676394191"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1mx3s2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué hacer con tu ilustración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ilustración en redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/933/e262fcfa4e4114528db713975ce00492/master.m3u8?1676394189"
+                },
+                {
+                    "id": null,
+                    "title": "Producción y consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/934/69bd0da24f92b000af6fd0281f1fcbba/master.m3u8?1676394185"
+                },
+                {
+                    "id": null,
+                    "title": "Terminar el proyecto y pequeños retoques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/972/a03c2042a27e3ac8b13bf6dedf947ad4/master.m3u8?1676394198"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xof7bl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vwt7q9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2037,
+        "product_name": "Fashion Sketch Illustration",
+        "teacher_name": "Carol Gomide",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7896,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

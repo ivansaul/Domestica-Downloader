@@ -1,0 +1,168 @@
+{
+    "id": "4918",
+    "title": "Diseño de presentaciones para creativos",
+    "url": "https://www.domestika.org/es/courses/4918-diseno-de-presentaciones-para-creativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/167/b6240f1f2ca0b25004d93fcc75a9c0a9/master.m3u8?1685644489"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/168/ced695845e20dfc9a44cac20a2d337e4/master.m3u8?1685644520"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a8zy0g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los cimientos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Historia y contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/169/5085ff441bd4ea1a18592f75eb645ee5/master.m3u8?1685644567"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y conceptos básicos de Figma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/170/c928f996aa1acd7a5eba68113b2baad9/master.m3u8?1685644590"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y conceptos básicos de Figma 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/171/a6957188721e98396fcdd79fd58774a5/master.m3u8?1685644608"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de diapositivas y Figma Advanced",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/172/1e5f6efcf7cc898a03fa9f7a13389608/master.m3u8?1685644629"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/es9izo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Del borrador al diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Redacción de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/173/3ee00916ce8da0da0832aabea95f4ead/master.m3u8?1685644650"
+                },
+                {
+                    "id": null,
+                    "title": "Wireframing del diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/174/4089b3c7e40cf01cb44ad5a3d09dd00a/master.m3u8?1685644667"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño contenido fuentes y más",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/175/b1ddb6c63704d8c84e48b1dcf4162140/master.m3u8?1685644688"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño contenido fuentes y más 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/176/db1d7d557f3a36f960a995096166481d/master.m3u8?1685644714"
+                },
+                {
+                    "id": null,
+                    "title": "Inserción de activos y detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/177/2863e3dfa704fa12f136267779fb8c84/master.m3u8?1685644748"
+                },
+                {
+                    "id": null,
+                    "title": "Inserción de activos y detalles 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/178/4bf761b1db3f99981a9eeeb579b486d6/master.m3u8?1685644768"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g9ldwr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pulido y presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Verificación de consistencia pulido de diseño y ensayo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/194/fd2c4fab3ab4319b8932e3a12b1cc1a3/master.m3u8?1685721999"
+                },
+                {
+                    "id": null,
+                    "title": "Cosas a tener en cuenta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/195/366d98137d3af26a1f8a85b62e7cc9ab/master.m3u8?1685722153"
+                },
+                {
+                    "id": null,
+                    "title": "hablando con confianza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/196/a4004b98ad83f3f2939ec55f6f380096/master.m3u8?1685722193"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wdenz7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/dx0id1.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4918,
+        "product_name": "Presentation Design for Creatives",
+        "teacher_name": "Zach Grosser",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 11534,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "id": "2033",
+    "title": "Dirección de arte para la industria de la moda",
+    "url": "https://www.domestika.org/es/courses/2033-direccion-de-arte-para-la-industria-de-la-moda/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/469/3f899652008c7e061a1e13e47fa48a53/master.m3u8?1676396100"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/470/31b7fb8dca8dcfb522cd5c0e040e69b2/master.m3u8?1676396101"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1ssd4i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de la dirección de arte para la moda",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El papel del director de arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/471/62b15e3d14eb46ad964f794d1dba36fa/master.m3u8?1676396102"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de tendencias de moda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/472/f6d25b96750f0511f68aec053d517114/master.m3u8?1676396103"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2xs07p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ideación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Objetivo contexto y narración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/473/10ededd6e103272dcd927e2d03199425/master.m3u8?1676396108"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/476/b08574bc0c6381c1173e01ba6c76883a/master.m3u8?1676396107"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/17pofv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo crear tu presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Planificación de tus disparos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/479/88de1d21fe1fd07c9999412df52f7591/master.m3u8?1676396108"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de tus disparos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/481/c681bc5667abcafead0f77935ca7bea7/master.m3u8?1676396110"
+                },
+                {
+                    "id": null,
+                    "title": "Tu equipo de ensueño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/483/e9abf6d827cb8cae9158d7652adf2f3c/master.m3u8?1676396108"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ifpxj1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Resumen del documento final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/484/a1b6d794eb9cb7c009c00b62dcef3c2c/master.m3u8?1676396109"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos y trucos para una campaña exitosa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/486/c7db966d47670481361b603bc2bfd3a8/master.m3u8?1676396112"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s4fs27.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/anjlq6.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2033,
+        "product_name": "Art Direction for the Fashion Industry",
+        "teacher_name": "Manuel Ridocci",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 3656,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

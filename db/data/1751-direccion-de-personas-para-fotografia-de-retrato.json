@@ -1,0 +1,163 @@
+{
+    "id": "1751",
+    "title": "Dirección de personas para fotografía de retrato",
+    "url": "https://www.domestika.org/es/courses/1751-direccion-de-personas-para-fotografia-de-retrato/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/156/bdf5360a2346b6c1b3b851af98e80e4f/master.m3u8?1676392251"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/157/98429869ba64fb61d7145ff6763f58ab/master.m3u8?1676392246"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/158/eceec39b92d811a51e960edeaddf14f9/master.m3u8?1676392249"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jov772.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conectarse con personas y prepararse para una sesión de fotos de retrato",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Investigación briefing y mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/159/9a1f8a1b1eeeac3bd9dd526515d213fc/master.m3u8?1676392247"
+                },
+                {
+                    "id": null,
+                    "title": "Ubicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/160/a9ec43223ebee2ce597a806fed2f6cdc/master.m3u8?1676392254"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo luz y su plan B",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/161/8af95ca4af6fead08a74091dfa0f2847/master.m3u8?1676392247"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer un tablero de lenguaje corporal expresiones faciales y poses",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/162/0e66a96c8dd2fd6a30bec911c196a751/master.m3u8?1676392249"
+                },
+                {
+                    "id": null,
+                    "title": "Entender las emociones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/163/375d4d2c908ae813a5e06fdc4d9d9f2e/master.m3u8?1676392249"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pt6ltj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sesión de fotos todas las tomas en la ubicación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Antes del shooting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/164/9beca5502d448f9093357fa527b68186/master.m3u8?1676392250"
+                },
+                {
+                    "id": null,
+                    "title": "Posicionamiento en el plató",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/165/9d8a93832b37e20b1b8efd3d3369cc61/master.m3u8?1676392250"
+                },
+                {
+                    "id": null,
+                    "title": "Shooting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/166/1628d8708af5f781c2b5999686a6bf97/master.m3u8?1676392253"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t28qg9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Transferencia y edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/167/64d6e9079567ae0eb4616f9f764e92bc/master.m3u8?1676392254"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque de imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/168/f4be945f2a6f7b70b62ec5981a3734da/master.m3u8?1676392258"
+                },
+                {
+                    "id": null,
+                    "title": "Entrega y consejos profesionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/169/f96389098f6c32474f96b0e5fd65082d/master.m3u8?1676392251"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s4namb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7bhe7m.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1751,
+        "product_name": "Directing People for Portrait Photography",
+        "teacher_name": "Emilia Brandão",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6749,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

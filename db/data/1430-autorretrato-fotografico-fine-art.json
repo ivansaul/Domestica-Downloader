@@ -1,0 +1,168 @@
+{
+    "id": "1430",
+    "title": "Autorretrato fotográfico Fine Art",
+    "url": "https://www.domestika.org/es/courses/1430-autorretrato-fotografico-fine-art/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/175/ca9bf50c3194f38ec6d2f404c1a9a970/master.m3u8?1676391321"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/176/faac8e43ce7b2c04a12ac153a1582b67/master.m3u8?1676391319"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/177/3fd8a415a94866a79eedcf1e6a436cac/master.m3u8?1676391316"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/udfnkx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Planificación de imágenes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Equipo fotográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/170/23175812dd7eb2324d0f6b792c1a73ef/master.m3u8?1676391314"
+                },
+                {
+                    "id": null,
+                    "title": "Scripting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/171/bc54ca029bee68303f0b1ae39b5d829c/master.m3u8?1676391314"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de intención",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/172/74dad8c02ad092720fff166a4ec12c6c/master.m3u8?1676391315"
+                },
+                {
+                    "id": null,
+                    "title": "Referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/173/5e03fdd98c5df09210f7d67a3c7a5362/master.m3u8?1676391316"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es el autorretrato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/174/0621df72f229bc41c0a211b646a6cec2/master.m3u8?1676391316"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hawrku.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejecución",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Establecer posicionamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/178/7db91a0277163c673fdadbd3cc34a66c/master.m3u8?1676391318"
+                },
+                {
+                    "id": null,
+                    "title": "Experimentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/179/5c3d4213a61d382cd06412c1d5d3b0d8/master.m3u8?1676391318"
+                },
+                {
+                    "id": null,
+                    "title": "Aprende de tus errores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/186/a8f2099d988374de422c5c3811342d2e/master.m3u8?1676391321"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8u2cbr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción y mercado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Curaduría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/181/029269b43410925eebc34b3bdb212550/master.m3u8?1676391318"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes iniciales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/182/714231719f64a97f6a0e30d36221750c/master.m3u8?1676391321"
+                },
+                {
+                    "id": null,
+                    "title": "Edición creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/183/d6a7682e07e7885bb7a34e30a5081034/master.m3u8?1676391321"
+                },
+                {
+                    "id": null,
+                    "title": "Posibles caminos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/184/3d76903e8b23cc68b09c90d52c1c2862/master.m3u8?1676391324"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m8jhuc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4btnls.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1430,
+        "product_name": "Fine Art Self-Portrait Photography",
+        "teacher_name": "Danny Bittencourt",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8617,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

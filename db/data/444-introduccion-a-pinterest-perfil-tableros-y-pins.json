@@ -1,0 +1,175 @@
+{
+    "id": "444",
+    "title": "Introducción a Pinterest perfil tableros y pins",
+    "url": "https://www.domestika.org/es/courses/444-introduccion-a-pinterest-perfil-tableros-y-pins/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Hola a todo el mundo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/480/84d0b17624c4c0530a7fd7c23fc7ddac/master.m3u8?1676384951"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/846/46f113329aa5a76933bb79154214a46a/master.m3u8?1676385102"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fszxuv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Contexto aplicaciones y usos de Pinterest",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es Pinterest",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/515/e663c3f3d346164ef2eae6e462b93ea4/master.m3u8?1676384965"
+                },
+                {
+                    "id": null,
+                    "title": "Por qué te interesa Pinterest",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/516/3ce7d0bef50f183d1b42719b211390f0/master.m3u8?1676384967"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pxruzv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos en Pinterest",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo crear el perfil y tableros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/517/62cdd324a793f9acc45b985132b9b8f4/master.m3u8?1676384967"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es y cómo se añade un Pin",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/518/4191437692c2ec5ecf64f747398d2c42/master.m3u8?1676384965"
+                },
+                {
+                    "id": null,
+                    "title": "Tableros grupales y sacar provecho de ellos Tableros secretos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/519/f50038fa1b5681ceccc84fd6132a4d4a/master.m3u8?1676384965"
+                },
+                {
+                    "id": null,
+                    "title": "Novedades tips y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/520/b25b2f88c4f5d70fe1dbbdf885cead3e/master.m3u8?1676384968"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t9gyxw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo crear el Pin perfecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Características del pin perfecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/521/83ed6e9088d60462eab16b2c3de532cb/master.m3u8?1676384966"
+                },
+                {
+                    "id": null,
+                    "title": "SEO",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/522/feeb208cdab7e9befeb851bc3ec84abe/master.m3u8?1676384967"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas para programar un pin",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/523/5d0c2c1a31e4c210f3ab9f459f92aae8/master.m3u8?1676384966"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dnnh7d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo sacarle el máximo partido a tu Pinterest",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pinterest como herramienta de venta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/524/347c5bbc64ae7c9600d447d62d6df4ac/master.m3u8?1676384967"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/525/1782201a703a930dc222ccaf5111dd61/master.m3u8?1676384967"
+                },
+                {
+                    "id": null,
+                    "title": "Pinstrosity los desastres de Pinterest",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/526/4a3ba51ea68345554e11dc441a93ec44/master.m3u8?1676384968"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z9ih32.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/btae2x.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 444,
+        "product_name": "Introduction to Pinterest: Profile, Boards, and Pins",
+        "teacher_name": "Natalia Escaño",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4674,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

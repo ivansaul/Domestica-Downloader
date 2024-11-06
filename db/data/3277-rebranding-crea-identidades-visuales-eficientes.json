@@ -1,0 +1,163 @@
+{
+    "id": "3277",
+    "title": "Rebranding crea identidades visuales eficientes",
+    "url": "https://www.domestika.org/es/courses/3277-rebranding-crea-identidades-visuales-eficientes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Vivir para el diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/351/d6583318381aa5c16cbc3dc4895232c5/master.m3u8?1676403947"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/353/74e33eee46cf5fffde6cdf8d73af3c6e/master.m3u8?1676403948"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ehxz8q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Rediseño de identidad visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño forestal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/363/2c1007db69096f1a079e88e35e0c090c/master.m3u8?1676403952"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es la identidad visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/364/ad19f20e4c2dd1392d42763409cca82a/master.m3u8?1676403952"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/605swr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inmersión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/383/e5255bb822f260cc1b89288f8c914b95/master.m3u8?1676403960"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/384/c34bb40b780905979c160cefb751a520/master.m3u8?1676403960"
+                },
+                {
+                    "id": null,
+                    "title": "Logo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/385/b66c453ed4dd101a1d7a6c77091d4e69/master.m3u8?1676403961"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/386/9947894db156a6f5b6e4002effdf65aa/master.m3u8?1676403962"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/387/29ca946bfa607ae2d81ea07564a1ba9e/master.m3u8?1676403963"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/388/e5b87c6133f8cc48ec575c3c558e9de8/master.m3u8?1676403963"
+                },
+                {
+                    "id": null,
+                    "title": "Gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/389/5caf6599cb637f7858683cda16e9b0ba/master.m3u8?1676403963"
+                },
+                {
+                    "id": null,
+                    "title": "Imágenes clave",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/390/9c908e043345e8b33b20ec7e4adb325b/master.m3u8?1676403963"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2p665m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicación y presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/392/049904a22d7e4a6b2f8727b77293c1fe/master.m3u8?1676403964"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/393/feeeaa46cc7ec1af6436e83284b94f87/master.m3u8?1676403965"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bsdw02.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/bnbtiu.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3277,
+        "product_name": "Rebranding: Create Powerful Visual Identities",
+        "teacher_name": "Foresti Design",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 3903,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

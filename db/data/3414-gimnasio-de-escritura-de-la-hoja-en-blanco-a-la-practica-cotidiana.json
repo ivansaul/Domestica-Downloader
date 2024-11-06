@@ -1,0 +1,155 @@
+{
+    "id": "3414",
+    "title": "Gimnasio de escritura de la hoja en blanco a la práctica cotidiana",
+    "url": "https://www.domestika.org/es/courses/3414-gimnasio-de-escritura-de-la-hoja-en-blanco-a-la-practica-cotidiana/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/910/aa22f170cbef3a48938fb349244d13a5/master.m3u8?1706182219"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/911/2fb9d8dea902a39b176971a0cedbcff0/master.m3u8?1706182330"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e5ph9g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La práctica de la escritura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/912/7f6c55984ddf9ebec8fc4e6688db13b5/master.m3u8?1706182383"
+                },
+                {
+                    "id": null,
+                    "title": "El mindset escribir es como hacer deporte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/913/bc353709bc9cbd8decc8867bf490098e/master.m3u8?1706182778"
+                },
+                {
+                    "id": null,
+                    "title": "Las etapas del proceso de escritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/914/12e3cd745e5ec832236e087f12488d82/master.m3u8?1706182841"
+                },
+                {
+                    "id": null,
+                    "title": "De dónde sacar ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/915/031555edbbb26b9bdc23d83c747507fd/master.m3u8?1706182872"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qb5h1a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tu cuaderno de ejercicios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ejercicios para generar ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/916/32adfa6ce318ebabc083c52fb5cce5e7/master.m3u8?1706182947"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios para documentar la vida cotidiana",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/917/4cfd62f87a14e0171e414998a11ee2d1/master.m3u8?1706183001"
+                },
+                {
+                    "id": null,
+                    "title": "Jugando con la imaginación escritura cronometrada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/918/baae5c475b997e48d892d29caf9fe154/master.m3u8?1706183038"
+                },
+                {
+                    "id": null,
+                    "title": "Jugando con la imaginación disparadores y consignas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/919/65b6addcdccc6b18c41c35faab808a69/master.m3u8?1706183068"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qttjoj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué hacer con lo que escribiste en tu cuaderno",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Y ahora qué",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/920/c970a5dd260b6523cfe0eb6e697a7b98/master.m3u8?1706183153"
+                },
+                {
+                    "id": null,
+                    "title": "Tu voz propia descubriendo lo que querés contar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/921/b9bac0cb8e73a39d1b64bb0614d38fab/master.m3u8?1706183186"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tqu3aj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/gtjy76.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3414,
+        "product_name": "Writing Exercises: From the Blank Page to Everyday Practice",
+        "teacher_name": "Aniko Villalba",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5696,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

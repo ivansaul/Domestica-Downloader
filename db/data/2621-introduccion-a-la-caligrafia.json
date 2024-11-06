@@ -1,0 +1,225 @@
+{
+    "id": "2621",
+    "title": "Introducción a la caligrafía",
+    "url": "https://www.domestika.org/es/courses/2621-introduccion-a-la-caligrafia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/875/56c562ad2ee5acde6606e71d9330188e/master.m3u8?1676398978"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/876/37cd779a7ab79ab0666e8621c9256f00/master.m3u8?1676398978"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/flursc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empezar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/878/0d3f176212b40db44bcd76c1c9dbbd73/master.m3u8?1676398982"
+                },
+                {
+                    "id": null,
+                    "title": "Prepara la punta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/879/c3f0d9d04bfa044fd9fe5632e96dfdea/master.m3u8?1676398979"
+                },
+                {
+                    "id": null,
+                    "title": "Trazar las guías en papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/880/13ecf6ae387c49e66974228b2aa8a24d/master.m3u8?1676398982"
+                },
+                {
+                    "id": null,
+                    "title": "Postura y movimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/897/c101f1c80112e824fd223f6d7c19e42a/master.m3u8?1676398995"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0ydm1n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De las líneas al alfabeto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Línea de base en minúsculas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/881/79e31962fcb27346fb786c5d02dcd90e/master.m3u8?1676398982"
+                },
+                {
+                    "id": null,
+                    "title": "Líneas de base en minúsculas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/882/3773a47888964f597924ac75fedfdc56/master.m3u8?1676398984"
+                },
+                {
+                    "id": null,
+                    "title": "Alfabeto letras minúsculas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/883/61e7ec73f713a47944245fd7a239b571/master.m3u8?1676398984"
+                },
+                {
+                    "id": null,
+                    "title": "Alfabeto letras minúsculas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/884/33f95b5b9a158588e7a4e9f33d282506/master.m3u8?1676398984"
+                },
+                {
+                    "id": null,
+                    "title": "Alfabeto letras minúsculas 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/885/30fb5bd34a2391ce556c6b70f0e80377/master.m3u8?1676398984"
+                },
+                {
+                    "id": null,
+                    "title": "Líneas de capital para mayúsculas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/886/ff98872ab9d0c91c7739c15ba43e97ee/master.m3u8?1676398985"
+                },
+                {
+                    "id": null,
+                    "title": "Alfabeto letras mayúsculas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/890/300d2f3eb7d2035ac40c5f8aa2afa2a9/master.m3u8?1676398990"
+                },
+                {
+                    "id": null,
+                    "title": "Alfabeto letras mayúsculas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/889/ae97dfc303d52c7c0eb522b77cddd845/master.m3u8?1676398991"
+                },
+                {
+                    "id": null,
+                    "title": "Alfabeto mayúsculas 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/888/fdf68baa8f308aa05d8747ca5db417c6/master.m3u8?1676398988"
+                },
+                {
+                    "id": null,
+                    "title": "Alfabeto letras mayúsculas 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/887/4510472563bbb7eb8c39ecb4b169711b/master.m3u8?1676398985"
+                },
+                {
+                    "id": null,
+                    "title": "Números y caracteres especiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/900/6f9e208bc3d61f8b551a8b25799e97ac/master.m3u8?1676398996"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/547von.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Palabras y frases",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ligaduras 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/891/674fdaee92357cfbe59a45484e98e9b8/master.m3u8?1676398990"
+                },
+                {
+                    "id": null,
+                    "title": "Ligaduras 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/892/0aef8234d4e1c848bbe931c3465769b4/master.m3u8?1676398987"
+                },
+                {
+                    "id": null,
+                    "title": "Escribe una palabra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/893/adf9f37d5b1f9fea94106f696e7c67a1/master.m3u8?1676398986"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo escribir una oración completa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/894/8c3dd64b8fbba8b861cf99105abc391f/master.m3u8?1676398987"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6nipnp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El toque final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elementos decorativos floreciente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/895/dac4143cba1b5ee7e62b27121ad0395b/master.m3u8?1676398993"
+                },
+                {
+                    "id": null,
+                    "title": "Prepara un sobre para una invitación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/896/f9a5fe33dc30470c3030fd66f47df063/master.m3u8?1676398991"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos especiales con tinta y papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/899/ba0f141737d2e8a7b8f1a1ca07f0a199/master.m3u8?1676399000"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6tzayf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cnbfah.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2621,
+        "product_name": "Introduction to Calligraphy",
+        "teacher_name": "Giorgio Gaetani",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 19124,
+        "total_units": 5,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

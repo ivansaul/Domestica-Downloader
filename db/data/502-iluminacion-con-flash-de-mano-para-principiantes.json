@@ -1,0 +1,168 @@
+{
+    "id": "502",
+    "title": "Iluminación con flash de mano para principiantes",
+    "url": "https://www.domestika.org/es/courses/502-iluminacion-con-flash-de-mano-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/015/507a2da37f4f565e9134413218ced4bc/master.m3u8?1676384802"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/016/a3dfe6f1f0ce20ecc92bcd55173d8327/master.m3u8?1676384804"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xrbj9p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La luz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo percibimos la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/017/6c483f2710ea4cddfbefa5121660e720/master.m3u8?1676384803"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es la luz dura y la luz difusa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/018/87a503d636164d9d8b6279203878416f/master.m3u8?1676384802"
+                },
+                {
+                    "id": null,
+                    "title": "Los 7 tipos de iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/019/a1c3483854ef1b569be0bb56aba30588/master.m3u8?1676384805"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w6cud0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El flash",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el Flash y cómo funciona",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/038/501518b3389a7d7176fc1b696a230345/master.m3u8?1676384807"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo destella el flash",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/039/58a2964216f62afca437437f3e838666/master.m3u8?1676384816"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo controlar el flash",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/040/1be8a9400163d683ad5f29a907aadabd/master.m3u8?1676384814"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo combino el flash con  la luz continua",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/041/172ef8ae39a68478a57c457c2e2d5edc/master.m3u8?1676384811"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo pierde intensidad la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/572/47143c2d6315da2084d8ff3b511f290d/master.m3u8?1676384987"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l78053.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modificadores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los rebotes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/316/cf65a10241d35d206d09563af4e848e3/master.m3u8?1676384900"
+                },
+                {
+                    "id": null,
+                    "title": "Los difusores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/317/e59e02e7a08298bd3efa0e23b6941d6c/master.m3u8?1676384901"
+                },
+                {
+                    "id": null,
+                    "title": "Las banderas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/318/34bad181d5ab7a5f9c9c0a7192735d51/master.m3u8?1676384895"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo crear luces de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/319/559b033196df74ee0dc8c6a44e3044c5/master.m3u8?1676384900"
+                },
+                {
+                    "id": null,
+                    "title": "BONUS Cómo iluminar un objeto con flash",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/320/6a50b84f4fbb1c8c9a9136b991df4233/master.m3u8?1676384896"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xvk0e7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/bxf9l3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 502,
+        "product_name": "Flash Photography and Artificial Lighting for Beginners",
+        "teacher_name": "Zony Maya",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 11563,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

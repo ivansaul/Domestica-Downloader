@@ -1,0 +1,178 @@
+{
+    "id": "1009",
+    "title": "Introducción al brush lettering",
+    "url": "https://www.domestika.org/es/courses/1009-introduccion-al-brush-lettering/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Quién es James Lewis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/713/a58b495a735389ae3bd2fa3700ce8d8e/master.m3u8?1676389768"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/714/718030f55eeb50e6c0cfbade7834c527/master.m3u8?1676389763"
+                },
+                {
+                    "id": null,
+                    "title": "Lo que haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/715/3409abf6d505d2dae9ded6f956d6c790/master.m3u8?1676389764"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dd08r6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos de las letras de pincel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y tecnica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/716/b27135d2a005c3a01e47903939feb8d9/master.m3u8?1676389765"
+                },
+                {
+                    "id": null,
+                    "title": "Caligrafía Letras y Diseño de Tipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/717/794f261bbf92ca6a35ebdad4efbe1532/master.m3u8?1676389765"
+                },
+                {
+                    "id": null,
+                    "title": "Una introducción a Brush Lettering  The Brush Pen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/718/fd70bd0f4f1becdc4c2cfb943c6f7e72/master.m3u8?1676389766"
+                },
+                {
+                    "id": null,
+                    "title": "Comenzando con un pincel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/719/780132e04c0c486eb923e18d11ce5ddf/master.m3u8?1676389769"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollando tus habilidades con un pincel  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/720/43c3c43a8d48d460313bba5a5dd4474b/master.m3u8?1676389771"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollando tus habilidades con un pincel  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/721/9887c063d53370d7e57525ff79b82904/master.m3u8?1676389771"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollando tus habilidades con un pincel  Parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/722/23346dd0cf0cb9070a27b5ca16215aa7/master.m3u8?1676389773"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mgh8zr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pincel letras un logotipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Logotipos breves y personalizados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/723/bb1386ec427c345d6d7a6db59827cf3a/master.m3u8?1676389772"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de pintura de logotipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/724/4276ec99e324c10704c0156a307064f1/master.m3u8?1676389767"
+                },
+                {
+                    "id": null,
+                    "title": "Replicando el logotipo de Coca Cola  The Brush Brush",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/725/9c1a576a9b9487667b3491fe2ba37a6d/master.m3u8?1676389773"
+                },
+                {
+                    "id": null,
+                    "title": "Replicar el logotipo de Champion un enfoque diferente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/726/09ee166c38ff11ba14aea6e408eaba04/master.m3u8?1676389773"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qhrelr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ir más lejos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Barnizar y enmarcar nuestro trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/727/d5e541faee8b9e7615ce22a14018d4c9/master.m3u8?1676389770"
+                },
+                {
+                    "id": null,
+                    "title": "De lo analógico a lo digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/728/34b7adb72e6fe9441afdf59d7a6610dd/master.m3u8?1676389769"
+                },
+                {
+                    "id": null,
+                    "title": "Exhibiendo tu trabajo y construyendo una audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/729/33901dd06567a18e7867980f9b0d7878/master.m3u8?1676389771"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tj00n1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ma624f.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1009,
+        "product_name": "Introduction to Brush Lettering",
+        "teacher_name": "James Lewis",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 8922,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

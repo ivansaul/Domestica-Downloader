@@ -1,0 +1,163 @@
+{
+    "id": "1735",
+    "title": "Retrato fotográfico analógico crea atmósferas únicas",
+    "url": "https://www.domestika.org/es/courses/1735-retrato-fotografico-analogico-crea-atmosferas-unicas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/369/21d3bd2c39dbc95c29b49ef8d57eb412/master.m3u8?1676393914"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/370/8601c2cb06cdb86273483d9bd0cc0552/master.m3u8?1676393912"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/385/956312805169faab93988e32a16cb564/master.m3u8?1676393922"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oowcli.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De lo básico a lo técnico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cámaras películas y técnica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/371/0911d9cad27468e822d0d2f6d55e189a/master.m3u8?1676393918"
+                },
+                {
+                    "id": null,
+                    "title": "Selección del equipo filtros y cámaras analógicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/372/e59cdcc46e647660bf6a3c2c20a05a60/master.m3u8?1676393917"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación y mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/373/a232a949e166ca2e834bfa0f2b8d4533/master.m3u8?1676393925"
+                },
+                {
+                    "id": null,
+                    "title": "Ubicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/374/f6ed89526ee55f49b25a898517f969bf/master.m3u8?1676393919"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/66itqi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollando nuestra sesión de fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elegir el fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/376/f97ee3db9c32ccca2651c9cdadad1b18/master.m3u8?1676393919"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando el material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/377/562f1d1cc4ec96393ee064c04e8b438d/master.m3u8?1676393918"
+                },
+                {
+                    "id": null,
+                    "title": "Iniciar la sesión de fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/378/404d5e601a3db792b041ac2c330ddcb2/master.m3u8?1676393921"
+                },
+                {
+                    "id": null,
+                    "title": "Marcos y composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/379/cddedee7cdbfd6ae470b29a336434521/master.m3u8?1676393933"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s4o314.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Escanear editar y crear su carpeta de trabajos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollo y escaneo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/380/206e2a6443c7e703688be9e5ee997de5/master.m3u8?1676393920"
+                },
+                {
+                    "id": null,
+                    "title": "Selección y edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/381/f411492007744f7603ebfef2e7cff496/master.m3u8?1676393923"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de un portafolio y consejos útiles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/382/54fe70425f663b83f246ff74c60d7f57/master.m3u8?1676393923"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c2yvk0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/5sbfze.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1735,
+        "product_name": "Analog Portrait Photography: Creating Unique Atmospheres",
+        "teacher_name": "Maria Louceiro",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6928,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

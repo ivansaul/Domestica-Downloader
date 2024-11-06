@@ -1,0 +1,192 @@
+{
+    "id": "1693",
+    "title": "Creación de un podcast desde cero",
+    "url": "https://www.domestika.org/es/courses/1693-creacion-de-un-podcast-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/247/cc22fff5c0bb7d52baac20d43df59284/master.m3u8?1676393369"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/248/2e5f5801aa51f9ff40f8ff8205863e44/master.m3u8?1676393369"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/249/705e365a5dfc4e85343f4b905948637f/master.m3u8?1676393367"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4gj89q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué es el podcast y para qué sirve",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El nacimiento del podcasting y su evolución hasta nuestros días",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/250/d4acb8d30afc5976c10489f099af0fc3/master.m3u8?1676393369"
+                },
+                {
+                    "id": null,
+                    "title": "El podcast y la radio son lo mismo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/251/2a291d52c036f5a8b8c6b5b5dd9a73ac/master.m3u8?1676393370"
+                },
+                {
+                    "id": null,
+                    "title": "Las funciones del podcasting y qué necesito para ello",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/252/12ac0804bab98a3fd09fe0c0b96f79f6/master.m3u8?1676393372"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fk9xm0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La creación del podcast",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elección de la temática",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/253/1606ccef9c6abe78342d35d10f8a978f/master.m3u8?1676393370"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del formato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/254/608f7d2cb1fc5e19a4a946f1fee3a027/master.m3u8?1676393371"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo elaborar un guion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/255/e74f2fb02f3310c8ed03ad9ffc9c5b5c/master.m3u8?1676393370"
+                },
+                {
+                    "id": null,
+                    "title": "Improvisación vs preparación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/256/f0c8ecb269a0c8e30be86ceb3926c3d0/master.m3u8?1676393373"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/glron5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La locución y grabación del podcast",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparando el equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/257/28cabb256f2b5792c0986470fb7220d3/master.m3u8?1676393378"
+                },
+                {
+                    "id": null,
+                    "title": "Silencio se graba",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/258/1c9a02f044be6bcce652e3ad9e16043d/master.m3u8?1676393373"
+                },
+                {
+                    "id": null,
+                    "title": "Edición y finalización del podcast",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/259/ce3d5e1ce2abd79f89f011681209f92d/master.m3u8?1676393376"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w1gw1q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Saliendo al mundo la difusión de tu podcast",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las plataformas de hosting y de podcasting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/260/b7252dfb05f0fb86b496e9ad11f9ee3e/master.m3u8?1676393376"
+                },
+                {
+                    "id": null,
+                    "title": "Redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/261/25e9b4a885747841e37d65b912814601/master.m3u8?1676393378"
+                },
+                {
+                    "id": null,
+                    "title": "Biblioteca de sonidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/262/c03f926caa11aa1adac5bb1102a30826/master.m3u8?1676393375"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/263/de8e32a3aed77a6f0fd67b517c2e474d/master.m3u8?1676393378"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ifa64j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/g6y2tz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1693,
+        "product_name": "Podcast Creation for Beginners",
+        "teacher_name": "David Mulé Rebecchi",
+        "category_id": 19,
+        "category_name": "Music & Audio",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 6026,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "id": "221",
+    "title": "Diseño de información para lectores curiosos",
+    "url": "https://www.domestika.org/es/courses/221-diseno-de-informacion-para-lectores-curiosos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/186/b9bd95f73551448fd1ff399b2133666b/master.m3u8?1676383060"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/187/5498ce2ef2ae95fb1cb418056e3cbf63/master.m3u8?1676383065"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/equiv3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La esquemática aspectos generales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la esquemática",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/188/608b1d6f691aa9fc26db5a68a0eacc0b/master.m3u8?1676383062"
+                },
+                {
+                    "id": null,
+                    "title": "Niveles de iconicidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/189/81da6797a0057fb3810cca11786652f6/master.m3u8?1676383062"
+                },
+                {
+                    "id": null,
+                    "title": "Modos de visualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/190/c8fc0f8758152fe6a49a71b5113b80a2/master.m3u8?1676383062"
+                },
+                {
+                    "id": null,
+                    "title": "Un ámbito altamente codificado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/191/b3b7979dbb9f7ecfb9e4dd6ed878dff2/master.m3u8?1676383068"
+                },
+                {
+                    "id": null,
+                    "title": "Códigos y sus repertorios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/192/ca9b743b8141014b21edbe8ea9aee5fa/master.m3u8?1676383064"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fp1t2u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Zona de entrenamiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las formas textuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/193/4d93a2957c4605b0aae8ace9b06fc2dd/master.m3u8?1676383072"
+                },
+                {
+                    "id": null,
+                    "title": "Analizando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/194/3f0fa627acb3712d62e39ca91310a51f/master.m3u8?1676383066"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qkuzha.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La biografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Armando un esquema paso a paso los contenidos su edición y manipulación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/195/bbe50fa6d9c6ef217c907613ed93ab26/master.m3u8?1676383068"
+                },
+                {
+                    "id": null,
+                    "title": "La forma general la totalidad el layout",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/196/90bc22ac2f5b51d83fe47aa2502d8d52/master.m3u8?1676383066"
+                },
+                {
+                    "id": null,
+                    "title": "La representación del tiempo y el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/197/0075b11d8e800a7d9b9d5a9e4abdf2b2/master.m3u8?1676383070"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajo en capas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/198/b76c5f2cdc21de50b2e0e12e65c6c35a/master.m3u8?1676383065"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar complejidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/199/569ec0126d92b8adcecfeddc1fa9609b/master.m3u8?1676383065"
+                },
+                {
+                    "id": null,
+                    "title": "La tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/200/c554068fdf7c61d26652c85f57ce0905/master.m3u8?1676383067"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ovw4x0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/00p5x3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 221,
+        "product_name": "Information Design for Curious Readers",
+        "teacher_name": "Trineo",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 6574,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

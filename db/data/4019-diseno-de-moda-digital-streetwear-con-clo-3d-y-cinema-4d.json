@@ -1,0 +1,225 @@
+{
+    "id": "4019",
+    "title": "Diseño de moda digital streetwear con CLO 3D y Cinema 4D",
+    "url": "https://www.domestika.org/es/courses/4019-diseno-de-moda-digital-streetwear-con-clo-3d-y-cinema-4d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/601/9b21e682c91ca2b7334f37900831a68b/master.m3u8?1676298935"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/602/31b1fd3d1acbc32e70d5d8f0cfb28079/master.m3u8?1676298940"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0d63a3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fase de investigación y bocetaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Investigación para el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/603/a2522910facd1a2dd61d9431f81bcc95/master.m3u8?1676367583"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board y boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/604/a8da792c49e2a767f2c779abcb64c9a1/master.m3u8?1676298938"
+                },
+                {
+                    "id": null,
+                    "title": "El avatar del ciclo de caminata",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/605/0c4c147e21d13b721229307b7c861112/master.m3u8?1676298934"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hiqkx5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de la prenda digital",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La parte inferior de la prenda 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/606/5a630434f58f97c3bb8436880f2aaa43/master.m3u8?1676298942"
+                },
+                {
+                    "id": null,
+                    "title": "La parte inferior de la prenda 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/607/8feb4f64d6c3670e537c29465f98a96d/master.m3u8?1676298952"
+                },
+                {
+                    "id": null,
+                    "title": "La parte superior de la prenda 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/608/b2d4289ad70931f09cae056114f27c0a/master.m3u8?1676298939"
+                },
+                {
+                    "id": null,
+                    "title": "La parte superior de la prenda 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/609/d2cdfb205ff046af4ac1a100ed5103f6/master.m3u8?1676298941"
+                },
+                {
+                    "id": null,
+                    "title": "Organizando el Mapa UV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/610/f927c2987fdf61cde0efa474b186f697/master.m3u8?1676298940"
+                },
+                {
+                    "id": null,
+                    "title": "Simulando el movimiento en el avatar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/611/f39606670b852cb3dbaa821dcce5efa3/master.m3u8?1676298948"
+                },
+                {
+                    "id": null,
+                    "title": "Exportando en OBJ y ABC",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/612/30fd7542e3f83eb647ead507aff2b991/master.m3u8?1676298942"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas con Adobe Substance 3D Painter 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/613/b50b12707e3eaaed1b49b4d149b7e1c7/master.m3u8?1676367763"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas con Adobe Substance 3D Painter 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/614/52935a04e67891d721632a42d6f11898/master.m3u8?1676298939"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a27keq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Agregar la escena 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El ajuste preestablecido de escena y cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/615/f4469e18c7c908bcf3d6787c179a9887/master.m3u8?1676298942"
+                },
+                {
+                    "id": null,
+                    "title": "Importación de activos en Cinema 4D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/616/6fb97b3afd40d223bba92e30ebd6a68c/master.m3u8?1676298945"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas de Cinema 4D a Redshift",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/617/2e4173b117131a8af414740822732e0d/master.m3u8?1676298947"
+                },
+                {
+                    "id": null,
+                    "title": "Redshift texturizar el entorno 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/618/fab7bd0e2d945e633044f3490cca64b5/master.m3u8?1676368099"
+                },
+                {
+                    "id": null,
+                    "title": "Redshift Texturizando el Entorno 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/619/9b6eabbf4a8ebd5668cf5f817e23480a/master.m3u8?1676298944"
+                },
+                {
+                    "id": null,
+                    "title": "Redshift iluminando la escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/620/cfabe705596203eafd3bc540942cd7e1/master.m3u8?1676298946"
+                },
+                {
+                    "id": null,
+                    "title": "Renderizado y exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/621/0817bec275d099a607425c8993739d15/master.m3u8?1676298946"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jg6x1s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción y creación de bucles de ciclo de caminata",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Corrección de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/622/a3c1f26d546aa5db3e7b0ee1f1eed9c0/master.m3u8?1676298947"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de un bucle con After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/623/5759ede5a75409a4bf17ad5940e5bb83/master.m3u8?1676298947"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación desde After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/624/b7008743695323c7c451846270c477fe/master.m3u8?1676298941"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z4ypsn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/84kmv2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4019,
+        "product_name": "Digital Streetwear Design in CLO 3D and Cinema 4D",
+        "teacher_name": "Stephy Fung",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 13043,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "3141",
+    "title": "Cómo mostrarte y compartir tu trabajo con el mundo",
+    "url": "https://www.domestika.org/es/courses/3141-como-mostrarte-y-compartir-tu-trabajo-con-el-mundo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción Conozcámonos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/299/3846e04bc8541aa6c117d74fba149b02/master.m3u8?1676412661"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración motivación y modelos a seguir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/300/a6fa88f6efd5ec2dfd8ee90b5f122c21/master.m3u8?1676412659"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ecgluu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tu mentalidad de visibilidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué mostrarte a ti mismo y tu trabajo al mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/301/dd59197a7ab063fdfe76cc3d0c0f93a6/master.m3u8?1676412665"
+                },
+                {
+                    "id": null,
+                    "title": "Qué crees acerca de aparecer 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/302/2302a2a59318cb0ca3a9616ca0404a1b/master.m3u8?1676412662"
+                },
+                {
+                    "id": null,
+                    "title": "Qué crees acerca de aparecer 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/303/876c7bc33d1ffafa73b7f5c90ae92e0d/master.m3u8?1676412663"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo hablar de uno mismo y de su trabajo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/304/3a964d4b23ea46126d74bba01e0d7f05/master.m3u8?1676412665"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo hablar de uno mismo y de su trabajo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/305/fbbf11fe8b89032d38a4c8a3aef61783/master.m3u8?1676412665"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0w6l84.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mostrándote al mundo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tu manifiesto de visibilidad para aparecer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/306/8e11c102a97a1744830cbd68165ff13a/master.m3u8?1676412674"
+                },
+                {
+                    "id": null,
+                    "title": "Tu buena audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/307/6f2787f9e85b74a4d0e421a180592822/master.m3u8?1676412668"
+                },
+                {
+                    "id": null,
+                    "title": "Cuatro experimentos de visibilidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/308/9174736d4dee079364be7a3dcea4b86a/master.m3u8?1676412670"
+                },
+                {
+                    "id": null,
+                    "title": "Mostrando tu trabajo rutinas rituales y hábitos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/309/76f9b99de272a0d89668c0abb7942012/master.m3u8?1676412673"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hp9qzd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis de estudio de caso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/310/41a1ac71cee0088a5fb26927d1b092e1/master.m3u8?1676412666"
+                },
+                {
+                    "id": null,
+                    "title": "Una nota final sobre presentarse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/311/2f4a76064c67c719f02af2370ea1d668/master.m3u8?1676412666"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kwjtxt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/pdl7ao.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3141,
+        "product_name": "How to show yourself and your work to the world",
+        "teacher_name": "Lauren Currie",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 9414,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

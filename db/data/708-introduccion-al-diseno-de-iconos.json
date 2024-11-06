@@ -1,0 +1,210 @@
+{
+    "id": "708",
+    "title": "Introducción al diseño de iconos",
+    "url": "https://www.domestika.org/es/courses/708-introduccion-al-diseno-de-iconos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/265/693e74ebddb43ac15692ef96b9627a0c/master.m3u8?1676387314"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/266/48e9202c608270b8f2e6429786f8d5ba/master.m3u8?1676387312"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es lo que vamos hacer en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/268/ed51a4fc1fc4a68a0a7244194e9ed0d8/master.m3u8?1676387311"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/40n3sc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al mundo de los íconos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Historia sobre la iconografía y los pictogramas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/269/d3edf0071c71b2be303ac160f02c3717/master.m3u8?1676387315"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es y qué no es un ícono",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/271/d6842f7cd7ee8953355446ce76a05db1/master.m3u8?1676387314"
+                },
+                {
+                    "id": null,
+                    "title": "Tipologías Diferentes tipos de íconos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/272/4f1c33be8e00a42fd5e71e948988cc2d/master.m3u8?1676387316"
+                },
+                {
+                    "id": null,
+                    "title": "Consideraciones según el medio digital e impreso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/273/87ce9796731048bf39831684f10d0557/master.m3u8?1676387315"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uj7nki.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso conceptual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Autoencargo y definición de los objetivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/274/66f4ad9d8e4732c329214c52a15ec6fb/master.m3u8?1676387315"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/275/222e1a75f5f6d7ebedea2162381d5b83/master.m3u8?1676387315"
+                },
+                {
+                    "id": null,
+                    "title": "Mapa conceptual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/276/85120d5958e2bcdc724a8f5cb78d8100/master.m3u8?1676387319"
+                },
+                {
+                    "id": null,
+                    "title": "Moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/277/9c701b5ee77a4dfc3fd2a0f98ea2a2f8/master.m3u8?1676387318"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2imiq1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso de diseño Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bocetos y aproximación al estilo gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/279/f6bf5bb1f58a2c342054c21a845260f4/master.m3u8?1676387318"
+                },
+                {
+                    "id": null,
+                    "title": "La retícula y la importancia de la misma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/280/10b82ec52d9dd0e03adf99768ca5f671/master.m3u8?1676387318"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de retícula y definición de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/281/c28e84e33acc7c6404048236df14ea7e/master.m3u8?1676387322"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño del sistema de íconos I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/282/a8a0b1a05f89015e27ce9d944de260e5/master.m3u8?1676387323"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño del sistema de íconos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/283/266d19c7326785c270da8f3249738eb3/master.m3u8?1676387319"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño del sistema de íconos III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/285/7ccbb96b9a25a2596b38adc642b2b3f8/master.m3u8?1676387322"
+                },
+                {
+                    "id": null,
+                    "title": "Color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/286/6c9f56b5d9f26ff4f683d1e770324b6c/master.m3u8?1676387324"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes ópticos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/287/fcbf89185cc47c67975e40b33025469e/master.m3u8?1676387323"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wk267v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tips y consejos finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tips para adaptar los íconos a tamaños pequeños",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/337/3610cc649a6fbc099c0cbc021b130f23/master.m3u8?1676387350"
+                },
+                {
+                    "id": null,
+                    "title": "Formatos adecuados para la exportación de íconos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/338/12132f8801a6732e01d0d0e83ef13dbb/master.m3u8?1676387351"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qhpv56.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1io3ex.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 708,
+        "product_name": "Introduction to Icon Design",
+        "teacher_name": "Hermes Mazali",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 10952,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

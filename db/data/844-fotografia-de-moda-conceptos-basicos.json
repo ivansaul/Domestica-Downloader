@@ -1,0 +1,153 @@
+{
+    "id": "844",
+    "title": "Fotografía de moda conceptos básicos",
+    "url": "https://www.domestika.org/es/courses/844-fotografia-de-moda-conceptos-basicos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/670/00864d1a1f1a9d4fe39b3ccfe713e28c/master.m3u8?1676387511"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/671/792acfddeec4b66ebd4eda36f8c1ea47/master.m3u8?1676387517"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/672/b8d79ede51d85dccc4b7536acc2dc353/master.m3u8?1676387514"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ed973m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El brief y su importancia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/676/759c611d776ad70d106bc680103e219d/master.m3u8?1676387517"
+                },
+                {
+                    "id": null,
+                    "title": "Reunión de preproducción general",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/677/6c320a57dd710bab6502c2328ffbfa2f/master.m3u8?1676387518"
+                },
+                {
+                    "id": null,
+                    "title": "Equipamiento para trabajar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/678/751b5cb598557a611ff132d82f337a05/master.m3u8?1676387522"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6qetpf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Shooting",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Paso a paso en el estudio antes de tomar la foto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/679/9f703e977844de55bba1d4ab44ec7582/master.m3u8?1676387521"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo trabajar conectado a capture one",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/680/1ffe2f17e2d55d48ab823df713733ffe/master.m3u8?1676387522"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de iluminación y el momento de hacer la foto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/681/ed2ec5e0915c030cfa140dd1080c6031/master.m3u8?1676387527"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lke4tj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revelado en Capture One",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/682/e60a0aab99af3d2a6716b530cd27e4ed/master.m3u8?1676387522"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque Básico en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/683/46ae72a58d350945ef7ff1c79f07dcd2/master.m3u8?1676387523"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del proyecto final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/684/6ebb02604b53337f2f6a4a725ed041c5/master.m3u8?1676387521"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qwgjgu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3m5w29.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 844,
+        "product_name": "Fashion Photography: The Basics",
+        "teacher_name": "Javier Falcón",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 3577,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

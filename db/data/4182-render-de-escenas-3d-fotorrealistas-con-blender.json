@@ -1,0 +1,173 @@
+{
+    "id": "4182",
+    "title": "Render de escenas 3D fotorrealistas con Blender",
+    "url": "https://www.domestika.org/es/courses/4182-render-de-escenas-3d-fotorrealistas-con-blender/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/232/4408375cd428f14731a23b24cd276549/master.m3u8?1676409553"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/233/0c336be8e0f4330e3874d41c201ad877/master.m3u8?1676409556"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9e2mzf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explorar el medioambiente material de referencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/234/8a61980a63f78c969e423c91f1ac3b8f/master.m3u8?1676409559"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos mapeo del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/235/999085606a743d1b6b361f3d28d3d419/master.m3u8?1715265651"
+                },
+                {
+                    "id": null,
+                    "title": "Blender y modelado 3D 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/236/20dab6c3f2d0b367b6b822d13caabdd2/master.m3u8?1676409559"
+                },
+                {
+                    "id": null,
+                    "title": "Blender y modelado 3D 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/237/7b53e9f2de23f86723f9c2d44218f105/master.m3u8?1676409558"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración del espacio de trabajo de Blender",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/238/e8fc695083fd5e607705cc1fe0d47169/master.m3u8?1676409558"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i8ei1q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de un entorno 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bloquear la escena y configurar la iluminación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/239/0b51fd6e39aae90bae8bac52a0479673/master.m3u8?1676409561"
+                },
+                {
+                    "id": null,
+                    "title": "Bloquear la escena y configurar la iluminación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/240/5d9303b670253d2c338fdf622ebabd7d/master.m3u8?1676409560"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de detalles y perfeccionamiento de la escena 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/241/75f39768f577ed9055a4f6f8fead71df/master.m3u8?1676409563"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de detalles y perfeccionamiento de la escena 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/242/e23694c5ecaf8579d0715f16a500b5db/master.m3u8?1676409559"
+                },
+                {
+                    "id": null,
+                    "title": "Añadir elementos y detalles naturales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/247/00ba13787d73a0a03574bd0d08cfe35c/master.m3u8?1676409573"
+                },
+                {
+                    "id": null,
+                    "title": "Añadir elementos y detalles naturales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/248/c8329c6f9cefe8cb5fdba40e35f4e09d/master.m3u8?1676409567"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wduc64.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos pasos y creación del portfolio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Edición final en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/244/ed73160a150fabed5f8b0d03b8cfbd9a/master.m3u8?1676409559"
+                },
+                {
+                    "id": null,
+                    "title": "Construir un portafolio online premiado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/245/277794e65ecd2f9378cfe35bbf1774c8/master.m3u8?1676409559"
+                },
+                {
+                    "id": null,
+                    "title": "Composición en Blender y configuración de renderizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/246/0f33ac08ca83af022e8c5c88bcdddf38/master.m3u8?1676409563"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pxax4k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/w9sx3s.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4182,
+        "product_name": "Rendering Photorealistic 3D Scenes in Blender",
+        "teacher_name": "James Tralie",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 10954,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

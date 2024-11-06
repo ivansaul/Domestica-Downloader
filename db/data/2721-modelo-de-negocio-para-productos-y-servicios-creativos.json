@@ -1,0 +1,143 @@
+{
+    "id": "2721",
+    "title": "Modelo de negocio para productos y servicios creativos",
+    "url": "https://www.domestika.org/es/courses/2721-modelo-de-negocio-para-productos-y-servicios-creativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/317/c1aa57baa3febd89374f2bda19128096/master.m3u8?1676404847"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/318/a895551f69ede08475741b32b4a98c95/master.m3u8?1676404836"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/14bxcz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Transformando la idea en inspiración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creatividad y negocios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/324/b08b3f68f71b32226aee0bd586cef648/master.m3u8?1676404842"
+                },
+                {
+                    "id": null,
+                    "title": "Separando al creador de la criatura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/325/c9389443764d71cfd3beefd5c3e9e5ea/master.m3u8?1676404840"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/enetev.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dando forma a tu negocio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Producto mínimo viable",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/332/1ce6e9678d745152fad854f4bd304c9b/master.m3u8?1676404842"
+                },
+                {
+                    "id": null,
+                    "title": "Monetización de tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/333/da61f2e08627d4c45f2f54a3c082381f/master.m3u8?1676404842"
+                },
+                {
+                    "id": null,
+                    "title": "Definiendo tu negocio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/246/e40c47b9a625a46ad17c792bfbd8519a/master.m3u8?1676411445"
+                },
+                {
+                    "id": null,
+                    "title": "Propuesta de valor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/247/addabecc54c31bd4f6e71d3865053fa6/master.m3u8?1676411445"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jd35hi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hacer despegar tu negocio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas para emprendedores creativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/338/f598b2a5eb0cdfba12f3198a09ca4a88/master.m3u8?1676404846"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo continuo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/248/395159fbfc6ab7f14535a346ca83bd8d/master.m3u8?1676411446"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ymwrc1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hgnpzy.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2721,
+        "product_name": "Business Models for Creative Services and Products",
+        "teacher_name": "Edney \"InterNey\" Souza",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 10,
+        "course_total_duration_sec": 4022,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

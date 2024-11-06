@@ -1,0 +1,181 @@
+{
+    "id": "5310",
+    "title": "Diseño y patronaje de calzado",
+    "url": "https://www.domestika.org/es/courses/5310-diseno-y-patronaje-de-calzado/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/635/677c65d018e9969d10d7a083cebd8292/master.m3u8?1676295377"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/636/7880066c59f70960e5ade31fff8f60ed/master.m3u8?1676295372"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i9vkcd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conocer el mundo del calzado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conocer el modelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/637/152246895586699d87c184dd94c03c02/master.m3u8?1676295375"
+                },
+                {
+                    "id": null,
+                    "title": "Los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/638/6bf977f00eed5daee6c6e27424ce86c9/master.m3u8?1676295372"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w07qzz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparar el molde",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El encintado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/639/0877a7f0c2d0f8eeb6c70542897e2f45/master.m3u8?1676295373"
+                },
+                {
+                    "id": null,
+                    "title": "Las medidas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/640/94ad12921eec3a56cbee3a7103568526/master.m3u8?1676295378"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza y pegado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/641/761fe536c9ff3f61ddf1e8494dc46bde/master.m3u8?1676295380"
+                },
+                {
+                    "id": null,
+                    "title": "El molde de la plantilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/642/92ab5ef7db36e9f51b82809bdefed09c/master.m3u8?1676295373"
+                },
+                {
+                    "id": null,
+                    "title": "El perfil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/643/873b59d84a1c218d15fae9527e4cfc9e/master.m3u8?1676295382"
+                },
+                {
+                    "id": null,
+                    "title": "Zapato cerrado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/644/7751feec7a22d99e186a5c7992a63115/master.m3u8?1676295373"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1yekl0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño calado y forro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/645/abbe5f73821cf1756bcda2d6f1ddad45/master.m3u8?1676295375"
+                },
+                {
+                    "id": null,
+                    "title": "Desglose y márgenes de corte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/646/b7281868e1164859bb4b0c63373f03bd/master.m3u8?1676295381"
+                },
+                {
+                    "id": null,
+                    "title": "Desglose y márgenes de forro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/647/26f5362ef4fc59c4dcb3296a39f2d928/master.m3u8?1676295374"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jqwiz1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La fabricación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ficha técnica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/648/229330f7547b26240e5b25539fa291fd/master.m3u8?1676295373"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso de fabricación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/649/7e7a9c0dcfd9bc216c547ccbdfc5d271/master.m3u8?1676295373"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/43kui5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6so7y4.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5310,
+        "product_name": "Footwear Design and Pattern Making",
+        "teacher_name": "Agus Golub (Abelarda Zapatos)",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 5534,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

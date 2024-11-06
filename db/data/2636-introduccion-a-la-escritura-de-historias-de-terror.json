@@ -1,0 +1,169 @@
+{
+    "id": "2636",
+    "title": "Introducción a la escritura de historias de terror",
+    "url": "https://www.domestika.org/es/courses/2636-introduccion-a-la-escritura-de-historias-de-terror/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/602/873334437f739579055fa8b646926cab/master.m3u8?1676400982"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/603/ab292f1e8f6dd8f3811b38f6b385ef0a/master.m3u8?1676400968"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/po2qjl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De qué están hechos los miedos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cuéntame tus peores pesadillas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/604/3027fd4a9ccfa9c4aa220aac35534da2/master.m3u8?1676400966"
+                },
+                {
+                    "id": null,
+                    "title": "Y ahora de dónde saco un monstruo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/605/849526811139951a3c48e5d1c64a4ec2/master.m3u8?1676400968"
+                },
+                {
+                    "id": null,
+                    "title": "La voz de ultratumba",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/606/3597d374b3376be3b639eef4bdec8350/master.m3u8?1676400967"
+                },
+                {
+                    "id": null,
+                    "title": "Era un monstruo es un monstruo será un monstruo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/607/6781ff6a7c37df8ec630037a03800e1b/master.m3u8?1676400968"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d1ufle.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mi madre quiere matarme",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Todo iba tan bien",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/608/6a92fb1bd6ec2a8784b7e8ff1217c483/master.m3u8?1676400968"
+                },
+                {
+                    "id": null,
+                    "title": "Lo siniestro llama a la puerta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/609/7df6b15f879591ef54369c37231a7710/master.m3u8?1676400971"
+                },
+                {
+                    "id": null,
+                    "title": "No mires bajo la cama",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/610/298b1e0ebc2033e85ec58bb36874d4d6/master.m3u8?1676400972"
+                },
+                {
+                    "id": null,
+                    "title": "Mira bajo la cama",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/611/301c6696680ab6daa0fcbff03086463a/master.m3u8?1676400975"
+                },
+                {
+                    "id": null,
+                    "title": "La llamada sale desde tu propia casa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/612/979b1b6354029b641a65871e514f1b8a/master.m3u8?1676400973"
+                },
+                {
+                    "id": null,
+                    "title": "Iré contigo al mismísimo infierno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/613/c19f154d801041f468a3541f21f6a8c2/master.m3u8?1676400975"
+                },
+                {
+                    "id": null,
+                    "title": "Las últimas palabras del exorcista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/614/f14c035e315fa7878466ecb983ef1304/master.m3u8?1676400976"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sdwmq2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El alarido final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El guardabosques al rescate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/615/8daba0285bf8c9519e40293ad867d2fb/master.m3u8?1676400974"
+                },
+                {
+                    "id": null,
+                    "title": "Un libro de magia negra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/616/d4e72ebe17f1302c19737a5b15e84a69/master.m3u8?1676400974"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5fzfe5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/s4enhv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2636,
+        "product_name": "Introduction to Writing Horror Stories",
+        "teacher_name": "María Fernanda Ampuero",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 6456,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

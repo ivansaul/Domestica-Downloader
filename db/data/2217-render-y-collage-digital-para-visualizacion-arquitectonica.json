@@ -1,0 +1,212 @@
+{
+    "id": "2217",
+    "title": "Render y collage digital para visualización arquitectónica",
+    "url": "https://www.domestika.org/es/courses/2217-render-y-collage-digital-para-visualizacion-arquitectonica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/130/42a80de09239806ab71f262a090ab1ee/master.m3u8?1676395334"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/131/2b3e7d228bdbf676298613ef84a0f72d/master.m3u8?1676395336"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4ihrkj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Storytelling",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mood board ambientación y estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/132/156040b648eee1c8bdd21784b2712e38/master.m3u8?1676395337"
+                },
+                {
+                    "id": null,
+                    "title": "Colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/133/93f4ccf643ab41a48125d3254d523b66/master.m3u8?1676395335"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a 3ds Max y Corona Renderer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/134/980cb2b540464f5498a893f516ec08b9/master.m3u8?1676395335"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f3m3bn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado y cámara",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importación de la plantilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/136/345d7de131ef7c522ec28e80e8247fe2/master.m3u8?1676395338"
+                },
+                {
+                    "id": null,
+                    "title": "Personalizando el modelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/137/9ef74d5ecbf6b80c651407c91f84715f/master.m3u8?1676395340"
+                },
+                {
+                    "id": null,
+                    "title": "Composición de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/138/7745eca65b7f74cc3397c4d21512b88b/master.m3u8?1676395344"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de la cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/139/cd0081170cb12964155d74e4419b6c45/master.m3u8?1676395338"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5l7wp0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Iluminación y materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/140/c0ca9cec44347be811f0b910f3bfbe8d/master.m3u8?1676395350"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/141/fc28ce77fd4481cf82e41c5e1cd7613d/master.m3u8?1676395342"
+                },
+                {
+                    "id": null,
+                    "title": "Renderizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/142/3fc75b321edff630a7573f9dd03331ce/master.m3u8?1676395341"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7i1x7z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fondo  1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/143/db32c378e284ee56c13af3b113e85a00/master.m3u8?1676395343"
+                },
+                {
+                    "id": null,
+                    "title": "Fondo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/144/b4d0080cfde07aaf92676395c68f46b9/master.m3u8?1676395341"
+                },
+                {
+                    "id": null,
+                    "title": "Integración ambiente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/145/ad9617ce0b7f5cee8525e4b188fbb8e6/master.m3u8?1676395341"
+                },
+                {
+                    "id": null,
+                    "title": "Escala humana y proporciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/146/d8b7a36f3c43f8fe08517b818ef6106f/master.m3u8?1676395343"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2229jc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Últimos ajustes y retoques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/148/f7d87251d820d091619810c9f9a85d88/master.m3u8?1676395346"
+                },
+                {
+                    "id": null,
+                    "title": "Filtros texturas y efectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/150/bbef4ef0b8c68652873465479e48f37e/master.m3u8?1676395344"
+                },
+                {
+                    "id": null,
+                    "title": "Otros estilos de representación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/151/18ae717d4a5c08cdf71aad22dc4c662d/master.m3u8?1676395343"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tpib9h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/jslzac.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2217,
+        "product_name": "Rendering and Digital Collage for Architectural Displays",
+        "teacher_name": "Architecture On Paper",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 11365,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

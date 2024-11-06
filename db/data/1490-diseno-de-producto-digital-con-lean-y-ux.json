@@ -1,0 +1,301 @@
+{
+    "id": "1490",
+    "title": "Diseño de producto digital con Lean y UX",
+    "url": "https://www.domestika.org/es/courses/1490-diseno-de-producto-digital-con-lean-y-ux/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/136/979af317180d6582e4f6f357d6946819/master.m3u8?1676391300"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/137/5a442c9f2f93bdf1368863a4bcbdba4d/master.m3u8?1676391301"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/138/95831392d6bd02688450bc88598de3d1/master.m3u8?1676391300"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7v3up6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de producto digital para humanos Lean UX",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al diseño de producto digital con Lean UX",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/139/4e1699c313e61a51d451985fa7b8de47/master.m3u8?1676391320"
+                },
+                {
+                    "id": null,
+                    "title": "Usabilidad vs experiencia de usuario vs diseño de interacción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/140/0a21529903cd489137db10c8e7c0c39c/master.m3u8?1676391301"
+                },
+                {
+                    "id": null,
+                    "title": "10 principios de usabilidad y la Evaluación Heurística",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/141/c5d24b9400d01682a3ee32059c79aa3c/master.m3u8?1676391304"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/87ev3r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigar Métodos ágiles de Research",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción Research",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/144/4053606ad8ceafbe454997ce45ee9727/master.m3u8?1676391302"
+                },
+                {
+                    "id": null,
+                    "title": "Desk Research",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/145/f9a37b789a8b99f7403c56f994136491/master.m3u8?1676391306"
+                },
+                {
+                    "id": null,
+                    "title": "Encuestas investigación cuantitativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/146/2c543be99347bf24af485d3d4519184f/master.m3u8?1676391307"
+                },
+                {
+                    "id": null,
+                    "title": "Entrevistas investigación cualitativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/147/19b4dfc1375da26a66ddc407bd4c80cf/master.m3u8?1676391304"
+                },
+                {
+                    "id": null,
+                    "title": "Otras técnicas cualitativas investigación contextual y testing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/148/a1d4cb499240d1d65a708a7fb17464b2/master.m3u8?1676391308"
+                },
+                {
+                    "id": null,
+                    "title": "Organizando toda la información de la investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/149/5311c1e196e7849fcc0809c508420b56/master.m3u8?1676391308"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dfykqd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empatizar Diseño centrado en el usuario",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción Design Thinking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/150/5eef5b9309693579c77dc8e85e4a3adf/master.m3u8?1676391306"
+                },
+                {
+                    "id": null,
+                    "title": "User persona",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/151/aee893e5f1757b8d8ae2b6f224f04027/master.m3u8?1676391307"
+                },
+                {
+                    "id": null,
+                    "title": "Mapa de empatía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/152/22ce3fce09c4f71f60d1b8cdad0c07ec/master.m3u8?1676391307"
+                },
+                {
+                    "id": null,
+                    "title": "Journey",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/153/ee18e7f314fb295bbd729c9c0ec3cbcd/master.m3u8?1676391309"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g4papx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El alcance del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción y PMV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/154/34c0bf27f035398f915d56cb08825571/master.m3u8?1676391309"
+                },
+                {
+                    "id": null,
+                    "title": "Value Proposition Canvas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/155/1ed3f93a61bfe4828a68312729cc2221/master.m3u8?1676391307"
+                },
+                {
+                    "id": null,
+                    "title": "Historias de usuario y Jobs To Be Done",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/156/4b4cef9fb6193a05c0b4898a3fceddb3/master.m3u8?1676391306"
+                },
+                {
+                    "id": null,
+                    "title": "Priorización de tareas con MoSCoW",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/157/0469e9145e80e0170a36a640b8cc407a/master.m3u8?1676391307"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/66o4v7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a la Arquitectura de la Información IA Lean",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción IA",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/158/19c53345126b4929192d7b08f4ae06de/master.m3u8?1676391311"
+                },
+                {
+                    "id": null,
+                    "title": "Sitemap",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/159/579425cae7ef038a11f24e56eb4ecfa7/master.m3u8?1676391310"
+                },
+                {
+                    "id": null,
+                    "title": "User flow",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/160/4ef3e038305b67af5f9ce3481814bc37/master.m3u8?1676391310"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2srwox.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sketching Wireframes y prototipado rápido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción Crazy 8s",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/161/86435f43e97b100a11381e51e1081be5/master.m3u8?1676391310"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de wireframes y prototipos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/162/a0a6220473f5e2446ae0cd13fc6bdfe5/master.m3u8?1676391320"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de wireframes y prototipos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/163/b0964017663aace146ef6e2734bef4f2/master.m3u8?1676391314"
+                },
+                {
+                    "id": null,
+                    "title": "Los patrones de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/164/ae3633be2a1c110dd85ae15b988f2ce6/master.m3u8?1676391315"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando un wireframe a mano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/165/167f5dbc8f98f58fe39c0386c935950a/master.m3u8?1676391312"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipado y testing 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/166/e67b08eb40b7f74f732823ea9d1fb66f/master.m3u8?1676391314"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipado y testing 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/502/22ebc14a25cc637930f6eba043cd8d15/master.m3u8?1676392982"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nmcf2t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Casos de éxito y consejos finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Casos de éxito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/167/7234d324ed13bbfdcca66a22aa5bdd33/master.m3u8?1676391312"
+                },
+                {
+                    "id": null,
+                    "title": "Recapitulando qué has aprendido y consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/168/9c90bcb6ea6088fe667ba4d1e929a12d/master.m3u8?1676391313"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o9tej3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/dayl0r.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1490,
+        "product_name": "Digital Product Design with Lean and UX",
+        "teacher_name": "Óscar SP (Elastic Heads)",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 32,
+        "course_total_duration_sec": 15416,
+        "total_units": 8,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

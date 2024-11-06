@@ -1,0 +1,170 @@
+{
+    "id": "2888",
+    "title": "Estrategia de marca creatividad centrada en los usuarios",
+    "url": "https://www.domestika.org/es/courses/2888-estrategia-de-marca-creatividad-centrada-en-los-usuarios/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/651/f619ff2b4964bd334092508da545e458/master.m3u8?1676403618"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/652/2788ac0389cba341d1345b37f5ea0eeb/master.m3u8?1676403619"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kwrt84.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Metodología de investigación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseñar la investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/653/403dd5adf0793c080b594861a74d1561/master.m3u8?1676403624"
+                },
+                {
+                    "id": null,
+                    "title": "Home Wonder",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/654/9686470da4e248581d98574ea1fd4759/master.m3u8?1676403621"
+                },
+                {
+                    "id": null,
+                    "title": "Netnografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/655/85bbfc14e711b6187b59ec54965be05a/master.m3u8?1676403623"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/madzrc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigación estratégica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "User personas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/656/4ce3b0ce37c79c8b95febc865159965f/master.m3u8?1676403622"
+                },
+                {
+                    "id": null,
+                    "title": "Curva de difusión de innovaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/657/79984d9012278f5233494b5e171c7114/master.m3u8?1676403621"
+                },
+                {
+                    "id": null,
+                    "title": "User journey",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/658/d8af527c1f3d7bd6768c3a45cb7d4e68/master.m3u8?1676403624"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/td3fuh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estrategia creativa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Territorios de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/659/dbc4c0764a221783dfaf991d1fe04c18/master.m3u8?1676403625"
+                },
+                {
+                    "id": null,
+                    "title": "Concepto estratégico creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/660/bc08d4ff769615a4c50583cc72b32d66/master.m3u8?1676403622"
+                },
+                {
+                    "id": null,
+                    "title": "Brand persona",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/661/041ff107c340e81c7810d573b2c83063/master.m3u8?1676403625"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8l3knr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Storytelling estratégico y outcome creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Narrar la investigación para la estrategia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/662/417639d599b8bf386fd3b780504449b7/master.m3u8?1676403625"
+                },
+                {
+                    "id": null,
+                    "title": "Narrar la estrategia para la creatividad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/663/40c32b4b2ef2c444e6d211e7c4caa151/master.m3u8?1676403624"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hm9axw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zt1jfo.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2888,
+        "product_name": "Brand Strategy: User-Centered Creativity",
+        "teacher_name": "Gabriela Sialer",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6839,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "id": "4034",
+    "title": "Introducción al código creativo genera objetos gráficos",
+    "url": "https://www.domestika.org/es/courses/4034-introduccion-al-codigo-creativo-genera-objetos-graficos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/565/0b837c50edd532250706a4e07d1f7fa1/master.m3u8?1676409006"
+                },
+                {
+                    "id": null,
+                    "title": "Mis fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/566/750efb4930645af014a0f877a3de66fa/master.m3u8?1676409008"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hmq2jn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a la programación gráfica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación del entorno de procesamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/567/a7396c6ef2734a1d038803f0a57be552/master.m3u8?1676409006"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos y dibujo de formas básicas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/568/0a542cd43b600d280ba6e3b17fa1e58e/master.m3u8?1676409012"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos y dibujo de formas básicas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/569/055128cb0f1c3635fceac1419d891783/master.m3u8?1676409010"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos y dibujo de formas básicas 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/570/426403fcc7e44790708723884044564d/master.m3u8?1676409009"
+                },
+                {
+                    "id": null,
+                    "title": "Composición 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/571/f7309db4842a605a99022ec7e4899519/master.m3u8?1676409012"
+                },
+                {
+                    "id": null,
+                    "title": "Composición 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/572/70b7767f931987a3327da1f15641d061/master.m3u8?1676409014"
+                },
+                {
+                    "id": null,
+                    "title": "Los fundamentos de la programación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/573/012c0c40d50f5c842518136645b3c75d/master.m3u8?1676409017"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos de programación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/574/9e1f57b092d26748735e27110b5c2c5d/master.m3u8?1676409012"
+                },
+                {
+                    "id": null,
+                    "title": "Los fundamentos de la programación 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/576/7894fce25e68bee8febded171b5d6c7c/master.m3u8?1676409014"
+                },
+                {
+                    "id": null,
+                    "title": "Errores y errores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/577/551a93aef5e59fc14dd14b4c5f8723b9/master.m3u8?1676409012"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i24b3x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Implementación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cuadrículas de patrones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/578/9f153f722f46ff32c13e9825ae01075a/master.m3u8?1676409016"
+                },
+                {
+                    "id": null,
+                    "title": "Cuadrículas de patrones 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/579/7a5223f339f9f398c2e8ba354a4cae6f/master.m3u8?1676409023"
+                },
+                {
+                    "id": null,
+                    "title": "Cuadrículas de patrones 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/580/230c4d987f591bbfce58e9afd9ae74e8/master.m3u8?1676409019"
+                },
+                {
+                    "id": null,
+                    "title": "Cuadrículas y combinaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/581/c051b983f3577bb6a75c9da7b1ad48d9/master.m3u8?1676409018"
+                },
+                {
+                    "id": null,
+                    "title": "Formas compuestas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/701/c77e8896a20220e9d447c08ed9aa0c88/master.m3u8?1676409090"
+                },
+                {
+                    "id": null,
+                    "title": "Formas compuestas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/702/8be4175651ffb9221a777edc58d761a6/master.m3u8?1676409088"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6hokgq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Otras técnicas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El sistema de partículas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/583/7e5c456ceec54afe5b8773a35e3e0b94/master.m3u8?1676409019"
+                },
+                {
+                    "id": null,
+                    "title": "El sistema de partículas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/584/f5fe76a52ea86434f72b651dd6a308d5/master.m3u8?1676409025"
+                },
+                {
+                    "id": null,
+                    "title": "El campo de flujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/585/6128d5f1719896e862be1269a0cc97c3/master.m3u8?1676409020"
+                },
+                {
+                    "id": null,
+                    "title": "Crear una tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/586/1a4d479ae551ff4e336206269bcad46e/master.m3u8?1676409018"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ffnw19.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Implementacion de proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Construcción de palabras interactivas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/587/0f6778dd1688a13525c70df8b43a0c87/master.m3u8?1676409020"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de palabras interactivas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/588/7f329832c7da0497377d8d82f866c48e/master.m3u8?1676409027"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j7tosa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/j5v7kb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4034,
+        "product_name": "Intro to Creative Coding: Create Graphic Objects",
+        "teacher_name": "Julien Gachadoat",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 20384,
+        "total_units": 5,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

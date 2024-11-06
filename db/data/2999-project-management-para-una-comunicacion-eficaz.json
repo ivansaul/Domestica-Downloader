@@ -1,0 +1,153 @@
+{
+    "id": "2999",
+    "title": "Project Management para una comunicación eficaz",
+    "url": "https://www.domestika.org/es/courses/2999-project-management-para-una-comunicacion-eficaz/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/638/ee2e00db6cdd878ca5edb0d141c491ed/master.m3u8?1676400447"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/639/9c3372f5a6856629300c912659065b31/master.m3u8?1676400444"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c3o1ph.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definición de la gestión de proyectos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la gestión de proyectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/640/229bdf0051813eba1c049661686bea0d/master.m3u8?1676400447"
+                },
+                {
+                    "id": null,
+                    "title": "La comunicación es clave",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/641/c8c1ef70c10a4075894aaa6972633ba5/master.m3u8?1676400447"
+                },
+                {
+                    "id": null,
+                    "title": "Punto de partida el brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/642/5d652cc42834610761cbef9f980b20c6/master.m3u8?1676400448"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i2ahlo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conociendo al Cliente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El cliente y el equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/643/2c9f71cd446646a3d7a1317aaf0c306f/master.m3u8?1676400448"
+                },
+                {
+                    "id": null,
+                    "title": "La SOW Qué estamos haciendo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/644/d75938dc769b5d2e0c0c8ef998350581/master.m3u8?1676400449"
+                },
+                {
+                    "id": null,
+                    "title": "Creando la SOW",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/645/a02ca6b2c4f6b2ab54f7a914f3559360/master.m3u8?1676400450"
+                },
+                {
+                    "id": null,
+                    "title": "Gestión de clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/646/352c7d0cbdf5d55f28d89f612583c15c/master.m3u8?1676400448"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qlfewx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tu proyecto está terminado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entrega de su proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/647/47947c1df0a3cb374d5de517ebb3af19/master.m3u8?1676400451"
+                },
+                {
+                    "id": null,
+                    "title": "Mantenga viva la chispa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/648/c4e6c265d6d2439e85ff83ab3978a398/master.m3u8?1676400451"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo manejar el estrés o cómo disfrazarlo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/649/58981884b47bf84a4afa57fc343c8c9a/master.m3u8?1676400465"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s72eaf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/d7mc3o.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2999,
+        "product_name": "Project Management for Effective Client Communication",
+        "teacher_name": "Sophie Simmons",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7000,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

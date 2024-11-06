@@ -1,0 +1,158 @@
+{
+    "id": "976",
+    "title": "Fotografía de interiores",
+    "url": "https://www.domestika.org/es/courses/976-fotografia-de-interiores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeros pasos hasta hoy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/002/b7bfcb03af806dfed939aee0d5caa8da/master.m3u8?1676389406"
+                },
+                {
+                    "id": null,
+                    "title": "Déjate influir de los clásicos a la avalancha de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/003/d76a60e656ef3f230c388f540e608932/master.m3u8?1676389405"
+                },
+                {
+                    "id": null,
+                    "title": "Ojos a la obra Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/004/c7168d847b7c068fb4051e5404e50709/master.m3u8?1676389405"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p9tc7c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotografía interior",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Un poco de práctica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/005/83290c9509d6ff7ba9a3ddac73ca3f96/master.m3u8?1676389411"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación y mercado laboral",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/006/eefc6a62ef3d7669dc7d88753f55ddf9/master.m3u8?1676389405"
+                },
+                {
+                    "id": null,
+                    "title": "Qué equipo usar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/007/6032231dacbe04724929df71ad014e5e/master.m3u8?1676389409"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0y8h9x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ojo vivo Entender la obra presentación y contacto con el lugar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/008/a6481a15f8a40c461aab811336f7bda8/master.m3u8?1676389404"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de arte para sacar lo mejor del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/009/ccc2cf62143b984b17dbbcc54e661bef/master.m3u8?1676389405"
+                },
+                {
+                    "id": null,
+                    "title": "Lista de verificación final y apretar el obturador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/010/756a8dfcad3c7c118904e3eaeb679437/master.m3u8?1676389408"
+                },
+                {
+                    "id": null,
+                    "title": "Un ojo en la luz y el otro en el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/118/a72648d79dd8fe449c5d3fb7c25a0f54/master.m3u8?1676389459"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l5qt11.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edita el trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Editar la hora de la verdad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/012/2371d661b8ab165813340c6128957836/master.m3u8?1676389409"
+                },
+                {
+                    "id": null,
+                    "title": "Revelar  ajustar y archivar nuestro trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/013/33a77694cb3c3e3002bbec670e16b874/master.m3u8?1676389412"
+                },
+                {
+                    "id": null,
+                    "title": "Siempre aparecen piedras en el camino Y también consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/014/2f59338ed7e0c173f1c573910a4a97b8/master.m3u8?1676389408"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4jv45t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/yb5ze2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 976,
+        "product_name": "Interior Photography",
+        "teacher_name": "Tuca Reinés",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7482,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

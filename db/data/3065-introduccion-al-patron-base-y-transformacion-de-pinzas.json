@@ -1,0 +1,158 @@
+{
+    "id": "3065",
+    "title": "Introducción al patrón base y transformación de pinzas",
+    "url": "https://www.domestika.org/es/courses/3065-introduccion-al-patron-base-y-transformacion-de-pinzas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/632/fea5bfed65dd25ac6d92f682f73c84cb/master.m3u8?1676403607"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/556/a5eaa94235e514d5e47d29b9ec2bf072/master.m3u8?1676404506"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cfcq92.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Inspiración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al patronaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/634/6e49ea1f9599733e4e1c5c5c94e3cf07/master.m3u8?1676403612"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board diseño de silueta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/635/299638124987cca1c23019655f863706/master.m3u8?1676403608"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/636/31b402a2a8df2f87ea81e82e346001ae/master.m3u8?1676403609"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6nfpvv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Patronaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Toma de medidas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/637/0398e2ec14cd6c2112ae8d1738cc7e6b/master.m3u8?1676403610"
+                },
+                {
+                    "id": null,
+                    "title": "Patrón base del cuerpo espalda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/638/18a35f574480f1bd955b52294dfa49b1/master.m3u8?1676403623"
+                },
+                {
+                    "id": null,
+                    "title": "Patrón base del cuerpo delantero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/639/7e1d0672359b4520f142dd5124499e2c/master.m3u8?1676403615"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qlhcis.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tela y corte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/640/477842cb807cdeaf255eaec568d610ec/master.m3u8?1676403621"
+                },
+                {
+                    "id": null,
+                    "title": "Costura 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/641/4959e13f6463ad1fdf86edc73acd1681/master.m3u8?1676403614"
+                },
+                {
+                    "id": null,
+                    "title": "Costura 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/642/0a65a474a23eaa3f2a87745f9117dc58/master.m3u8?1676403621"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas para realizar cambios de pinzas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/643/0eeb0f6306cb6934c40edbb3469f489d/master.m3u8?1676403614"
+                },
+                {
+                    "id": null,
+                    "title": "Acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/644/0ae1f706929fab36e17336f950f26293/master.m3u8?1676403612"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s3289c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/880a3y.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3065,
+        "product_name": "Pattern Construction for Beginners: Basic Patterns and Darts",
+        "teacher_name": "Olga Sola",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7247,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

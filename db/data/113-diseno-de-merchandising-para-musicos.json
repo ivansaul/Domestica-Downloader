@@ -1,0 +1,158 @@
+{
+    "id": "113",
+    "title": "Diseño de merchandising para músicos",
+    "url": "https://www.domestika.org/es/courses/113-diseno-de-merchandising-para-musicos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/550/d81d8aca52eb239ce3b0bf2e0a8b3019/master.m3u8?1676381535"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/551/ef8cd9f83f8240a39ddc7eee3f82f787/master.m3u8?1676381560"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/48n4ep.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construir Concepto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conocer a la Banda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/573/ef02149fa961ebe76ce36d15371c2aba/master.m3u8?1676381555"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación y Referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/552/4808e766fe24a83d601335c113cee800/master.m3u8?1676381538"
+                },
+                {
+                    "id": null,
+                    "title": "Brainstorm grupal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/553/979d941f585e03b4851fc0788f0491bd/master.m3u8?1676381541"
+                },
+                {
+                    "id": null,
+                    "title": "Consolidar el concepto madre y bocetaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/554/1e4b19fda4b3e41945fbf54581b90a5b/master.m3u8?1676381542"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/axx6dd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del Master Graphic",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lettering e Iconografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/556/231340760bf973df5b171a28a77f6846/master.m3u8?1676381544"
+                },
+                {
+                    "id": null,
+                    "title": "Lettering e Iconografía 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/555/67075ecf65cc6118e3ca9d72907fcc8e/master.m3u8?1676381540"
+                },
+                {
+                    "id": null,
+                    "title": "Lettering e Iconografía 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/587/c7ae209196c0f55eb2d4b818187d7d97/master.m3u8?1676381566"
+                },
+                {
+                    "id": null,
+                    "title": "Lettering e iconografía 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/560/155483efef40cfed695eb18aae09e4b3/master.m3u8?1676381549"
+                },
+                {
+                    "id": null,
+                    "title": "Exploración de posibles aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/557/991d95ea0203558e883357daa576ff19/master.m3u8?1676381542"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m65ezg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción final de Merchandising",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Impresión final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/558/73054b12016a11c5b6482039b083af57/master.m3u8?1676381552"
+                },
+                {
+                    "id": null,
+                    "title": "Product Shoot y Promoción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/559/b78f4d72cc20be0cdca305e375bdf7df/master.m3u8?1676381543"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q4dj9b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qrg9to.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 113,
+        "product_name": "Design Merchandise for Musicians",
+        "teacher_name": "Copete Cohete",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8543,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}
