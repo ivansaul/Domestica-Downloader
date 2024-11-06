@@ -1,0 +1,158 @@
+{
+    "id": "524",
+    "title": "Portafolio creativo con identidad propia",
+    "url": "https://www.domestika.org/es/courses/524-portafolio-creativo-con-identidad-propia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/107/ff587f54197ee9f959f54df290e9748c/master.m3u8?1676385197"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/108/1129d434a61ce0a9a70c8a8545564e94/master.m3u8?1676385198"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4uo60g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Un buen portafolio no se logra con un mal proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué es importante tu portafolio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/110/74e5251bd823cb91c7841ec47e623c4b/master.m3u8?1676385197"
+                },
+                {
+                    "id": null,
+                    "title": "Todo lo que no queremos ser",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/111/fc4305b07cf59704567e83c0c4019758/master.m3u8?1676385203"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ybrjer.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo queremos que sean nuestras fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/112/c316f3967a7ee4fc27f5131a42b3646f/master.m3u8?1676385201"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/113/b1953d0d39957624f8e48296cc627f6b/master.m3u8?1676385200"
+                },
+                {
+                    "id": null,
+                    "title": "Props props props",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/114/97f555e45893b31568b446a62115281e/master.m3u8?1676385198"
+                },
+                {
+                    "id": null,
+                    "title": "En sesión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/116/8fd57d4526724cb01a99f524603ed692/master.m3u8?1676385204"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0m7q7q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué hago con todo esto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Postproducción  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/117/5ad68ebb17ce28a043b3ca318a6dca6d/master.m3u8?1676385211"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/118/f1c26a06a0caadbf7e8394c79814ade7/master.m3u8?1676385204"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción  Parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/119/2d9b32312cd43184b4bae6b6fca51cfa/master.m3u8?1676385201"
+                },
+                {
+                    "id": null,
+                    "title": "Documenta tu proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/120/056c13775941a5d47cec1f5da8bcd606/master.m3u8?1676385203"
+                },
+                {
+                    "id": null,
+                    "title": "Bonus Tips adicionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/122/2d9d3e57e6febe560f5607127a41f4c8/master.m3u8?1676385202"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/17vbgu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/0it9es.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 524,
+        "product_name": "Creative Portfolio with Own Identity",
+        "teacher_name": "Futura",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8067,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

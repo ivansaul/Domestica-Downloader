@@ -1,0 +1,238 @@
+{
+    "id": "3905",
+    "title": "Diseño de infografías para periódicos y revistas",
+    "url": "https://www.domestika.org/es/courses/3905-diseno-de-infografias-para-periodicos-y-revistas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/365/8573ab30da02a70a9d4c91446a9ea80f/master.m3u8?1676407267"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/366/ccd6dac103895e48d938da444851bec0/master.m3u8?1676407269"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uyy3ud.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Infografía periodística historia y metodologías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/367/f4d05a0953de7db8bc68d7a49d206f12/master.m3u8?1676407271"
+                },
+                {
+                    "id": null,
+                    "title": "Representar el interior de un objeto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/368/23122d0fca613d08176fd831543a3c37/master.m3u8?1676407268"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar en axonometría isométrica 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/565/7df8389dd65e053aa6d9348637985e38/master.m3u8?1676408401"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar en axonometría isométrica 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/566/7639c39169037632b9e56127a69a13a1/master.m3u8?1676408400"
+                },
+                {
+                    "id": null,
+                    "title": "La cuadrícula una regla liberadora",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/371/a0e09359bd11e8942b5a3ed71b52f10b/master.m3u8?1676407271"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía en infografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/372/aea82745e1178bb2563f835b1359dd31/master.m3u8?1676407270"
+                },
+                {
+                    "id": null,
+                    "title": "El color en la infografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/373/efd0c0b26c01d6161390cc53da80a9a4/master.m3u8?1676407270"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/inj49t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Análisis de contenido y organización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El brief 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/374/ea83957a192a1bc10745506728fb3da7/master.m3u8?1676407275"
+                },
+                {
+                    "id": null,
+                    "title": "El brief 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/375/2c6ff9ca0ffe0061087b6f5234883b2e/master.m3u8?1677581789"
+                },
+                {
+                    "id": null,
+                    "title": "Crear el diseño en InDesign 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/376/9cda2092e47d62d3564d185f27afa31a/master.m3u8?1676407272"
+                },
+                {
+                    "id": null,
+                    "title": "Crear el diseño en InDesign 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/377/f49f193e63ce24106c5631935589206a/master.m3u8?1676407273"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar el contenido en papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/378/dabb97adacabb67934a697fda2c9f442/master.m3u8?1676407270"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vt4obn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crea contenido con Illustrator e InDesign",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ilustrar en axonometría isométrica 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/379/75dae2ebbd2b39e7036d59a742b05f29/master.m3u8?1676407275"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar en axonometría isométrica 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/381/e5206bcdb6bbb3b4e981856e28419143/master.m3u8?1676407279"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar en axonometría isométrica 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/443/4a36d412d3fc9b0a54ae05cb8b7ba900/master.m3u8?1676407317"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar en axonometría isométrica 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/382/2d51728dc8439fecff1e509522744ae1/master.m3u8?1676407280"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar en axonometría isométrica 5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/383/3ed14ac66ff2cb0aa928de5440d8b373/master.m3u8?1676407282"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar en axonometría isométrica 6",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/384/3902d348b9abf8686bb2127061fc9929/master.m3u8?1676407276"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar el mapa 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/385/c39d0a94c0acee801c93ccab468b06b9/master.m3u8?1676407280"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar el mapa 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/386/3996e3e1c14de4b97fa2af5d51a5146d/master.m3u8?1676407279"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar contenido bidimensional 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/387/e0dd74843bba57443c31b6f4addd5803/master.m3u8?1676407281"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar contenido bidimensional 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/388/7072ce099eb3c5ed93b64928fc9c3110/master.m3u8?1676407280"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar contenido bidimensional 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/389/139b44a415de938cc4469159fec5dff1/master.m3u8?1676407280"
+                },
+                {
+                    "id": null,
+                    "title": "Visualización de datos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/390/04231aa875154d7a76e6f30c0902ef27/master.m3u8?1676407282"
+                },
+                {
+                    "id": null,
+                    "title": "Visualización de datos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/537/cc222f34626ab7d619bbdf5d3cb4beb1/master.m3u8?1676407359"
+                },
+                {
+                    "id": null,
+                    "title": "Importación a InDesign y detalles finales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/392/b312f23afed5449e114c36ae8da8bbd8/master.m3u8?1676407284"
+                },
+                {
+                    "id": null,
+                    "title": "Importación a InDesign y detalles finales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/393/52af4810ad20859dfd9b221ef84ae840/master.m3u8?1676407284"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yy85tc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/r09oa6.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3905,
+        "product_name": "Information Design for Editorial Infographics",
+        "teacher_name": "Manuel Bortoletti",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 29,
+        "course_total_duration_sec": 25291,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

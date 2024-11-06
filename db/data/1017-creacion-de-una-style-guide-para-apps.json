@@ -1,0 +1,193 @@
+{
+    "id": "1017",
+    "title": "Creación de una style guide para apps",
+    "url": "https://www.domestika.org/es/courses/1017-creacion-de-una-style-guide-para-apps/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Hola",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/505/239a1dc25e78cd17ce163b18c728dee8/master.m3u8?1676388704"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/506/b9665bb802c3b42da7a791a97fe149b7/master.m3u8?1676388698"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/507/e91456b650c6d3d36815c114ae3afb75/master.m3u8?1676388698"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gxg9n7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un style guide",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/509/69e36788df3217fdb60d4cccae6ebb1f/master.m3u8?1676388701"
+                },
+                {
+                    "id": null,
+                    "title": "Diferencias entre styleguide y UI Kit",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/510/4a5ed99a85a6760cb4897dc6cbc8d28b/master.m3u8?1676388702"
+                },
+                {
+                    "id": null,
+                    "title": "Buenas prácticas para construir un style guide",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/511/5a107f50657cf625e81013f67e6b5f99/master.m3u8?1676388705"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gxijfd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elementos dentro del style guide",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo crear símbolos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/513/433b2557867e95215cfc72a4ed81f93f/master.m3u8?1676388707"
+                },
+                {
+                    "id": null,
+                    "title": "Layout",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/514/70a699b94b9e6445ade2fc619b7c04b9/master.m3u8?1676388704"
+                },
+                {
+                    "id": null,
+                    "title": "Espacios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/515/0ff572a41430ead4ee8cf867abce7d7f/master.m3u8?1676388703"
+                },
+                {
+                    "id": null,
+                    "title": "Colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/517/d6d703099ef1f9f27d87a53c171812dc/master.m3u8?1676388707"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/519/15963df26ad7a17da72d38af3c3deb73/master.m3u8?1676388708"
+                },
+                {
+                    "id": null,
+                    "title": "Iconografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/520/d6b15dce772da544d3a7cb2908d6dc24/master.m3u8?1676388710"
+                },
+                {
+                    "id": null,
+                    "title": "UI componentes parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/521/5a75dc2d4d862e37061651d19f6eaef6/master.m3u8?1676388707"
+                },
+                {
+                    "id": null,
+                    "title": "UI componentes parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/522/d582a589c920547ce905d774421a6f55/master.m3u8?1676388712"
+                },
+                {
+                    "id": null,
+                    "title": "UI componentes parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/523/c168f5229dd0ca37a16c600311bd2bbc/master.m3u8?1676388709"
+                },
+                {
+                    "id": null,
+                    "title": "UI componentes parte 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/525/c147a65cf2d77d0da065facfd914bec6/master.m3u8?1676388709"
+                },
+                {
+                    "id": null,
+                    "title": "UI componentes parte 5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/526/957f94149cd36e564a45b133cb7484b3/master.m3u8?1676388710"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1tqf2e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicando un style guide",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Aplicando mi Style guide",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/527/3e2ce83f619747ca946fe87b55a9b170/master.m3u8?1676388712"
+                },
+                {
+                    "id": null,
+                    "title": "Exportando assets para programación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/528/6a13fb2fdc0113804d37a26b8ae9a627/master.m3u8?1676388716"
+                },
+                {
+                    "id": null,
+                    "title": "Y si hay cambios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/529/40d523a8cc972a16bc05d8439cee8546/master.m3u8?1676388710"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cnydy9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/alf44i.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1017,
+        "product_name": "App Style Guide Creation",
+        "teacher_name": "Christian Vizcarra",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 8305,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

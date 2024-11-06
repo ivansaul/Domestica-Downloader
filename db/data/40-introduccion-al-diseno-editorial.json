@@ -1,0 +1,204 @@
+{
+    "id": "40",
+    "title": "Introducción al diseño editorial",
+    "url": "https://www.domestika.org/es/courses/40-introduccion-al-diseno-editorial/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Prólogo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/690/3609d2de880e8277e459ec2d6c5e483e/master.m3u8?1676380788"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/710/a25622150278d934d546229ed1d9dff9/master.m3u8?1676380797"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/716/050017a1401c98e5df2f34f79581ecd3/master.m3u8?1676380799"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/717/81ce70ecb80d9b10d6a43b0020aa380c/master.m3u8?1676380801"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jiz5xw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Capítulo I El nacimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El mundo editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/687/52e5c0de55b0db86231780fc8b539262/master.m3u8?1676380786"
+                },
+                {
+                    "id": null,
+                    "title": "La elección del proyecto editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/688/cba063fe686751dd81fd80f8ab839a28/master.m3u8?1676380786"
+                },
+                {
+                    "id": null,
+                    "title": "La conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/684/87a3b376afd6d6ad89067226d931bc2f/master.m3u8?1676380779"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e9uyz5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Capítulo II El plan",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los contenidos y su estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/705/b42b3f2ed0280e8262413092c23bb04b/master.m3u8?1676380785"
+                },
+                {
+                    "id": null,
+                    "title": "El planillo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/685/b68341c75cfcad56db09d5228e83b33a/master.m3u8?1676380781"
+                },
+                {
+                    "id": null,
+                    "title": "Ordenar todo el material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/686/81fedc7342db5c60b533e4b723504c02/master.m3u8?1676380780"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pz55kb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Capítulo III El desarrollo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El formato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/706/7158941b4832d9b3a94ff8494e6c68f1/master.m3u8?1676380785"
+                },
+                {
+                    "id": null,
+                    "title": "La tipografía I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/698/3ef5ef3e48bb83fd36338dd4c8edba85/master.m3u8?1676380784"
+                },
+                {
+                    "id": null,
+                    "title": "La tipografía II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/697/fa84e9032fe79c8dcbf7f34aadbb6793/master.m3u8?1676380784"
+                },
+                {
+                    "id": null,
+                    "title": "Las retículas y las plantillas I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/691/fbcd781348ca8933017198d3236dc138/master.m3u8?1676380783"
+                },
+                {
+                    "id": null,
+                    "title": "Las retículas y las plantillas II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/715/6df41e50a1be5324b8bbc404a73a6bfa/master.m3u8?1676380792"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño de las páginas interiores I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/707/603aa158887cb78fdd2dcabb799c542b/master.m3u8?1676380789"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño de las páginas interiores II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/708/28ea0f6ef7ee660fd9eb5f215d004486/master.m3u8?1676380792"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño de la portada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/709/0a68e1f284cf5345f9b421bff9cdf679/master.m3u8?1676380792"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2rh7vp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Capítulo IV La revisión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revisión de todo el proyecto y los reajustes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/712/92505937dc09ac2740eaeea3282d8f7d/master.m3u8?1676380790"
+                },
+                {
+                    "id": null,
+                    "title": "El arte final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/714/5eb1a47e669fee0eb609849372674352/master.m3u8?1676380793"
+                },
+                {
+                    "id": null,
+                    "title": "Presentar el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/713/00bf5ce00a623113af4436120130f458/master.m3u8?1676380792"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ddgeqd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vtimx0.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 40,
+        "product_name": "Introduction to Editorial Design",
+        "teacher_name": "Pablo Abad",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 15898,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

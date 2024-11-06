@@ -1,0 +1,138 @@
+{
+    "id": "2655",
+    "title": "Diseño sostenible objetos y espacios respetuosos con el medio ambiente",
+    "url": "https://www.domestika.org/es/courses/2655-diseno-sostenible-objetos-y-espacios-respetuosos-con-el-medio-ambiente/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/041/ec5dcdc4b33110cde06c7cf0f81cc2b2/master.m3u8?1676396966"
+                },
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/781/925d403a7710c7077ec3a52704def136/master.m3u8?1676397373"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o75zm9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exploraciones contextuales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explora con la mente y los ojos abiertos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/042/1fdaf19e82644dbdf9169a46d0002dcf/master.m3u8?1676396966"
+                },
+                {
+                    "id": null,
+                    "title": "Recopilar y mapear material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/438/67bf30deadfdfa7ee4f9f483f670f7a7/master.m3u8?1676397704"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w5x21u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Enfoques poco ortodoxos del proceso creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/045/d021881a7ddfd25b57ea32e6eb08bb64/master.m3u8?1676396970"
+                },
+                {
+                    "id": null,
+                    "title": "Revise sus proveedores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/046/869c685be859f52dc43a6051c4ec33ad/master.m3u8?1676396970"
+                },
+                {
+                    "id": null,
+                    "title": "La actividad humana como proceso de producción sobrante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/439/12ec60329df8ea5541b6132b50b6217e/master.m3u8?1676397708"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/78o3h6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Revisar evaluar y mantener",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El mantenimiento será un placer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/048/045506ce33cb54d916a864019f748fa5/master.m3u8?1676396965"
+                },
+                {
+                    "id": null,
+                    "title": "Revisa tu documentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/047/54de077108a0f8dd8c87621a2533414b/master.m3u8?1676396966"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fgfu0y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7rtrjg.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2655,
+        "product_name": "Sustainable Design: Create Eco-friendly Objects and Spaces",
+        "teacher_name": "Lucas Muñoz",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 9,
+        "course_total_duration_sec": 6137,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

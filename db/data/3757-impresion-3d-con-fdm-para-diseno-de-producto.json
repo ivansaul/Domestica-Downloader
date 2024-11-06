@@ -1,0 +1,210 @@
+{
+    "id": "3757",
+    "title": "Impresión 3D con FDM para diseño de producto",
+    "url": "https://www.domestika.org/es/courses/3757-impresion-3d-con-fdm-para-diseno-de-producto/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/212/d0ac682533052e54d4e57174be9c2cc1/master.m3u8?1676408736"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiraciones creativas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/213/2894dcba889c2c512d750fff9f19447e/master.m3u8?1676408737"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m6r978.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de objetos e impresión 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Domar la impresora 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/215/56a6f140640630051f9d07159199b58c/master.m3u8?1676408740"
+                },
+                {
+                    "id": null,
+                    "title": "La elección del material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/218/344abc1825175695e6971f3875fd4d12/master.m3u8?1676408738"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño de objetos 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/288/7aa078d3e2955c343cbc4496a82b2f86/master.m3u8?1676408772"
+                },
+                {
+                    "id": null,
+                    "title": "El programa utilizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/029/99992eb0db280e416999fcf8148a5864/master.m3u8?1676411313"
+                },
+                {
+                    "id": null,
+                    "title": "El boceto del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/030/2dd2a7de9b47419593a3728cad895fd7/master.m3u8?1676411320"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9qtmpm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al software Fusion 360",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/219/9577118df6abc8780abd8699433e35e6/master.m3u8?1676408739"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos 2D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/220/c20590042b3a8456e8cf66de560f19e9/master.m3u8?1676408742"
+                },
+                {
+                    "id": null,
+                    "title": "Los volúmenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/221/07621d3c13277e9fad4642ade96aae6a/master.m3u8?1676408743"
+                },
+                {
+                    "id": null,
+                    "title": "Crear patrones y texturas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/222/8ddf513b4b963586026a7d6d55e1f71b/master.m3u8?1676408743"
+                },
+                {
+                    "id": null,
+                    "title": "Crear patrones y texturas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/290/da673999aa141e42c13998174160af41/master.m3u8?1676408774"
+                },
+                {
+                    "id": null,
+                    "title": "Modelar el recipiente y la tapa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/223/8c834642b8e76f88da860e9053d5501f/master.m3u8?1676408743"
+                },
+                {
+                    "id": null,
+                    "title": "Historial crear la gama y exportar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/224/75cd16acfbc63c9ea198a4f922416601/master.m3u8?1676408741"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7ul444.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Impresión 3D con SuperSlicer",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configurar la impresora",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/225/a80c6bb5a1abc585b4e1d79e0178e574/master.m3u8?1676408741"
+                },
+                {
+                    "id": null,
+                    "title": "La interfaz del programa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/226/d2f8186028b3cf717bdab1de67932f1c/master.m3u8?1676408745"
+                },
+                {
+                    "id": null,
+                    "title": "Parámetros para el contenedor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/227/d301025244844710a5671cec6dfac27c/master.m3u8?1676408741"
+                },
+                {
+                    "id": null,
+                    "title": "Parámetros para la tapa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/229/536b5ead6e4f8cfede1461f31e70b0e2/master.m3u8?1676408743"
+                },
+                {
+                    "id": null,
+                    "title": "El trabajo con la impresora 3D deposición fundida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/230/2ad7a9bf63efe0dbf4ea1768faacd0ed/master.m3u8?1676408743"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/se3c30.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exploraciones complementarias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diferencia entre diseño y producción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/232/daa0d38ccffa41051e556bc4ffe31607/master.m3u8?1676408744"
+                },
+                {
+                    "id": null,
+                    "title": "Compartir tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/233/31a31957a5ecb2593832ab1049868cde/master.m3u8?1676408745"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ft2y4j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/0t7r0f.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3757,
+        "product_name": "Object Design with FDM 3D Printing",
+        "teacher_name": "William et Julien (Bold Design)",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 11378,
+        "total_units": 5,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

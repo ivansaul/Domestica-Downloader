@@ -1,0 +1,153 @@
+{
+    "id": "3741",
+    "title": "Diseño de estampados textiles con collage",
+    "url": "https://www.domestika.org/es/courses/3741-diseno-de-estampados-textiles-con-collage/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/009/b611a5168302e161eebb8c025991541b/master.m3u8?1676405612"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/010/b2eb10f667066882a2d94ac3fe6bc348/master.m3u8?1676405617"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3hp693.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Planificación de una pequeña colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/011/d8afb7314f4b294f18c84c4ce3bf0bb5/master.m3u8?1676405616"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo creamos nuestras colecciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/012/d99a17fb39c049314a6fdaaa685fc9fa/master.m3u8?1676405615"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia del error en el proceso creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/013/1c2e26e981fd53d45ef524faa51e1860/master.m3u8?1676405616"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cgeuf2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elementos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/014/ab1c8d9f7a2e1ef9583bd8b681339dee/master.m3u8?1676405616"
+                },
+                {
+                    "id": null,
+                    "title": "La composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/015/ba6230b472cd0ddfa95a69c75c13d913/master.m3u8?1676405616"
+                },
+                {
+                    "id": null,
+                    "title": "La materia prima",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/016/7e5749a0b1f6cddfbb70931fd60f185f/master.m3u8?1676405616"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ja3bnp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Técnicas sencillas para enriquecer tu collage",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/017/c556274a4b00df15756d98b59c5090d8/master.m3u8?1676405617"
+                },
+                {
+                    "id": null,
+                    "title": "Collage abstracto para alfombra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/018/943eb86844619510152dd4c944d492e9/master.m3u8?1676405620"
+                },
+                {
+                    "id": null,
+                    "title": "Collage figurativo para manta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/019/e65a614c60d1ef1cf33bc686c38221f2/master.m3u8?1676405617"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo digitalizar tu collage",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/020/3bb247b663ce260e4b8a401057127476/master.m3u8?1676405620"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/47l5rh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mhmc9r.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3741,
+        "product_name": "Textile-Print Creation with Collage",
+        "teacher_name": "DaDa Duo",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4611,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

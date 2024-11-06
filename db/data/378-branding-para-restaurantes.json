@@ -1,0 +1,158 @@
+{
+    "id": "378",
+    "title": "Branding para restaurantes",
+    "url": "https://www.domestika.org/es/courses/378-branding-para-restaurantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/932/01aeb5f0c88f13f1c1483eab6b354c6a/master.m3u8?1676384338"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/933/2ed7216da7331dac92e8339b8a5fc5f4/master.m3u8?1676384339"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s9ib6y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mise en Place",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dialogar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/934/c8a49e8681806f08e41b52322dc70f6f/master.m3u8?1676384339"
+                },
+                {
+                    "id": null,
+                    "title": "Investigar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/935/d7387539431696885b85c7f4f5523ac3/master.m3u8?1676384339"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/936/e66ff7108cffc36124ff1b606449d386/master.m3u8?1676384338"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/orpjqs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Logo menú y piezas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Logo construcción básica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/937/bc129f1a83bad55cd55fbd49d642d038/master.m3u8?1676384339"
+                },
+                {
+                    "id": null,
+                    "title": "Logo aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/938/20e07bf11437cc0df0704d5cab4afd27/master.m3u8?1676384338"
+                },
+                {
+                    "id": null,
+                    "title": "Influencia del logo sobre las piezas de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/939/a2ec8d3c1dd3f839c7ad6fc26002bb4d/master.m3u8?1676384342"
+                },
+                {
+                    "id": null,
+                    "title": "Menú",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/941/a10a0c4c60136ea23334f65b4d276587/master.m3u8?1676384341"
+                },
+                {
+                    "id": null,
+                    "title": "Diagramación del menú",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/942/dc6fb9516f1cd1d243a3b1e24366d597/master.m3u8?1676384343"
+                },
+                {
+                    "id": null,
+                    "title": "Historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/943/5c6a1781c0583abfae373aadfcfc46ac/master.m3u8?1676384342"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b41cmw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conclusiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/945/a21d42a47daa98779d3789fba51b869b/master.m3u8?1676384342"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación a cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/946/35edb548ea5081472d3b960c39e5629c/master.m3u8?1676384341"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xil1ns.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qqyxb1.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 378,
+        "product_name": "Branding for Restaurants",
+        "teacher_name": "Arutza Rico Onzaga",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6465,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

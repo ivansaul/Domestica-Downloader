@@ -1,0 +1,200 @@
+{
+    "id": "4969",
+    "title": "Diseño holístico para productos digitales",
+    "url": "https://www.domestika.org/es/courses/4969-diseno-holistico-para-productos-digitales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre nosotros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/396/868a3d84bfa706af1eaae6ab38d3e303/master.m3u8?1677682566"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/397/b99e0fb7451f3016fc139e2e255a8574/master.m3u8?1677682734"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n7lqlw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estableciendo la Dirección Estratégica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentamos el concepto de diseño holístico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/398/eac1846c456a43fd7a6b59063c683de8/master.m3u8?1677684764"
+                },
+                {
+                    "id": null,
+                    "title": "Pensamiento estrategico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/399/3bba585c04f9a3b8b0e42f04f6307190/master.m3u8?1677685720"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño Sistémico 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/400/ba61aae6eae8306c03aa99cfc73f48f3/master.m3u8?1677685869"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño sistémico 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/403/add4860839ba182ed87285473dfed4fb/master.m3u8?1677686942"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación estratégica y herramientas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/420/d13ec695e793db237c8c0b22fbfce420/master.m3u8?1677687953"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación estratégica y herramientas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/421/8e6901bf6852f9e268ac95206676acd0/master.m3u8?1677688004"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/stro8y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El concepto de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al Concepto de Diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/422/9c870d28a8ccce93ffdd99a5b427bff4/master.m3u8?1677688221"
+                },
+                {
+                    "id": null,
+                    "title": "La arquitectura de la solución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/423/9d16a9dc31014b410e13785e71af94cc/master.m3u8?1677688237"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación visual Mood Board y pruebas de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/424/23b1d7487907cfc86203bc613f6ab0cb/master.m3u8?1677688255"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando la experiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/426/04dac215cbab9d877d9060ae3abb500a/master.m3u8?1677688298"
+                },
+                {
+                    "id": null,
+                    "title": "Experimentación de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/530/65589a7a226ed36177bcfdb85fdd7942/master.m3u8?1693490923"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m1gh5m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción de diseño iterativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Establecimiento del diseño visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/427/d09d388b120c34468f6cd9b9be5b4d6f/master.m3u8?1677688322"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de una guía de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/428/d0569f81d25d764c453c4d531731d327/master.m3u8?1677688340"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño para escalabilidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/429/34bebb499844427d33d3d534549aaab1/master.m3u8?1677688355"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de su flujo de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/431/04f9cd7cbae4bdc4bf097ada5a220efc/master.m3u8?1677688411"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/syotqd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Habilidades no técnicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/432/db23cce4521f772d76854c94498d1226/master.m3u8?1677688425"
+                },
+                {
+                    "id": null,
+                    "title": "Pruebas de usuario en prototipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/433/c6c3ce1d1af56ff55735b429ca6cc935/master.m3u8?1677688441"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ysy7pp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/o0oia3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4969,
+        "product_name": "Holistic Design for digital products",
+        "teacher_name": "Media.Monks",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 12105,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

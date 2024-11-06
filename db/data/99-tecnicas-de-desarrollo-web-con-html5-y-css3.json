@@ -1,0 +1,292 @@
+{
+    "id": "99",
+    "title": "Técnicas de desarrollo web con HTML5 y CSS3",
+    "url": "https://www.domestika.org/es/courses/99-tecnicas-de-desarrollo-web-con-html5-y-css3/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/133/6719f205b7edefe346b5081371837f02/master.m3u8?1676381407"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/134/3dd371c76a6b8b937491337988e8b582/master.m3u8?1676381410"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fhzyw1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a HTML5 y CSS3",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a HTML5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/135/aea532eb6adb9f951f24075ff2428873/master.m3u8?1676381407"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a CSS3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/136/84436ec0ada060a260ed2ed02467b228/master.m3u8?1676381407"
+                },
+                {
+                    "id": null,
+                    "title": "Navegadores y soporte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/176/65192e9a5a1e8925bdbbd96ce75d6ec9/master.m3u8?1676381418"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2ifqrz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Semántica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las etiquetas HTML5 y la semántica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/139/385c6bfec6fae06b3cfa2767f2cb8af3/master.m3u8?1676381407"
+                },
+                {
+                    "id": null,
+                    "title": "Etiquetas de bloque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/140/b95df1d098fe9fb5762bf4105b257c71/master.m3u8?1676381410"
+                },
+                {
+                    "id": null,
+                    "title": "Etiquetas de línea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/141/6646bfe196aa7c4104aebc500414cdc3/master.m3u8?1676381409"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/07h1mv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Decoración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Color y opacidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/142/cbc37d93748502d71fae786e8b75e060/master.m3u8?1676381410"
+                },
+                {
+                    "id": null,
+                    "title": "Bordes redondeados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/143/1f05835913626bcb53744f78ba0c3b82/master.m3u8?1676381412"
+                },
+                {
+                    "id": null,
+                    "title": "Sombras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/144/293931ad0472c8f76ddcadaebe31c80c/master.m3u8?1676381412"
+                },
+                {
+                    "id": null,
+                    "title": "Degradados y fondos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/145/918e63b133d992d00365759de06538f9/master.m3u8?1676381417"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hvvfy9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vídeo audio e imágenes responsive",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Vídeo y audio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/146/39f1144f7fe48c0f34b1a9d77f50bb04/master.m3u8?1676381412"
+                },
+                {
+                    "id": null,
+                    "title": "Atributos de vídeo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/147/17c63115fc8c11c3aaf4015660c6d792/master.m3u8?1676381413"
+                },
+                {
+                    "id": null,
+                    "title": "Imágenes responsive",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/165/a38764a657058292b28730549380d82d/master.m3u8?1676381415"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lj41qz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Selectores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selectores de hijo y tipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/166/5147fd1965da06639f9c673d298146c0/master.m3u8?1676381419"
+                },
+                {
+                    "id": null,
+                    "title": "Selectores de atributo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/150/a2333f562ebc236f90a12a67f9c86131/master.m3u8?1676381411"
+                },
+                {
+                    "id": null,
+                    "title": "Otros selectores útiles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/167/0b3e7fb8dcb2d07033cc09cf7ec52647/master.m3u8?1676381415"
+                },
+                {
+                    "id": null,
+                    "title": "Pseudoelementos before y after",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/152/706490306c6f2c992bd4918481bcaff3/master.m3u8?1676381413"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vebe24.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Formularios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Nuevos tipos de inputs",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/168/bf4d3b1a0ba365e53734f3de100384ce/master.m3u8?1676381417"
+                },
+                {
+                    "id": null,
+                    "title": "Atributos en los formularios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/154/28925c063fb1ac24a554f41cc4f36188/master.m3u8?1676381413"
+                },
+                {
+                    "id": null,
+                    "title": "Dar estilos a los formularios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/169/51e1bee8467df0be533396701dbb7cd9/master.m3u8?1676381417"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aiouno.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Transiciones y animaciones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Transformaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/170/c77422e9a768e4d5aa7c7c55e69e2dca/master.m3u8?1676381420"
+                },
+                {
+                    "id": null,
+                    "title": "Transiciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/157/6128171ce6e6826c8ee6b175a6f5ab9c/master.m3u8?1676381419"
+                },
+                {
+                    "id": null,
+                    "title": "Animaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/172/8ad8bcb9bb036e8dd03f0e1d76d1632e/master.m3u8?1676381422"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sc75t8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas de layout",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Boxsizing y las media queries",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/173/33ff7bd8eeb62f685267060d79c54dbe/master.m3u8?1676381422"
+                },
+                {
+                    "id": null,
+                    "title": "Calc y viewport units",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/160/3b13615e051cbd57013ba86a98eb03b8/master.m3u8?1676381414"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a flexbox",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/174/27b88a72c90be135bc3268c29b5e70cd/master.m3u8?1676381418"
+                },
+                {
+                    "id": null,
+                    "title": "Soluciones con flexbox",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/162/1e8024411be95aac5215a2166f05e129/master.m3u8?1676381415"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5bbhwl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hiuynd.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 99,
+        "product_name": "Techniques for Web Development with HTML5 and CSS3",
+        "teacher_name": "Marta Armada",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 29,
+        "course_total_duration_sec": 8065,
+        "total_units": 9,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

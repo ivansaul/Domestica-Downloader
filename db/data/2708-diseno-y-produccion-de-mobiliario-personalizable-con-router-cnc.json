@@ -1,0 +1,180 @@
+{
+    "id": "2708",
+    "title": "Diseño y producción de mobiliario personalizable con router CNC",
+    "url": "https://www.domestika.org/es/courses/2708-diseno-y-produccion-de-mobiliario-personalizable-con-router-cnc/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/678/2bca1a153ba537e029ae73ca88464f6a/master.m3u8?1676400466"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/679/da234c9454abd4fc3b491822036a959f/master.m3u8?1676400468"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hx0jea.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consideraciones productivas y ambientales para diseñar mobiliario con Router CNC",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los materiales la madera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/680/f35fb53507673e8d47ee1a7a0cfa5a4b/master.m3u8?1676400465"
+                },
+                {
+                    "id": null,
+                    "title": "Los CNC y los cortadores más comunes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/681/cc095802d156608afe17d5a1087209ac/master.m3u8?1676400467"
+                },
+                {
+                    "id": null,
+                    "title": "Los tipos de corte más comunes en un Router CNC",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/682/9ae07778283835d518765a966bff5a51/master.m3u8?1676400471"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/omx06b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Metodologías para desarrollar conceptos de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El brief de diseño y la lista de requerimientos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/683/bc486847221c8a9c284718cd90ce094d/master.m3u8?1676400471"
+                },
+                {
+                    "id": null,
+                    "title": "Procesos de exploración y algunas consideraciones funcionales y ergonómicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/684/3c740a4508142ec3538843f264bd98ed/master.m3u8?1676400477"
+                },
+                {
+                    "id": null,
+                    "title": "Modelos a escala",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/685/525bf2fcb5851e251fb3fa5b3ccde744/master.m3u8?1676400473"
+                },
+                {
+                    "id": null,
+                    "title": "Modelos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/686/96ae26007ebd5a340a2ba6deb6367a24/master.m3u8?1676400474"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n72x35.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujo en computadora del escritorio Mayo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Rhinoceros y los primeros trazos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/687/cfd79b4760c7e8ecc61da30f54914b7c/master.m3u8?1676400475"
+                },
+                {
+                    "id": null,
+                    "title": "Ensambles de caja y espiga con cuña",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/688/1fa5415decca4b9d471e62a5b6ddd0ad/master.m3u8?1676400474"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de esquinas redondeadas para salvar ensambles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/689/12e91cfa5e43c7f23e76a08d527da0f6/master.m3u8?1676400477"
+                },
+                {
+                    "id": null,
+                    "title": "Personalizar el escritorio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/690/7f0c5093d5e7fda1dbf542b251103de0/master.m3u8?1676400480"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vn2ypf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción del escritorio Mayo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Archivos para corte CNC",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/691/1e5df9d8a175818ea313e7baefd156b7/master.m3u8?1676400476"
+                },
+                {
+                    "id": null,
+                    "title": "Piezas cortadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/692/3cf2753bd02400595280e765d6235b26/master.m3u8?1676400478"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9uosxc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/h8f56u.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2708,
+        "product_name": "Design and Production of Customizable Furniture with a CNC Router",
+        "teacher_name": "Daniel Romero / Tuux",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8834,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

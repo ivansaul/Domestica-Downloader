@@ -1,0 +1,165 @@
+{
+    "id": "4775",
+    "title": "Diseño de feed de Instagram con Canva",
+    "url": "https://www.domestika.org/es/courses/4775-diseno-de-feed-de-instagram-con-canva/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/178/2176cda66fb611981a60efe7df4da538/master.m3u8?1678101068"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/179/4e6b2dffa9461e9cca80fbd57f12aa10/master.m3u8?1678101083"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1msw8f.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Antes de diseñar el feed",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al feed de Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/180/11201e09b01a3759eb851eb902baba4a/master.m3u8?1678101095"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestra herramienta de diseño Canva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/181/0065a7bb75cd4f6cee8edd52daf94a95/master.m3u8?1676412594"
+                },
+                {
+                    "id": null,
+                    "title": "Definir tu estilo colores y tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/182/8085860f7dadc55cf7534b43ed064879/master.m3u8?1678101107"
+                },
+                {
+                    "id": null,
+                    "title": "Avatar y destacados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/183/5b51360855252ff1264ca1192e938d92/master.m3u8?1678101123"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bj2u7z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñar el feed",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de plantillas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/184/8ad2f0f8e0f2cd0aa4905cb7df295b57/master.m3u8?1678100921"
+                },
+                {
+                    "id": null,
+                    "title": "Definir nuestros objetivos de comunicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/185/567b42913a7b49b4fcf8f5dd32f1abb3/master.m3u8?1678100936"
+                },
+                {
+                    "id": null,
+                    "title": "Adaptar las plantillas a tu marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/186/c61f24608d4f8d3641b25aa90e98dbab/master.m3u8?1678100948"
+                },
+                {
+                    "id": null,
+                    "title": "Crear tus plantillas desde cero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/187/41668b64ea81f2a7e90490e87a802732/master.m3u8?1678100959"
+                },
+                {
+                    "id": null,
+                    "title": "Incluir contenido en el feed",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/188/4d136e0a03ac27cb95315c79672aab49/master.m3u8?1678100972"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8kq3l9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elevar el feed",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear GIF animados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/189/a69b5556ff4201358f2d32ce30f545b4/master.m3u8?1678100988"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación en Asana",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/190/478e9977b58aa7c747291c4d57356f74/master.m3u8?1678100998"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñar la página de enlaces de tu biografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/191/a1c99a68f85e88e25cc2c5f6646c1c34/master.m3u8?1678101017"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4sb7tf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/bgw3rv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4775,
+        "product_name": "Instagram Feed Design with Canva",
+        "teacher_name": "Isabel Gil Loef",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 10882,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

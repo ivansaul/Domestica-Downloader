@@ -1,0 +1,259 @@
+{
+    "id": "405",
+    "title": "Introducción al desarrollo web con PHP",
+    "url": "https://www.domestika.org/es/courses/405-introduccion-al-desarrollo-web-con-php/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/468/95f591af2627f052a1e2b2ae01d79d99/master.m3u8?1676385351"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/469/1ed56d4a465b1093c440bcc02422f4dc/master.m3u8?1676385353"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cxa9dq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a PHP",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es PHP y cómo funciona",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/470/c4cf365f17bdfe4c4252b791b095ffa9/master.m3u8?1676385354"
+                },
+                {
+                    "id": null,
+                    "title": "Instalación de un entorno local",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/471/8e272bc9a1c4ab40719a41154cf1fe80/master.m3u8?1676385354"
+                },
+                {
+                    "id": null,
+                    "title": "Sintaxis de PHP y nuestro primer script",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/472/26d2e8db2c6a3b11ec86fd40a8e29b3a/master.m3u8?1676385353"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x8a396.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estructura del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/473/e2d66206f03d5a522ba34e00c17c9663/master.m3u8?1676385355"
+                },
+                {
+                    "id": null,
+                    "title": "Variables constantes y funciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/474/8186294f360d097a0b18fff9fde27fd9/master.m3u8?1676385357"
+                },
+                {
+                    "id": null,
+                    "title": "Depurado de errores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/475/9c5ac0b9e460eef05ef580229220c32f/master.m3u8?1676385357"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e1iiy3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mostrando entradas al usuario",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/476/caa5466fd17daa657ca537ab426f8670/master.m3u8?1676385359"
+                },
+                {
+                    "id": null,
+                    "title": "Fechas en PHP",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/477/f576ebb0a7ee3577e0988bc6b6bc5378/master.m3u8?1676385361"
+                },
+                {
+                    "id": null,
+                    "title": "Variables superglobales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/478/cad99a8872cefc1dd4f0c278e224f20b/master.m3u8?1676385360"
+                },
+                {
+                    "id": null,
+                    "title": "Estructuras de control y operadores Mostrando un sólo post al usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/483/de709c00350dd2e48f2a696e79175ccf/master.m3u8?1676385379"
+                },
+                {
+                    "id": null,
+                    "title": "Loops Iterando para mostrar las entradas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/496/3d93448462a56f9e0820597e6fb6af4a/master.m3u8?1676385367"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/caqsuy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ficheros y formularios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Incluir ficheros en PHP Hora de reorganizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/480/85c593a2069ea0108f30681dc603d482/master.m3u8?1676385364"
+                },
+                {
+                    "id": null,
+                    "title": "Formularios Creando entradas en el blog",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/481/74e58ea2554f3f6ff403c5c6bd3184fb/master.m3u8?1676385363"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tgocbv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bases de datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a MySQL y las Bases de Datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/484/8f5c1e1c012f440031584a3e3080d342/master.m3u8?1676385361"
+                },
+                {
+                    "id": null,
+                    "title": "Integración de MySQL en nuestro proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/485/e90f64c7561e500a833932857528b3e4/master.m3u8?1676385363"
+                },
+                {
+                    "id": null,
+                    "title": "Guardado de datos en la Base de Datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/486/b66c9712ea2e9cdbe9192d1fbd257db9/master.m3u8?1676385361"
+                },
+                {
+                    "id": null,
+                    "title": "Redirecciones y cabeceras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/487/231c1b6e341d563f0e65033b2b5b6132/master.m3u8?1676385362"
+                },
+                {
+                    "id": null,
+                    "title": "Redirecciones y cabeceras II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/488/78acdd0f745fa04692ad54a321b345bc/master.m3u8?1676385367"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0rpkgy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "PHP más allá de lo básico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Seguridad básica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/489/fc33bce7fda0a7996182e3ca290d3a48/master.m3u8?1676385366"
+                },
+                {
+                    "id": null,
+                    "title": "Login mediante sistema de sesiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/490/bf578abc70c0ab742aac684bca327579/master.m3u8?1676385371"
+                },
+                {
+                    "id": null,
+                    "title": "Un controlador frontal para nuestro CMS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/491/540bacaee444f16b2b0b3eb6a093629c/master.m3u8?1676385368"
+                },
+                {
+                    "id": null,
+                    "title": "Clases y Objetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/492/6ccd6f3541baa4624636086f3c23616a/master.m3u8?1676385368"
+                },
+                {
+                    "id": null,
+                    "title": "Frameworks y CMS en PHP",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/493/89106151a48ba4cc9a63fa8b113469fc/master.m3u8?1676385365"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo subir a producción nuestro código",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/494/a3e32a69c857a4201976237ce5be1f25/master.m3u8?1676385366"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tjal2q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ljk12a.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 405,
+        "product_name": "Introduction to PHP Web Development",
+        "teacher_name": "Ignacio Cruz Moreno",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 26,
+        "course_total_duration_sec": 15139,
+        "total_units": 7,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

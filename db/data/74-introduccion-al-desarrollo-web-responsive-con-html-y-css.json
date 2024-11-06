@@ -1,0 +1,285 @@
+{
+    "id": "74",
+    "title": "Introducción al Desarrollo Web Responsive con HTML y CSS",
+    "url": "https://www.domestika.org/es/courses/74-introduccion-al-desarrollo-web-responsive-con-html-y-css/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación del curso y del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/519/1f7a23a1a308d5e42bdc40f4ce1d7000/master.m3u8?1676381184"
+                },
+                {
+                    "id": null,
+                    "title": "La web HTML CSS y JS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/520/d22182527977142ce0a0f6712611984a/master.m3u8?1676381185"
+                },
+                {
+                    "id": null,
+                    "title": "Editor de código Crear un proyecto Entorno de edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/521/1a50d941eb865149c23155ebab413a0b/master.m3u8?1676381186"
+                },
+                {
+                    "id": null,
+                    "title": "Inspector y herramientas de desarrollador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/522/e6aec0609cd17dec5f51a5b005429d19/master.m3u8?1676381186"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/byunnk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estructura HTML",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las etiquetas HTML y los atributos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/523/79a7e6d7235ae3fdda6e0c2fd8c08fcd/master.m3u8?1676381189"
+                },
+                {
+                    "id": null,
+                    "title": "Etiquetas de texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/524/89c408832e9d92d2e9a58abb27e6668b/master.m3u8?1676381186"
+                },
+                {
+                    "id": null,
+                    "title": "Imágenes y enlaces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/525/fe57b44d6adf969b41fb12a1a7cd2e0b/master.m3u8?1676381189"
+                },
+                {
+                    "id": null,
+                    "title": "Etiquetas de bloque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/528/f3b8297bbb4df24ff1da1e31397c5349/master.m3u8?1676381189"
+                },
+                {
+                    "id": null,
+                    "title": "Etiquetas de documento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/527/f291724c15954e1782b7e28dbbe6cee9/master.m3u8?1676381189"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b1uotp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empezando con CSS",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Vincular un archivo CSS y sintaxis de la CSS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/529/92115ff404784ae57e91e9026e742bc6/master.m3u8?1676381191"
+                },
+                {
+                    "id": null,
+                    "title": "Selectores básicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/530/3034ebfdcfad39a2ab14b21652abbf56/master.m3u8?1676381190"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos tipográficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/531/c14c6c3f721895687ea1f0f7322a5bbd/master.m3u8?1676381190"
+                },
+                {
+                    "id": null,
+                    "title": "Especificidad y estructura en las hojas de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/532/94ec1efacb978e1ff72624c7964b556c/master.m3u8?1676381194"
+                },
+                {
+                    "id": null,
+                    "title": "Selectores avanzados las pseudoclases",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/533/4db2fde444edc79e2e2d2f080d37b57f/master.m3u8?1676381194"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n2vszd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estructuras en CSS",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estilos del navegador y Reset CSS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/534/b4f143b62906b6062d0cc78de4b6df15/master.m3u8?1676381195"
+                },
+                {
+                    "id": null,
+                    "title": "El modelo de caja",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/535/21b42eb9d62a63eefb1e9db51029a9f5/master.m3u8?1676381195"
+                },
+                {
+                    "id": null,
+                    "title": "Displays",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/536/961ea0f74fee950165a8f67cc354f5d3/master.m3u8?1676381196"
+                },
+                {
+                    "id": null,
+                    "title": "Floats",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/537/8a9fdcb2413c413f89b5347557c275d7/master.m3u8?1676381198"
+                },
+                {
+                    "id": null,
+                    "title": "Position",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/538/0491a0160033a534c11464a420b5344a/master.m3u8?1676381199"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ejscb2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Decoración en CSS",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estilos para listas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/539/ed7ea7804f9c7145c591befc526232c2/master.m3u8?1676381200"
+                },
+                {
+                    "id": null,
+                    "title": "Border borderradius y boxshadow",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/540/4118da9bc67f5713c4dd6c1d33685a18/master.m3u8?1676381204"
+                },
+                {
+                    "id": null,
+                    "title": "Fondos e imágenes de fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/541/7e1a9efc110bf98dfadeac704969771f/master.m3u8?1676381200"
+                },
+                {
+                    "id": null,
+                    "title": "Webfonts",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/542/89b282b76ba05c062c98312aa80449c4/master.m3u8?1676381201"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ezct2a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Técnicas responsive",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El diseño responsive y Mobile First",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/543/ce4b84023648efaa6a916e1fcc861dc4/master.m3u8?1676381200"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura flexible",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/544/cdaf9cfed9596e5f28867988b6cfe717/master.m3u8?1676381200"
+                },
+                {
+                    "id": null,
+                    "title": "Las media queries",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/545/f3c51030caae358fd315e696f6abd51d/master.m3u8?1676381204"
+                },
+                {
+                    "id": null,
+                    "title": "Navegación responsive",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/547/5e26f18c83b8eeb6b5aa16f8a139eade/master.m3u8?1676381203"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u8nrip.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Añadiendo interacción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Enlace de email",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/548/f7f6fac23e0046901e1c394d2c1fc146/master.m3u8?1676381203"
+                },
+                {
+                    "id": null,
+                    "title": "Transiciones en CSS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/549/4839e8074b37b46c67a5c4903fd44405/master.m3u8?1676381204"
+                },
+                {
+                    "id": null,
+                    "title": "Vincular un archivo JavaScript",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/550/0b71ba9de824fcb163a2e634b7f1c5c2/master.m3u8?1676381204"
+                },
+                {
+                    "id": null,
+                    "title": "Navegación con JavaScript añadido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/551/e6711ef4a4200ebff8e7d7c1ad448ab9/master.m3u8?1676381207"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7yw4wq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cbm32o.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 74,
+        "product_name": "Introduction to Responsive Web Development with HTML and CSS",
+        "teacher_name": "Javier Usobiaga Ferrer",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 31,
+        "course_total_duration_sec": 8335,
+        "total_units": 7,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

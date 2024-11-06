@@ -1,0 +1,163 @@
+{
+    "id": "363",
+    "title": "Introducción al patchwork contemporáneo",
+    "url": "https://www.domestika.org/es/courses/363-introduccion-al-patchwork-contemporaneo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/499/0c1a59e6774a5f5ca4998c6be5117ddb/master.m3u8?1676384958"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias artísticas e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/500/d0f3dc7d72815be94f9d2206be52447c/master.m3u8?1676384958"
+                },
+                {
+                    "id": null,
+                    "title": "El Patchwork tradicional y el contemporáneo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/501/f88b6b8e9b31c05d15497b653ac69a78/master.m3u8?1676384960"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales para el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/502/d4463d0453c6215597305a6ff6237f1c/master.m3u8?1676384958"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2qfra6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñar el tejido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Buscar la idea moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/503/7719eeacba11fde7c1eb0f6b81bb03a7/master.m3u8?1676384961"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/504/cb82a634d918b2f0c916cefcfc5219fc/master.m3u8?1676384962"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño a escala o collage",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/505/60ba5526736d9d1e103cc6b4f3cf2314/master.m3u8?1676384963"
+                },
+                {
+                    "id": null,
+                    "title": "Nociones básicas de patchwork",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/506/01ce94962afe0a974720d3a59024fba8/master.m3u8?1676384961"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jwb75a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La construcción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El acolchado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/509/9d137e63db2b6668dc0337573be7c41e/master.m3u8?1676384963"
+                },
+                {
+                    "id": null,
+                    "title": "Terminar el bolso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/510/2f7c20e9efe8da9b31327ea5ee10f14b/master.m3u8?1676384973"
+                },
+                {
+                    "id": null,
+                    "title": "Coser y planchar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/530/5bde64ff25b10b4218e13741ece159bd/master.m3u8?1676384972"
+                },
+                {
+                    "id": null,
+                    "title": "Preparar los tejidos y hacer el puzzle",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/323/55147ebed0696f0ea2660495e6211407/master.m3u8?1676409614"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0ql8ts.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Otras aplicaciones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Otras ideas para aplicar el patchwork",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/511/e5b214f19b1d20f1afa490a737f4e68c/master.m3u8?1676384960"
+                },
+                {
+                    "id": null,
+                    "title": "Patchwork de improvisación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/512/36e5125b1f3186f75b61fbdd59717f99/master.m3u8?1676384962"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y7uhzm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/2dluv8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 363,
+        "product_name": "Introduction to Contemporary Patchwork",
+        "teacher_name": "Zita Chocarro Iriarte",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 5229,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

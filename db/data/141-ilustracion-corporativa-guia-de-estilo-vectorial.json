@@ -1,0 +1,147 @@
+{
+    "id": "141",
+    "title": "Ilustración corporativa Guía de estilo vectorial",
+    "url": "https://www.domestika.org/es/courses/141-ilustracion-corporativa-guia-de-estilo-vectorial/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mini Biografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/222/64ba6c726e507c2157bf3f01f35b932e/master.m3u8?1676381950"
+                },
+                {
+                    "id": null,
+                    "title": "Referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/221/f0d7a0f0aa3b3bb86343dd942fccd495/master.m3u8?1676381949"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dk9h70.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estilo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Nociones básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/232/55a48583a3bf20317d9091d279892ee6/master.m3u8?1676381954"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a la Guía de Estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/223/b8d51669dbac9ac8b81db700017fb8b6/master.m3u8?1676381949"
+                },
+                {
+                    "id": null,
+                    "title": "Tu micromundo ilustrado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/224/31da3f98cf952d64037b5a7215f05739/master.m3u8?1676381949"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bwbi1v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando el estilo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Color y Tratamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/225/8b9b678498ad11aaad6de6b39c713d41/master.m3u8?1676381950"
+                },
+                {
+                    "id": null,
+                    "title": "Forma I estructura y grados de abstracción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/226/5c9bf04587e2d386ffeb490e2880121a/master.m3u8?1676381950"
+                },
+                {
+                    "id": null,
+                    "title": "Forma II Punto de vista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/227/a3ba348d8f7d1010df86ac3f09519031/master.m3u8?1676381952"
+                },
+                {
+                    "id": null,
+                    "title": "Acabado Nivel de detalle  Recursos gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/228/6423ee6519ee4bbbb248113344021ad8/master.m3u8?1676381954"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r7sffp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trucos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Luz  Sombra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/229/82137add2d02c253fd2f3437cfe9e96e/master.m3u8?1676381952"
+                },
+                {
+                    "id": null,
+                    "title": "Personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/230/821736a8e6d6a79645473170e25147ab/master.m3u8?1676381954"
+                },
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/231/2d16b2602960fb38721db4053f9b9007/master.m3u8?1676381953"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2vb44p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qu9fhl.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 141,
+        "product_name": "Corporate Illustration: Vectorial Style Guide",
+        "teacher_name": "Mᴧuco Sosᴧ",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5080,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}
