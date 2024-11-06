@@ -1,0 +1,158 @@
+{
+    "id": "2022",
+    "title": "Fotografía de arquitectura abstracta para Instagram",
+    "url": "https://www.domestika.org/es/courses/2022-fotografia-de-arquitectura-abstracta-para-instagram/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/010/d8f798ff64b09f95f7fd219f82687d12/master.m3u8?1676393754"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/011/5253fef8a6356589c7706893dd74a4e1/master.m3u8?1676393756"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/012/559dd3433efbcb94d519427c948c3653/master.m3u8?1676393754"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5coy9y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación y conocimiento de tu equipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Familiarización con tu equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/014/3cc68d0c241c954f71ffde4bdde34ca8/master.m3u8?1676393756"
+                },
+                {
+                    "id": null,
+                    "title": "Mejores aplicaciones para usar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/015/b890888a9114a94ce64340ae178fae19/master.m3u8?1676393758"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y regla de los tercios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/017/b1ffe33d698e2b5e864a258805b15bd4/master.m3u8?1676393760"
+                },
+                {
+                    "id": null,
+                    "title": "Investiga tus temas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/018/946a7aea7c32d8825157e52441da631c/master.m3u8?1676393759"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p0ujk3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Exploración de campo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/019/589e735bc3e8aeee9655d0262d78c93b/master.m3u8?1676393759"
+                },
+                {
+                    "id": null,
+                    "title": "Enmarcar y capturar el edificio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/020/674e0f0f465c176890c611756209b557/master.m3u8?1676393761"
+                },
+                {
+                    "id": null,
+                    "title": "Postsesión de fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/021/e824c542c9f0ab6e47016043342ca217/master.m3u8?1676393762"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vd13q6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentando el resultado final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/023/0b8e6d08c87cb11ee61e4614982f0d92/master.m3u8?1676393760"
+                },
+                {
+                    "id": null,
+                    "title": "Editar composiciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/025/1847f81e9944c21f4dc84e75056871dd/master.m3u8?1676393762"
+                },
+                {
+                    "id": null,
+                    "title": "Editar colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/026/d51ad38fc89b4bcf2f9714250330f9b6/master.m3u8?1676393764"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/brwj43.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xn8j2j.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2022,
+        "product_name": "Abstract Architectural Photography for Instagram",
+        "teacher_name": "Jack Fleming",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4553,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "3321",
+    "title": "El arte de la escritura creativa aprende técnicas de narración",
+    "url": "https://www.domestika.org/es/courses/3321-el-arte-de-la-escritura-creativa-aprende-tecnicas-de-narracion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/370/dd89ca7e56ae0a36eb5f4b4045b78437/master.m3u8?1676403018"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/371/77bd8c16fc0521b7d71add508dd3c66d/master.m3u8?1676403017"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rcow0u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a la escritura creativa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El espectro de escenas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/372/c451a22d1fe33c15ca80346b5330e5be/master.m3u8?1676403017"
+                },
+                {
+                    "id": null,
+                    "title": "El movimiento del tiempo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/373/117b18100d5d706f7ce886ea39896d74/master.m3u8?1676403018"
+                },
+                {
+                    "id": null,
+                    "title": "La forma en que hablas y escribes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/374/9042a3b6a7aff41ae27215886f8c008f/master.m3u8?1676403019"
+                },
+                {
+                    "id": null,
+                    "title": "Mostrando tu personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/375/69ad2408458473510ae679170f83aa5f/master.m3u8?1676403019"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n9jp4y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El mapa de tu historia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cual es tu historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/376/8c618fe0dd4eb39374155d91371beae5/master.m3u8?1676403018"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo usarás las escenas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/377/74c392b80b60111dbfb76a9d62392b9c/master.m3u8?1676403019"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo te moverás a través del tiempo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/378/21756011af17cadd04fea6e865137bb6/master.m3u8?1676403020"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo sonará tu narrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/379/51b69c2a91153fac30f7133874ff728b/master.m3u8?1676403020"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo mostrarás tu carácter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/380/092d4f001a7b4bcc40b520b48edd04e1/master.m3u8?1676403020"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i4aj6z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Usando su mapa y más",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escribir una historia a partir de un mapa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/381/b886c6a3da6ea2757bae5b7fdbb71647/master.m3u8?1676403021"
+                },
+                {
+                    "id": null,
+                    "title": "Mi rutina personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/382/2488f209c4da7af7db10fda438c67fae/master.m3u8?1676403021"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h47d6h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/93h1s7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3321,
+        "product_name": "The Art of Creative Writing: Learn Storytelling Techniques",
+        "teacher_name": "Reneé Bibby",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 3127,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

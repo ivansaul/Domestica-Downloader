@@ -1,0 +1,163 @@
+{
+    "id": "1190",
+    "title": "Técnica de presentación para proyectos arquitectónicos",
+    "url": "https://www.domestika.org/es/courses/1190-tecnica-de-presentacion-para-proyectos-arquitectonicos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/132/997b7b49680dc5c04a5fea52ed015e6f/master.m3u8?1676389464"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/133/8412298ca6747fcbb2ac3e33208ba11f/master.m3u8?1676389470"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/135/8a057dbf293358fe83b1841990e2794d/master.m3u8?1676389465"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j52y7r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujo a mano alzada y fotografías de maquetas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conceptos básicos de dibujo a mano alzada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/136/25002de4191a320286a73911310d311d/master.m3u8?1676389472"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de dibujo a mano alzada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/137/c8d3132394c771a77613a0bea51a3974/master.m3u8?1676389470"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía de maquetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/139/ab6b8e9d523ffa6af34442900d563589/master.m3u8?1676389472"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de la fotografía de maqueta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/140/d66c338b4c805e320932f6899ea342d9/master.m3u8?1676389473"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cqhc6n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición de planimetría y 3D en Photoshop",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Edición de planos 2D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/141/e3276563de34690a0b6604445fd67774/master.m3u8?1676389474"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de axonométrica primera parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/143/8a0c72881561768b04fc744b716b8f4e/master.m3u8?1676389482"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de axonométrica segunda parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/144/89a09275f42b5b9aca270d32dc3d8c8f/master.m3u8?1676389483"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de 3D primera parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/146/d713a5a738265637148712892d471a49/master.m3u8?1676389479"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de 3D segunda parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/147/0cf3676accb9c0be8786d45ce0b0b857/master.m3u8?1676389483"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7sqavr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición final  diagramación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Composición de lamina de entrega",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/150/036593d327bb50d612ddf8ce7292b3dc/master.m3u8?1676389480"
+                },
+                {
+                    "id": null,
+                    "title": "Diagramación de lámina de entrega en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/154/15b41ed55f2b9183fb5dcb32e354aa7a/master.m3u8?1676389481"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/58muqb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/j49lji.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1190,
+        "product_name": "Presentation Technique for Architectural Projects",
+        "teacher_name": "Dx Arquitectos",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 9748,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "id": "4905",
+    "title": "HTML CSS y JavaScript para principiantes",
+    "url": "https://www.domestika.org/es/courses/4905-html-css-y-javascript-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/112/df6a0fd72477a559674380a6582462fa/master.m3u8?1676892049"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/113/221775211d3e4e3dfe32eccefb55596d/master.m3u8?1676892071"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w8e4cb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Breve introducción al desarrollo web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Navegadores y herramientas para desarrolladores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/114/caa4b3164326ef66ed654b8ff14554b4/master.m3u8?1676892469"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de un documento de diseño y planificación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/116/8d72fa7bc7730d6b40797250f9ca79ce/master.m3u8?1676892496"
+                },
+                {
+                    "id": null,
+                    "title": "Por qué crear sitios web con HTML CSS y Javascript",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/117/fe59b554b3bc986d4d0b1485f0db08bc/master.m3u8?1676892515"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de su entorno de codificación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/192/293fd26ba66a90b873f0917a4905b246/master.m3u8?1696867160"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xvxqbm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trabajar en HTML y CSS",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estructura del documento en HTML",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/118/b13d6b2251b635806fbe4b672d6dd4e5/master.m3u8?1676893336"
+                },
+                {
+                    "id": null,
+                    "title": "Etiquetas y atributos básicos en HTML 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/119/cb44322d8262f597a8153733abb65b4f/master.m3u8?1676893354"
+                },
+                {
+                    "id": null,
+                    "title": "Etiquetas y atributos básicos en HTML 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/120/97414d3e7a50bab760d77ae759b1931e/master.m3u8?1676893369"
+                },
+                {
+                    "id": null,
+                    "title": "Comenzar a trabajar en CSS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/121/d97d17eedf55c73e76202ccee0755d10/master.m3u8?1676893738"
+                },
+                {
+                    "id": null,
+                    "title": "Propiedades de CSS 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/122/8e9ab979a67488e400b899f7fd10787a/master.m3u8?1676893759"
+                },
+                {
+                    "id": null,
+                    "title": "Propiedades de CSS 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/123/5058d7d8e9c9ada4e1acb19be08a5592/master.m3u8?1676893781"
+                },
+                {
+                    "id": null,
+                    "title": "Consultas de medios y fuentes web en CSS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/124/da0ef6efaff85bc04607a0ff080803df/master.m3u8?1676893805"
+                },
+                {
+                    "id": null,
+                    "title": "Transiciones animaciones y filtros en CSS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/125/d8db6dc1fe59f18617dc8d885646d5f2/master.m3u8?1676893906"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ewndkh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trabajar en Javascript y publicar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Comenzar con Javascript",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/126/82bc976100e3569a4131671bd753f8d6/master.m3u8?1676894219"
+                },
+                {
+                    "id": null,
+                    "title": "Variables y funciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/127/16a341cec0c757003fa13a4c937d36a1/master.m3u8?1676894230"
+                },
+                {
+                    "id": null,
+                    "title": "La función querySelector",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/128/809bafcccefc32f4990f8069db43d0ef/master.m3u8?1676894241"
+                },
+                {
+                    "id": null,
+                    "title": "Eventos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/129/f5683050f79c6a16df9f8c1b01965461/master.m3u8?1676894476"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación del sitio web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/130/c27e2bb91e3c36bd278ba155d7f025a2/master.m3u8?1676894493"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pqycji.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas de construcción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Terminal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/131/7ed99297cd7381872119319eb8a293b5/master.m3u8?1676894717"
+                },
+                {
+                    "id": null,
+                    "title": "Nodejs",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/132/439cb19f8de03b28ac3aea8dd5542b22/master.m3u8?1676894730"
+                },
+                {
+                    "id": null,
+                    "title": "CSS final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/133/21cd9666fa75a832628bde091206d33b/master.m3u8?1676894742"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1krhr2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/jc8h77.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4905,
+        "product_name": "HTML, CSS and JavaScript for Beginners",
+        "teacher_name": "Yannick Gregoire",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 22,
+        "course_total_duration_sec": 10714,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

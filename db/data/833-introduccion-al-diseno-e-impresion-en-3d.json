@@ -1,0 +1,190 @@
+{
+    "id": "833",
+    "title": "Introducción al diseño e impresión en 3D",
+    "url": "https://www.domestika.org/es/courses/833-introduccion-al-diseno-e-impresion-en-3d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/513/941c3f66ce9c286affef44ac3bcc16c8/master.m3u8?1676387443"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/514/7df3b40a0897b669e91265d0ba7fc464/master.m3u8?1676387444"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/515/a8965c46fe546a623247fd0ad7d5e17e/master.m3u8?1676387446"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gp4vx4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparando las herramientas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la impresión 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/516/5172445a012c134fadf9171162cca9a2/master.m3u8?1676387448"
+                },
+                {
+                    "id": null,
+                    "title": "Partes de una impresora 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/517/fbe9969c3b6079ad189fb29c6af76d7c/master.m3u8?1676387446"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a Autodesk Fusion 360",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/518/e73c684bc3a2791b11e480bb510c94ee/master.m3u8?1676387447"
+                },
+                {
+                    "id": null,
+                    "title": "Ultimaker Cura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/535/246e18e3f9c33ada7b9153a6608dab08/master.m3u8?1676387460"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ikyv3b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado para impresión 3D I",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Operaciones básicas en Fusion 360",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/519/6a4dc989e3670713ff0ee109b924b634/master.m3u8?1676387454"
+                },
+                {
+                    "id": null,
+                    "title": "Modificadores básicos en Fusion 360",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/521/ce44d349732be31491b0a2be54e91f21/master.m3u8?1676387449"
+                },
+                {
+                    "id": null,
+                    "title": "Modificadores básicos en Fusion 360 II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/523/676cd48e08f8369d21ece8ac17a9825c/master.m3u8?1676387456"
+                },
+                {
+                    "id": null,
+                    "title": "Puesta a punto y mantenimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/522/4bded449e714d8c4363eb2855fa02353/master.m3u8?1676387451"
+                },
+                {
+                    "id": null,
+                    "title": "Ultimaker Cura preparando archivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/524/d09c47fdfef5d6f3a86da79aaca80a3b/master.m3u8?1676387453"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t0i4j2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado orientado a impresión 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fusion 360  Operaciones intermedias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/525/5f65a425a004876df85d9e9ce29aaca3/master.m3u8?1676387454"
+                },
+                {
+                    "id": null,
+                    "title": "Fusion 360  Sketches I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/526/e0bba162361035f8e8e6fba94a7e025c/master.m3u8?1676387454"
+                },
+                {
+                    "id": null,
+                    "title": "Fusion 360  Sketches II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/527/c80355b50c5788bfb6bdccead4ea346b/master.m3u8?1676387455"
+                },
+                {
+                    "id": null,
+                    "title": "Problemas habituales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/528/d05789be1b32459d210076a8bdcf49a8/master.m3u8?1676387455"
+                },
+                {
+                    "id": null,
+                    "title": "Perfiles de impresión en Cura I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/530/0ac11dfdcb597f62a2e61949a35e354d/master.m3u8?1676387457"
+                },
+                {
+                    "id": null,
+                    "title": "Perfiles de impresión en Cura II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/531/073299516b9548057bb1792de1116c34/master.m3u8?1676387458"
+                },
+                {
+                    "id": null,
+                    "title": "Comunidad maker",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/532/3e108005e2f59a3307e0ad1218526f01/master.m3u8?1676387458"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/opspn1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6n6usb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 833,
+        "product_name": "Introduction to 3D Design and Printing",
+        "teacher_name": "Agustín Arroyo",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 11368,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

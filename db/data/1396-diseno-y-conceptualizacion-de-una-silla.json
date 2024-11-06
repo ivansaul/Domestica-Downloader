@@ -1,0 +1,163 @@
+{
+    "id": "1396",
+    "title": "Diseño y conceptualización de una silla",
+    "url": "https://www.domestika.org/es/courses/1396-diseno-y-conceptualizacion-de-una-silla/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Quién qué por qué",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/604/e275bac2fb50b6fefbd1e96b9026f3d2/master.m3u8?1676390615"
+                },
+                {
+                    "id": null,
+                    "title": "Mis Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/606/87c20dda3897736e030784364b04c276/master.m3u8?1676390616"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/607/4d6036ad161dd2c9b3c840f1d81641da/master.m3u8?1676390616"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t8pggu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Entendiendo a la silla",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Antes de comenzar qué es una silla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/608/8e8983fd641ce7a5bca1785745d54073/master.m3u8?1676390622"
+                },
+                {
+                    "id": null,
+                    "title": "Cuáles son los componentes de una silla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/609/0e97fcf6839a313e83bb35cec4c08535/master.m3u8?1676390619"
+                },
+                {
+                    "id": null,
+                    "title": "9 dimensiones y 33 consejos para diseñar una buena silla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/610/f725acdc2a8cb7dcf4a33c80fc618eaa/master.m3u8?1676390638"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nnp8ch.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Caso de Estudio Silla de descanso Camelia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Contexto del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/611/3814ff521430c24da715cd7dafebfcf4/master.m3u8?1676390619"
+                },
+                {
+                    "id": null,
+                    "title": "Estudia la tipología de la silla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/612/63f756d3c6151674690d2250407d64d3/master.m3u8?1676390620"
+                },
+                {
+                    "id": null,
+                    "title": "El concepto de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/613/f54a34fb8a27c60280c867766179a3c1/master.m3u8?1676390624"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6j5cem.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Especificación y prototipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Boceta y explora sin miedos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/614/ed89cb830d1c2367cf34c444ce951514/master.m3u8?1676390624"
+                },
+                {
+                    "id": null,
+                    "title": "Dimensiona y refina tu diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/615/a5435e7f71dda2c04331fc7d46741cb5/master.m3u8?1676390622"
+                },
+                {
+                    "id": null,
+                    "title": "Cambia de medios Del boceto al modelo la maqueta el plano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/616/7381586c7bfd07297ded86789a2ff30c/master.m3u8?1676390623"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia del trabajo en taller",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/617/92ea00ad42946ef335e5227b1b9a276a/master.m3u8?1676390623"
+                },
+                {
+                    "id": null,
+                    "title": "Del prototipo al producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/618/e639dd1b24044fa2273960cc3032e6a2/master.m3u8?1676390626"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o9ma0q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/kzircx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1396,
+        "product_name": "Design and Conceptualization of a Chair",
+        "teacher_name": "Christian Vivanco",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4520,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

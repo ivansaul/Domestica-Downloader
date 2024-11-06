@@ -1,0 +1,170 @@
+{
+    "id": "4135",
+    "title": "Fotografía minimalista forma escala y composición",
+    "url": "https://www.domestika.org/es/courses/4135-fotografia-minimalista-forma-escala-y-composicion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/667/5b31d45f1b79802a9aef6e467f451185/master.m3u8?1676407419"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/668/b5511b273ad79bbba40527e28af3dce8/master.m3u8?1676407420"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t5n5uk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la fotografía minimalista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/669/5a147eec3a427861b96b5051a558f025/master.m3u8?1676407421"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/670/af97af900eb093b4760427e914fb773d/master.m3u8?1676407428"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/671/4bacf722cdf7f1ee1d037ed78c9eef38/master.m3u8?1676407423"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gdsi9k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Planificación de la sesión de fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollo de conceptos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/673/8981c58d77d111b1e7d8c14215fc88f9/master.m3u8?1676407425"
+                },
+                {
+                    "id": null,
+                    "title": "Color e iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/680/7b904a97d4eb4d07702c3d4390feae09/master.m3u8?1676407426"
+                },
+                {
+                    "id": null,
+                    "title": "Marcos diferentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/681/24d48e12b860141547d9c09fe34e3f86/master.m3u8?1676407424"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k3hwwr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparándose para la sesión de fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/688/2ccf7e5d6a37401a8f065fad422096ec/master.m3u8?1676407429"
+                },
+                {
+                    "id": null,
+                    "title": "La sesión de fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/690/9a07155c8758248a665fb85204b7162f/master.m3u8?1676407432"
+                },
+                {
+                    "id": null,
+                    "title": "Selección y retoque de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/692/91b3b49f9c99e63450d9316e74ea53b1/master.m3u8?1676407434"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/12du8e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Compartir su trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proyectos personales y creación de un portafolio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/697/373c3c970f633c519fa3081b31240218/master.m3u8?1676407431"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía y redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/698/40ba7964791b4cffb382f2e7fef96038/master.m3u8?1676407433"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/19mfjy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/y1vy6n.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4135,
+        "product_name": "Minimalist Photography: Form, Scale, and Composition",
+        "teacher_name": "George Kroustallis",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5956,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

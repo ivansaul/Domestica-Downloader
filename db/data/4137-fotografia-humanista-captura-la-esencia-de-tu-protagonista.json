@@ -1,0 +1,163 @@
+{
+    "id": "4137",
+    "title": "Fotografía humanista captura la esencia de tu protagonista",
+    "url": "https://www.domestika.org/es/courses/4137-fotografia-humanista-captura-la-esencia-de-tu-protagonista/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/485/da02b1d8d128657c5edb8e07692a6789/master.m3u8?1676294170"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/486/16e01f4ba98335abc71a39cd618475d4/master.m3u8?1676294166"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ir3qfy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La fotografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al retrato y al lenguaje fotográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/487/08ed46a0e3eb6ad977e327ef24451682/master.m3u8?1676294165"
+                },
+                {
+                    "id": null,
+                    "title": "La fotografía documental",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/488/7a8d772e30693ad77fb152564e9e95ca/master.m3u8?1676294165"
+                },
+                {
+                    "id": null,
+                    "title": "Cámaras y lentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/489/a8963aed448d419f4fc3bef50f297f7c/master.m3u8?1676294167"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de luces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/490/16fdd794539936cffd51b18a0d895e8c/master.m3u8?1676294169"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u7agmo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La historia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preproducción de proyectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/491/1356cd8d6b3153911bf2b8f47de59804/master.m3u8?1676294183"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación del ensayo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/492/f05508c21aeec85eb21e5eb0be6a83f5/master.m3u8?1676294164"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo a la persona fotografiada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/493/72852afb8fdc839be765a7b2052b8605/master.m3u8?1676294170"
+                },
+                {
+                    "id": null,
+                    "title": "La prueba",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/494/2a74a1a8ed6e4b2005ace9524a0a3cb3/master.m3u8?1676294169"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pirlg8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo organizar archivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/495/276d0a589e9e4d1dd383019d2f0c17c2/master.m3u8?1676294167"
+                },
+                {
+                    "id": null,
+                    "title": "Edición y elección de la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/496/1a5f7a17a5e4cba5a28ed62d71eedf94/master.m3u8?1676294167"
+                },
+                {
+                    "id": null,
+                    "title": "Tratamiento de imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/497/449eabfc25ec80db37a5d50cd60d2b90/master.m3u8?1676294166"
+                },
+                {
+                    "id": null,
+                    "title": "Premios de fotografía y dónde presentar tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/498/7986c5ef94e03d6485a049e71f13e513/master.m3u8?1676294166"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rehbux.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/kdh9v2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4137,
+        "product_name": "Humanist Photography: Capturing the Essence of a Subject",
+        "teacher_name": "Hugo Santarem Rodrigues",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4922,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

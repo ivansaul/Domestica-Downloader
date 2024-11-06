@@ -1,0 +1,173 @@
+{
+    "id": "5254",
+    "title": "Sketching diario para arquitectos",
+    "url": "https://www.domestika.org/es/courses/5254-sketching-diario-para-arquitectos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/231/230e4eb3c61e53369ea71154c81e46bd/master.m3u8?1716304603"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/232/4330c2aa5df1373773acbb541c00d05a/master.m3u8?1697223742"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9jjk7e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bitácoras y herramientas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La bitácora el inseparable cómplice",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/233/397b376848dc4aa9e4bf6efaf0f496b0/master.m3u8?1697223760"
+                },
+                {
+                    "id": null,
+                    "title": "Las herramientas Con qué rayo mejor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/234/e3be8bac905dd215f97bf37212161853/master.m3u8?1697223777"
+                },
+                {
+                    "id": null,
+                    "title": "Pensar con la mano tipos de rayas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/235/3cd7f7dd90fb252bb4c28ea90ddea163/master.m3u8?1697223791"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gfexrm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pensar dibujando",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El tiempo tomar decisiones con la información disponible 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/236/2714de35340dd7543940dd427d13b715/master.m3u8?1697223811"
+                },
+                {
+                    "id": null,
+                    "title": "El tiempo tomar decisiones con la información disponible 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/237/f22cb90f1c42e7bf0d375795ac7f09fb/master.m3u8?1697223829"
+                },
+                {
+                    "id": null,
+                    "title": "El tiempo tomar decisiones con la información disponible 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/238/229e0b712c069e212880ed34af36bcdd/master.m3u8?1697223849"
+                },
+                {
+                    "id": null,
+                    "title": "El tiempo tomar decisiones con la información disponible 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/239/8a9da18ea013f863485bbd362bcfa61d/master.m3u8?1697223867"
+                },
+                {
+                    "id": null,
+                    "title": "Mashup planta  perspectiva y sección  perspectiva 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/240/53be41ed3dd1cb569b06ed0209add669/master.m3u8?1697223885"
+                },
+                {
+                    "id": null,
+                    "title": "Mashup planta  perspectiva y sección  perspectiva 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/241/415dead23a33a0bd3d384d5fb6c0e943/master.m3u8?1697223901"
+                },
+                {
+                    "id": null,
+                    "title": "La montea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/242/1682177be4e7f6ca6dc3bdad09b666bd/master.m3u8?1697223918"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fhdhpo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Poniendo todo en práctica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La observación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/243/71e6c9fdb94fc938df40bee1867c6204/master.m3u8?1697223940"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación insitu",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/244/0bae266b575549d88c5d7aea36f0ce4a/master.m3u8?1697223957"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis personal y digitalización 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/245/b842b8e09477544b43cc9a2bf5a480a5/master.m3u8?1697224077"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis personal y digitalización 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/246/c7b41a7e0ca27ef7a0ceca27c923b37e/master.m3u8?1697224132"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/50895l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vx8umu.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5254,
+        "product_name": "Daily Sketching for Architects",
+        "teacher_name": "Victor Imre Ebergenyi Kelly",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 10836,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

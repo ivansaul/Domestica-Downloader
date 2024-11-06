@@ -1,0 +1,148 @@
+{
+    "id": "4331",
+    "title": "Fotografía de moda street style desde cero",
+    "url": "https://www.domestika.org/es/courses/4331-fotografia-de-moda-street-style-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/932/0b5f8195f32a6d98d888e85e580964eb/master.m3u8?1676412447"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/933/b7a3a74a71bcaca930e54a25ca14453c/master.m3u8?1676412448"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x4o1em.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Planificación de la sesión de fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Delinear tu visión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/934/20afdd4bbf9645af69b197a30f379477/master.m3u8?1676412452"
+                },
+                {
+                    "id": null,
+                    "title": "Explorando la ubicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/935/d999acdaf664766c189f9773ba50f0ec/master.m3u8?1676412454"
+                },
+                {
+                    "id": null,
+                    "title": "Elección del modelo y talento adicional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/936/d212b6409ba333895c23c2784c3af7c5/master.m3u8?1676412451"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b4ntvz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejecutando la sesión de fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revisión previa a la sesión de fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/937/3ab8600dd3f9824524a241d400f4a4e4/master.m3u8?1676412452"
+                },
+                {
+                    "id": null,
+                    "title": "La sesión de fotos detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/938/1feec03df5442ca46d8f65c921c30d53/master.m3u8?1676412454"
+                },
+                {
+                    "id": null,
+                    "title": "La sesión de fotos dirigiendo a las modelos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/939/3d1044fcd6789c42aafff8c6a273ef3c/master.m3u8?1676412460"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mt29ph.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proceso de posproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Seleccionar las imágenes para retocar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/940/6c17d105cd026525f777420dcca3d5b8/master.m3u8?1676412454"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque y finalización de sus imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/941/ee26ea0458e8c80ee48a2c02d848baf5/master.m3u8?1676412458"
+                },
+                {
+                    "id": null,
+                    "title": "Compartir en las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/942/311047a33e5aad274c0dd19f847cb0da/master.m3u8?1676412455"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n087ti.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qxjy5v.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4331,
+        "product_name": "Street-Style Fashion Photography for Beginners",
+        "teacher_name": "Denisse Myrick",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 4533,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

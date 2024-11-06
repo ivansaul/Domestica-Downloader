@@ -1,0 +1,165 @@
+{
+    "id": "4932",
+    "title": "Trucos de productividad con base científica supera los bloqueos creativos",
+    "url": "https://www.domestika.org/es/courses/4932-trucos-de-productividad-con-base-cientifica-supera-los-bloqueos-creativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/501/756bcaf9351199f45428828b3530309c/master.m3u8?1716300732"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/502/2484b9a968e68e2adb08182134cadc8e/master.m3u8?1693222760"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7u19bv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El status quo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/503/2c574500d99229ff2232c86a3f3b5f0d/master.m3u8?1693232776"
+                },
+                {
+                    "id": null,
+                    "title": "Preparándose para lo peor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/504/664a94f4c4037b11b6ad616aa496445f/master.m3u8?1693232800"
+                },
+                {
+                    "id": null,
+                    "title": "Satisfacción recompensas y perfeccionismo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/505/37d774c79ca0c366c2f262c90ec73a35/master.m3u8?1693232962"
+                },
+                {
+                    "id": null,
+                    "title": "El mito del genio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/506/7e06f1346578f38d9307da1a0d3aa885/master.m3u8?1693233358"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/084t2m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Poniendo en marcha tu creatividad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "En qué consiste mi creatividad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/507/deb3e50a161c0622e4c8b3d4243749e4/master.m3u8?1693237178"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo encontrar inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/508/9d69ec5332841229036711c23cba5fb5/master.m3u8?1693237433"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5t3lcn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Centrarse y relajarse",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La ciencia del enfoque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/509/a9d29e44d98473810d3307d8efdb8019/master.m3u8?1693238365"
+                },
+                {
+                    "id": null,
+                    "title": "Doblando las reglas a su favor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/510/5d7c91ba3f15183f870446af894b36c5/master.m3u8?1693238585"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e7l54o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Convirtiéndolo en un hábito",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Empujar o el papel de los hábitos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/511/f202f1db24d8687c30d77750ba83fd5f/master.m3u8?1693240472"
+                },
+                {
+                    "id": null,
+                    "title": "Usando herramientas digitales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/512/cc5e8149838c44b87208af6e078bfb62/master.m3u8?1693240953"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5a1sqt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/opi0bb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4932,
+        "product_name": "Science-Based Productivity Hacks: Overcome Creative Blocks",
+        "teacher_name": "sabrialagoun",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5758,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

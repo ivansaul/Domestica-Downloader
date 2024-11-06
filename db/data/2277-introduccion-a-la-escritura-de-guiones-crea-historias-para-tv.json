@@ -1,0 +1,158 @@
+{
+    "id": "2277",
+    "title": "Introducción a la escritura de guiones crea historias para TV",
+    "url": "https://www.domestika.org/es/courses/2277-introduccion-a-la-escritura-de-guiones-crea-historias-para-tv/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Preparándose para el viaje creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/113/07fc59bb4d45b7e163297020eda6041e/master.m3u8?1676398066"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/114/a0568f246f9e60a3ec7dbc06b0249fb7/master.m3u8?1676398065"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/122/102bf9369265e64d618644a6cedb3927/master.m3u8?1676398063"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1g6nq2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comenzando su viaje creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la escritura de guiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/123/d7d5a69219e49180d07c6acb1eb03580/master.m3u8?1676398065"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo saber si su idea es buena para la televisión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/124/cdb9e427f93e51dd608492f1a8f3b298/master.m3u8?1676398066"
+                },
+                {
+                    "id": null,
+                    "title": "Creando tus personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/125/1b5fa433f85ffb02c4cbe9ee8a57b041/master.m3u8?1676398064"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/osd1a9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aprendiendo las herramientas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/126/f7c4a87b9c1e7e3e7fbec3442bdef28b/master.m3u8?1676398065"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de su hoja de ruta de script",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/127/ea19822cde6e52323fbfbe29b2a1a602/master.m3u8?1676398066"
+                },
+                {
+                    "id": null,
+                    "title": "Encabezado de escena y construcción de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/128/e00f13fd6987b24cf2eff2239dcbd905/master.m3u8?1676398066"
+                },
+                {
+                    "id": null,
+                    "title": "Editar revisar y recibir comentarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/129/f9ae64b9a60377ec46cddad40cd7baeb/master.m3u8?1676398067"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oyiqid.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparándose para el éxito",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de un plan de escritura para su guión de televisión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/130/1ae3275094905b826fa5b9b968969b4d/master.m3u8?1676398071"
+                },
+                {
+                    "id": null,
+                    "title": "Qué esperar en su viaje de escribir su programa de televisión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/131/40e7d261c66e49f5905c7ff44d8b5d59/master.m3u8?1676398069"
+                },
+                {
+                    "id": null,
+                    "title": "Oportunidades para explorar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/132/61e5f6df02ec2808d4a332e0bf19c8c7/master.m3u8?1676398069"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1ex35r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/fhxreb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2277,
+        "product_name": "Screenwriting Essentials: Create, Write, and Develop for TV",
+        "teacher_name": "HaJ",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5901,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

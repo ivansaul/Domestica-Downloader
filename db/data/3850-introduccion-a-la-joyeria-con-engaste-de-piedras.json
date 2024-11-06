@@ -1,0 +1,174 @@
+{
+    "id": "3850",
+    "title": "Introducción a la joyería con engaste de piedras",
+    "url": "https://www.domestika.org/es/courses/3850-introduccion-a-la-joyeria-con-engaste-de-piedras/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/975/a7b588c682b24dfa4b199a45ec291cec/master.m3u8?1676412478"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/976/753d89734ba5ac14fa0f4beb2b78cb48/master.m3u8?1676412481"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l1sf7g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los materiales y la técnica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre los metales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/977/074c4001216f7017a3c39a469a9668c4/master.m3u8?1676412481"
+                },
+                {
+                    "id": null,
+                    "title": "Sobre las piedras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/978/1aac3ff5e157f65210bc3c810bba20f1/master.m3u8?1676412480"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con soldaduras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/979/13e1b89af4515f1313831a00cac4b5d9/master.m3u8?1676412479"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al engaste de piedras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/980/a879208e2dfaf7d95d81b133af463a58/master.m3u8?1676412479"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración para una colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/981/ebf90146e156ca586dfc94f57c00c37a/master.m3u8?1676412480"
+                },
+                {
+                    "id": null,
+                    "title": "Los materiales y las herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/982/00b100df2a50a0d2ee10fea4d6f0cd75/master.m3u8?1676412486"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9gxxzd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Confeccionar la colección",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El área de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/983/24d05f21737e5a8808a4f6a33ed0b9a2/master.m3u8?1676412485"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con el metal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/984/bee1c1530433aa33c74900c621b04eb2/master.m3u8?1676412487"
+                },
+                {
+                    "id": null,
+                    "title": "La práctica de soldadura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/985/104829fb7ca4e87c81f53c27ca7f50b0/master.m3u8?1676412487"
+                },
+                {
+                    "id": null,
+                    "title": "Los biseles y el soldado de piezas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/986/f6252250b106181db2aa0037c2c10cc8/master.m3u8?1676412492"
+                },
+                {
+                    "id": null,
+                    "title": "Los biseles y el soldado de piezas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/987/5f1acf874ba23bf517f807bc8f7dd0f3/master.m3u8?1676412491"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4415po.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Engastes y terminaciones de las piezas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los engastes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/988/7406b25f58cb115893d472e33bb58ae5/master.m3u8?1676412487"
+                },
+                {
+                    "id": null,
+                    "title": "Los engastes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/989/c379df6ecae5d679ffbdacc11da9f6a6/master.m3u8?1676412489"
+                },
+                {
+                    "id": null,
+                    "title": "Las terminaciones y el pulido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/990/ac7f02550e28dbba6ce6c6917b37ab25/master.m3u8?1676412494"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u94i6p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1qs2va.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3850,
+        "product_name": "Introduction to Stone Setting for Jewelry",
+        "teacher_name": "Maike Siegel",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 10037,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

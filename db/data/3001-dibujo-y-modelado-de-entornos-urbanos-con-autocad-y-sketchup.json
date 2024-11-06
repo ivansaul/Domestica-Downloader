@@ -1,0 +1,180 @@
+{
+    "id": "3001",
+    "title": "Dibujo y modelado de entornos urbanos con AutoCAD y SketchUp",
+    "url": "https://www.domestika.org/es/courses/3001-dibujo-y-modelado-de-entornos-urbanos-con-autocad-y-sketchup/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/635/905307f2ec6890a10ea01bc0992b5b51/master.m3u8?1676399931"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/636/731c00b1af805f0045f8f53cb6cbd624/master.m3u8?1676399932"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dli0fj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigar el sitio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Identificación y documentación inicial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/637/da9377624b81941b0b24e544d132a279/master.m3u8?1676399931"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda y descarga de fotografías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/638/95485b8a7395a1fcd40b44d03c45defa/master.m3u8?1676399937"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda y descarga de planos adicionales del sitio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/639/54f1a846dedc52b80a77d2143d1dfef6/master.m3u8?1676399935"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1rotnm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trazar los planos de contexto del sitio en AutoCAD",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo preparar e insertar imágenes a AutoCAD",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/640/9b3fb77fd4e6406bc738e76fa43bc83a/master.m3u8?1676399937"
+                },
+                {
+                    "id": null,
+                    "title": "Calcar la planta de conjunto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/641/9fc54e41c8f611499608a593267b03b3/master.m3u8?1676399939"
+                },
+                {
+                    "id": null,
+                    "title": "Trazar los cortes de conjunto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/642/45201f6f3b3e058bd0359334d2ed7b0c/master.m3u8?1676399941"
+                },
+                {
+                    "id": null,
+                    "title": "Ambientar los planos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/643/23c129959a2958f1f98ed768b6c94c3f/master.m3u8?1676399940"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ijy39p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construir el modelo en tres dimensiones en SketchUp",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "SketchUp cómo importar los planos desde AutoCAD",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/644/60461dcad40e0da1180087e86c3287fd/master.m3u8?1676399938"
+                },
+                {
+                    "id": null,
+                    "title": "Modelar el terreno base",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/645/a4599c0d2ff441bc77179376dab5a583/master.m3u8?1676399940"
+                },
+                {
+                    "id": null,
+                    "title": "Modelar los edificios del contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/646/228755c46c0cc10a33709653a29c1aac/master.m3u8?1676399939"
+                },
+                {
+                    "id": null,
+                    "title": "Modelar geometrías más complejas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/647/ff7aab8904e741889e9b1f12cdf0b462/master.m3u8?1676399940"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eautko.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ambientar el modelo y exportar diferentes vistas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ambientar el modelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/648/bd258c990ecce11fde14a618f4a87faa/master.m3u8?1676399938"
+                },
+                {
+                    "id": null,
+                    "title": "Escenas cómo configurar y exportar en diferentes formatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/649/8c4c78d9010275b19d8eec1b412d5f74/master.m3u8?1676399945"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/70kq3d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/o5d24a.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3001,
+        "product_name": "Drawing and Modeling Urban Spaces with AutoCAD and SketchUp",
+        "teacher_name": "Bruno Arancibia",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9902,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

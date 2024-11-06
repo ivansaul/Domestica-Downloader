@@ -1,0 +1,158 @@
+{
+    "id": "156",
+    "title": "Fotografía para redes sociales Lifestyle branding en Instagram",
+    "url": "https://www.domestika.org/es/courses/156-fotografia-para-redes-sociales-lifestyle-branding-en-instagram/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/750/be2020bc3241d6d87f718e748389c43c/master.m3u8?1676382268"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/751/5e69993f20e19b1eef3ead9ec6c8ffcb/master.m3u8?1676382262"
+                },
+                {
+                    "id": null,
+                    "title": "Composición digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/752/166b92c3d29cc3b8839281619aa0e085/master.m3u8?1676382263"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bmda53.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Foto producto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preproducción foto producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/753/c5490a3496e37506f2a13be223e911d4/master.m3u8?1676382266"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/754/e0beb0090b227196f7e648fae2fa8c2c/master.m3u8?1676382265"
+                },
+                {
+                    "id": null,
+                    "title": "Producción foto producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/756/d438c61d1946572d13365b7497807b07/master.m3u8?1676382267"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bwtdox.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Foto lifestyle usabilidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/764/0af0b6e087bdf52a020e9f41b75e7f3a/master.m3u8?1676382270"
+                },
+                {
+                    "id": null,
+                    "title": "Preproducción foto lifestyle",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/765/d6fe61171605ed2029dd813b5eef97f3/master.m3u8?1676382270"
+                },
+                {
+                    "id": null,
+                    "title": "Producción foto lifestyle",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/758/e558b70e21024fbbe3c9cefde11fdaf5/master.m3u8?1676382265"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6d0y9k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición armado y consejos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección y edición con criterio digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/759/6ddcc354b10fdcad374282729501201a/master.m3u8?1676382268"
+                },
+                {
+                    "id": null,
+                    "title": "Armado de grillas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/763/902f63e4f08e333c8115d44f272b842a/master.m3u8?1676382270"
+                },
+                {
+                    "id": null,
+                    "title": "Contenidos adicionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/760/3e0366ce3b48916a33f20db86615e941/master.m3u8?1676382268"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/761/014509e498f034f47f19c3a316a45190/master.m3u8?1676382265"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cp7etm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/34a6g6.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 156,
+        "product_name": "Photography for Social Media: Lifestyle Branding on Instagram",
+        "teacher_name": "BOND",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4646,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

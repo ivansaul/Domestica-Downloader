@@ -1,0 +1,158 @@
+{
+    "id": "997",
+    "title": "Introducción a la fotografía de familia",
+    "url": "https://www.domestika.org/es/courses/997-introduccion-a-la-fotografia-de-familia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introduccion",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/490/1d6b2727883992e0aefb5cbbbcb58e09/master.m3u8?1676389135"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/491/b5e4e80d3803ef0ff54688bbc00e316c/master.m3u8?1676389136"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/492/f1b9ddae2d9e89c89687e076c47bfec5/master.m3u8?1676389136"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pq3iq4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Contacto con el cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/493/ec149ab251c4232e25802b04b18ea853/master.m3u8?1676389137"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/494/11a729d63c5482d65253b545beb4aa3a/master.m3u8?1676389137"
+                },
+                {
+                    "id": null,
+                    "title": "6 consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/495/72a52b2103917f52cdf270fb954dea04/master.m3u8?1676389137"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo fotográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/496/659731604d3d868dbeac035d87d43c40/master.m3u8?1676389137"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ei5kve.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotografiando",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Técnica fotográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/497/3e293a422f93a44ff2f430d65eb653db/master.m3u8?1676389140"
+                },
+                {
+                    "id": null,
+                    "title": "El momento del clic",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/498/734d4a0a0883fa7dc4d0e22e98f26299/master.m3u8?1676389143"
+                },
+                {
+                    "id": null,
+                    "title": "Frustraciones y sorpresas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/499/6a51f89ab721251bdde717e04646abb9/master.m3u8?1676389139"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hd8am8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis de material fotográfico y gestión de copias de seguridad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/500/9d6dfacef3f4174736263a2d4089defc/master.m3u8?1676389144"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de imagen final y retoque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/501/0e4ef9b1941a75f6c15b6ebb5bc228b6/master.m3u8?1676389145"
+                },
+                {
+                    "id": null,
+                    "title": "Formatos de entrega final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/502/81e96f32b88c5bf3487e7b5edd57fa88/master.m3u8?1676389144"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t9381k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/miof4l.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 997,
+        "product_name": "Introduction to Family Photography",
+        "teacher_name": "Grazi Ventura",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 3853,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

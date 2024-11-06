@@ -1,0 +1,158 @@
+{
+    "id": "4384",
+    "title": "Introducción a la fotografía de bebidas",
+    "url": "https://www.domestika.org/es/courses/4384-introduccion-a-la-fotografia-de-bebidas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/730/96dfa5445b7ec1dedf4b45f9ec42cb5e/master.m3u8?1681989730"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/731/89c5698ce83047cc175f4a8727f180bc/master.m3u8?1681989820"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zzty4y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La luz dura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/732/ad0dcf33e77bc9cfd5f4699ce2f97959/master.m3u8?1681989967"
+                },
+                {
+                    "id": null,
+                    "title": "Conocer tu proyecto y sus necesidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/733/ec6b1ea69e524be934c815b52056d92d/master.m3u8?1681990025"
+                },
+                {
+                    "id": null,
+                    "title": "El mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/734/b26ec1b46c1e0ac9f9aeaed78c4fef50/master.m3u8?1681990083"
+                },
+                {
+                    "id": null,
+                    "title": "El tratamiento de bebidas en la fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/759/19b9be88c784047a40a0fe0e4b335249/master.m3u8?1682062894"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8absm0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Shooting de bebidas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Alistar los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/735/4ddfbbb34e229524c630b92162a5a469/master.m3u8?1681990396"
+                },
+                {
+                    "id": null,
+                    "title": "Preparar las luces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/736/ad557490a4d8c459f19f3a9835393596/master.m3u8?1681990465"
+                },
+                {
+                    "id": null,
+                    "title": "Shooting composición de botellas y vasos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/737/1479a76053d4ff5adcdb51d3a0e78352/master.m3u8?1681990530"
+                },
+                {
+                    "id": null,
+                    "title": "Shooting composición de botellas y vasos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/738/52db7e9b92561f4641c4742af73f1e5a/master.m3u8?1681990593"
+                },
+                {
+                    "id": null,
+                    "title": "Shooting Bebidas y elementos de mixología",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/739/59718d3e9780adc1af069c00bc93b211/master.m3u8?1681990710"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1kjh54.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición y detalles finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Edición de fotografías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/740/852beff4ddf4f407fc4ad04d0a4cb58d/master.m3u8?1681990773"
+                },
+                {
+                    "id": null,
+                    "title": "Entregar los materiales al cliente y crear tu portafolio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/741/ce100a85aee47e745bff1d9ac2a1b590/master.m3u8?1681990842"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q8bblr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7o5qwx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4384,
+        "product_name": "Introduction to Beverage Photography",
+        "teacher_name": "Rodolfo Vallado Dall'Ava",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8218,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}
