@@ -1,0 +1,254 @@
+{
+    "id": "4272",
+    "title": "Animación de personajes 3D estilo cartoon en Blender",
+    "url": "https://www.domestika.org/es/courses/4272-animacion-de-personajes-3d-estilo-cartoon-en-blender/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/364/7c6b7e8f0b3f686cc047a6f058fb15ad/master.m3u8?1676409645"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/365/f0c82b1921593c4ee99331671e4d8896/master.m3u8?1676409645"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6rfd41.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear una actuación en estilo cartoon",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El estilo cartoon",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/366/44730907f303a3f72f1e7aea49c7988e/master.m3u8?1676409647"
+                },
+                {
+                    "id": null,
+                    "title": "Capturar la esencia de los personajes y de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/367/1c022c8b24bce80f6932491c5373a30d/master.m3u8?1676409649"
+                },
+                {
+                    "id": null,
+                    "title": "Librería de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/368/3ca151c8355b8901abd246afc0001341/master.m3u8?1676409647"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestra secuencia de thumbnails 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/369/d5e8a456183f66ffa6b511c81507d5db/master.m3u8?1676409652"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestra secuencia de thumbnails 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/370/6e63d49fbf805c8c57ae7762e5042aff/master.m3u8?1676409656"
+                },
+                {
+                    "id": null,
+                    "title": "Animación 2D en Grease Pencil prueba del timing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/371/0caf1bb80352580b7b9ea56d47c36919/master.m3u8?1676409652"
+                },
+                {
+                    "id": null,
+                    "title": "Optimización de nuestro mundo físico y digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/372/8b1f3da20d0c6bb9ed44ae81a0c26f1a/master.m3u8?1676409651"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/koauxs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dar vida a los personajes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Comenzar a trabajar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/373/755226b21d0a3fe1ebac9a712aace68f/master.m3u8?1676409656"
+                },
+                {
+                    "id": null,
+                    "title": "Optimizar los rigs",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/374/4fc72047d27f9c5b239e0ba2697ff56a/master.m3u8?1676409654"
+                },
+                {
+                    "id": null,
+                    "title": "Primer pase Lina cobra vida 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/375/9dbeca03dd4bb4256f10bdaff7f3aa06/master.m3u8?1676409656"
+                },
+                {
+                    "id": null,
+                    "title": "Primer pase Lina cobra vida 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/376/ad6875ab60f9f93e2c6042afef38ac49/master.m3u8?1676409658"
+                },
+                {
+                    "id": null,
+                    "title": "Primer pase Lina cobra vida 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/377/619b47d60c3ee60a05d39b6b37f079d5/master.m3u8?1676409658"
+                },
+                {
+                    "id": null,
+                    "title": "Primer pase Goolock nos enternece 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/378/c6f45c6693f71a0bb82667b5b5384481/master.m3u8?1676409660"
+                },
+                {
+                    "id": null,
+                    "title": "Primer pase Goolock nos enternece 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/379/1342cd1c8e00d00053eb6ed14e0e71ef/master.m3u8?1676409661"
+                },
+                {
+                    "id": null,
+                    "title": "Primer pase Goolock nos enternece 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/380/05a0fa851cff681e9fc453aae7cf0ab7/master.m3u8?1676409658"
+                },
+                {
+                    "id": null,
+                    "title": "Segundo pase Lina y Goolok consolidando la animación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/381/e15b7453787a5121268eb491437cdcb8/master.m3u8?1676409665"
+                },
+                {
+                    "id": null,
+                    "title": "Segundo pase Lina y Goolok consolidando la animación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/382/a022a58a55ff2c58441fc21f8aa33fd4/master.m3u8?1676409665"
+                },
+                {
+                    "id": null,
+                    "title": "Segundo pase Lina y Goolok consolidando la animación 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/383/06a5b8837ebd324b9378482c2008f56d/master.m3u8?1676409667"
+                },
+                {
+                    "id": null,
+                    "title": "Segundo pase Lina y Goolok consolidando la animación 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/384/5ddfd472a51451a129d16ab73ef7b5a1/master.m3u8?1676409670"
+                },
+                {
+                    "id": null,
+                    "title": "Segundo pase Lina y Goolok consolidando la animación 5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/385/a2941b8afdad38a678dce2cfd17f9f1e/master.m3u8?1676409665"
+                },
+                {
+                    "id": null,
+                    "title": "Segundo pase conectando con constraints las interacciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/386/eab4cd138dd912eee100f3647fbb9efa/master.m3u8?1676409663"
+                },
+                {
+                    "id": null,
+                    "title": "Tercer pase polish y animación de elementos secundarios 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/387/10ea548b3ed5b47443b7e4d25be7f579/master.m3u8?1676409665"
+                },
+                {
+                    "id": null,
+                    "title": "Tercer pase polish y animación de elementos secundarios 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/388/0edffc9cbf1fe934b4a336d3fe7334e4/master.m3u8?1676409665"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/387gnc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exploraciones detallado y render",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proceso de detallado y correcciones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/389/6819465019604662c49b087b761cb0f8/master.m3u8?1676409667"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso de detallado y correcciones 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/390/137487245d80fe8a4a14c5e027b4c5db/master.m3u8?1676409666"
+                },
+                {
+                    "id": null,
+                    "title": "Explorar opciones toon linealmente directamente en los keys",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/391/4a70e621dd8b346bc5d892f9167506e9/master.m3u8?1676409671"
+                },
+                {
+                    "id": null,
+                    "title": "Explorar opciones no lineales usando Animation Layers",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/392/8125ac19341b1c15838c5d04b3e16460/master.m3u8?1676409673"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación Render y Pipeline 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/393/db973c170bb6311d070c8954271a456b/master.m3u8?1676409672"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación Render y Pipeline 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/394/fb0dcffc2ed48e91e3197a5ccd9e48be/master.m3u8?1676409673"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación Render y Pipeline 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/395/82b10721fa2504ce016b0270b960b27f/master.m3u8?1676409673"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nsx2n1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/57adeq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4272,
+        "product_name": "Animating 3D Cartoon Characters in Blender",
+        "teacher_name": "Ulises Cervantes",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 32,
+        "course_total_duration_sec": 29181,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

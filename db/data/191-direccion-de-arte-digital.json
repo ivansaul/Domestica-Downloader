@@ -1,0 +1,147 @@
+{
+    "id": "191",
+    "title": "Dirección de arte digital",
+    "url": "https://www.domestika.org/es/courses/191-direccion-de-arte-digital/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/502/85fbf421d5e667d0dab00b9bb4c0f5a1/master.m3u8?1676382649"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/494/4b14b57fdf8f27c51446d169d5c3376a/master.m3u8?1676382647"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7t0kfw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo conseguir trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ya tienes un trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/493/41a0a82977a0eea6b5c18d4d477e382d/master.m3u8?1676382642"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar como freelance y en una agencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/495/4df1386c381f0ab79e083e0244a097b5/master.m3u8?1676382645"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5a0ebl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Un proyecto de principio a fin",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El comienzo de un proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/496/e326d8f0317cee8e0b563b4165220728/master.m3u8?1676382649"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección creativa el concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/497/54dfbaa9a949e4f6a82275f2f5f42c60/master.m3u8?1676382649"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de arte universo gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/498/94c002d83c0901dae5e2dbe3bb449085/master.m3u8?1676382654"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de arte sistéma gráfico Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/499/0765d0ee702e8f6435c472391bb52a32/master.m3u8?1676382661"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de arte sistéma gráfico Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/500/fe17aba0ec04b92ad1453f4edbc33d20/master.m3u8?1676382648"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de arte sistéma gráfico Parte III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/501/25c9dc8003230f1bd378a1d1f77c1721/master.m3u8?1676382652"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fkwuov.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El broche de oro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entrega del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/503/4aefbd0be2505d58292a27f9b97334cc/master.m3u8?1676382651"
+                },
+                {
+                    "id": null,
+                    "title": "Mostrarse al mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/505/2e33767ce2e1a213c3b078097e204289/master.m3u8?1676382654"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5yjkhu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ulk047.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 191,
+        "product_name": "Digital Art Direction",
+        "teacher_name": "Adrián Somoza",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7369,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

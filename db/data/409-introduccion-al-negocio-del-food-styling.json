@@ -1,0 +1,180 @@
+{
+    "id": "409",
+    "title": "Introducción al negocio del food styling",
+    "url": "https://www.domestika.org/es/courses/409-introduccion-al-negocio-del-food-styling/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/044/30541cc570ee6e194015aec4b6bb7bd8/master.m3u8?1676384810"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/045/91f6142588b12badfaa7c0f708264701/master.m3u8?1676384816"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rah6gg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "No todo puede ser amor al arte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/046/dbcaeb1f805cbba3c02ed8c2a1e50c60/master.m3u8?1676384811"
+                },
+                {
+                    "id": null,
+                    "title": "La primera reunión cronograma y presupuesto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/047/610be369db077820fe239549ad30aa64/master.m3u8?1676384813"
+                },
+                {
+                    "id": null,
+                    "title": "La marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/048/44e0b8e647f59a0a051ef63a04fd1860/master.m3u8?1676384814"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ernsj3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso Creativo  Inspiración  puesta a punto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo me imagino la foto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/049/1e651244a32ace8c0e2d7307d04880d4/master.m3u8?1676384815"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo me imagino la foto Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/050/e751fd4660f94b0687fa44214b1fb10b/master.m3u8?1676384814"
+                },
+                {
+                    "id": null,
+                    "title": "Casting y compra de ingredientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/051/a73cc4a93157ab8ad11321e5955c8b40/master.m3u8?1676384815"
+                },
+                {
+                    "id": null,
+                    "title": "El checklist",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/052/17c1dfb2df3302607c58dd7a1967b123/master.m3u8?1676384819"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0y04wo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La foto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación y cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/053/3030c173bafd7d3dd3df0fdc9ab8befb/master.m3u8?1676384814"
+                },
+                {
+                    "id": null,
+                    "title": "El Set",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/054/12d12942a20bd32a5e463a398bb4acd1/master.m3u8?1676384817"
+                },
+                {
+                    "id": null,
+                    "title": "Emplatar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/055/9cb7058d7a58e06d3059b3f13f165791/master.m3u8?1676384820"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/72tyl0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Post no confío",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revelado RAW y Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/056/6746582fc9913dee4b3d7f17c8aec80c/master.m3u8?1676384815"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización y Entrega",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/057/2ef4961d7e6ba4c609411a9a806dbe6d/master.m3u8?1676384817"
+                },
+                {
+                    "id": null,
+                    "title": "El Ok conclusiones y consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/060/1b08169217d85508a8531b67acaa82ce/master.m3u8?1676384816"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kxnhfo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qjmj4u.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 409,
+        "product_name": "Introduction to the Business of Food Styling",
+        "teacher_name": "Espacio Crudo",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8919,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

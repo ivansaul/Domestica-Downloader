@@ -1,0 +1,160 @@
+{
+    "id": "4040",
+    "title": "Diario de poesía visual narra con fotografía y versos",
+    "url": "https://www.domestika.org/es/courses/4040-diario-de-poesia-visual-narra-con-fotografia-y-versos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/526/4ab747ce9a06accfc547aee780b65d83/master.m3u8?1726146691"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/527/b76099b36efb576e9ef997f2614898ad/master.m3u8?1676408992"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3psh25.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Palabra e imagen",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre la poesía en las imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/528/56ecb811ebdf12fa828a1ede8841dabb/master.m3u8?1676408996"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/529/63662c41b9f625ae34ed5aae850a924e/master.m3u8?1676408991"
+                },
+                {
+                    "id": null,
+                    "title": "Como se ve lo que leemos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/530/9900ceba81efcc5568465f97b4bf6774/master.m3u8?1676408994"
+                },
+                {
+                    "id": null,
+                    "title": "Jugar con la palabra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/531/8b2c675cfb8ae5e45af2aeff577b2aed/master.m3u8?1676408992"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n2e7hq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El álbum poético",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Plantear la temática",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/532/b4727d0a3ff2a170ba6862e46b8775d2/master.m3u8?1676408993"
+                },
+                {
+                    "id": null,
+                    "title": "Crear imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/533/c5d92b59f8e999e43cdd4ae645d89e2c/master.m3u8?1676408994"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar las palabras precisas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/534/45a45a3a6f1e1e79c6c9ca1ecedf51a2/master.m3u8?1676408996"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fqmji0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tomar decisiones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/535/e26be8a4db3cb5834781518896d7b9fd/master.m3u8?1676409000"
+                },
+                {
+                    "id": null,
+                    "title": "Es hora de hacer los fotopoemas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/536/d88c0abe6558364138bd8114c5563614/master.m3u8?1676409002"
+                },
+                {
+                    "id": null,
+                    "title": "Es hora de hacer los fotopoemas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/537/7f7ea6a0efa1d2fa8ec25e0caca2b5a9/master.m3u8?1676408998"
+                },
+                {
+                    "id": null,
+                    "title": "Digital o Análogo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/540/1f3bea26462bb042e47ef33538c5d9e5/master.m3u8?1676408999"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vz5ykd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7ey21t.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4040,
+        "product_name": "Visual Poetry Diary: tell stories with photos and verses",
+        "teacher_name": "Lina Botero",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7508,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "id": "495",
+    "title": "Técnicas narrativas para libros infantiles",
+    "url": "https://www.domestika.org/es/courses/495-tecnicas-narrativas-para-libros-infantiles/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/182/68ba203e940f93abf7cef290011027af/master.m3u8?1676384845"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/183/7239a9036c91f273a86140b2a802b7ab/master.m3u8?1676384844"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jyi3sy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El enorme mundo de los libros para la infancia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La especificidad de los libros infantiles y juveniles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/238/fc244423aa4872eff0860c969699ca91/master.m3u8?1676384861"
+                },
+                {
+                    "id": null,
+                    "title": "Qué son los géneros literarios y por qué sirven para contar historias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/241/810ba2dd603d99b9ec1b4f6bf0240283/master.m3u8?1676384858"
+                },
+                {
+                    "id": null,
+                    "title": "Los géneros editoriales y algunas sorpresas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/353/0b6d48a944abe4ab841c4b8910bd9169/master.m3u8?1676384910"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo es el proceso de edición de un libro infantil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/354/7435532ee084f4c88e2d13b6e336cea4/master.m3u8?1676384908"
+                },
+                {
+                    "id": null,
+                    "title": "Decálogo de sí y no si querés escribir libros para chicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/355/9be22b48204c8b21bbb4c08bf76bfbc5/master.m3u8?1676384906"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bk3pz7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Una historia paso a paso",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Un generador de historias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/386/3e0b695b1917d80d6c6046a86ce96a85/master.m3u8?1676384922"
+                },
+                {
+                    "id": null,
+                    "title": "Lo básico de una historia mundo personajes y estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/387/53a093de70060b2d9977ea3e495977e1/master.m3u8?1676384921"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de narradores punto de vista El tiempo del relato y el tiempo de la narración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/389/2a5629d591df3e11e6cc97f7b453c631/master.m3u8?1676384923"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jutcr6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La estructura de las historias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La estructura tradicional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/394/32ab61973170f7ca886d6a9d9173ef51/master.m3u8?1676384923"
+                },
+                {
+                    "id": null,
+                    "title": "Otro modelo de estructura la estructura en cuatro partes o sin conflicto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/399/7ad554918755824568da5df9e4af5f48/master.m3u8?1676384927"
+                },
+                {
+                    "id": null,
+                    "title": "Otro modelo de estructura la lista o estructura encadenada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/400/8dedd39fd50668b279e2da76908cfda7/master.m3u8?1676384928"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wunmlo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La cereza del postre",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La voz propia en las historias El cajón de herramientas I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/402/6aafea9d1b217c30d36140fd1e6ea5ba/master.m3u8?1676384932"
+                },
+                {
+                    "id": null,
+                    "title": "La voz propia en las historias El cajón de herramientas II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/404/5da5f152d5670adb1395fbfb6717fec6/master.m3u8?1676384932"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación de un texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/405/2dcb93c275cdf8cfb0a13359b462a168/master.m3u8?1676384932"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o6mnq5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/c8cl9e.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 495,
+        "product_name": "Narrative Techniques for Children’s Books",
+        "teacher_name": "Natalia Méndez",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 8815,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

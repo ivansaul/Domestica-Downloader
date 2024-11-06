@@ -1,0 +1,163 @@
+{
+    "id": "4330",
+    "title": "Dibujo de escenas manga",
+    "url": "https://www.domestika.org/es/courses/4330-dibujo-de-escenas-manga/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/099/800167cf50ab3a8924d0cdad438921ac/master.m3u8?1676412540"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/100/b547f9627c35fce100a3222fe0cad3d3/master.m3u8?1676412540"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jwe724.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La teoría detrás de la ilustración con fondos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeros pasos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/101/ecd0541c2ae3583a89240856cc1a0f79/master.m3u8?1676412541"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/102/f75736e078675ccad71d286de1fc09a3/master.m3u8?1676412540"
+                },
+                {
+                    "id": null,
+                    "title": "Perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/103/684d4eefe34d5d479800832137fa46b3/master.m3u8?1676412542"
+                },
+                {
+                    "id": null,
+                    "title": "Puntos de fuga y posicionamiento de personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/104/2e2fabd6ed4f44abc441efb414884a5b/master.m3u8?1676412546"
+                },
+                {
+                    "id": null,
+                    "title": "Isometría y escorzo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/105/ba79000ef4364e1134e4e9db33ea83fe/master.m3u8?1676412544"
+                },
+                {
+                    "id": null,
+                    "title": "División de elementos de perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/106/58b93bfbb4cdf5fdd45f3b375ae58403/master.m3u8?1676412546"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/107/879b27901550d062147be0f248119a43/master.m3u8?1676412545"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c915fo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crea y finaliza una ilustración con paisajes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elaboración de bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/108/ccc6dba0644e5bd7708771953f3391b0/master.m3u8?1676412547"
+                },
+                {
+                    "id": null,
+                    "title": "Terminando el boceto y la composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/109/7085f4603219a6d93831953afe2a3274/master.m3u8?1676412544"
+                },
+                {
+                    "id": null,
+                    "title": "Terminando en nanjing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/110/dbe166bfe05d7bda9d02ab993a93e65b/master.m3u8?1676412550"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fpefem.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tratar y dar a conocer tu trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escaneo y procesamiento de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/111/16cd707ba8d46d37f489002253d8f058/master.m3u8?1676412546"
+                },
+                {
+                    "id": null,
+                    "title": "Publicar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/112/05ed411f56d481cd72afae4e32de4221/master.m3u8?1676412545"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s8imut.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1xj1x1.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4330,
+        "product_name": "Drawing Manga Scenes",
+        "teacher_name": "EUDETENIS",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 5931,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

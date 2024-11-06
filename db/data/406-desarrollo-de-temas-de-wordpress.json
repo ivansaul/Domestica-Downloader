@@ -1,0 +1,274 @@
+{
+    "id": "406",
+    "title": "Desarrollo de temas de WordPress",
+    "url": "https://www.domestika.org/es/courses/406-desarrollo-de-temas-de-wordpress/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/720/0744d7b993c1bbab49a125adb8d1b342/master.m3u8?1676385439"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/721/4bb9fe004edaa87374c0e721adcebdce/master.m3u8?1676385441"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1et0il.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Instalación y preparación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/722/133275b583c232462f69d4ef0954eaf6/master.m3u8?1676385442"
+                },
+                {
+                    "id": null,
+                    "title": "La base de datos de WordPress",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/723/efe476264d519c7f4b52c43993e04d3a/master.m3u8?1676385441"
+                },
+                {
+                    "id": null,
+                    "title": "Depuración de código",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/724/2de1c47b59d63522affeb14d2c8f0c5d/master.m3u8?1676385442"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jzjipm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al desarrollo de temas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Planificando en base al diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/725/b31f2eaf59f0c679d8a75ae8cb08196d/master.m3u8?1676385441"
+                },
+                {
+                    "id": null,
+                    "title": "Anatomía de un tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/726/683c7a2606d978f6152a56f661d17cc7/master.m3u8?1676385442"
+                },
+                {
+                    "id": null,
+                    "title": "Un simple y poco útil tema puro HTML",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/727/9b4902bfe6abe6ade2b75278b91ec252/master.m3u8?1676385446"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nil8yi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo de temas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cabecera y pie del sitio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/728/b116e049d414aad4621dc9522e509d26/master.m3u8?1676385449"
+                },
+                {
+                    "id": null,
+                    "title": "Hooks en WordPress",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/729/4cc0afff498c7e87df2235ea566ad8c9/master.m3u8?1676385444"
+                },
+                {
+                    "id": null,
+                    "title": "Soporte básico del tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/730/903d78bb35576c27b6bc9c97159b8006/master.m3u8?1676385442"
+                },
+                {
+                    "id": null,
+                    "title": "Internacionalización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/731/c97402435d9b3bbed072562c0f5fbec8/master.m3u8?1676385444"
+                },
+                {
+                    "id": null,
+                    "title": "Widgets",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/732/28ea8d8a54289a59aaef019f98dc837f/master.m3u8?1676385445"
+                },
+                {
+                    "id": null,
+                    "title": "Menús de navegación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/733/85f9756a4584b9c169059193a5018fac/master.m3u8?1676385446"
+                },
+                {
+                    "id": null,
+                    "title": "The Loop o cómo mostrar el contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/734/3f4b0c73725548fc5e8b5b834f4e090e/master.m3u8?1676385447"
+                },
+                {
+                    "id": null,
+                    "title": "Imágenes en WordPress",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/735/69e528688df083a0ded54c8ceff60c5f/master.m3u8?1676385446"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eymivp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Separar el contenido en plantillas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cabecera pie y zonas de Widgets",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/736/645334f94758148d40a9fc609a53b783/master.m3u8?1676385445"
+                },
+                {
+                    "id": null,
+                    "title": "Archivos búsqueda autor y 404",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/737/a0e5b4b5837ea2da097999982b891e8e/master.m3u8?1676385448"
+                },
+                {
+                    "id": null,
+                    "title": "Identificación y separación del contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/738/096870d2b126f0efd0c13e996d2ed558/master.m3u8?1676385446"
+                },
+                {
+                    "id": null,
+                    "title": "Single Post páginas y comentarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/739/3859f1a6f095a191982d28928a0d0f0d/master.m3u8?1676385450"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k4o0u1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Extendiendo WordPress",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Clases CSS del body y contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/741/43acc11950ba41c7eddc3fdd57c3a41a/master.m3u8?1676385448"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del Portfolio posts personalizados taxonomías y meta boxes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/742/67eed9c0acc4534a3449cd19abb09797/master.m3u8?1676385452"
+                },
+                {
+                    "id": null,
+                    "title": "Plantillas de posts y páginas personalizadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/743/69b341027e1aba8cb4e2bebba7c15c7a/master.m3u8?1676385447"
+                },
+                {
+                    "id": null,
+                    "title": "Opciones para cabecera fondo y logotipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/744/1730e33788988e9654d43bf57c4ceafd/master.m3u8?1676385450"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos en el editor de bloques de WordPress",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/745/c42ed47924bba658ec929002737cf3ca/master.m3u8?1676385450"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos en el editor de bloques de WordPress II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/746/6f67180439f11518dc9d6adbe139a329/master.m3u8?1676385453"
+                },
+                {
+                    "id": null,
+                    "title": "JavaScript y WordPress",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/764/acc5436f480214d30d813fe460534138/master.m3u8?1676385458"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ref6q5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Temas Hijo y últimos retoques",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Temas Hijo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/768/9ed6941e4c58102c3d64c0e9b5706caa/master.m3u8?1676385459"
+                },
+                {
+                    "id": null,
+                    "title": "Soporte RTL y empaquetado del Tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/769/4cc3ff47c58293512b33ed686deb6a35/master.m3u8?1676385460"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zjw5mb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/f1d6yy.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 406,
+        "product_name": "WordPress Theme Development",
+        "teacher_name": "Ignacio Cruz Moreno",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "advanced",
+        "course_number_of_lessons": 29,
+        "course_total_duration_sec": 13879,
+        "total_units": 7,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

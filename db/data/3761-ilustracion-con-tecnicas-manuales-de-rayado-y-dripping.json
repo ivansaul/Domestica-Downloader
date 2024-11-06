@@ -1,0 +1,163 @@
+{
+    "id": "3761",
+    "title": "Ilustración con técnicas manuales de rayado y dripping",
+    "url": "https://www.domestika.org/es/courses/3761-ilustracion-con-tecnicas-manuales-de-rayado-y-dripping/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/759/9177bc38d0047fcc4889613f89521153/master.m3u8?1676406499"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/760/4dff253b4e4393066d18bcc42ceaa9f2/master.m3u8?1676406498"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fr53ws.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Entrena antes de empezar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/762/8472ba8cc5025ce3ae4e3e60c17c1edc/master.m3u8?1676406498"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios de muñeca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/763/5990b0feb7eb4a1aafee94a4df769e52/master.m3u8?1676406502"
+                },
+                {
+                    "id": null,
+                    "title": "Líneas curvas y rectas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/764/911c7ae192c5b1018897705fdd757fb9/master.m3u8?1676406502"
+                },
+                {
+                    "id": null,
+                    "title": "Zonas de sombra y zonas de luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/765/9f612fbc6111ed78b89f1d36ad77d0ae/master.m3u8?1676406504"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas básicas sobre el uso del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/766/f46e2e46bfe361fa47137466e106964b/master.m3u8?1676406503"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b2o6cp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Forma",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elegir la foto adecuada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/767/88fab21db74d109519d042ae1a39029d/master.m3u8?1676406502"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de la foto y construcción de la cuadrícula digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/768/52637a719aa434552d9de5d6ada3aed5/master.m3u8?1676406505"
+                },
+                {
+                    "id": null,
+                    "title": "La cuadrícula de lápiz en la hoja blanca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/770/44a04f2148b826a4e25eeb1621a66585/master.m3u8?1676406507"
+                },
+                {
+                    "id": null,
+                    "title": "El dibujo del contorno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/771/58df63e2ca2fae8684505009ced61c4f/master.m3u8?1676406511"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ayh4vh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El relleno",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Rellenos y volúmenes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/774/ee9d89744e5a6f0bdf1afa9fabb12fef/master.m3u8?1676406513"
+                },
+                {
+                    "id": null,
+                    "title": "Rellenos y volúmenes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/777/20ec7ef9664fb9bfa9eaca2e65dc815b/master.m3u8?1676406513"
+                },
+                {
+                    "id": null,
+                    "title": "Goteo y finalización del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/779/707b3658a56b1b77ee7e5a7c2fc9560b/master.m3u8?1676406513"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bpr98z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9vlg9x.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3761,
+        "product_name": "Manual Illustration Techniques: Hatching and Dripping",
+        "teacher_name": "Sara Paglia",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7524,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

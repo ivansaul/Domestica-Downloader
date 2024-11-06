@@ -1,0 +1,175 @@
+{
+    "id": "3368",
+    "title": "Diseño UX define la experiencia omnicanal de usuarios",
+    "url": "https://www.domestika.org/es/courses/3368-diseno-ux-define-la-experiencia-omnicanal-de-usuarios/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/952/2141821161e00849c5fa9b63a5108060/master.m3u8?1676413687"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/953/d94b0ba741e59d019238fa7058775ac9/master.m3u8?1676413686"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9z21qz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Experiencia de usuario",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la experiencia de usuario y por qué entregar una buena experiencia omnicanal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/954/3c16e7e23dea81068feb8edf057c28ff/master.m3u8?1676413689"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo crear una buena experiencia omnicanal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/955/39e7c45cdeef7e7d8fb2d273edf90ce7/master.m3u8?1676413688"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9vh4ji.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso de investigación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definir la investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/956/e759276dd6e4335093fccea06d7b578d/master.m3u8?1676413688"
+                },
+                {
+                    "id": null,
+                    "title": "Observación participante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/957/94830b9c6f94266b61a5db20eaaac776/master.m3u8?1676413688"
+                },
+                {
+                    "id": null,
+                    "title": "Entrevistas en profundidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/958/eacd391ecdcd87d11a70d533c7f6e3d5/master.m3u8?1676413690"
+                },
+                {
+                    "id": null,
+                    "title": "Pruebas de usabilidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/959/53db395f5f13c585d0c31c689e58b9ae/master.m3u8?1676413694"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7mxyqz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Análisis y desarrollo de la experiencia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Personas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/960/e6dc88ae19215ef23c42d2b3ade8b7b4/master.m3u8?1676413693"
+                },
+                {
+                    "id": null,
+                    "title": "Customer journey map",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/961/2e4c16695b95d8393beeb55c9b9cde21/master.m3u8?1676413696"
+                },
+                {
+                    "id": null,
+                    "title": "Service blueprint",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/962/9d9dda28ff3221ee2e0b8a0b2801aa35/master.m3u8?1676413690"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ih6mx7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estrategia experiencia omnicanal",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelo de experiencia omnicanal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/963/02d42d1afaed3d483e6a12c4aebb048b/master.m3u8?1676413694"
+                },
+                {
+                    "id": null,
+                    "title": "KPI omnicanal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/964/6021b1a2555f7710eb63e206b32753fd/master.m3u8?1676413693"
+                },
+                {
+                    "id": null,
+                    "title": "Priorizar oportunidades y mejoras omnicanal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/965/1eaf7dae73f6546c9ea4543c0ec8f206/master.m3u8?1676413692"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/al064d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/pug3ew.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3368,
+        "product_name": "UX Design: Define users' omnichannel experience",
+        "teacher_name": "Miguel Baeza Menz",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6077,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

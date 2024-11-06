@@ -1,0 +1,222 @@
+{
+    "id": "1365",
+    "title": "Introducción al diseño UI",
+    "url": "https://www.domestika.org/es/courses/1365-introduccion-al-diseno-ui/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/695/724fcbaada6f0c56d794bbfa2e23b58a/master.m3u8?1676393080"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/696/006b5f1b07cf062f3ec271e266129b86/master.m3u8?1676393081"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/697/5b713bdcf42a5623963c228e1c4b86dc/master.m3u8?1676393081"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/awsnex.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bienvenido al mundo UI",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mindset que debemos tomar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/698/d638d2e1f51a1561f79d5924f4bcc9db/master.m3u8?1676393083"
+                },
+                {
+                    "id": null,
+                    "title": "Escogiendo la herramienta de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/699/3901c8b9d85bd453ff465558ed13b62d/master.m3u8?1676393082"
+                },
+                {
+                    "id": null,
+                    "title": "El proceso de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/700/fc4be3eb0cb39ecf485a24e1b46baa1d/master.m3u8?1676393084"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eejm8o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos UI",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Setup Figma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/701/16c41e3752c35b8f8ca0091236bc12c5/master.m3u8?1676393086"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración diaria",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/702/0ce4c06c30907ba9abf99daf8e898dd9/master.m3u8?1676393085"
+                },
+                {
+                    "id": null,
+                    "title": "Benchmark",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/703/9284d0cb8a2c7f36cabe3b75401a3618/master.m3u8?1676393087"
+                },
+                {
+                    "id": null,
+                    "title": "Wireframes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/704/bb27ecc8c34d47d62b012a3e8e2b94df/master.m3u8?1676393086"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/acmvb9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Componentes UI",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/706/1beec54a9d4ba01f905d1e3764d66f9d/master.m3u8?1676393090"
+                },
+                {
+                    "id": null,
+                    "title": "Layout 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/707/7b800443f42fde6b195e13739eab5d75/master.m3u8?1676393092"
+                },
+                {
+                    "id": null,
+                    "title": "Layout 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/708/187f78ddcee0da033a19825b5d19c4f3/master.m3u8?1676393090"
+                },
+                {
+                    "id": null,
+                    "title": "Colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/709/a1a983219f54f3df8366fdfe41ec38fa/master.m3u8?1676393091"
+                },
+                {
+                    "id": null,
+                    "title": "Iconos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/710/f9267d7c4cbb56a4ca6516332c615430/master.m3u8?1676393092"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jmps0x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hablando de desarrollo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Botones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/746/cb7d089357b814947bceaba3f28fb38d/master.m3u8?1676393108"
+                },
+                {
+                    "id": null,
+                    "title": "Formularios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/747/75edb26cf11d8758b83b3c40cbab2bc7/master.m3u8?1676393106"
+                },
+                {
+                    "id": null,
+                    "title": "Lists u0026 Cards 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/748/ab0d111a882cfed8bfe1c3dea0b52ea5/master.m3u8?1676393110"
+                },
+                {
+                    "id": null,
+                    "title": "Lists u0026 Cards 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/749/d5f803ddf6fd296ef1034e51a91af635/master.m3u8?1676393109"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qliwr7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comunicación efectiva",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas de comunicación para diseñadores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/752/a8ee94eed958f72c1caf73f0ae2503ce/master.m3u8?1676393108"
+                },
+                {
+                    "id": null,
+                    "title": "Comunicándote con tu equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/753/22702b10e2cca140cd62afb431baebd1/master.m3u8?1676393108"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mcanhy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zxf1v7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1365,
+        "product_name": "Introduction to UI Design",
+        "teacher_name": "Christian Vizcarra",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 9035,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

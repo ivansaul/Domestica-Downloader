@@ -1,0 +1,225 @@
+{
+    "id": "224",
+    "title": "Introducción a Toon Boom Harmony para animación de personajes 2D",
+    "url": "https://www.domestika.org/es/courses/224-introduccion-a-toon-boom-harmony-para-animacion-de-personajes-2d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/245/3ba5b22d7c92f960e50f84330a0b44a0/master.m3u8?1676383086"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/246/42e5f77845d7e013a868d96fb2074445/master.m3u8?1676383093"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fvz4ct.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Todo lo que necesitas saber de Harmony en un rato",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preferencias y espacio de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/247/81e2c2ccd1c5949d633d74301b1570ae/master.m3u8?1676383092"
+                },
+                {
+                    "id": null,
+                    "title": "Un repaso a las herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/248/8d3c57c9a8c307adfc92180a6fc55a1f/master.m3u8?1676383093"
+                },
+                {
+                    "id": null,
+                    "title": "Animar con Harmony",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/249/5fd91ff75df5d31fdf25c035698ca9eb/master.m3u8?1676383098"
+                },
+                {
+                    "id": null,
+                    "title": "La vista de nodos Ya no querrás trabajar con capas nunca más",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/250/9e31e4210c17ee5c5d4f9ffb136f6f23/master.m3u8?1676383093"
+                },
+                {
+                    "id": null,
+                    "title": "Un ejemplo práctico Vamos a preparar la jerarquía de una cara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/251/98942e66d5ae6804214226c4172e485d/master.m3u8?1676383095"
+                },
+                {
+                    "id": null,
+                    "title": "Un ejemplo práctico Ahora animamos la cara D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/252/1446e9edaf51a374dc4322870ca8e66d/master.m3u8?1676383096"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x2a5ao.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proyecto astronauta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparando el material para poder animarlo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/253/d3b521fa765663518c7434c1143ce00a/master.m3u8?1676383095"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestro primeros huesos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/254/f2b2b05c4f4842cc25fa9d4dec6be13e/master.m3u8?1676383103"
+                },
+                {
+                    "id": null,
+                    "title": "Empecemos a animar a nuestro astronauta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/255/e03d4b4ee1ca88e47f2f8a9539080bf8/master.m3u8?1676383098"
+                },
+                {
+                    "id": null,
+                    "title": "Herramienta de rig modo curva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/256/a9506c0e2c071af8f215ed40ed170376/master.m3u8?1676383100"
+                },
+                {
+                    "id": null,
+                    "title": "Últimos detalles y retoques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/257/99ec56825be61fcaef3d1dd27d5789de/master.m3u8?1676383097"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5qfr9e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bicho bola",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Organizando el material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/258/1308f50a0b2394fc9368de4e9245cfa8/master.m3u8?1676383099"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas de rig El modo envelope",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/259/1d5704b281cb87008e282e40c938434e/master.m3u8?1676383097"
+                },
+                {
+                    "id": null,
+                    "title": "Vamos a animar a nuestro bicho",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/260/9d6546d612f6549780c5f1ec19aa412f/master.m3u8?1676383100"
+                },
+                {
+                    "id": null,
+                    "title": "Animando la cara y el cuerpo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/261/dcff4a28262f301f56e85565d4e8be41/master.m3u8?1676383100"
+                },
+                {
+                    "id": null,
+                    "title": "Animando los brazos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/262/43501b2bf5e2bd91ffbb399c552428df/master.m3u8?1676383100"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0tj3yf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Píldoras de información",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La carta de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/263/afefaabdbdfc5728316191b07688d7e9/master.m3u8?1676383101"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar cómo sacamos nuestras animaciones de Harmony",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/264/b6a60dcd438db34e3caba158c07adf2b/master.m3u8?1676383102"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo importar dibujos desde Illustrator FlashAnimate y Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/265/83a3f328d3f30a8c56174ae2fcd252e8/master.m3u8?1676383103"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo compartir un personaje de un fichero Harmony a otro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/266/184e118e3c569cc478c78e2c55f1e504/master.m3u8?1676383102"
+                },
+                {
+                    "id": null,
+                    "title": "Los 3 tipos de huesos de un vistazo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/267/c075ef84135c2abaaa12f415226d85ef/master.m3u8?1676383103"
+                },
+                {
+                    "id": null,
+                    "title": "Un caso práctico de varios rigs en un mismo elemento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/268/1b68a515812729d2942f5f1667cda42c/master.m3u8?1676383104"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kxissl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/0fagzi.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 224,
+        "product_name": "Introduction to Toon Boom Harmony for Animation of 2D Characters",
+        "teacher_name": "Pedro Alpera",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 10474,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

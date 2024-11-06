@@ -1,0 +1,159 @@
+{
+    "id": "656",
+    "title": "Ilustración de personajes en acrílico",
+    "url": "https://www.domestika.org/es/courses/656-ilustracion-de-personajes-en-acrilico/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/786/b6784ca20da3dce2c241fde919907f57/master.m3u8?1676394117"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/987/74bbb050c2743d9d71fd8d7480fe98dd/master.m3u8?1676394207"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/988/12b138029617b43c1344e83628f2d652/master.m3u8?1676394204"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3qo4dl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales luz y sombra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/989/5596be5c57b9950ec713e747a646e99d/master.m3u8?1676394209"
+                },
+                {
+                    "id": null,
+                    "title": "Luz y sombra 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/990/53355ff68f826c45fa0be15d8f0767df/master.m3u8?1676394212"
+                },
+                {
+                    "id": null,
+                    "title": "Luz y sombra 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/991/7dd7ffcad92ec1144e412bf5b0d203a4/master.m3u8?1676394210"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ua0176.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Técnicas de pintura con acrílico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dibujo y sombreado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/992/edeb51c4bb302661e2db5cfba09cd4c4/master.m3u8?1676394213"
+                },
+                {
+                    "id": null,
+                    "title": "Color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/993/21c1e7215b16d31f3c0bbb10180ab50f/master.m3u8?1676394221"
+                },
+                {
+                    "id": null,
+                    "title": "Aguadas y veladuras transparentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/994/76bda34f42e921947941ed0135d5f4fa/master.m3u8?1676394216"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación y volumen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/995/85ece813bee966366c14300a7db815e5/master.m3u8?1676394220"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/996/17682f90f0f4f67e671ccba427d7477e/master.m3u8?1676394211"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qyv551.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conservación y presentación del original",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conservación digitalización y formato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/997/538d08b24e8c350b462b7a394c235a1d/master.m3u8?1676394211"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/998/cbb24995d1ef0d4deaf5a2c4121c7df5/master.m3u8?1676394220"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xvuqh6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/idnlpe.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 656,
+        "product_name": "Character Illustration with Acrylic",
+        "teacher_name": "Ariel Olivetti",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7206,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

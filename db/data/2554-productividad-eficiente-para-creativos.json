@@ -1,0 +1,165 @@
+{
+    "id": "2554",
+    "title": "Productividad eficiente para creativos",
+    "url": "https://www.domestika.org/es/courses/2554-productividad-eficiente-para-creativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/102/0444eadc915e6b5c0fc0f951ac5736ef/master.m3u8?1676402352"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/103/2e3918c3aff4082f8e49a7b35bd42c7e/master.m3u8?1676402353"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oki4h9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Productividad y otros conceptos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bloqueos de la productividad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/104/94ce652a8d508aaa508e8e5ce0426771/master.m3u8?1676402353"
+                },
+                {
+                    "id": null,
+                    "title": "Por qué procrastinamos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/105/3685a32ab7057d1a412ec660ef7c8e2d/master.m3u8?1676402360"
+                },
+                {
+                    "id": null,
+                    "title": "Tareas rápidas vs tareas complejas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/106/99737a739bc0d58dff3819370fe24b62/master.m3u8?1676402355"
+                },
+                {
+                    "id": null,
+                    "title": "La clave un plan de acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/107/6e3ff6a2cbce22c86c6efa03bc44cb9d/master.m3u8?1676402355"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fy1doi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El plan de acción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La idea ganadora",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/108/2cb0932798da03edf7847ba4442a96b0/master.m3u8?1676402355"
+                },
+                {
+                    "id": null,
+                    "title": "Características de un plan de acción eficiente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/109/473fe236f4e16a99b1333c309e95e7d8/master.m3u8?1676402360"
+                },
+                {
+                    "id": null,
+                    "title": "Primera etapa claridad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/110/b18111e1f5bc2206449fcdeb8b7acf57/master.m3u8?1676402357"
+                },
+                {
+                    "id": null,
+                    "title": "Segunda etapa estrategia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/111/0b112bfe1093b69009dbefd9a1ea40d6/master.m3u8?1676402362"
+                },
+                {
+                    "id": null,
+                    "title": "Tercera etapa cronograma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/112/5c70acb564d53d0af85e5ab946095ab4/master.m3u8?1676402358"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jv3xdh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Implementación y seguimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Indicadores de progreso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/113/0182dc0749ecc254a9a88e8290ded267/master.m3u8?1676402358"
+                },
+                {
+                    "id": null,
+                    "title": "Formato creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/114/8db8fad6dc84bddb92ac94e3adc4716e/master.m3u8?1676402360"
+                },
+                {
+                    "id": null,
+                    "title": "Ejecutar el plan",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/115/189145d78e85927513873571877d6064/master.m3u8?1676402358"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bq4vl3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/gumvq1.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2554,
+        "product_name": "Productivity for Creatives: Planning for Efficiency",
+        "teacher_name": "Ani Castro",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4103,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

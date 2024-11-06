@@ -1,0 +1,173 @@
+{
+    "id": "4900",
+    "title": "Animación stop motion con needle felting",
+    "url": "https://www.domestika.org/es/courses/4900-animacion-stop-motion-con-needle-felting/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/850/ef3039ef60323ab3598d93d95609edc5/master.m3u8?1682548921"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/851/0ddbcfa4fca42c6118a10fc276f9a490/master.m3u8?1682548937"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3a0rez.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fieltro de aguja para animación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/852/38f0afb10e734950b1b13c5cd82a073f/master.m3u8?1682548958"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos básicos del fieltro de aguja",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/853/ed1b809aa756d223350827201049930c/master.m3u8?1682548973"
+                },
+                {
+                    "id": null,
+                    "title": "Crear el lápiz de fieltro y el cuaderno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/854/bcd5aec80a1cd2b0f80d7560ac21b4ce/master.m3u8?1682548992"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7od1nl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de animación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Descripción general del software",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/855/29cec1b9745ce1fba049dbafdb37831e/master.m3u8?1682549148"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/856/95fccb8208b3f99117a21f372f5acbd3/master.m3u8?1682549166"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos básicos de stopmotion 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/857/e95cfae58321feb107c1547f4a0ca4e8/master.m3u8?1682549186"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos básicos de stopmotion 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/858/77b985f850ee0c5ad169d372482b8bd9/master.m3u8?1682549209"
+                },
+                {
+                    "id": null,
+                    "title": "Incorporando tu mano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/859/054fb02e6b0d8fbbb0bb121ccd80a72a/master.m3u8?1682549229"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p6ixyh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear la animación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Planificación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/860/1c616c1d63749b094708457c2913800a/master.m3u8?1682549248"
+                },
+                {
+                    "id": null,
+                    "title": "Animación el dibujo de la catarina 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/861/888e34c6c54e575436c47dd417d35bee/master.m3u8?1682549278"
+                },
+                {
+                    "id": null,
+                    "title": "Animación el dibujo de la catarina 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/862/bdae4e15afd7245a56d104d82cab8c51/master.m3u8?1682549309"
+                },
+                {
+                    "id": null,
+                    "title": "Animación animación de la catarina 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/863/321829a1547cd627d545d3b2e6c6df48/master.m3u8?1682549350"
+                },
+                {
+                    "id": null,
+                    "title": "Grabación de sonidos Foley",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/864/a7f9cf9dd32da20cc08e4bcce9b5b048/master.m3u8?1682549368"
+                },
+                {
+                    "id": null,
+                    "title": "Reuniéndolo todo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/865/24b0ba4750a8575161dad93f006c20c3/master.m3u8?1682549386"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wd12in.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/dojncc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4900,
+        "product_name": "Stop Motion Animation with Needle Felting",
+        "teacher_name": "Andrea Love",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 12159,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

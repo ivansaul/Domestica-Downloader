@@ -1,0 +1,254 @@
+{
+    "id": "376",
+    "title": "Diseño de una aplicación móvil",
+    "url": "https://www.domestika.org/es/courses/376-diseno-de-una-aplicacion-movil/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/212/e24bc575146b86f213b14eb38583109a/master.m3u8?1676384853"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/213/75246e2799fad37d2fdacd5b5cfb913d/master.m3u8?1676384860"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wirptx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El maravilloso mundo de las aplicaciones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al mundo de las apps",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/219/5cdc14a88673c1dcb453b314f7440ee0/master.m3u8?1676384857"
+                },
+                {
+                    "id": null,
+                    "title": "Diferencias entre UX y UI",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/220/32598f2ae7fbd8459ee74b0e5cb54a41/master.m3u8?1676384858"
+                },
+                {
+                    "id": null,
+                    "title": "Referencias para diseñar tu app",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/221/5e61c65171ca6d12f8eb8dc2077b95b4/master.m3u8?1676384859"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g4d0cu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo buscar un problema",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo abrir tu mente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/239/cdcc1a53b4d694dfc1e41c8da1f526dc/master.m3u8?1676384857"
+                },
+                {
+                    "id": null,
+                    "title": "Estructurar el problema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/265/08aa15a543656722bb6489b802470b62/master.m3u8?1676384866"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4m7x27.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Encontrando la solución",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Búsqueda inspiracional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/266/65e40b46dd0ebbb3944abd2537e65e90/master.m3u8?1676384869"
+                },
+                {
+                    "id": null,
+                    "title": "Creando un moodboard inspiracional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/267/f815cfafd64fa9d4937c23e3fed885fc/master.m3u8?1676384868"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w8ctzc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definiendo UX",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definiendo objetivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/269/c3444e3f241356452ad9a4da3587d366/master.m3u8?1676384868"
+                },
+                {
+                    "id": null,
+                    "title": "Creando un wireframe",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/270/286634deb80d16b409ce5f33ffefb4f2/master.m3u8?1676384874"
+                },
+                {
+                    "id": null,
+                    "title": "Digitalizando un wireframe parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/272/71261d041e4ff6bfb351382bd680bbab/master.m3u8?1676384874"
+                },
+                {
+                    "id": null,
+                    "title": "Digitalizando un wireframe parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/274/d340b73b85ecf956f73d36ab529d4a9a/master.m3u8?1676384875"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rble5h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando tu propuesta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a Sketch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/303/d3463b9b63146e83bbcc8c35599c9f7a/master.m3u8?1676384886"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos de UI parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/304/872b3cb7f6c5b0770732e2e0593b54ff/master.m3u8?1676384887"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos de UI parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/305/866a2ef8d2a88ca108e2f4f57c1e0dad/master.m3u8?1676384886"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos de UI parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/306/dff2ce3cc3c648c6e457ea0d823fd27c/master.m3u8?1676384886"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos de UI parte 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/307/cdee5fcd97de480c2c34eba94a041c36/master.m3u8?1676384885"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo los componentes nativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/308/3b20cacc4fa0a07ca3d877a4f28bb585/master.m3u8?1676384888"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando la aplicación parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/309/8f139fdaf7b64a20567523466f79c010/master.m3u8?1676384892"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando la aplicación parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/310/c6bb17f5ad3d8ca929b758d3dd58bf7c/master.m3u8?1676384893"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando la aplicación parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/311/2ebe9b0d8de4a4a3e76e169bada863f2/master.m3u8?1676384892"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/57due0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Compartiendo con el mundo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La importancia de compartir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/312/bef8053e4f02e063c743e0abfc371052/master.m3u8?1676384887"
+                },
+                {
+                    "id": null,
+                    "title": "Dónde compartir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/313/1619e1679decc65dd9e88aac0f2bd318/master.m3u8?1676384891"
+                },
+                {
+                    "id": null,
+                    "title": "Aprovechando el feedback",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/314/6f83da5fcf31d150c47d54722f53bcee/master.m3u8?1676384889"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/okxbuv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7532q5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 376,
+        "product_name": "Design a Mobile App",
+        "teacher_name": "Christian Vizcarra",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 25,
+        "course_total_duration_sec": 18531,
+        "total_units": 7,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

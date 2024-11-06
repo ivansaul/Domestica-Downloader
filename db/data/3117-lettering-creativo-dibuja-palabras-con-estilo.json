@@ -1,0 +1,158 @@
+{
+    "id": "3117",
+    "title": "Lettering creativo dibuja palabras con estilo",
+    "url": "https://www.domestika.org/es/courses/3117-lettering-creativo-dibuja-palabras-con-estilo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/090/93f5faabb3c016a64d665d7f2c9113bc/master.m3u8?1676406662"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/091/a07ade5b9241f45424f9be9eae017bb4/master.m3u8?1676406662"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g04g1a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales y primeras ideas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recorrido por los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/092/d69a732feca06a52f192bc8aba317b65/master.m3u8?1676406661"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación de los primeros 4 estilos de letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/093/e39ef74a674a4af8e6428d7e747e3ae9/master.m3u8?1676406662"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de fuentes con y sin serifa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/094/5ee6716c341b5f4675f1fe6bc13c025a/master.m3u8?1676406666"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de fuente cursiva y fantasía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/095/1b36ab63fea4b36b907bb593c5fb58ae/master.m3u8?1676406667"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ddsiwu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando un proyecto de lettering",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Analizando el tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/096/25512a54afa832937bd7aa9cf21696ac/master.m3u8?1676406665"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de la palabra resaltada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/097/af5947f1505697c6a1f47c51fa166825/master.m3u8?1676406666"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir el estilo de fuente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/098/1f105f8ac23cf88f16154599e647263b/master.m3u8?1676406667"
+                },
+                {
+                    "id": null,
+                    "title": "Primeros trazos croquis y cuadrícula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/099/d1a1d2ace7b3af8611b9d6fd64e241c8/master.m3u8?1676406671"
+                },
+                {
+                    "id": null,
+                    "title": "Color y acabado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/100/c56f85cfeb7221a4618cad7cb5e1807a/master.m3u8?1676406675"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3ifsbu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Rotulación en el mercado de trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Del papel a cualquier superficie",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/101/a7663ba9a2b4abe47e5cf5ca9416691c/master.m3u8?1676406668"
+                },
+                {
+                    "id": null,
+                    "title": "Posicionamiento en redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/102/72deff8f028ce7dabf3cb6eb32391dea/master.m3u8?1676406668"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/18qtxe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4clm50.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3117,
+        "product_name": "Creative Lettering: Draw Words with Style",
+        "teacher_name": "Karol Stefanini",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5891,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

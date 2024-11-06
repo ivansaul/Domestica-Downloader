@@ -1,0 +1,163 @@
+{
+    "id": "2704",
+    "title": "Dibujo a lápiz de animales realistas para cuentos",
+    "url": "https://www.domestika.org/es/courses/2704-dibujo-a-lapiz-de-animales-realistas-para-cuentos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/799/b7d4fdf6b0c1ae817a1706a075fb6873/master.m3u8?1676406005"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/800/6be3ad2ae62c9845c34dd6b29b63c522/master.m3u8?1676406008"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aopogg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La estructura básica del cuerpo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los materiales necesarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/803/4c69181fe6119feae24ad8a3623e5398/master.m3u8?1676406010"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de la intención la línea de acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/804/da0c193f3f76a7e4549b7cdcfb073a41/master.m3u8?1676406010"
+                },
+                {
+                    "id": null,
+                    "title": "Las tres partes de un animal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/806/c5cbfc7bba0f32e2792d531307edb681/master.m3u8?1676406012"
+                },
+                {
+                    "id": null,
+                    "title": "La perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/809/8fd6a059e3e2bc4dca884777a55abe29/master.m3u8?1676406012"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uf91yd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construir alrededor de la estructura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Anatomía del animal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/811/41a72682698ce8c3f491d9f642aec2a9/master.m3u8?1676406016"
+                },
+                {
+                    "id": null,
+                    "title": "Observación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/812/416b850f611d8da4d0634fbbc4496c88/master.m3u8?1676406023"
+                },
+                {
+                    "id": null,
+                    "title": "Estilización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/813/666fcd664742e605fc0b1b54eaa53e21/master.m3u8?1676406019"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w63493.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollar el personaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Garabatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/814/1882f259c78a878457ac994720a30808/master.m3u8?1676406015"
+                },
+                {
+                    "id": null,
+                    "title": "El boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/816/ad5338f6d09f79b4f4471eec4b46f3a9/master.m3u8?1676406018"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura estabilidad y volúmenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/817/95f9d11edca632143ea721f01853823c/master.m3u8?1676406016"
+                },
+                {
+                    "id": null,
+                    "title": "Bruñido y toques finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/818/9821ceb5a50a207c659e9ef943053102/master.m3u8?1676406020"
+                },
+                {
+                    "id": null,
+                    "title": "Personajes antropomórficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/819/af81aad75123f9f430a578c39bce57b7/master.m3u8?1676406019"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0hskxi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/0vjemg.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2704,
+        "product_name": "Dynamic Animal Illustration for Children’s Stories",
+        "teacher_name": "Julie Mellan",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7118,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

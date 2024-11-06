@@ -1,0 +1,153 @@
+{
+    "id": "4018",
+    "title": "Pintura sobre madera decora tus utensilios",
+    "url": "https://www.domestika.org/es/courses/4018-pintura-sobre-madera-decora-tus-utensilios/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/013/a07fde64ff636ca843469d4fa39b656b/master.m3u8?1676411301"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/014/478bb56a5d9e28e5dd897dd3c91c4638/master.m3u8?1676411301"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xvedwy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los materiales y la pieza de madera",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diferentes tipos de madera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/015/27c20bfdb937c61a61cd9efd21cdd693/master.m3u8?1676411304"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/016/96d5cc4a140da752aeabbb5f3ee3926d/master.m3u8?1676411304"
+                },
+                {
+                    "id": null,
+                    "title": "Empezar a dibujar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/017/aa0db1b0c290ed4e02801d85a9a5ba97/master.m3u8?1676411306"
+                },
+                {
+                    "id": null,
+                    "title": "Explorar los colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/018/2626d63dfc0b0826561c56b60cc1082d/master.m3u8?1676411308"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/txx2wm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comenzar a pintar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pintar el diseño en papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/020/ab1d5b03a17917e7ee3e1261033fcd9b/master.m3u8?1676411308"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación del cuenco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/021/12239d35943f065b89f99f2b0235e217/master.m3u8?1676411310"
+                },
+                {
+                    "id": null,
+                    "title": "Del papel al cuenco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/022/1f54978c016b9441074cd1516d48b92e/master.m3u8?1676411307"
+                },
+                {
+                    "id": null,
+                    "title": "Primera capa las bases",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/023/672be39b20f4d08ec695479172a81a94/master.m3u8?1676411309"
+                },
+                {
+                    "id": null,
+                    "title": "Segunda capa profundidad y detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/024/a1c68bf74c47043a10a611117d80203e/master.m3u8?1676411315"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q4un43.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sellado acabado final y consejos para fotografiar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/025/e0cfa19c12e37ac345d0ccafecb614e6/master.m3u8?1676411312"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tsshcb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/gcse3q.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4018,
+        "product_name": "Painting on Wood: Decorate Kitchen Utensils",
+        "teacher_name": "Macarena Petrone",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6366,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

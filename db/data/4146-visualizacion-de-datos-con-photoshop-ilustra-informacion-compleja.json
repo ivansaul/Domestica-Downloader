@@ -1,0 +1,230 @@
+{
+    "id": "4146",
+    "title": "Visualización de datos con Photoshop ilustra información compleja",
+    "url": "https://www.domestika.org/es/courses/4146-visualizacion-de-datos-con-photoshop-ilustra-informacion-compleja/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/231/7ee3e5eeb740ef856dc7f1ff87749a14/master.m3u8?1680541264"
+                },
+                {
+                    "id": null,
+                    "title": "Mis fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/232/e7e485facd8fad272ff015d12e117e00/master.m3u8?1680541283"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/es18xf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a la visualización de datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "histórico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/233/09f506c5758a64447c35805edd6b95c1/master.m3u8?1680541304"
+                },
+                {
+                    "id": null,
+                    "title": "La estructura de un juego de données",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/234/ab1bf9dc9976a5a3882cf01ad74b410f/master.m3u8?1680541319"
+                },
+                {
+                    "id": null,
+                    "title": "La representación gráfica de las données",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/235/09ae08f975fbc1812455d65a7e325124/master.m3u8?1680541355"
+                },
+                {
+                    "id": null,
+                    "title": "La agencia visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/236/74069fcd7be51e008366cdc574b4ef97/master.m3u8?1680541445"
+                },
+                {
+                    "id": null,
+                    "title": "El estilo gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/237/a760b0cdc9d5b80ba90ecfb429d0b3a4/master.m3u8?1680541464"
+                },
+                {
+                    "id": null,
+                    "title": "La boîte à utiles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/238/58c09aade4d9881f7944c72bfe558eef/master.m3u8?1680541483"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ji9twn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La organización de données",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Filtrar la base de données",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/239/9808370d631525d220b8c53331e42d83/master.m3u8?1680541508"
+                },
+                {
+                    "id": null,
+                    "title": "Preparar los donados en Excel 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/240/2ec2046b82d7887a55b4bf4964a7c5b7/master.m3u8?1680541534"
+                },
+                {
+                    "id": null,
+                    "title": "Preparar los donados en Excel 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/241/de06a664b7c6224287228af47f4b8d91/master.m3u8?1680541564"
+                },
+                {
+                    "id": null,
+                    "title": "Sinspirer con Behance",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/242/b30d59ab7368edc2a346bbb5e9522e55/master.m3u8?1680541594"
+                },
+                {
+                    "id": null,
+                    "title": "Esquisser les données",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/243/68a9fec061d55e1ce5665f3fec3a99dc/master.m3u8?1680541617"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d5sssn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La estilización de la imagen",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Apprivoiser Photoshop estrenos pas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/244/b3ac92e5c1da4a41355114f38f6f0ec0/master.m3u8?1680541665"
+                },
+                {
+                    "id": null,
+                    "title": "Apprivoiser Photoshop los vectores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/245/a634647335286402a60dc7fba7ea8ff4/master.m3u8?1680541686"
+                },
+                {
+                    "id": null,
+                    "title": "Apprivoiser Photoshop los calcos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/246/fb42ba11358b0fb0f5583f65bad88a00/master.m3u8?1680541709"
+                },
+                {
+                    "id": null,
+                    "title": "Apprivoiser Photoshop filtros y máscaras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/247/f8f6313c1f1aeff6aabdc560639cea06/master.m3u8?1680541734"
+                },
+                {
+                    "id": null,
+                    "title": "Importador de textos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/248/5d2d319021ca4e4c5c817112b7550ce2/master.m3u8?1680541755"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/249/974ec64257df0a56799078218aab79ad/master.m3u8?1680541777"
+                },
+                {
+                    "id": null,
+                    "title": "Organizador de la visualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/250/cf75a06af41d87f02ade4daaa1fad01f/master.m3u8?1680541800"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizar la visión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/251/69c200b6c76e223d500a6870fee2c963/master.m3u8?1680541824"
+                },
+                {
+                    "id": null,
+                    "title": "Colorear la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/252/2706ecc14c9f26b7a60d13cd8a2cd2fc/master.m3u8?1680541910"
+                },
+                {
+                    "id": null,
+                    "title": "Aportar los toques finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/253/106e9f0e6a868fc7a994a4b309e55f37/master.m3u8?1680541940"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7k614h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Y mantenimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Publicar un proyecto completo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/254/46ccbdf596649a1fc89f442209f524d7/master.m3u8?1680541969"
+                },
+                {
+                    "id": null,
+                    "title": "Se construirá a largo plazo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/255/b41d10c31a8841ddb5b7872de9515ade/master.m3u8?1680541990"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wl2b71.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9cw60d.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4146,
+        "product_name": "Data Visualization with Photoshop: Illustrate Complex Information",
+        "teacher_name": "Florent Lavergne",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 25,
+        "course_total_duration_sec": 18260,
+        "total_units": 5,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

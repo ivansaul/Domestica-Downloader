@@ -1,0 +1,153 @@
+{
+    "id": "3201",
+    "title": "Storytelling crea una relación entre marca y consumidor",
+    "url": "https://www.domestika.org/es/courses/3201-storytelling-crea-una-relacion-entre-marca-y-consumidor/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/599/c812a3278eda5b0bc3a6e393823842c9/master.m3u8?1676405418"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/600/3b1ae70fe79bc6c35cebade24d632860/master.m3u8?1676405418"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qztj44.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación e investigación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Marcas que cuentan historias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/601/7ddda4c4411d327d94916476c308c3ad/master.m3u8?1676405420"
+                },
+                {
+                    "id": null,
+                    "title": "De la idea al brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/603/9599c7d8e91fe6c4f3f4b1c43aedba11/master.m3u8?1676405420"
+                },
+                {
+                    "id": null,
+                    "title": "Stalkea sin vergüenza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/604/af7c8595eb4dab657bce71fa63ce8cfd/master.m3u8?1676405424"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eps9i9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la investigación a la acción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Construir una narrativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/605/ddf92b40f3b6cf2846c280ec94884417/master.m3u8?1676405422"
+                },
+                {
+                    "id": null,
+                    "title": "Del personaje a la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/608/279af2896f5819385c68f5d395a9ba78/master.m3u8?1676405424"
+                },
+                {
+                    "id": null,
+                    "title": "Redactar la narrativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/611/ca18d1cf46e63975f95ba11017c7aad8/master.m3u8?1676405423"
+                },
+                {
+                    "id": null,
+                    "title": "El título de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/613/0f07bc21a0ec4797e045542dea5c63c9/master.m3u8?1676405424"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kjeufg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las ideas venden",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Universo de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/618/b9adceb7c8f2b15e19b805abb37e4c15/master.m3u8?1676405427"
+                },
+                {
+                    "id": null,
+                    "title": "Contar la historia elevator pitch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/633/840eb6adde655b83176bbf61eeb04d94/master.m3u8?1676405433"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del speech y consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/637/ee564bdcd993af31e78c6b0d8cc001ef/master.m3u8?1676405439"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kyjlfi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vu6dtn.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3201,
+        "product_name": "Brand Storytelling: Building Relationships with Consumers",
+        "teacher_name": "LaValentina",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4745,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

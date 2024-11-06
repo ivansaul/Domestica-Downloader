@@ -1,0 +1,164 @@
+{
+    "id": "4236",
+    "title": "Guía de estilo aporta consistencia a la narrativa de una marca",
+    "url": "https://www.domestika.org/es/courses/4236-guia-de-estilo-aporta-consistencia-a-la-narrativa-de-una-marca/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/659/244ecf21911cb7cf6ef55b00eb112131/master.m3u8?1724312705"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/660/79070f3b0697c7181746f8d7be41613f/master.m3u8?1721382712"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e5dv70.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "la guia de escritura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una guía de escritura y para qué sirve",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/661/4a1428b863b90c14de0493aab86af3e0/master.m3u8?1676412279"
+                },
+                {
+                    "id": null,
+                    "title": "Por qué hacer tu propia guía de escritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/662/de1c4dcf77f44450c2d33ddb26b0e54a/master.m3u8?1676412279"
+                },
+                {
+                    "id": null,
+                    "title": "Conoce a Clarice",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/663/045a5537c44f243f53c7799d182367d4/master.m3u8?1676412282"
+                },
+                {
+                    "id": null,
+                    "title": "Comience con Doble Diamante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/664/dfff5434af94862dbf0df940ca790c28/master.m3u8?1676412282"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kx7zlx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Guía de escritura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Descubriendo la Feria Magnólia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/665/78bbcb347854767606b989126e36e6ec/master.m3u8?1676412285"
+                },
+                {
+                    "id": null,
+                    "title": "Escribe sobre la Feria Magnólia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/666/c3ec304a26fcbde35cda75a2cb4f52f7/master.m3u8?1676412286"
+                },
+                {
+                    "id": null,
+                    "title": "Definir reglas y estándares generales de escritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/667/01b5e9cec95afadf95ce2c6460049022/master.m3u8?1676412286"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir para todos los públicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/668/df35aea0a42c57f209fec7cd45e86857/master.m3u8?1676412286"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir cada tipo de contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/669/30eee9a576fef12e00a317450a34cdde/master.m3u8?1676412285"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir microtexto para sitio web o aplicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/670/cbb9cb5ab2a87789f20b9d3687331064/master.m3u8?1676412287"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fty1s3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comunicación y gobernanza",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Plan de comunicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/671/baaacd1b5b9f76cba457c9aee07eade4/master.m3u8?1676412289"
+                },
+                {
+                    "id": null,
+                    "title": "Modelo de gobernanza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/672/bc6edcbdb6646214aa4556b0c9d34063/master.m3u8?1676412286"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jhi81b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/45x5zr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4236,
+        "product_name": "Writing Guide: Bring Consistency for Brand Narratives ",
+        "teacher_name": "Mariane Lorente",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4286,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt",
+            "en"
+        ],
+        "original_language": "pt"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "id": "3496",
+    "title": "Innovación empresarial identifica nuevas tendencias",
+    "url": "https://www.domestika.org/es/courses/3496-innovacion-empresarial-identifica-nuevas-tendencias/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/583/4a2ef62466f2454efd4e01b25807539f/master.m3u8?1676404960"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/584/b5aed5bc373eee4f40a90f6cc6810e14/master.m3u8?1676404960"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/84uss0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a las tendencias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una tendencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/585/b1543b151f9cff1fd515677ae485144e/master.m3u8?1676404961"
+                },
+                {
+                    "id": null,
+                    "title": "La economía de las expectativas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/586/ceb74275ae4ed3dc3a9ff0f384d41ba0/master.m3u8?1676404961"
+                },
+                {
+                    "id": null,
+                    "title": "La anatomía de una tendencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/587/0098941b179075bd2c1b0313f20eadf3/master.m3u8?1676404963"
+                },
+                {
+                    "id": null,
+                    "title": "Las tendencias vienen en diferentes tipos y tamaños",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/588/4fe2afce65cddbcfb115352102f9590d/master.m3u8?1676404962"
+                },
+                {
+                    "id": null,
+                    "title": "Estudio de caso Mama Matters",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/589/4fe9a92c77ff2672df34d0967ab4f262/master.m3u8?1676404961"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rg71dy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo detectar tendencias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La mentalidad de un investigador de tendencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/590/3e8c39762bbd2e857ac8b0bb32c78a3f/master.m3u8?1676404964"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de tendencias investigación de escritorio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/591/1e541d7d8691a93ea9e3ab82031af3de/master.m3u8?1676404967"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de tendencias panel de expertos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/592/35c590c3d8a8773b27fa4635b5f7517c/master.m3u8?1676404962"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de tendencias panel de expertos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/593/c73a5d122ad0c2801e8dd3680cecc47b/master.m3u8?1676404966"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de tendencias safari de tendencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/594/03d1893c52d8aca75f5fe682c9a5a132/master.m3u8?1676404968"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aec4lg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Convertir tendencias en nuevas ideas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis de tendencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/595/9a68f556a3f6b2ded3985e3b58153578/master.m3u8?1676404968"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicar tendencias para generar una nueva idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/596/5401fff1be19887e17d9f2f121349ee5/master.m3u8?1676404967"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yu5jhq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/nivmlo.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3496,
+        "product_name": "Identifying Trends for Business Innovation",
+        "teacher_name": "Delia (Dumitrescu) Wieser",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7438,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

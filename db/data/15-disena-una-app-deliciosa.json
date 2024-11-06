@@ -1,0 +1,162 @@
+{
+    "id": "15",
+    "title": "Diseña una App deliciosa",
+    "url": "https://www.domestika.org/es/courses/15-disena-una-app-deliciosa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción al diseño móvil",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/224/6de035a54819429a73d36700d2a0e069/master.m3u8?1676380539"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos del diseño móvil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/226/66da35a92af101fbd35511a52bf37f80/master.m3u8?1676380542"
+                },
+                {
+                    "id": null,
+                    "title": "Los elementos de interfaz de iOS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/225/a7ab62f71faad1382435e28e826299af/master.m3u8?1676380540"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gly9wo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Concepto y arquitectura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explorando ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/211/74974ce4624d26f258e68677cf57f7a8/master.m3u8?1676380545"
+                },
+                {
+                    "id": null,
+                    "title": "Concepto de app",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/227/6623777afcd161f5cc070ebade9bbfda/master.m3u8?1676380541"
+                },
+                {
+                    "id": null,
+                    "title": "Arquitectura una visión general",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/213/ea8d52ad35b9d9032659bb1f9ebe98fe/master.m3u8?1676380537"
+                },
+                {
+                    "id": null,
+                    "title": "Wireframing en papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/228/91a02d5cb170d98ea8e2bd0b7c0466ab/master.m3u8?1676380551"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipado rápido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/229/46f0e8a2f0b4141fc6d474d71f80045c/master.m3u8?1676380548"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d26bbu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pasamos a limpio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/216/4734bbe923d789218ba60030db25345d/master.m3u8?1676380541"
+                },
+                {
+                    "id": null,
+                    "title": "Preparamos la vista previa en el móvil con Sketch Mirror",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/230/215de0e4427e57ed7184a071d0437ebe/master.m3u8?1676380545"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño visual 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/231/bfccde76763cd7f8813eb84a6eb7ae0c/master.m3u8?1676380550"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño visual 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/232/856bfdca74e2fe0cf634919c076c96f7/master.m3u8?1676380552"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/220/397e5f4e2ee7fc06307b30784b5573c5/master.m3u8?1676380536"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nkdd4c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Buscando el detalle",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Microinteracciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/221/5a9eb98845b3f8a87a572d23b038d88f/master.m3u8?1676380538"
+                },
+                {
+                    "id": null,
+                    "title": "El material gráfico para el programador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/222/44fb67fe68bfac5b78e6c5c4c1af74d2/master.m3u8?1676380542"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pcpyok.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vpcphs.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 15,
+        "product_name": "Design a Delicious App",
+        "teacher_name": "José Vittone y Javier Cuello",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7030,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

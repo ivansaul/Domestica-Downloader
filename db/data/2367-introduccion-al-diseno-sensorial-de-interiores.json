@@ -1,0 +1,163 @@
+{
+    "id": "2367",
+    "title": "Introducción al diseño sensorial de interiores",
+    "url": "https://www.domestika.org/es/courses/2367-introduccion-al-diseno-sensorial-de-interiores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/533/b1d71ce6b4000dc21c72ac8dda73d91e/master.m3u8?1676398800"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/534/4f4a6f706c82630eb3262f4354ecca3d/master.m3u8?1676398801"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/649wuu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La experiencia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al diseño sensorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/535/d881a9d02bab76119dce7641e402a113/master.m3u8?1676398800"
+                },
+                {
+                    "id": null,
+                    "title": "Marketing sensorial aplicado al diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/536/6238663f2f38252c865bfe00da77acb3/master.m3u8?1676398800"
+                },
+                {
+                    "id": null,
+                    "title": "Briefing del cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/537/ba85991d1badae07edc1a36887edd868/master.m3u8?1676398805"
+                },
+                {
+                    "id": null,
+                    "title": "Experiencia sensorial diagrama",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/538/f5292d54195afe82fbef94482ec6174a/master.m3u8?1676398801"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/92xdh2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño sensorial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El sentido de la vista 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/539/c514ed7d69aa36c2935d2b39df4131fa/master.m3u8?1676398808"
+                },
+                {
+                    "id": null,
+                    "title": "El sentido de la vista 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/540/239cb5d17eee09bedf96b5e54d5106a4/master.m3u8?1676398806"
+                },
+                {
+                    "id": null,
+                    "title": "El sentido del olfato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/541/a6d6dada73cd2f34356453cd5a384c08/master.m3u8?1676398802"
+                },
+                {
+                    "id": null,
+                    "title": "El sentido del oído",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/542/cf8758794e0992f6250fe1faeba77bed/master.m3u8?1676398803"
+                },
+                {
+                    "id": null,
+                    "title": "El sentido del gusto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/543/5179df21f2282c12971cabaaaf5a76ec/master.m3u8?1676398802"
+                },
+                {
+                    "id": null,
+                    "title": "El sentido del tacto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/544/ffbf5b72385d5dcd6109cb4a8f058ed0/master.m3u8?1676398807"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0vu6yh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Compartir la experiencia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación final del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/545/a947d199b6003a723cb71255c19ca69f/master.m3u8?1676398807"
+                },
+                {
+                    "id": null,
+                    "title": "Aprender a comunicar tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/546/5add1e1be36a78cc45c61badca6e5293/master.m3u8?1676398819"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rkbcov.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6ptkq8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2367,
+        "product_name": "Introduction to Sensory Interior Design",
+        "teacher_name": "Nayra Iglesias",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7490,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

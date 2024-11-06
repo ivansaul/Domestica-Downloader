@@ -1,0 +1,225 @@
+{
+    "id": "1157",
+    "title": "Introducción a Design Systems con Figma",
+    "url": "https://www.domestika.org/es/courses/1157-introduccion-a-design-systems-con-figma/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/213/20b68d1ac506fa7193d8d711fb11075b/master.m3u8?1676392280"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/214/b61b54fc4fa02dca798ce078eb8780cd/master.m3u8?1676392279"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/215/9fbc94c08bff834fcbdc97f2a5d578fd/master.m3u8?1676392278"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3eu0je.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Design Systems",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Beneficios para ti y tu equipo de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/216/66abb533276c001824acbb6c5caa8ae4/master.m3u8?1676392279"
+                },
+                {
+                    "id": null,
+                    "title": "Partes de un sistema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/217/10376e217c02e0e36612de29bf42559d/master.m3u8?1676392278"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8dy0e8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las bases de tu design system",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Identificar el contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/218/76344cf886ebedd5afc8f1c29280d2df/master.m3u8?1676392282"
+                },
+                {
+                    "id": null,
+                    "title": "Pensando los principios de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/219/6262bf7ea0468c138c6d29d85a55c3b4/master.m3u8?1676392280"
+                },
+                {
+                    "id": null,
+                    "title": "Style guide 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/220/1bf766e97eca6e7fc1a093511cf1d3db/master.m3u8?1676392284"
+                },
+                {
+                    "id": null,
+                    "title": "Style guide 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/221/080dd69916b8c910083c90fa8ba4ed45/master.m3u8?1676392284"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yf7fly.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando el sistema",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elementos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/222/db49bb19a6b850ce26048b7aa4d456e4/master.m3u8?1676392285"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/223/4ee02d728021cf181764ca68fb853fd0/master.m3u8?1676392286"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/224/259f35ddd1baa94533d1b14da24930dd/master.m3u8?1676392289"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de componentes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/225/eb01f4b26b94fc6d33918e16024403f6/master.m3u8?1676392288"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de componentes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/226/7f56cc1fcb21414278939c9b5b36e8e9/master.m3u8?1676392286"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de componentes 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/227/425efe73360581daf54dd53b51a3c452/master.m3u8?1676392289"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de componentes 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/228/f668ebf65f94928de56bc1eccba4f759/master.m3u8?1676392293"
+                },
+                {
+                    "id": null,
+                    "title": "Componentes adicionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/229/db8137833aaae2960a195ce01e86b949/master.m3u8?1676392285"
+                },
+                {
+                    "id": null,
+                    "title": "Patterns",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/230/c8a5f080bb964d335b9d6cb57204afb9/master.m3u8?1676392286"
+                },
+                {
+                    "id": null,
+                    "title": "Pantallas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/231/507e290c65e7d3deb324376086094a8c/master.m3u8?1676392291"
+                },
+                {
+                    "id": null,
+                    "title": "Pantallas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/232/14f16605edbd33949e1bbe3457d274c3/master.m3u8?1676392293"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xyvpvi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comunicación y colaboración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Design tokens",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/239/15b1bfb21c3685ae4b8aceba0f58ab7b/master.m3u8?1676392291"
+                },
+                {
+                    "id": null,
+                    "title": "Zeroheight cómo documentar el sistema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/233/1485452030c7783f7d31b87e5e5f3591/master.m3u8?1676392292"
+                },
+                {
+                    "id": null,
+                    "title": "Cambios y actualizaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/237/4ca6bdaa1b50c414ef9a7866a9a32f96/master.m3u8?1676392292"
+                },
+                {
+                    "id": null,
+                    "title": "Equipos de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/235/ccb8f207bd45138d5f6c95ad816eb9ae/master.m3u8?1676392290"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7zux2m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/e5531c.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1157,
+        "product_name": "Introduction to Design Systems with Figma",
+        "teacher_name": "Javier Cuello",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 16700,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

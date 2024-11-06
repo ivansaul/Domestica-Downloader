@@ -1,0 +1,163 @@
+{
+    "id": "4580",
+    "title": "Zentangle y mandalas dibuja patrones armónicos",
+    "url": "https://www.domestika.org/es/courses/4580-zentangle-y-mandalas-dibuja-patrones-armonicos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/842/5ac795b7296135a9fe432b42ffa556a5/master.m3u8?1676412991"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/843/e411a2eb0125e9eceb2772be8507bd2f/master.m3u8?1676412993"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v7mooj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El arte del Zentangle Art y los mandalas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los mandalas a través del tiempo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/844/91bc67e5b564fce6d234329ed1107fab/master.m3u8?1676412993"
+                },
+                {
+                    "id": null,
+                    "title": "Zentangle Art como arte terapia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/845/3265033c122052a82495d5be3f9e0add/master.m3u8?1676412994"
+                },
+                {
+                    "id": null,
+                    "title": "Qué materiales usar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/846/d0b880755180b7c33156216779f73b06/master.m3u8?1676412993"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j01k7t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Practicar mandalas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hoja tribal para definir los elementos y soltar la mano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/847/268e6bfc21696b1190d082dc31fee54c/master.m3u8?1676412999"
+                },
+                {
+                    "id": null,
+                    "title": "De práctica tribal a mandala",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/848/c8fc4c05dfd83e30bb7a4ce42b9a0525/master.m3u8?1676412995"
+                },
+                {
+                    "id": null,
+                    "title": "Práctica para Zentangle Art",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/849/af8effea672180763bd5b20979dca1e9/master.m3u8?1676413000"
+                },
+                {
+                    "id": null,
+                    "title": "Círculo cromático y paleta de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/850/79fe15d54e2be92729278b1a9c4c3058/master.m3u8?1676412998"
+                },
+                {
+                    "id": null,
+                    "title": "Elección de pinceles y ejercicios para aprender a usarlos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/851/573dce6cf1e9f6fec8d938633753fb99/master.m3u8?1676413001"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/45m3kd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparar el mandala para el proyecto del curso",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Trazar el boceto y preparar el lienzo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/852/707971aa0b6d8949ab2efbef58a35428/master.m3u8?1676413003"
+                },
+                {
+                    "id": null,
+                    "title": "Plasmar el dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/853/091ce80a9d4ab29d190accb067f4736e/master.m3u8?1676412999"
+                },
+                {
+                    "id": null,
+                    "title": "Pintar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/854/56e33ce2e387e619bce3189cb78dec9d/master.m3u8?1676413003"
+                },
+                {
+                    "id": null,
+                    "title": "Pintar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/855/12e6e8fde79ff59313d6ef763c78dcb2/master.m3u8?1676413002"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ski4i5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/lruss7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4580,
+        "product_name": "Zentangle and Mandalas: Draw Harmonious Patterns",
+        "teacher_name": "Dani Hoyos",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7739,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

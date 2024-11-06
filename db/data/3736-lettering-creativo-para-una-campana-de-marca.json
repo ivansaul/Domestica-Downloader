@@ -1,0 +1,154 @@
+{
+    "id": "3736",
+    "title": "Lettering creativo para una campaña de marca",
+    "url": "https://www.domestika.org/es/courses/3736-lettering-creativo-para-una-campana-de-marca/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/985/53545f300d79193fe959e6eff0582c46/master.m3u8?1723446893"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/986/690852f67db15f0c47368b45b971142a/master.m3u8?1720003541"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/blywo8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El poder del lettering",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/988/cc06549437671b1d1ff3c5ec11614017/master.m3u8?1676413707"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/990/0bba2881532c09136df69800463b0b58/master.m3u8?1676413707"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/991/d3b762aee2dfa6ad386252a153c1ac56/master.m3u8?1676413709"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k9agml.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación y composición del lettering",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bocetado de ideas y lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/993/25b72a68d1035570773e624ff18cd85b/master.m3u8?1676413718"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/995/8076287057f17e3a65e47a49f3c78edd/master.m3u8?1676413713"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de luces sombras y volúmenes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/996/3f3751f84120cc3734e5cd80b7cf9e80/master.m3u8?1676413713"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de luces sombras y volúmenes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/997/484d7221f07914ec4793659dc49c2633/master.m3u8?1676413717"
+                },
+                {
+                    "id": null,
+                    "title": "Composición del arte final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/000/dbe613e03e322bb243b86bc7267a08fb/master.m3u8?1676413719"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ostsaz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo presentar y compartir tu proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dosier de presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/002/b534c18b665a7cd70a8caba10ab0971a/master.m3u8?1676413715"
+                },
+                {
+                    "id": null,
+                    "title": "Adaptaciones para Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/005/c7ffe02e4c02724a9ce43ad5489c186e/master.m3u8?1676413718"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/56vu9t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/edar5a.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3736,
+        "product_name": "Creative Lettering for a Branding Campaign",
+        "teacher_name": "Javi Bueno",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6996,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

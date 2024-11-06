@@ -1,0 +1,153 @@
+{
+    "id": "5156",
+    "title": "Ilustración realista de pájaros con elementos creativos",
+    "url": "https://www.domestika.org/es/courses/5156-ilustracion-realista-de-pajaros-con-elementos-creativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/990/63ef368833b9a37e58a367437fed7eef/master.m3u8?1685096171"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/991/9d8781eda621645199c8ae33af0bcc84/master.m3u8?1685096212"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rxuski.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparándose para dibujar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estilo y Comunicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/992/a5689c4cf81df7632dc8f1d0a2c8d3db/master.m3u8?1685096388"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al Proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/993/cb6ac899a41d76ff3f78407760040e20/master.m3u8?1685096435"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/994/fe8a729450d67def9bbe792f0d2f41e4/master.m3u8?1685096502"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al entintado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/995/d215ec3667b7cc4067bfd1cc09102f92/master.m3u8?1685096566"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8ag3p1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hacer el dibujo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Investigar fotos de referencia y crear un tablero de humor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/996/df1820c9dc9a93fc34685acb7ea762c0/master.m3u8?1685096747"
+                },
+                {
+                    "id": null,
+                    "title": "El boceto en miniatura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/997/6a8d51e582122df9821a412c99c54d5c/master.m3u8?1685096850"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando la superficie de dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/998/fc0414a2c5cb18d62f559b58d9c890be/master.m3u8?1685096936"
+                },
+                {
+                    "id": null,
+                    "title": "El dibujo preliminar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/999/3495b10f16f94d91ebedf9e25c4cc75a/master.m3u8?1685097014"
+                },
+                {
+                    "id": null,
+                    "title": "entintado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/000/16c20cb33e1b783df2b9df9bb66aa5bf/master.m3u8?1685097135"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w27p3c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Una vida propia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Documentar y compartir su trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/001/ffd1e8834861f1b578fe8e568ac6f3fd/master.m3u8?1685097210"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3nyeog.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/weh5ok.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5156,
+        "product_name": "Realistic Illustration of Birds with Imaginative Elements",
+        "teacher_name": "Ricardo Ales",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5719,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

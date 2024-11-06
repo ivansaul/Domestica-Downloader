@@ -1,0 +1,163 @@
+{
+    "id": "1532",
+    "title": "Ilustración digital con influencia manga",
+    "url": "https://www.domestika.org/es/courses/1532-ilustracion-digital-con-influencia-manga/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/053/872cc23903145c1e7cc925377409cf58/master.m3u8?1676391696"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/054/351b6ec8bc6f730fd2f19c1d48b4d8f0/master.m3u8?1676391696"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/055/62a71dbe7f0357b54b9305f45709c050/master.m3u8?1676391695"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yju0m5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a la gráfica japonesa composición y planeación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La estética japonesa sus clichés y cómo romperlos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/477/75fa404561823b0bef1258852f67b02c/master.m3u8?1676391925"
+                },
+                {
+                    "id": null,
+                    "title": "Encuentra tu propio diálogo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/478/f3453b7fcd6121dd02604ab2a9189614/master.m3u8?1676391923"
+                },
+                {
+                    "id": null,
+                    "title": "Narrativa visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/479/a36f5df13aadaf1237e1eba9c7eb7d83/master.m3u8?1676391926"
+                },
+                {
+                    "id": null,
+                    "title": "El ABC de la composición visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/480/adcdbb244ccaf468314dfbaa50526e2e/master.m3u8?1676391925"
+                },
+                {
+                    "id": null,
+                    "title": "El poder del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/482/cf1cc39ad9cd42a75948acbfa4a2de93/master.m3u8?1676391927"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/763urx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explorando el terreno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/483/16779751d2429f99d1c6054e91132444/master.m3u8?1676391927"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza y delineado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/484/0a47641236e71101d1bdcc94ca6d67e0/master.m3u8?1676391931"
+                },
+                {
+                    "id": null,
+                    "title": "Colores base",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/485/4d128f47d544a1acb368a5c7c33f6969/master.m3u8?1676391931"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo lograr la atmósfera deseada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/486/045c01913759461f6c97c2d711c48954/master.m3u8?1676391929"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0s13wc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El toque final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Texturas y elementos hechos a mano para ultimar detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/487/13505a9876e1d90581811e645a2ff346/master.m3u8?1676391930"
+                },
+                {
+                    "id": null,
+                    "title": "Listo para salir al mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/488/c158168c95ae2cdd9157062712ab7cae/master.m3u8?1676391929"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7rv55w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/n07wtm.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1532,
+        "product_name": "Digital Illustration with Manga Influence",
+        "teacher_name": "Akimaro",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6653,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

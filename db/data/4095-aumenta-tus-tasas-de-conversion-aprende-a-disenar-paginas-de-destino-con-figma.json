@@ -1,0 +1,169 @@
+{
+    "id": "4095",
+    "title": "Aumenta tus tasas de conversión aprende a diseñar páginas de destino con Figma",
+    "url": "https://www.domestika.org/es/courses/4095-aumenta-tus-tasas-de-conversion-aprende-a-disenar-paginas-de-destino-con-figma/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/158/5aeeb62ca5bbf6d05aec09ad62643f14/master.m3u8?1720624690"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/159/6e22140cf85296873223b0a2b84f439b/master.m3u8?1719330658"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j2rcdh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estrategia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una página de destino y cuándo debería utilizarla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/160/099084e7c7564e1206b55ece7e2662e2/master.m3u8?1706182905"
+                },
+                {
+                    "id": null,
+                    "title": "Cliente e información Cómo entiende a su cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/161/c65732fff6eea2aa5206879c3008d153/master.m3u8?1706182957"
+                },
+                {
+                    "id": null,
+                    "title": "Investigando el mercado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/162/eb955f11d410bb80cbc3bc0914a2444d/master.m3u8?1706183011"
+                },
+                {
+                    "id": null,
+                    "title": "La estructura alámbrica de UX en Figma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/163/b8d35eb617748bbcb1e67a751c1c11da/master.m3u8?1706183100"
+                },
+                {
+                    "id": null,
+                    "title": "El mood board y el estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/164/9f46aa7685d2299d0f0c221e29e307c4/master.m3u8?1706183132"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nys8qy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "UI idear una idea y crear un concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/165/d0e4a8f16d45096ddd60bcd0376cead2/master.m3u8?1706183683"
+                },
+                {
+                    "id": null,
+                    "title": "Creando la página de destino",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/166/a9e25265be65dbf3679fca125b8f5392/master.m3u8?1706183849"
+                },
+                {
+                    "id": null,
+                    "title": "Finalizando la página de destino",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/167/7b7b47e7cf58a4a44ac7343503413ba5/master.m3u8?1706188588"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño adaptativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/168/b8afaf756649d3c212fe4b85bb5811e2/master.m3u8?1706188665"
+                },
+                {
+                    "id": null,
+                    "title": "La guía de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/169/8e7b2238e8468e81cf110025b9286fdf/master.m3u8?1706188751"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/48yukw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación del cliente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo preparar una página de destino como presentación para el cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/170/50263bb7a8a3583e494e556fe3039edd/master.m3u8?1706188983"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo animar y presentar una página de destino al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/171/0656ebf448d8007df6c97cc4ddddb075/master.m3u8?1706189081"
+                },
+                {
+                    "id": null,
+                    "title": "Recopilar comentarios y realizar modificaciones de los clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/172/0d20a0070267722e2fc8f9470d10f675/master.m3u8?1706189190"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ixl1og.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/spsmnl.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4095,
+        "product_name": "Boost Your Conversion Rates: Learn Landing Page Design with Figma",
+        "teacher_name": "Olga Shevchenko",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9111,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}

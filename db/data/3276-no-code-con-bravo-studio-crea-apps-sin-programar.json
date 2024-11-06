@@ -1,0 +1,173 @@
+{
+    "id": "3276",
+    "title": "Nocode con Bravo Studio crea apps sin programar",
+    "url": "https://www.domestika.org/es/courses/3276-no-code-con-bravo-studio-crea-apps-sin-programar/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/700/221b0a9141b82a11403fee27420d86b7/master.m3u8?1676407433"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/701/77b4d3548b6cbbf1753d610429c4e629/master.m3u8?1676407435"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qk0sp0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Codificar o no codificar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseñar sin programar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/702/b6df75056cc661116a6368d24414a562/master.m3u8?1676407438"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñar sin programar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/703/76a5ae869a03b07c61283ee03eab8bc6/master.m3u8?1676407439"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo Bravo Estudio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/704/0ee40fe330de7c49acfb682ac4c972f8/master.m3u8?1676407436"
+                },
+                {
+                    "id": null,
+                    "title": "El tablero Bravo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/705/b7bf06f3cff9e9baaeed8d23c6e9679f/master.m3u8?1676407436"
+                },
+                {
+                    "id": null,
+                    "title": "El mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/706/3b68c2e503d381e418aafb0b7f9274a4/master.m3u8?1676407439"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iq5vtq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de la aplicación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación de la aplicación para Bravo Studio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/707/be8427ca56fdea9953a7b3b953ea87c2/master.m3u8?1676407437"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es una etiqueta Bravo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/708/00e18e15da0cabdda78e37664e6e1b03/master.m3u8?1676407442"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando con datos reales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/709/05df392360acdafb61577e3c7c33e931/master.m3u8?1676407440"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando con datos reales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/710/4299406d0709e73a7f21c98417fdaf33/master.m3u8?1676407439"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qo2soz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prueba y publicación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pruebas de usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/711/e9261846541235ad51b2c994fa266b1a/master.m3u8?1676407441"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/712/9aaed66970c334615ea77d09bab5b667/master.m3u8?1676407440"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/713/3f9a3020cecaf8d31bfbcaad96aaa513/master.m3u8?1676407440"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/714/5c84c32ee5a79e412d849d0c47dfa889/master.m3u8?1676407441"
+                },
+                {
+                    "id": null,
+                    "title": "Después de la publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/715/6b3ab639d9ed3c495889d96f58d4c740/master.m3u8?1676407441"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wgx5pv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/q6nbms.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3276,
+        "product_name": "No-code App Design with Bravo Studio",
+        "teacher_name": "Ethan Parry",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 10020,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

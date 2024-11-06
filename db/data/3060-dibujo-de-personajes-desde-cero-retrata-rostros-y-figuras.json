@@ -1,0 +1,174 @@
+{
+    "id": "3060",
+    "title": "Dibujo de personajes desde cero retrata rostros y figuras",
+    "url": "https://www.domestika.org/es/courses/3060-dibujo-de-personajes-desde-cero-retrata-rostros-y-figuras/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/186/a1252c0d23105ead27085c797a2fe217/master.m3u8?1676402930"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/187/bcd82ed2fee7dc8164f7d122ef916fdb/master.m3u8?1676402927"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/31fgzm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujo de rostros",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Soportes y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/188/cfbbc2e0ecbd76aeb5002e4c7a27628a/master.m3u8?1676402930"
+                },
+                {
+                    "id": null,
+                    "title": "Morfología de cabezas y rostros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/189/6812b4254395bb48a45794e24c4a146d/master.m3u8?1676402932"
+                },
+                {
+                    "id": null,
+                    "title": "Expresividad y personalidad del rostro 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/190/af500942da81a8572f3d221a7f991e86/master.m3u8?1676402933"
+                },
+                {
+                    "id": null,
+                    "title": "Expresividad y personalidad del rostro 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/191/3dd28781d877390d2c62d3b4d0518f6a/master.m3u8?1676402934"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujo al natural de rostros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/192/b9292bdb79ad3983035011c1671e4fd7/master.m3u8?1676402932"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujo con referente de rostros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/202/4e2d1e68db6585db32fbeef010035153/master.m3u8?1676402940"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vv1qk9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujo de figura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Morfología de cuerpos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/194/8f441e9d640652d66557d4c3c01166eb/master.m3u8?1676402934"
+                },
+                {
+                    "id": null,
+                    "title": "Expresividad y personalidad de la figura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/195/80e32547e84df907512d76623245b7aa/master.m3u8?1676402937"
+                },
+                {
+                    "id": null,
+                    "title": "Expresividad de la ropa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/196/011c64331041f65532ee431a996ba7c8/master.m3u8?1676402938"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujo con referente de figura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/197/9cdb28e7484b174270c0d2248ded3d51/master.m3u8?1676402935"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujo al natural de figura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/801/72d4f35fd613b576ce6008e5422dde50/master.m3u8?1676403206"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ilrkax.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Método de dibujo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Apuntes rápidos cómo hacerlos y para qué sirven",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/198/4014280b455f4ae55ab79a2ad37a879d/master.m3u8?1676402936"
+                },
+                {
+                    "id": null,
+                    "title": "Definición desde los apuntes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/199/5b66bf1836087f2c883861876ea7d424/master.m3u8?1676402933"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/200/49376c6e1dadb82aa120afb2cc25dd76/master.m3u8?1676402934"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8eu2br.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hjqada.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3060,
+        "product_name": "Character Drawing from Scratch: Capture Faces and Figures",
+        "teacher_name": "Laura Pérez",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 13879,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "id": "3053",
+    "title": "Decoración de interiores con estilo farmhouse",
+    "url": "https://www.domestika.org/es/courses/3053-decoracion-de-interiores-con-estilo-farmhouse/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/473/c1d30d25884d1a9b1667e494524f31d4/master.m3u8?1676400892"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/474/402e38b422cffa4e59fafb6f2bdd2051/master.m3u8?1676400893"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3hi7n6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El farmhouse",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el farmhouse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/476/acf78c323e5423d3c86543dc51746ee1/master.m3u8?1676400893"
+                },
+                {
+                    "id": null,
+                    "title": "Características del farmhouse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/478/e15390cacf552fd837a056cb376b1992/master.m3u8?1676400898"
+                },
+                {
+                    "id": null,
+                    "title": "El farmhouse estancia por estancia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/479/2e91e6a7043dc4b10835b1c1154da966/master.m3u8?1676400897"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de inspiración y creación de un mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/481/033a89e2891649f12b340b0c919fa87c/master.m3u8?1676400900"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ou93tj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Decorando el espacio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Analizando el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/482/77a03a7c26636f192a34c9a1556310cb/master.m3u8?1676400899"
+                },
+                {
+                    "id": null,
+                    "title": "Fotos medidas y boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/484/56a1d046f4b5f754846053a8284cc62a/master.m3u8?1676400902"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de mobiliario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/485/ca5733785a9d95c0f630ca85917c3a76/master.m3u8?1676400899"
+                },
+                {
+                    "id": null,
+                    "title": "Colocación de mobiliario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/486/00c7b29deeb6dae4903ec857629d9a23/master.m3u8?1676400899"
+                },
+                {
+                    "id": null,
+                    "title": "Colocación de elementos decorativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/487/de1d48ca2170f55dc0ea7167acb01f8c/master.m3u8?1676400900"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tpsb0j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo mostrar tu trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo sacar fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/488/34ae2edaac151005e355a2e7fe7d5a13/master.m3u8?1676400899"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo editar tus fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/489/4581ef4b75c8acd3789905f00cbb000c/master.m3u8?1676400903"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos para Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/490/895bc5fa5790aeb8aa705f1534a71141/master.m3u8?1676400904"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eaz67a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7sjw45.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3053,
+        "product_name": "Decoration of Farmhouse-Style Interiors",
+        "teacher_name": "Estelamaca",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8814,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

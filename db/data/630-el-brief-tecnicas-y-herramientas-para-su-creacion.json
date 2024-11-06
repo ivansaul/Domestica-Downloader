@@ -1,0 +1,153 @@
+{
+    "id": "630",
+    "title": "El brief técnicas y herramientas para su creación",
+    "url": "https://www.domestika.org/es/courses/630-el-brief-tecnicas-y-herramientas-para-su-creacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Quién soy yo y qué me inspira",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/379/23470a8404784389a90390adf8985ac5/master.m3u8?1676386116"
+                },
+                {
+                    "id": null,
+                    "title": "Cuáles son mis influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/380/6fdcff1c8833efb5156b9f987b235b93/master.m3u8?1676386115"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/381/9b517cae65b6ad66264486fb22a57fad/master.m3u8?1676386112"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t1i9ae.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es briefing Para qué sirve Por qué es importante tener un brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/304/773459987fae5b08e3fd570367b8834f/master.m3u8?1676386079"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de briefing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/305/45f57b9f693136e98ad58cb0c6df52db/master.m3u8?1676386079"
+                },
+                {
+                    "id": null,
+                    "title": "Qué información mínima debes tener según el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/306/8e64b99d1e24a5a2e8079600d371cc19/master.m3u8?1676386085"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nobb8l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pongamos en marcha el conocimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición de las necesidades del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/375/171c3dea2896a55b0a6889aaec5f0cc3/master.m3u8?1676386112"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de un brief paso a paso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/376/a5882db9876e9033a15de9d05d83fc54/master.m3u8?1676386114"
+                },
+                {
+                    "id": null,
+                    "title": "Los errores comunes al hacer un brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/377/190e85ac7f1706d43feb8b1d2071b55c/master.m3u8?1676386113"
+                },
+                {
+                    "id": null,
+                    "title": "Ejemplos de malos brief o briefs incompletos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/378/223c4cf50af133c02068264ae0fb0786/master.m3u8?1676386114"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7mns97.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El que busca encuentra  Creación de un contrabrief paso por paso",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo hacer un contrabrief puntos claves",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/452/6adaca44d6219897ae4e9c341c750a6a/master.m3u8?1676386131"
+                },
+                {
+                    "id": null,
+                    "title": "Importancia del contrabrief Por qué lo hacemos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/453/e8a0522de9ff125b80970708a1fbc833/master.m3u8?1676386134"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3innoc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rgr9sx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 630,
+        "product_name": "The Brief: Techniques and Tools to Create One",
+        "teacher_name": "Mumu El Branding Love",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6146,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

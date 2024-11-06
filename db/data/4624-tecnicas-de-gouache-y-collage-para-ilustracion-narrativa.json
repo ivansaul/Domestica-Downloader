@@ -1,0 +1,168 @@
+{
+    "id": "4624",
+    "title": "Técnicas de gouache y collage para ilustración narrativa",
+    "url": "https://www.domestika.org/es/courses/4624-tecnicas-de-gouache-y-collage-para-ilustracion-narrativa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/277/5ef6ae2525bca645c000ad0f5b9f33fc/master.m3u8?1676413267"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/278/b8557a58807e926f90262ab1cede4efc/master.m3u8?1676413266"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jo9yy5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Gouache y collage al natural",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/279/352cc62df4d6ac687efafedc8fd293a4/master.m3u8?1676413267"
+                },
+                {
+                    "id": null,
+                    "title": "Contar y estructurar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/280/c0d30a27c81de2e28449edb24be5bde4/master.m3u8?1676413269"
+                },
+                {
+                    "id": null,
+                    "title": "Pruebas técnicas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/281/b253eaa50c110f97abc26b9ce2ba344c/master.m3u8?1676413270"
+                },
+                {
+                    "id": null,
+                    "title": "Pruebas técnicas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/282/591741df3e54646892bfc42b38a86122/master.m3u8?1676413271"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo hacer tu propio gouache",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/283/ae48ed2c5a5bde4c61c2247b85203034/master.m3u8?1676413270"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a49nbf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Papel intervenido refuerzo narrativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mixta de gouache y collage",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/284/e9e8804e469e297b3c5bd93385d266b9/master.m3u8?1676413281"
+                },
+                {
+                    "id": null,
+                    "title": "Pintar el papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/285/81c6095c33e9b69f227a1b1edbbbde88/master.m3u8?1676413277"
+                },
+                {
+                    "id": null,
+                    "title": "Refuerzo narrativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/286/d3ef58ff843c9f11fafab26a1a2d0580/master.m3u8?1676413270"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9yp2tc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Boceto y composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/287/388cdcbbac64ac3b139a2e0cf59f72f8/master.m3u8?1676413271"
+                },
+                {
+                    "id": null,
+                    "title": "Pintar visualizar y recortar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/288/2c9d63e4af5f96eacf3a0756494e92dd/master.m3u8?1676413271"
+                },
+                {
+                    "id": null,
+                    "title": "Pintar visualizar y recortar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/289/2d473b1ac10951c065c1851d23e523d3/master.m3u8?1676413278"
+                },
+                {
+                    "id": null,
+                    "title": "Pintar visualizar y recortar 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/290/dc566b2fd5dc7fc2d45fefecb46ffaab/master.m3u8?1676413280"
+                },
+                {
+                    "id": null,
+                    "title": "El toque final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/291/ec107283f337284ee51434712dd14c02/master.m3u8?1676413274"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q1grw3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/d0j1jl.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4624,
+        "product_name": "Gouache and Collage Techniques for Narrative Illustration",
+        "teacher_name": "Enrique Torralba",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7583,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

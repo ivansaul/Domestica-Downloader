@@ -1,0 +1,165 @@
+{
+    "id": "478",
+    "title": "Creación de una tienda online con Shopify",
+    "url": "https://www.domestika.org/es/courses/478-creacion-de-una-tienda-online-con-shopify/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/869/c96ce27d9d2aee9f0a82e2f81a767ede/master.m3u8?1676386646"
+                },
+                {
+                    "id": null,
+                    "title": "Referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/870/4e01a9a2156fa72410e561964badf4f3/master.m3u8?1676386647"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/871/8ac96cf1dc44d4a33dabeda05448fb64/master.m3u8?1676386647"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o9pxbo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Puesta en marcha Cómo crear tu tienda",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeros pasos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/872/345752cf19866cfd3441d963db48dc09/master.m3u8?1700061924"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo elegir e implementar tu plantilla Diseño de tu tienda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/873/fe449850b536b469e0be8b141b06f7e1/master.m3u8?1676386649"
+                },
+                {
+                    "id": null,
+                    "title": "Creación y gestión de los productos y colecciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/874/06c7b448d9a3a7eb1e3e45313608fe75/master.m3u8?1676386651"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo crear páginas de contenido y blogs",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/875/f06c2f894f31ec0af781d92f82c725de/master.m3u8?1676386650"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de la tienda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/877/2954d72e5b39dbae0ac91cee22b9be5b/master.m3u8?1676386650"
+                },
+                {
+                    "id": null,
+                    "title": "Establece el menú de navegación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/878/7afd4d3333e3939ab06815452d0e0abd/master.m3u8?1676386649"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wixc8k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Maximiza las posibilidades de tu tienda Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Canales de venta códigos de descuento y recuperación de carritos abandonados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/879/c9a98210a244bc49c7fec5b50f6c2fe1/master.m3u8?1676386651"
+                },
+                {
+                    "id": null,
+                    "title": "Apps",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/880/46c2a5a2f310c2450e2e72b38aa99a39/master.m3u8?1676386650"
+                },
+                {
+                    "id": null,
+                    "title": "Analíticas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/881/a11731be7ac2fc511b29afc42e9ce48b/master.m3u8?1676386651"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u121qo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lanzamiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo testear un pedido Gestión de pedidos y clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/882/3dbbeee437b5390b93c4b4ae3e0d5a2b/master.m3u8?1676386652"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo quitar la página de mantenimiento conectar tu dominio y lanzar tu tienda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/883/10b624a22cb9d4c54e64d5b301e7e967/master.m3u8?1676386653"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o8v0qw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/96u2ac.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 478,
+        "product_name": "Creation of an Online Shop with Shopify",
+        "teacher_name": "Rocio Carvajal",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6956,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

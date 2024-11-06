@@ -1,0 +1,168 @@
+{
+    "id": "1038",
+    "title": "Retrato expresivo al óleo explora la técnica alla prima",
+    "url": "https://www.domestika.org/es/courses/1038-retrato-expresivo-al-oleo-explora-la-tecnica-alla-prima/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/037/a50415773457c7929af67ff8f350226e/master.m3u8?1676397507"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/038/cb3da767698c9415e486140dd3c5a2ee/master.m3u8?1676397506"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m9reau.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas materiales y configuración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/039/0f4f0e07802616cd78341461cfd7c6dd/master.m3u8?1676397508"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración y estudio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/040/83309ea3150a7422e5639f990efbc2d1/master.m3u8?1676397507"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de imágenes y referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/044/076181d7f4816ca9be7be0d86ebef68d/master.m3u8?1676397509"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando la imagen en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/045/52fbc389fb04a80f87e819d6eaac821f/master.m3u8?1676397508"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9zkjg1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "En sus marcas listos fuera",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dibujar con pintura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/046/1a61f2598b1d4b7546f422b033bdc1fd/master.m3u8?1676397513"
+                },
+                {
+                    "id": null,
+                    "title": "Mezcla de colores y viscosidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/047/1f9418890efda8fa7154198e49d4cf30/master.m3u8?1676397516"
+                },
+                {
+                    "id": null,
+                    "title": "Mezcla de tonos de carne",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/048/159a74bd4ac83d61a8a896ba0ef22c20/master.m3u8?1676397518"
+                },
+                {
+                    "id": null,
+                    "title": "Bloqueo de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/049/5ab28e4c3e312a415739b3295a663e45/master.m3u8?1676397513"
+                },
+                {
+                    "id": null,
+                    "title": "Creando Dimensión 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/050/8091a087a45c580aa4606f190f92a877/master.m3u8?1676397518"
+                },
+                {
+                    "id": null,
+                    "title": "Creando Dimensión 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/051/d68317a2992c33799c62ce3ad6a31037/master.m3u8?1676397516"
+                },
+                {
+                    "id": null,
+                    "title": "Correcciones y ajuste fino",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/052/a0b28b92545586f88464707b7825473f/master.m3u8?1676397534"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f87nqc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Etapas finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Secado y Barnizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/053/39074fee5ed4385d51e1920d3b300d12/master.m3u8?1676397513"
+                },
+                {
+                    "id": null,
+                    "title": "Almacenamiento y envío",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/055/4c48f58f5ce8dee36fb2a0b4bbc52cf3/master.m3u8?1676397513"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uodjps.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/sbil7d.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1038,
+        "product_name": "Expressive Oil Portraiture: Explore the Alla Prima Technique",
+        "teacher_name": "A.J. Alper",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7586,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

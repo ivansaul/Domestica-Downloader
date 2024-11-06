@@ -1,0 +1,158 @@
+{
+    "id": "1151",
+    "title": "Del dibujo naturalista a la ilustración narrativa",
+    "url": "https://www.domestika.org/es/courses/1151-del-dibujo-naturalista-a-la-ilustracion-narrativa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hola",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/282/a14801784b04d99af11922632fc0a9e7/master.m3u8?1676395998"
+                },
+                {
+                    "id": null,
+                    "title": "Referentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/283/7456af672873cc55ac451bc55cce0654/master.m3u8?1676396004"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/284/0669f02fd21a446f31a496ad6d3fa396/master.m3u8?1676395999"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rltfnr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Todo tiene ciencia empecemos a investigar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Método científico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/285/6836babe4de3eb62008e957f4a684e2e/master.m3u8?1676396002"
+                },
+                {
+                    "id": null,
+                    "title": "Observar obsesionarse y coleccionar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/286/9c5d0804eed9ac4cd41ffe67b188998a/master.m3u8?1676396006"
+                },
+                {
+                    "id": null,
+                    "title": "Libreta de campo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/287/ff1e64322b88b9a68cf1d192f2f6d367/master.m3u8?1676396006"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kijba9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Descubrirse ante el texto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Leer y encontrar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/288/204c62bbf1f94fd7f1145c9add997bc8/master.m3u8?1676396002"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar con el poema en la cabeza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/289/8b59199e573fb361c7886842cd18a9c3/master.m3u8?1676396002"
+                },
+                {
+                    "id": null,
+                    "title": "Completar el universo del texto con las imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/290/078c653b36e103b4b185a0451668df93/master.m3u8?1676396003"
+                },
+                {
+                    "id": null,
+                    "title": "Guión ilustrado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/291/b40915ab24e142023d3a57919bd31f5b/master.m3u8?1676396007"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jmm3a2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hipótesis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hacer las ilustraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/332/9963a54efc32481b6cb0cffa990b2c36/master.m3u8?1676396032"
+                },
+                {
+                    "id": null,
+                    "title": "Imágenes finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/333/442e9f64f5c30cb449d92830801303c4/master.m3u8?1676396032"
+                },
+                {
+                    "id": null,
+                    "title": "Secuencia Posible",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/334/d1d909690f01336c50612b62c04e5f91/master.m3u8?1676396029"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lnbk79.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/0jepxs.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1151,
+        "product_name": "From Botanical Drawings to Narrative Illustration",
+        "teacher_name": "Elizabeth Builes Carmona",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6492,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

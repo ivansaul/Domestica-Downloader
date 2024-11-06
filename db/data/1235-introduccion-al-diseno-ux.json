@@ -1,0 +1,228 @@
+{
+    "id": "1235",
+    "title": "Introducción al diseño UX",
+    "url": "https://www.domestika.org/es/courses/1235-introduccion-al-diseno-ux/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/006/e47658e062fdc711bf509af8e6fe1a22/master.m3u8?1676390316"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/007/ca944061f53e667aa937ee48afff69e1/master.m3u8?1676390317"
+                },
+                {
+                    "id": null,
+                    "title": "Lo que haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/008/e970c67eb89da79e5bcca130fe1070a1/master.m3u8?1676390316"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/feii43.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundaciones UX",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la experiencia de usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/009/9a0bfeeaa43cf43b10bb46bc1d1b0204/master.m3u8?1676390319"
+                },
+                {
+                    "id": null,
+                    "title": "Una breve historia de UX",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/010/36312a214d9eca04d7772cac40388b2f/master.m3u8?1676390317"
+                },
+                {
+                    "id": null,
+                    "title": "Principios de accesibilidad y heurística",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/011/7137fcfbd443503ea607fad8226f9ed2/master.m3u8?1676390324"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al proceso UX",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/012/b692ec02936ed13349f443f6b9dcb992/master.m3u8?1676390319"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cvf9y0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empatizar y definir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la investigación UX",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/013/768f628bcc2b6466220066cd1344fd08/master.m3u8?1676390319"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación de escritorio Benchmark entrevistas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/014/773cc197857299e249f7b07791251a37/master.m3u8?1676390322"
+                },
+                {
+                    "id": null,
+                    "title": "Detectando y definiendo el problema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/015/faab3afe09c57f7a04340e99ab54d7fc/master.m3u8?1676390320"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de Persona",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/016/9f3bc891d4b91fd8ad72abea7723790a/master.m3u8?1676390326"
+                },
+                {
+                    "id": null,
+                    "title": "Mapeo de viaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/017/bf3bc5311e4d1cb8a6313ec1cf00c985/master.m3u8?1676390333"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vv6f0o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ideado y prototipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Técnicas de ideación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/018/cdc6713927bef8bcde8bcaa4d5dc8591/master.m3u8?1676390329"
+                },
+                {
+                    "id": null,
+                    "title": "Arquitectura informacional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/019/3843a033693e1d7c1b4c0d21271ad0e7/master.m3u8?1676390327"
+                },
+                {
+                    "id": null,
+                    "title": "Valor de los prototipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/020/07714c767c05618ea20f2cabd1944733/master.m3u8?1676390329"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de prototipos y herramientas de prototipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/066/6ee04b03a5c1108738a8dbf9adb64c46/master.m3u8?1676390349"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/btxj7n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pruebas e Implementación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pruebas de usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/021/8e2a1621199ba5b2489458b1d3928039/master.m3u8?1676390329"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando con desarrolladores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/022/60ca6541eee54e791685ab123a41a741/master.m3u8?1676390326"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación a partes interesadas  clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/023/c3c242e93686097c7e9dfa65822d91ba/master.m3u8?1676390334"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/34txdv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Convertirse en un diseñador de experiencia de usuario",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estudios de caso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/024/be6661b64f2a0de201298f47baf92a36/master.m3u8?1676390326"
+                },
+                {
+                    "id": null,
+                    "title": "Exhibiendo tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/025/01f22e444931498e3940eeb3a1707191/master.m3u8?1676390330"
+                },
+                {
+                    "id": null,
+                    "title": "Entrevistas de trabajo de UX",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/026/0d4652aeced8383b97a7b1c86aef83d4/master.m3u8?1676390327"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pj4n5a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/2rkuul.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1235,
+        "product_name": "Introduction to UX Design",
+        "teacher_name": "Ethan Parry",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 22,
+        "course_total_duration_sec": 11382,
+        "total_units": 6,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

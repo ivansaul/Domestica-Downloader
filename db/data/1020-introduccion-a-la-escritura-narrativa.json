@@ -1,0 +1,169 @@
+{
+    "id": "1020",
+    "title": "Introducción a la escritura narrativa",
+    "url": "https://www.domestika.org/es/courses/1020-introduccion-a-la-escritura-narrativa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/161/98a89a3f0ca06348357cd83ca1543772/master.m3u8?1676390868"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/162/cae70c2cbc0fdff1dc7ed37d3d8aad7a/master.m3u8?1676390867"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/163/30d24fc03c0eb264f8ce44d0e0f187ec/master.m3u8?1676390865"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jdaal5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La conciencia de la creación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/164/ab113a34e1ad3d9cb642e5db10c4cb04/master.m3u8?1676390869"
+                },
+                {
+                    "id": null,
+                    "title": "Los géneros de las historias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/165/4f2c211857ff507597532305e8030149/master.m3u8?1676390870"
+                },
+                {
+                    "id": null,
+                    "title": "Planteamiento desarrollo y conclusión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/166/54d7198901f6acced299bcad32e071bd/master.m3u8?1676390870"
+                },
+                {
+                    "id": null,
+                    "title": "La trama",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/167/9b231fdcd790d806b7300364e979c0ff/master.m3u8?1676390871"
+                },
+                {
+                    "id": null,
+                    "title": "La estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/168/47608402397d5e5054c3c263ba59c069/master.m3u8?1676390869"
+                },
+                {
+                    "id": null,
+                    "title": "Las emociones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/169/7f711f0e30cff890e6bcf050e422f47f/master.m3u8?1676390872"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7smxkh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los elementos de la creación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El mundo narrado y las sensaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/170/ca1d070b797fe226839be047c4074775/master.m3u8?1676390874"
+                },
+                {
+                    "id": null,
+                    "title": "El tiempo de lo narrado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/171/9a40870447d3ffad80232d2b1c4f04cf/master.m3u8?1676390875"
+                },
+                {
+                    "id": null,
+                    "title": "Los personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/172/be9a44c12cc7fef46d0cc92468b0f823/master.m3u8?1676390875"
+                },
+                {
+                    "id": null,
+                    "title": "La perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/173/5f750abe26abd271c328213ff6a3b7fc/master.m3u8?1676390875"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vckch4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ve más allá",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inspiración y consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/174/611733fa63ac7665d96839b82b5a634b/master.m3u8?1676390875"
+                },
+                {
+                    "id": null,
+                    "title": "Retroalimentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/175/e2990279b1008aec26a9a300d91358ef/master.m3u8?1676390876"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r7142z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/r2lyj4.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1020,
+        "product_name": "Introduction to Narrative Writing",
+        "teacher_name": "Alberto Chimal",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8890,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

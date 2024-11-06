@@ -1,0 +1,152 @@
+{
+    "id": "57",
+    "title": "Carvado de sellos y técnicas de estampación",
+    "url": "https://www.domestika.org/es/courses/57-carvado-de-sellos-y-tecnicas-de-estampacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre Pablo Salvaje y los sellos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/170/876138e6a7d417a2b1dbf1b7078eb60e/master.m3u8?1676380999"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias y referentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/157/cd54a8b9f4206c6cf9e6109bf503e849/master.m3u8?1676380994"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jagsqb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales y Primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/171/f8f10e7fbd0b6767e3822ac36f560624/master.m3u8?1676381000"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales específicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/172/c186389a62938c9556b824fe3ff6ac7d/master.m3u8?1676380992"
+                },
+                {
+                    "id": null,
+                    "title": "Elección de nuestro diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/173/ce3fe05afb49defa06983d5d3f4a34f7/master.m3u8?1676380997"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vxcsu1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La ley del Positivo y negativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/174/7db143592bc8ac2b50e3fb23db556f04/master.m3u8?1676380993"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de trazos con la gubia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/175/3b3297f5bcc241b10affd8ca9e3b3409/master.m3u8?1676381003"
+                },
+                {
+                    "id": null,
+                    "title": "Carvado del sello  Los planetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/176/3ab7c1be16630f5031398db81cd9d749/master.m3u8?1676381003"
+                },
+                {
+                    "id": null,
+                    "title": "Carvado del sello  El fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/177/205bd4963c1bba01e3ffd0899c6b3b04/master.m3u8?1676380995"
+                },
+                {
+                    "id": null,
+                    "title": "Textura Repetición y Color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/178/ce650600e6291b9de1e16ef6fd79c936/master.m3u8?1676381002"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/udxuic.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estampación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estampación en papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/182/4391c3cb0d7ea2499b0ddecb43e70fd5/master.m3u8?1676381002"
+                },
+                {
+                    "id": null,
+                    "title": "Diferentes aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/183/5aaba685f04aecf47d7699665373725a/master.m3u8?1676381001"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza y recomendaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/184/1c13913f8aa3df56880c486668ab7b85/master.m3u8?1676380999"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v1if0a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/txshhx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 57,
+        "product_name": "Engraving Stamps and Printing Techniques",
+        "teacher_name": "Pablo Salvaje",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8802,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

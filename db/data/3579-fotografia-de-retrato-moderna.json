@@ -1,0 +1,153 @@
+{
+    "id": "3579",
+    "title": "Fotografía de retrato moderna",
+    "url": "https://www.domestika.org/es/courses/3579-fotografia-de-retrato-moderna/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/723/8816f3cd67088fccaccd1b330213a89f/master.m3u8?1676404579"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/733/d36dab1244ed3caee34e8262a8c01e18/master.m3u8?1676404588"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dtmuny.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotografía de retrato contemporánea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Historia de la fotografía de retrato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/797/933602ededa480cd877d044d5da0a426/master.m3u8?1676404617"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y equipamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/798/60d9ca79e5a7b753ade6ff569d10aced/master.m3u8?1676404621"
+                },
+                {
+                    "id": null,
+                    "title": "Comprender la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/804/5b533ee2ac4d5f5e78ecbd8494b4a053/master.m3u8?1676404622"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p6g2eu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotografiar el modelo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación del espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/805/50f133bf664944bfbf95adbe1c97a83f/master.m3u8?1676404623"
+                },
+                {
+                    "id": null,
+                    "title": "Obtener lo mejor de su modelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/806/5b7773142e0dfa24f1ef685438d43e2e/master.m3u8?1676404626"
+                },
+                {
+                    "id": null,
+                    "title": "La sesión de fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/807/64d928d96a1ebb405d919acba4adf06e/master.m3u8?1676404625"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c85tj1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/808/97a693305244697b17e4df70fd830e00/master.m3u8?1676404625"
+                },
+                {
+                    "id": null,
+                    "title": "Edición 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/278/fe3f5a43273b0b626a5823c207d3e5a5/master.m3u8?1676405745"
+                },
+                {
+                    "id": null,
+                    "title": "Edición 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/277/8c4d1216e7f914dcf72c7714f26e0623/master.m3u8?1676405742"
+                },
+                {
+                    "id": null,
+                    "title": "Crear una presencia en línea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/809/df643a8552fa48194d551fbda2a49e3f/master.m3u8?1676404626"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/khvx4j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3d8kuq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3579,
+        "product_name": "Modern Headshot Photography: Capture Profound Portraits",
+        "teacher_name": "Phil Sharp",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 8629,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

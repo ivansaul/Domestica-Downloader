@@ -1,0 +1,163 @@
+{
+    "id": "1058",
+    "title": "Comunicación creativa y eficiente para tus proyectos",
+    "url": "https://www.domestika.org/es/courses/1058-comunicacion-creativa-y-eficiente-para-tus-proyectos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Trayectoria TAS mente creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/736/43e4369f7375ed64bc77e241c035674a/master.m3u8?1676388817"
+                },
+                {
+                    "id": null,
+                    "title": "Mis influenciadores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/737/284de92db30f4e89148db7d0483bd425/master.m3u8?1676388831"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/740/57804ec5ed3b8538f253529f807a1584/master.m3u8?1676388818"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zwxamw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación calentamiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La línea de tiempo de comunicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/741/f324637009c2da35a3ba04eee619ad28/master.m3u8?1676388822"
+                },
+                {
+                    "id": null,
+                    "title": "Sesgo creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/742/54b070427788a16d364f710143b742c8/master.m3u8?1676388830"
+                },
+                {
+                    "id": null,
+                    "title": "Redes y burbujas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/743/ee72caa713cea970afc9c12c578ea082/master.m3u8?1676388826"
+                },
+                {
+                    "id": null,
+                    "title": "Escucha",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/744/c5d2cfbe31bfbbb1068a9684a3f009d2/master.m3u8?1676388828"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w407yg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prototipos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/745/e3e0f061005d70fb340cb9193b7961e7/master.m3u8?1676388831"
+                },
+                {
+                    "id": null,
+                    "title": "Punto de interrogación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/746/96e2e860cc1d64941556a2030ab3dc38/master.m3u8?1676388829"
+                },
+                {
+                    "id": null,
+                    "title": "Coseche indexe y use los resultados para transformar el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/747/20eb8102040ba19e3dd82b2696a25822/master.m3u8?1676388832"
+                },
+                {
+                    "id": null,
+                    "title": "Prueba del prototipo beta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/748/be1b97083fc534ab6bf1acfa88a3e658/master.m3u8?1676388835"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5ezb1c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mejora y presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los 10 mejores consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/749/69639405b066d52988dfe89e9bd6779b/master.m3u8?1676388831"
+                },
+                {
+                    "id": null,
+                    "title": "La crítica como herramienta creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/751/24343f2aff85d57d21a2773c883a850d/master.m3u8?1676388833"
+                },
+                {
+                    "id": null,
+                    "title": "Tas Dictionary Review",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/753/ad5ed82fc4895d4d1d2d9145fe5c42bb/master.m3u8?1676388841"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cxpvxb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/p8jslf.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1058,
+        "product_name": "Creative and Efficient Project Communication",
+        "teacher_name": "Marcelo Tas",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 10114,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

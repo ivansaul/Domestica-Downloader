@@ -1,0 +1,168 @@
+{
+    "id": "3947",
+    "title": "Introducción al diseño de interfaces conversacionales",
+    "url": "https://www.domestika.org/es/courses/3947-introduccion-al-diseno-de-interfaces-conversacionales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/677/d149ec75e19e581753992d14dd62240e/master.m3u8?1676405945"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/678/016bb740270eeab284ff073e9d5734e3/master.m3u8?1677250928"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/krx1bn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las interfaces conversacionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una interfaz conversacional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/679/47929da42fef315b0822336ee4bdb07e/master.m3u8?1676405955"
+                },
+                {
+                    "id": null,
+                    "title": "Usos de las interfaces conversacionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/680/2955f4ad5e741b493fe0e3bcced67aaf/master.m3u8?1676405946"
+                },
+                {
+                    "id": null,
+                    "title": "Tareas en la creación de interfaces conversacionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/681/955b43f98e9d66fad902819554897462/master.m3u8?1676405948"
+                },
+                {
+                    "id": null,
+                    "title": "Áreas clave para diseñar un producto conversacional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/682/4d7820a86b70facb773a47c20f5e6ad8/master.m3u8?1676405952"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rj3if5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de las interfaces",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño del producto y de la primera conversación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/683/755bb3aea71e0c4f7418818d38e1ffde/master.m3u8?1676405950"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo prototipar nuestro happy path 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/684/f3111633d67f4094f626caf298b49f64/master.m3u8?1676405949"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo prototipar nuestro happy path 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/685/aafb9c92561370399baaa9ef428c4505/master.m3u8?1676405949"
+                },
+                {
+                    "id": null,
+                    "title": "Mejorar la experiencia de usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/686/0971dc8611f87c96cd25e223bc6e26a6/master.m3u8?1676405952"
+                },
+                {
+                    "id": null,
+                    "title": "Más allá del happy path",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/687/b4d31765c4ebcb99de486072c028ba41/master.m3u8?1676405952"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo testear y refinar tu interfaz conversacional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/688/704643c14f078bae65e8e1f6f25f3238/master.m3u8?1676405948"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nkm4i3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lanzamiento métricas y mejoras",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo publicar tu interfaz conversacional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/689/4f517802775ff4a9d5db179dc3b79059/master.m3u8?1676405950"
+                },
+                {
+                    "id": null,
+                    "title": "Métricas y mejoras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/690/59b80b29dc43596c73c6ed8ed67f06fc/master.m3u8?1676405950"
+                },
+                {
+                    "id": null,
+                    "title": "La experiencia multimodal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/691/6d61b1d8205a5f54d478b584a32d1a71/master.m3u8?1676405949"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xpmh1j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cpucv2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3947,
+        "product_name": "Introduction to Conversational Interface Design",
+        "teacher_name": "Jesús Martín Jiménez",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7576,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

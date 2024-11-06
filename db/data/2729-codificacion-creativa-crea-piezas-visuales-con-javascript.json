@@ -1,0 +1,223 @@
+{
+    "id": "2729",
+    "title": "Codificación creativa crea piezas visuales con JavaScript",
+    "url": "https://www.domestika.org/es/courses/2729-codificacion-creativa-crea-piezas-visuales-con-javascript/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/569/92ba03b4640e97b2055128f55ca30f13/master.m3u8?1676398277"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/570/dda690812ad01f05635747225c7e1ccd/master.m3u8?1676398279"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9lmzhd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/571/d3357e390fd4859a10090a854b1bf3b3/master.m3u8?1676398278"
+                },
+                {
+                    "id": null,
+                    "title": "Variables y funciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/572/615efb0a887da8d5fe446dab6251bc58/master.m3u8?1676398281"
+                },
+                {
+                    "id": null,
+                    "title": "Un entorno para dibujar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/573/ed0cb4be1e4fc705b5095d5012d609fe/master.m3u8?1676398283"
+                },
+                {
+                    "id": null,
+                    "title": "Matrices y bucles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/629/bd6427f44af840627ab3c583f3d93dc4/master.m3u8?1676398310"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/27j6xz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Transformación de croquis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Transformar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/574/01460d622657b8e645aa0f52a2e64f23/master.m3u8?1676398281"
+                },
+                {
+                    "id": null,
+                    "title": "Anglos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/576/666a10167fe6044141a644dd475ed271/master.m3u8?1676398281"
+                },
+                {
+                    "id": null,
+                    "title": "Funciones de utilidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/578/5e043d64e00f9ac579da257d5dbdd27b/master.m3u8?1676398283"
+                },
+                {
+                    "id": null,
+                    "title": "Arcos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/043/8a1d9ab7ac7a7f59bab24eaf0162e489/master.m3u8?1676399617"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9e6w3u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Agentes de croquis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Objetos y clases",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/585/af0f4d39afb9c1232de540753f9060c5/master.m3u8?1676398287"
+                },
+                {
+                    "id": null,
+                    "title": "Animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/586/a7d0a8642a625f7942933d9d60913508/master.m3u8?1676398287"
+                },
+                {
+                    "id": null,
+                    "title": "Líneas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/587/af885f62b40667f78a75e74f130d3eda/master.m3u8?1676398292"
+                },
+                {
+                    "id": null,
+                    "title": "Salida de video",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/588/3ad0c1b9485bc16ec6b6de15dec73303/master.m3u8?1676398294"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5wb61c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ruido de boceto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Red",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/589/11315f9700804f15b148e4ba39673111/master.m3u8?1676398290"
+                },
+                {
+                    "id": null,
+                    "title": "Ruido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/590/321e9cdf58001a2e343ed783208e35a6/master.m3u8?1676398291"
+                },
+                {
+                    "id": null,
+                    "title": "GUI",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/591/d238fb3521023270ec1597597cf18d5a/master.m3u8?1676398294"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/17i5w8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tipo de boceto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/592/ca6a3388d602df75fc9483ae5034d33b/master.m3u8?1676398291"
+                },
+                {
+                    "id": null,
+                    "title": "Glifos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/593/f867a59135cd3fd4cede2f16b53d9721/master.m3u8?1676398291"
+                },
+                {
+                    "id": null,
+                    "title": "Async",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/044/7088456b104fc3db760442454d1183c1/master.m3u8?1676399619"
+                },
+                {
+                    "id": null,
+                    "title": "Mapa de bits",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/045/b51849b39eb8f85bda6692eec639550e/master.m3u8?1676399619"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4zyhk6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/toz0v9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2729,
+        "product_name": "Creative Coding: Making Visuals with JavaScript",
+        "teacher_name": "Bruno Imbrizi",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 9721,
+        "total_units": 6,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

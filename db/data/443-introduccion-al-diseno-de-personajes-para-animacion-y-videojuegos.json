@@ -1,0 +1,190 @@
+{
+    "id": "443",
+    "title": "Introducción al diseño de personajes para animación y videojuegos",
+    "url": "https://www.domestika.org/es/courses/443-introduccion-al-diseno-de-personajes-para-animacion-y-videojuegos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Hola",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/681/a6559fea63b30f1a38b69afc90306a89/master.m3u8?1676384657"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/682/59de130e397cb7e7826b402e26d44b16/master.m3u8?1676384663"
+                },
+                {
+                    "id": null,
+                    "title": "Crear personajes sin saber dibujar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/683/3e8b50183a447e5ecbd261e7f8b864d2/master.m3u8?1676384662"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lfed66.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Anatomía para todos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proporciones y formas básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/694/e615bdb6815cf93fbad872aab1912720/master.m3u8?1676384666"
+                },
+                {
+                    "id": null,
+                    "title": "Los grupos de músculos y huesos  La cabeza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/695/4edf179f95b85e0ff43b656c6eb5ce69/master.m3u8?1676384669"
+                },
+                {
+                    "id": null,
+                    "title": "Los grupos de músculos y huesos El torso Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/696/aa9e243210b538ee9682a8859b801d4e/master.m3u8?1676384668"
+                },
+                {
+                    "id": null,
+                    "title": "Los grupos de músculos y huesos El torso Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/697/a4c025c6867f7ef630afbe528c63373e/master.m3u8?1676384666"
+                },
+                {
+                    "id": null,
+                    "title": "Los grupos de músculos y huesos La cadera y las piernas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/698/96f31c38a8b6c0a5940a99ffb86d6b17/master.m3u8?1676384676"
+                },
+                {
+                    "id": null,
+                    "title": "Los grupos de músculos y huesos Los brazos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/699/7a1863c5d135b250d85fb42b63b2c35c/master.m3u8?1676384671"
+                },
+                {
+                    "id": null,
+                    "title": "Los grupos de músculos y huesos Pies y manos Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/700/8dfeb49e36e4c48f58888936a98386da/master.m3u8?1676384669"
+                },
+                {
+                    "id": null,
+                    "title": "Los grupos de músculos y huesos Pies y manos Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/701/887d9f052fcdc1874585cd466d47b2a4/master.m3u8?1676384671"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/em2hk1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Movimiento y formas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseñando las formas del personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/724/9d1fa0272c6f62d9668f707d640aa4c0/master.m3u8?1676384686"
+                },
+                {
+                    "id": null,
+                    "title": "El lenguaje de las formas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/725/4324bda5583d5da0bd708c2428bb3c6b/master.m3u8?1676384686"
+                },
+                {
+                    "id": null,
+                    "title": "Acción líneas y ángulos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/726/38a11eebee8f57aedba580c2277c7fe1/master.m3u8?1676384689"
+                },
+                {
+                    "id": null,
+                    "title": "Expresiones faciales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/761/84f98f8bf7e732a18da67d5cbb56420d/master.m3u8?1676384702"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando al personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/762/6da90717afce3bef15bc68646271bd4d/master.m3u8?1676384700"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q7ef72.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de personajes para animación y videojuegos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño para animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/786/8c33b82e45f6c4dec4acb244290104e8/master.m3u8?1676384713"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño para videojuegos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/787/cf2506bfcf0ab728592afc95e5797445/master.m3u8?1676384716"
+                },
+                {
+                    "id": null,
+                    "title": "El line up o cómo mantener un estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/788/72a1776cc6165b004a4ba6437e81cbe5/master.m3u8?1676384716"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xw2dcg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/g6ks39.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 443,
+        "product_name": "Introduction to Design of Characters for Animation and Video Games",
+        "teacher_name": "Jean Fraisse",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 18920,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

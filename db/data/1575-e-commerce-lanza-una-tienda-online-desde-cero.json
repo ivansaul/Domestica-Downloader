@@ -1,0 +1,163 @@
+{
+    "id": "1575",
+    "title": "Ecommerce lanza una tienda online desde cero",
+    "url": "https://www.domestika.org/es/courses/1575-e-commerce-lanza-una-tienda-online-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/656/10a9a55a9f5f269a89e6ffd6b0dbe32e/master.m3u8?1676394053"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/657/6a372ab3699da6c6d339a4d9b48bad24/master.m3u8?1676394056"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/658/74bca73cdbeb8fee3e18e096173d51cc/master.m3u8?1676394055"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r438rg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los fundamentos del comercio electrónico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/659/eecfe4064ad60e319d3584865359fa0d/master.m3u8?1676394060"
+                },
+                {
+                    "id": null,
+                    "title": "Tendencias de comercio electrónico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/660/08948e47ce2750243464ea2b0f80b23c/master.m3u8?1676394058"
+                },
+                {
+                    "id": null,
+                    "title": "Plataformas de comercio electrónico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/662/f9db904e31f4856b7a7d7d7c0bf01a98/master.m3u8?1676394057"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vv4d7x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Identifique su negocio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/663/39a84acc96ce5e3c6c214261c5e0957a/master.m3u8?1676394056"
+                },
+                {
+                    "id": null,
+                    "title": "Identifica tu nicho",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/664/f81c46ecc02d8ab8f3d95a6f63d75a31/master.m3u8?1676394056"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis competitivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/671/a2596a28fbd49c61556471d8aa94082a/master.m3u8?1676394061"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/holy8o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Planificación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeros pasos configuración de su cuenta y plan de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/666/9a728e07f2ddcd21e51444fbdfbcebd3/master.m3u8?1676394057"
+                },
+                {
+                    "id": null,
+                    "title": "Marketing y publicidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/668/95228f753f418cafd8d55414410ff65a/master.m3u8?1676394057"
+                },
+                {
+                    "id": null,
+                    "title": "Seguimiento de su empresa informes y análisis del rendimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/669/6188fbd49643cb5ad8413982f5dd3185/master.m3u8?1676394058"
+                },
+                {
+                    "id": null,
+                    "title": "Plan de contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/670/ef18a8dd1305347bbaf85a9ad0a917f7/master.m3u8?1676394056"
+                },
+                {
+                    "id": null,
+                    "title": "Plan de producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/672/9b64e1e8963e393a9f85f8d25e71c507/master.m3u8?1676394065"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wwg15c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8t16rg.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1575,
+        "product_name": "E-Commerce: Launching an Online Store from Scratch",
+        "teacher_name": "Ellie Rivers",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6005,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

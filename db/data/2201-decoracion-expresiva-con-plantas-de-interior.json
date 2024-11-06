@@ -1,0 +1,153 @@
+{
+    "id": "2201",
+    "title": "Decoración expresiva con plantas de interior",
+    "url": "https://www.domestika.org/es/courses/2201-decoracion-expresiva-con-plantas-de-interior/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/274/9cfc8b78f24cd151521d6eaa93cc0898/master.m3u8?1676398663"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/275/4d307cd3d55290521b919a8483045046/master.m3u8?1676398664"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4wb4rd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los elementos de decoración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La decoración y sus elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/280/55035fff21a6fa4818d0a595f36b19e6/master.m3u8?1676398666"
+                },
+                {
+                    "id": null,
+                    "title": "Plantas y sus condiciones de luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/281/9bd53cbb02aba937051193219c8a76d5/master.m3u8?1676398665"
+                },
+                {
+                    "id": null,
+                    "title": "Planificando un medio ambiente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/282/2e576f3960b6b56dd39b0ed45d150e00/master.m3u8?1676398669"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wu1u4z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "preparando el espacio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de plantas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/283/1b9b5ea3c183bf4a49fd8f3ce6f3968d/master.m3u8?1676398668"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de embarcaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/284/ab5d26eb0245ab5f722e4bafe183e435/master.m3u8?1676398667"
+                },
+                {
+                    "id": null,
+                    "title": "Decoración de la habitación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/285/5c4d5468548d0444a57de69333786887/master.m3u8?1676398670"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/286/cb429fbf4fe4eafc0a6f8435fc50c07d/master.m3u8?1676398669"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vimhi0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "cuidado y mantenimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "regando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/287/5503b3d3937e3d28360fb13a00f33c8b/master.m3u8?1676398669"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza y fertilización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/288/38dd62379ba3c97b00ba7b0eb3f61146/master.m3u8?1676398669"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/289/36e72fc2bd58e2fab323780d68b5e2da/master.m3u8?1676398669"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6zp7d9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xwsujd.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2201,
+        "product_name": "Expressive Decoration with Indoor Plants",
+        "teacher_name": "Daniel Virgnio",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 2954,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

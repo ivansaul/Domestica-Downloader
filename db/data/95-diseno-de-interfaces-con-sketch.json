@@ -1,0 +1,200 @@
+{
+    "id": "95",
+    "title": "Diseño de Interfaces con Sketch",
+    "url": "https://www.domestika.org/es/courses/95-diseno-de-interfaces-con-sketch/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/025/d2a49552b0f84ed1aa1293d77c716766/master.m3u8?1676381369"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/026/74e490447e272cf4098cc2cf0b862b8e/master.m3u8?1676381370"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bppn7j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conociendo a Sketch",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entendiendo lo básico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/125/32dfd9345948f0a20de8dbd1e3c8925e/master.m3u8?1676389920"
+                },
+                {
+                    "id": null,
+                    "title": "Plugins",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/126/907ae3ed8c2f4976ce847683c4f9daa3/master.m3u8?1676389921"
+                },
+                {
+                    "id": null,
+                    "title": "Formas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/127/0a63b756cc2830e7ff268f6ac2e49ed0/master.m3u8?1676389920"
+                },
+                {
+                    "id": null,
+                    "title": "Textos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/128/b8c45c8c1612263e08cdf1125a4c0219/master.m3u8?1676389922"
+                },
+                {
+                    "id": null,
+                    "title": "Imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/129/2d0a3f2502974646a3dc4827991ce84d/master.m3u8?1676389924"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/px0o1c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trabajando con formas y estilos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Operaciones con formas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/130/7ae66c2aa57f323cee66e41f184857aa/master.m3u8?1676389923"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de vectores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/131/e9eba57d907abd072e4404b70ce7bd59/master.m3u8?1676389923"
+                },
+                {
+                    "id": null,
+                    "title": "Gestión de estilos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/132/69442eaef0dfa075471bfacc4e608f4a/master.m3u8?1676389924"
+                },
+                {
+                    "id": null,
+                    "title": "Grupos y símbolos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/133/2ada5953fc161c39c2b7f14556e46600/master.m3u8?1676389925"
+                },
+                {
+                    "id": null,
+                    "title": "Máscaras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/134/97c2bcb0baf76a8aa1420d7886cdba37/master.m3u8?1676389924"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/866pcr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando la interfaz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Artboards",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/135/7e7c65a5398264f490134d79f5aa0400/master.m3u8?1676389926"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando wireframes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/136/7e2ec5525582903b894c4ece47905110/master.m3u8?1676389928"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando wireframes parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/137/ff1a1d02124c70d625b578f531479292/master.m3u8?1676389927"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/138/55a15fc56231532aea937b4537641a41/master.m3u8?1676389927"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ac2ab6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exportando y compartiendo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparando las imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/139/310155adae8c200042b1930d040deebe/master.m3u8?1676389926"
+                },
+                {
+                    "id": null,
+                    "title": "Comunicando tus diseños al equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/140/673b3da99265e2f4c1e774fc805d531d/master.m3u8?1676389927"
+                },
+                {
+                    "id": null,
+                    "title": "Librerías compartidas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/141/a7b939a2e364251919a2741de2e55715/master.m3u8?1676389928"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ef0c9k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qdxu7h.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 95,
+        "product_name": "Interface Design with Sketch",
+        "teacher_name": "Javier Cuello",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 7075,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

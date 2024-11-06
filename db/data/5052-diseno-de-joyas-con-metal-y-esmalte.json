@@ -1,0 +1,153 @@
+{
+    "id": "5052",
+    "title": "Diseño de joyas con metal y esmalte",
+    "url": "https://www.domestika.org/es/courses/5052-diseno-de-joyas-con-metal-y-esmalte/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/017/32b11aa95dc6be9d5610546d9f4a662c/master.m3u8?1683110724"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias e inspiraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/018/7da34624875d15ed0f890ccb4ee8195a/master.m3u8?1683111274"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y8ujh0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas y materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mi caja de herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/019/9d1dbd1a41d33b041eccd0a2f5d32465/master.m3u8?1683111437"
+                },
+                {
+                    "id": null,
+                    "title": "Organización del banco de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/020/cdec9d5ab23958a520562060830c1921/master.m3u8?1683111540"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a la técnica de perforación con sierra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/021/2c86a13c0214dcf941070fcc4fae89c9/master.m3u8?1694421694"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a la técnica de conformado de metales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/022/7b878c0c3503195e44b223679093d0e8/master.m3u8?1683111914"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/basul1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño y elaboración de su colección de joyas del proyecto a la pieza terminada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inspiración mood board y sketchbook",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/023/ba10771c0b0761f45fe37937bca0f4f4/master.m3u8?1683112077"
+                },
+                {
+                    "id": null,
+                    "title": "De los dibujos a la joya de metal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/024/c129f8927a36f2126c5406a521a6e4ed/master.m3u8?1683112581"
+                },
+                {
+                    "id": null,
+                    "title": "Formación de metales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/025/bc7fba3822b5fb11d69a76ad1cfeaa38/master.m3u8?1683112712"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al esmalte de baja temperatura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/026/29d8d09f06f7a69d33ef4fb6c44247c6/master.m3u8?1683113001"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8nmswk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Adición de hallazgos y conexiones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hacer los hallazgos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/027/9372c91ad204436f6cb5c777bc1629d2/master.m3u8?1683113238"
+                },
+                {
+                    "id": null,
+                    "title": "Cuidado de metales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/028/42e43ece6f55bef9b1d69157e560085d/master.m3u8?1683113321"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sqbvv9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3jcb75.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5052,
+        "product_name": "Jewelry Design: Metal and Enamel",
+        "teacher_name": "Sabrina Formica",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4484,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

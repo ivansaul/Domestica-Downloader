@@ -1,0 +1,173 @@
+{
+    "id": "585",
+    "title": "Creación de personajes con Photoshop",
+    "url": "https://www.domestika.org/es/courses/585-creacion-de-personajes-con-photoshop/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/385/c37f4b92763f6f90e50a55c836978ce9/master.m3u8?1676386828"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/386/40001e0bbeb5502c9a49a189980e4261/master.m3u8?1676386828"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/350/bdf7e25e5c70d3bc1f196db85bdfbcd1/master.m3u8?1676386817"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3hxbtv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ajustes primarios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ajustes en Camera Raw",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/344/e8b77601c556afd7eaadcbf60ce15b03/master.m3u8?1676386816"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza y perfeccionamiento de la piel I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/346/e38fe3e845eaf693c5c199fdb4d7ab3f/master.m3u8?1676386822"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza y perfeccionamiento de la piel II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/352/39f67e66a88acf9664832698ba085654/master.m3u8?1676386822"
+                },
+                {
+                    "id": null,
+                    "title": "Licuado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/388/3d7ac8340560ac87658e07464824da0e/master.m3u8?1676386831"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gefj8a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Montaje y composición de los elementos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de ojos dark",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/360/d1493551a702a063625a6f778d12147e/master.m3u8?1676386823"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y montaje del cuchillo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/361/3e41dfe75603b2075eafd9db85e081b9/master.m3u8?1676386825"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y montaje de las manos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/363/5c6a2076742b6bde7414d738e0fa068f/master.m3u8?1676386824"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de la sangre I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/365/710843d9606b0cb8b7ce5f85f22c1824/master.m3u8?1676386825"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de la sangre II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/367/a9e2a0a1babfdf0dc561bc4755aa8da3/master.m3u8?1676386825"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y montaje de las manos I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/387/d0d26ad7c950f0ef2b457c9518942f21/master.m3u8?1676386836"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g97hng.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Colorimetría ambientación y acabado final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dramatización de la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/373/796513306f5b68116dccd30d50fe373f/master.m3u8?1676386829"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujando detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/374/39b085219d5cb798525960444d663c08/master.m3u8?1676386828"
+                },
+                {
+                    "id": null,
+                    "title": "Textura y acabado final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/376/ee2ccab4bf2552c5d68b57796d549f8f/master.m3u8?1676386827"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/45yyi6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/dt8csv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 585,
+        "product_name": "Creation of Characters with Photoshop",
+        "teacher_name": "Alain Perdomo",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 10466,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

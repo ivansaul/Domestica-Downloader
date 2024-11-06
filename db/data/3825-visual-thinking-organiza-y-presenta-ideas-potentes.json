@@ -1,0 +1,163 @@
+{
+    "id": "3825",
+    "title": "Visual thinking organiza y presenta ideas potentes",
+    "url": "https://www.domestika.org/es/courses/3825-visual-thinking-organiza-y-presenta-ideas-potentes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/941/23f663a423498b232b7420fc36ba6422/master.m3u8?1676405119"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/942/69b5b2e9a2c933df66c7e9e83efd7709/master.m3u8?1676405120"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/un0uyb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos del visual thinking",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al visual thinking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/943/599272b7dd755742603273c2330dae38/master.m3u8?1676405120"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios de calentamiento para el cerebro visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/944/38f0ab7a7ec98ed1f5717e72c01dee43/master.m3u8?1715004650"
+                },
+                {
+                    "id": null,
+                    "title": "Iniciarse al dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/945/85ef82674898274095f632f72e204cb1/master.m3u8?1677579083"
+                },
+                {
+                    "id": null,
+                    "title": "Dominar las habilidades básicas de dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/946/25d3f69c6fc0440a7e6ee121745ea780/master.m3u8?1677512626"
+                },
+                {
+                    "id": null,
+                    "title": "Mejorar las habilidades de dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/947/85eead0f34b4c89d759443cc383a8ed6/master.m3u8?1676405128"
+                },
+                {
+                    "id": null,
+                    "title": "Estructuras de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/948/8155b6bdc64f567aa8fe80aae4032063/master.m3u8?1676405123"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oqtswu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Poner en práctica el visual thinking",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeros pasos en la presentación visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/949/753b0b07b52dc61d34fc396de098331e/master.m3u8?1676405122"
+                },
+                {
+                    "id": null,
+                    "title": "Explorar el público",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/950/b89c099fd151ef60e31389406dfed6b1/master.m3u8?1676405121"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura de la historia y conceptos visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/951/07be575babb429cbd8bda57dcc855622/master.m3u8?1676405132"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o8w3f0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Poner en práctica lo aprendido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Consejos para la presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/952/741a9b4235fe252410c595ef4a204775/master.m3u8?1676405123"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas digitales para dibujar y organizar información visualmente 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/953/032925cd3117e8e7357088d73ad458e1/master.m3u8?1676405127"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas digitales para dibujar y organizar información visualmente 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/954/29a7ece5d4ce75232c35ad69f6697932/master.m3u8?1676405128"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a0a25p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/sxwaet.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3825,
+        "product_name": "Visual Thinking: Organize and Present Powerful Ideas",
+        "teacher_name": "Hermen Lutje Berenbroek",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6795,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

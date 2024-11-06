@@ -1,0 +1,144 @@
+{
+    "id": "4465",
+    "title": "Ilustración de carteles de teatro memorables",
+    "url": "https://www.domestika.org/es/courses/4465-ilustracion-de-carteles-de-teatro-memorables/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/474/3c3dcbd92072b8325807a3f556a40953/master.m3u8?1719937033"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/475/abe76c1555d53e24e02a3a9b2abe2988/master.m3u8?1718123847"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mw5tp9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación de los Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/476/22d7eb81eb3977c084039ccbb9586fac/master.m3u8?1692656366"
+                },
+                {
+                    "id": null,
+                    "title": "Leer el texto para generar ideas y bocetos en miniatura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/477/a5b5b51167ff6cf8d76612d6f7ae9a18/master.m3u8?1692656383"
+                },
+                {
+                    "id": null,
+                    "title": "Componer el diseño inicial del cartel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/478/3e775712513e7ca013b2e0c78ab68337/master.m3u8?1692656400"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xzzfql.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción de carteles creación de la obra de arte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de elementos artísticos para carteles con lápices bolígrafos o marcadores chinos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/479/eaa02e0da4592bd5bf08414952219ff1/master.m3u8?1692656422"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de elementos artísticos de carteles con pinceles y tinta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/480/33557da5fdba287b7e8db2024982c967/master.m3u8?1692656437"
+                },
+                {
+                    "id": null,
+                    "title": "Crear elementos artísticos de carteles con collage",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/481/0dc699bfbc40bf90a0d75bec849642c0/master.m3u8?1692656471"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lhgmsh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Completando el cartel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Juntar los elementos del arte del cartel en Adobe Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/482/d817a0dd35d1be421f7378b029b626e8/master.m3u8?1692656490"
+                },
+                {
+                    "id": null,
+                    "title": "Finalizar el diseño agregar color y preparar el archivo para imprimir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/483/2a358deb0f7eb9cf72fbec1bc200770a/master.m3u8?1692656506"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fcddq3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/42y7ak.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4465,
+        "product_name": "Illustrating Memorable Theater Posters",
+        "teacher_name": "David Plunkert",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 10,
+        "course_total_duration_sec": 2253,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}
