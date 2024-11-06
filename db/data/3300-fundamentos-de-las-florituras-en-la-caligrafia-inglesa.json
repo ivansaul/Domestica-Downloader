@@ -1,0 +1,186 @@
+{
+    "id": "3300",
+    "title": "Fundamentos de las florituras en la caligrafía inglesa",
+    "url": "https://www.domestika.org/es/courses/3300-fundamentos-de-las-florituras-en-la-caligrafia-inglesa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/614/df56bf0afbaea8dce2f6cfbd03accfd2/master.m3u8?1676411054"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/615/00f746370f1969ed25bd43e7f8810d83/master.m3u8?1676411053"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/llm36u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un mini brush pen y cómo funciona",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/616/b972d3951455330af1a13656829cc777/master.m3u8?1676411054"
+                },
+                {
+                    "id": null,
+                    "title": "Los soportes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/617/c33d6b67f9f3611747a344bcc4628940/master.m3u8?1676411055"
+                },
+                {
+                    "id": null,
+                    "title": "Las grillas caligráficas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/618/947772cda99cf5f2ddd8bbb1c370681a/master.m3u8?1676411054"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ivswdj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Florituras introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué son las florituras y dónde agregarlas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/620/4729e9a06f2159dcd8ed0c8dc5dcb9dc/master.m3u8?1676411055"
+                },
+                {
+                    "id": null,
+                    "title": "Principios fundamentales de las florituras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/621/b8420303e4d23cd73a9641acbf2caa3f/master.m3u8?1676411059"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios básicos de soltura y calentamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/622/0d0f237144ac4b5216c9de39b47f8613/master.m3u8?1676411060"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r7h6ta.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Florituras minúsculas y mayúsculas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de florituras minúsculas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/623/8b7959d2e844d3b7b2e2f59abbc74ea2/master.m3u8?1676411056"
+                },
+                {
+                    "id": null,
+                    "title": "Minúsculas trazos de entrada y de salida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/624/11a8dffed23aa40370e5fcb96ca9f43c/master.m3u8?1676411059"
+                },
+                {
+                    "id": null,
+                    "title": "Minúsculas trazos ascendentes y descendentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/625/fd1dd9f8e600ec92d956c8241b123961/master.m3u8?1676411057"
+                },
+                {
+                    "id": null,
+                    "title": "Mayúsculas trazos de entrada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/626/b4c90d47a0bf7926d57b07cfeb6cfa5c/master.m3u8?1676411059"
+                },
+                {
+                    "id": null,
+                    "title": "Mayúsculas trazos de salida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/628/7d07a5dd481b4bcc3df7351135666c68/master.m3u8?1676411060"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pfmem7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de florituras",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Boceto y preparación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/630/4d02d586eeeeb2667ac9023b5ddcef97/master.m3u8?1676411080"
+                },
+                {
+                    "id": null,
+                    "title": "Los ornamentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/631/bed0f729381270789df08c913431f2c1/master.m3u8?1676411062"
+                },
+                {
+                    "id": null,
+                    "title": "Blending con brush pens",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/632/e69270eebd2613a1a668bfabb08cb0fe/master.m3u8?1676411061"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pkj86u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/97lrng.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3300,
+        "product_name": "Introduction to Flourishing for English Calligraphy",
+        "teacher_name": "Paola Gallegos",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 9539,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

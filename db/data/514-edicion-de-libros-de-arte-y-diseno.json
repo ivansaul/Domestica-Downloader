@@ -1,0 +1,168 @@
+{
+    "id": "514",
+    "title": "Edición de libros de arte y diseño",
+    "url": "https://www.domestika.org/es/courses/514-edicion-de-libros-de-arte-y-diseno/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/407/685b5ae2b0ad147ed42b06fcf5e0cb4f/master.m3u8?1676384931"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/408/bbb6cda7fa45f46ae946c5b0b2e0f3ba/master.m3u8?1676384932"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jeak3v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo se empieza a crear un libro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué una editorial necesita de libros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/409/a946eae6bbaac1b2504277272586759a/master.m3u8?1676384932"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo del nombre del título   Cómo se va a llamar el libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/410/ce35dff7a228f59e0646a6f6823c508b/master.m3u8?1676384934"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo se organiza un libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/412/ef2216b3a12c99944b79cbc5e935e368/master.m3u8?1676384933"
+                },
+                {
+                    "id": null,
+                    "title": "Creando la primera presentación de un concepto de libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/740/59c0eb6c69442f0f14f3b1130aed6026/master.m3u8?1676385061"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategia de narrativa y calidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/741/6661f8000d8189372ed742edf298e0e6/master.m3u8?1676385058"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gpjgrr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del diseño del libro y portada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Briefing para el diseñador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/414/f769462855cb89e50a80aaca1917de67/master.m3u8?1676384934"
+                },
+                {
+                    "id": null,
+                    "title": "El grid",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/415/66100cb8b90e259d7db68b4ba3d88529/master.m3u8?1676384937"
+                },
+                {
+                    "id": null,
+                    "title": "El flow",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/743/7304f61744bbe08c16db93cf44cf3423/master.m3u8?1676385063"
+                },
+                {
+                    "id": null,
+                    "title": "Manejo de los materiales y uso del placeholder",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/744/bdb3807e26d78275f2abc95e7e481e56/master.m3u8?1676385062"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vd3dk0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Casi listo para la imprenta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Premaquetación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/418/83a9949baf6ac90094a624e264b59b41/master.m3u8?1676384935"
+                },
+                {
+                    "id": null,
+                    "title": "Maquetación y revisión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/420/fb91a2fa342092340d288f318117d58b/master.m3u8?1676384935"
+                },
+                {
+                    "id": null,
+                    "title": "Portada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/421/e1abc60e23525de08afcb5352ab9eb34/master.m3u8?1676384936"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de archivos para prepress",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/422/f1baab5085784e143f3b3c5a3fc29163/master.m3u8?1676384935"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tbzq78.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/k0ar1t.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 514,
+        "product_name": "Editing for Art and Design Books",
+        "teacher_name": "Julius Wiedemann",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 5508,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

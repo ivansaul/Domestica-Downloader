@@ -1,0 +1,158 @@
+{
+    "id": "4165",
+    "title": "Técnicas de hand lettering sobre objetos",
+    "url": "https://www.domestika.org/es/courses/4165-tecnicas-de-hand-lettering-sobre-objetos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/313/ef49090d3792604569315eb39fd48a5e/master.m3u8?1676412667"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/314/018a859d1db2ce173cfded2e58dde2e1/master.m3u8?1676412671"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lk10eg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos del lettering",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/315/dbbd1a2b966c14657f77ed97006f73de/master.m3u8?1676412670"
+                },
+                {
+                    "id": null,
+                    "title": "El ADN de las letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/316/3b013254e9fbbf8a8a62cb3828c364ad/master.m3u8?1676412672"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es el lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/317/3038e203876154be73e1d1e570e95268/master.m3u8?1676412674"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un monograma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/318/49ce5b28f5e205e496162248f60c634b/master.m3u8?1676412678"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wvwdk5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Técnicas de estampación con acabados metalizados embossing y foil",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el embossing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/319/ac0c0c940fa556dabc905426bf53740c/master.m3u8?1676412672"
+                },
+                {
+                    "id": null,
+                    "title": "Diferentes acabados y soportes para el embossing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/320/ef8af9478033c1625c2d4227a462e825/master.m3u8?1676412671"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es el foil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/321/28bd090293052230601069457b6e1cc8/master.m3u8?1676412676"
+                },
+                {
+                    "id": null,
+                    "title": "Diferentes acabados y soportes para el foil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/322/12d6b1b9fec40e6f22dee90ac1b30cde/master.m3u8?1676412673"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b37cxu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Técnica engraving",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Grabado eléctrico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/323/6cca28172dc831f91c2e71d8571e3575/master.m3u8?1676412679"
+                },
+                {
+                    "id": null,
+                    "title": "Grabado análogo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/324/84a6ad8580093560966815e2914a43d5/master.m3u8?1676412679"
+                },
+                {
+                    "id": null,
+                    "title": "Los acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/325/b1f3d713dd11ac062d2aaf1b05759094/master.m3u8?1676412674"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eyagmm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/gs9bn5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4165,
+        "product_name": "Hand-Lettering Techniques for Objects",
+        "teacher_name": "Nanda Type",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6746,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

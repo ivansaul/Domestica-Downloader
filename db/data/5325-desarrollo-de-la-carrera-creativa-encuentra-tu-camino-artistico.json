@@ -1,0 +1,163 @@
+{
+    "id": "5325",
+    "title": "Desarrollo de la carrera creativa encuentra tu camino artístico",
+    "url": "https://www.domestika.org/es/courses/5325-desarrollo-de-la-carrera-creativa-encuentra-tu-camino-artistico/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre nosotros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/771/ad6d35b0e8f037c6b336a5245d384c26/master.m3u8?1679014494"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/772/72c3a454bce22a2bb1ddf26eb5ea5109/master.m3u8?1679014578"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ij33ih.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Abrirse a su verdadero yo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Haciendo espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/773/27538ce63e9211c9574333d8145040b7/master.m3u8?1679014601"
+                },
+                {
+                    "id": null,
+                    "title": "Iconos de estilo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/774/0e83651931c651c7cc2ae1b252c9cabe/master.m3u8?1679014623"
+                },
+                {
+                    "id": null,
+                    "title": "Iconos de estilo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/775/37b0c09399fba04bb8a2b17155070b4e/master.m3u8?1679014673"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e9sp9o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aterrizando tu visión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pilares de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/776/5e30a34a367c057aab18107ee6ef2c90/master.m3u8?1679014704"
+                },
+                {
+                    "id": null,
+                    "title": "Tu arquetipo personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/777/1334a8af819bf21aeab5169e2a43139b/master.m3u8?1679014720"
+                },
+                {
+                    "id": null,
+                    "title": "Tu temporada de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/778/a813a95e99e598c7b82da3023cec8045/master.m3u8?1679014738"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de tu paleta de colores 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/779/161cae6865175f6e77e0a945c6480818/master.m3u8?1679014933"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de tu paleta de colores 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/780/067691f9ae120832c561eccbcf02021d/master.m3u8?1679014954"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ie37yp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Explorando tu curiosidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La visión completa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/769/bfa86ba6b7ac706889785a0437f3a8e2/master.m3u8?1679014141"
+                },
+                {
+                    "id": null,
+                    "title": "Universidad de ensueño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/781/26ead8787abe65de7f6f66fd912c8f09/master.m3u8?1679014977"
+                },
+                {
+                    "id": null,
+                    "title": "Reseña de artistas estudios de casos de artistas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/782/8833255bad9df6ae2abff1830996f84b/master.m3u8?1679014992"
+                },
+                {
+                    "id": null,
+                    "title": "El dinero habla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/783/8a2206fd8a208fb5df0643c358eac324/master.m3u8?1679015010"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5adxb8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/tulq29.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5325,
+        "product_name": "Creative Career Growth: Find Your Artistic Path",
+        "teacher_name": "Magic Jungle",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 10690,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

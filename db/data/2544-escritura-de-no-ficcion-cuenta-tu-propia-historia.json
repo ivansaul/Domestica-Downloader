@@ -1,0 +1,148 @@
+{
+    "id": "2544",
+    "title": "Escritura de no ficción cuenta tu propia historia",
+    "url": "https://www.domestika.org/es/courses/2544-escritura-de-no-ficcion-cuenta-tu-propia-historia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/659/3ba2e6509b5764a46cd9f6699d442ac3/master.m3u8?1676397304"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/660/7d7d937ce6099f387e775f0dcdca4616/master.m3u8?1676397303"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/81vpu7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo escriben los buenos escritores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Disección de la pieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/661/e97fbe79ca8eeed491bb183a74fcce25/master.m3u8?1676397305"
+                },
+                {
+                    "id": null,
+                    "title": "Qué convierte a una persona en un personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/662/3c203a660087921768b9ff39d467e507/master.m3u8?1676397306"
+                },
+                {
+                    "id": null,
+                    "title": "Me hiciste sentir que estaba allí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/663/84cbeb78a023814ad3c6fb5ed8087041/master.m3u8?1676397306"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3zsihc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vamos a escribir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elegir el tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/684/aa3981e7e6332d30e66ec8755b635c13/master.m3u8?1676397324"
+                },
+                {
+                    "id": null,
+                    "title": "Recopile y descarte su información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/685/e4c1190d3d694bc3173ea41f0779c878/master.m3u8?1676397317"
+                },
+                {
+                    "id": null,
+                    "title": "Romper la página en blanco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/686/dca8249b650c0764fd7e9b257d7c3256/master.m3u8?1676397321"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hauleo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La gente quiere leer tu historia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Usar ambos extremos del lápiz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/687/50f23ad72a2c62a60147747116925ecc/master.m3u8?1676397323"
+                },
+                {
+                    "id": null,
+                    "title": "Opiniones de pares de confianza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/688/7f578c21dc90e3e2cb79f08605657458/master.m3u8?1676397318"
+                },
+                {
+                    "id": null,
+                    "title": "Haz ruido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/689/f5f629435aa34485413d86472cd19bcf/master.m3u8?1676397321"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/efx5ko.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/smnrq5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2544,
+        "product_name": "Nonfiction Writing: Tell Your Unique Story",
+        "teacher_name": "Eileen Truax",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 6368,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "518",
+    "title": "Introducción al SEM aprende Google Ads desde cero",
+    "url": "https://www.domestika.org/es/courses/518-introduccion-al-sem-aprende-google-ads-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/377/484b95f4099cb56cbae395bd82502a40/master.m3u8?1676385695"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/378/f433629d6fd5229a72c96377ad9f4a76/master.m3u8?1676385697"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wttknc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos del Search Engine Marketing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el SEM y sus diferencias con el SEO",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/379/f8abe5f1dd0e260862f3438451d2b246/master.m3u8?1676385700"
+                },
+                {
+                    "id": null,
+                    "title": "Principios básicos del SEM",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/380/2a658a047f282b664fd052ce6caef0dd/master.m3u8?1676385700"
+                },
+                {
+                    "id": null,
+                    "title": "La estructura de una campaña de SEM",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/391/c21c123929a84020a68a739b95c557d2/master.m3u8?1676385703"
+                },
+                {
+                    "id": null,
+                    "title": "Modelos de costes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/458/8faef60d55c6deca7b16474f2b37c8ba/master.m3u8?1676386134"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mxnfxq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de una campaña de SEM Marketing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Descripción del Proyecto a realizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/383/7c68bef7ce27cf10d5b79e08a37f477a/master.m3u8?1676385698"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de la estructura de campaña",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/384/bd8255f625a70d910100dcc3cc9d9907/master.m3u8?1676385702"
+                },
+                {
+                    "id": null,
+                    "title": "Uso de las palabras negativas y creación de los anuncios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/385/540cea7fa18384eaeb102c63efc590eb/master.m3u8?1676385702"
+                },
+                {
+                    "id": null,
+                    "title": "Optimización de la campaña de SEM",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/386/7c7864bc1f3b5c383e94e2a6a439671f/master.m3u8?1676385703"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategias de retargeting y expansión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/387/bedbcfc4fde845bdfe3509688d195d46/master.m3u8?1676385701"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v6lzpq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El futuro y las novedades del SEM Marketing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Google Shopping y otras funcionalidades de Google Adwords",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/388/dc8be9986fa483e8669f083f3cb59573/master.m3u8?1676385703"
+                },
+                {
+                    "id": null,
+                    "title": "El futuro del SEM Marketing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/393/3dfff22831e5e1ce9d6801f0d9c6df22/master.m3u8?1676385704"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/242gu8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/dhartj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 518,
+        "product_name": "Introduction to SEM: Create Google Ads from Scratch",
+        "teacher_name": "F O",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6040,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "id": "600",
+    "title": "Introducción a la dirección de fotografía cinematográfica",
+    "url": "https://www.domestika.org/es/courses/600-introduccion-a-la-direccion-de-fotografia-cinematografica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/595/dda9ef19d9abcca9a7bbdbaaac5537a3/master.m3u8?1676386954"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/596/2c71309c8c0d7d2a9b02d29c16c0bc8f/master.m3u8?1676386960"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/597/6778375ab1ae8b5253c30d67dbcb89fe/master.m3u8?1676386952"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o4tjpr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lectura de guión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/600/20409a8f162f2c311f3aba90a5732179/master.m3u8?1676386957"
+                },
+                {
+                    "id": null,
+                    "title": "Creatividad e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/601/3cfd685844969cffc771947813b557aa/master.m3u8?1676386960"
+                },
+                {
+                    "id": null,
+                    "title": "Scouting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/602/4444ee64f5f854e6b1969eb515b7bf3c/master.m3u8?1676386961"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando la cinematografía de nuestra historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/603/9de2f3b0ac19370f7333a341b3c32b54/master.m3u8?1676386959"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jixdwr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación y materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cámara y ópticas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/604/7cb8145334ed2fc8ccf02c2cb4e91ba4/master.m3u8?1676386960"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/605/0cc7aa3ca8fb71ba77d2d220b88729ae/master.m3u8?1676386961"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales que vamos a usar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/606/fba145ef7832e5c8e574cad36e707321/master.m3u8?1676386958"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9lpzjh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Rodaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminando el set Escena 1 Romance",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/607/9a40c574c2e71cef0304f57f2c3bf003/master.m3u8?1676386960"
+                },
+                {
+                    "id": null,
+                    "title": "Posicionando la cámara y exposición Escena 1 Romance",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/608/83bc56ec02fead8c205d806986d56994/master.m3u8?1676386960"
+                },
+                {
+                    "id": null,
+                    "title": "Acción Escena 1 Romance",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/609/fa1bdc70c7ef6b547ed63763aa9a1fda/master.m3u8?1676386960"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminando el set Escena 2 Drama",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/610/43e4cafbd1151f9a8da6ed23c64e7394/master.m3u8?1676386960"
+                },
+                {
+                    "id": null,
+                    "title": "Posicionando la cámara y exposición Escena 2 Drama",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/611/e33f5998558a0aeeda3744219a26b8c8/master.m3u8?1676386961"
+                },
+                {
+                    "id": null,
+                    "title": "Acción Escena 2 Drama",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/612/4c9db8e9e5025d27d63d3d99dd5a2480/master.m3u8?1676386960"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a34czj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "PostProducción puesta final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Colorización I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/613/ca4282b68525a8591cd40e624e1646fa/master.m3u8?1676386967"
+                },
+                {
+                    "id": null,
+                    "title": "Colorización II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/614/3c08992658a511691475dacac31b6b96/master.m3u8?1676386964"
+                },
+                {
+                    "id": null,
+                    "title": "Formatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/615/ac10c40a3e03021456c066442976fb71/master.m3u8?1676386967"
+                },
+                {
+                    "id": null,
+                    "title": "Pieza final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/616/12ad9e8fd3f54557fa1e8258cd65c828/master.m3u8?1676386965"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0767o5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1acvs8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 600,
+        "product_name": "Introduction to Film Photography Direction",
+        "teacher_name": "David Curto",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 10002,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

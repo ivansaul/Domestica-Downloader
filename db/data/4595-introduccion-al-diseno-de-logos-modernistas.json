@@ -1,0 +1,158 @@
+{
+    "id": "4595",
+    "title": "Introducción al diseño de logos modernistas",
+    "url": "https://www.domestika.org/es/courses/4595-introduccion-al-diseno-de-logos-modernistas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/929/0ed4157dc06ad61b3e80500bdd63554f/master.m3u8?1676410617"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/930/dbff77a86d7f2746672f9c2c2e262d24/master.m3u8?1676410616"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5os96b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué logotipos modernistas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/931/0cab0cedb7ee013683a511319078031e/master.m3u8?1676410616"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de creación de formularios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/932/11fe2977889f0b49ca70db07c1b479ed/master.m3u8?1676410618"
+                },
+                {
+                    "id": null,
+                    "title": "Métodos de creación de formas composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/933/ad018416c6eb44ef352515f32f4788cc/master.m3u8?1676410623"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de casos de uso y parámetros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/934/dd365bdb48ee40ed7d29ef088dbb3729/master.m3u8?1676410618"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iu07ru.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Descubrimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/969/94b4d8a1fb8025e91db7d806a161508d/master.m3u8?1676410638"
+                },
+                {
+                    "id": null,
+                    "title": "Ideación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/970/dae88b93fe89893e8012844338971998/master.m3u8?1676410639"
+                },
+                {
+                    "id": null,
+                    "title": "Ideación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/971/98114ec3bd9ce1214e3b7a439fa0809a/master.m3u8?1676410641"
+                },
+                {
+                    "id": null,
+                    "title": "La interrogación de los conceptos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/972/1f6d0112504ea0edcd345f1241428229/master.m3u8?1676410637"
+                },
+                {
+                    "id": null,
+                    "title": "Realización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/973/39bb65c822d42bbd993211ea297d89f2/master.m3u8?1676410637"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5p5bbk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hablando de tu idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/974/60060cf525e07af41b3e7ee713cc6b37/master.m3u8?1676410641"
+                },
+                {
+                    "id": null,
+                    "title": "Diversificación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/975/1637729bbdb22167674cb3dc88df756d/master.m3u8?1676410643"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fegtx8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/2nhsjj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4595,
+        "product_name": "Introduction to Modernist Logo Design",
+        "teacher_name": "Rich Baird",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8636,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

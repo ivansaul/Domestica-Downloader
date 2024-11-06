@@ -1,0 +1,153 @@
+{
+    "id": "3961",
+    "title": "Plan de relaciones públicas para tu marca personal desde cero",
+    "url": "https://www.domestika.org/es/courses/3961-plan-de-relaciones-publicas-para-tu-marca-personal-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/717/6f7286f70921ee9f030a314b96d79081/master.m3u8?1676407440"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/718/4f6296538ab7c8eeb3d51d902a348f65/master.m3u8?1676407441"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nl38cc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los bloques de construcción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Objetivos de negocios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/720/fbc8a6d18a992a110a75566cb8e083f7/master.m3u8?1676407442"
+                },
+                {
+                    "id": null,
+                    "title": "Mapeo de audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/721/d1f7bdf6ecb4cfcbf1b6bb14e69dd0a2/master.m3u8?1676407444"
+                },
+                {
+                    "id": null,
+                    "title": "Mapeo de medios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/722/dcb26437bf5c8176cfed1278356dc435/master.m3u8?1676407446"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qykvcc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Kit de herramientas de medios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Imágenes de medios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/723/67d4fed60cc333b36911ceef8b9c4b1d/master.m3u8?1676407444"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir una biografía personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/724/e1277b984633c89665bf2dbf2a9d2943/master.m3u8?1676407446"
+                },
+                {
+                    "id": null,
+                    "title": "Creando un repetitivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/725/4c910095dade66704795f50bcfcb69e7/master.m3u8?1676407445"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4o376r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La hoja de ruta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Temas de pensamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/727/9dc2f914d1bd3bafc9a5aae237c4f559/master.m3u8?1676407446"
+                },
+                {
+                    "id": null,
+                    "title": "Soñando en grande",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/732/3fa8207668be1dd1bca1653f02bbeeb7/master.m3u8?1676407445"
+                },
+                {
+                    "id": null,
+                    "title": "Fechas del calendario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/734/22886e9b2f427be94f01e2c8c250e030/master.m3u8?1676407446"
+                },
+                {
+                    "id": null,
+                    "title": "Elaboración del primer correo electrónico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/738/e966a2f1918f0e67e9f5195b0f552764/master.m3u8?1676407450"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vpkipl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/tnv2cy.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3961,
+        "product_name": "Introduction to PR Strategy for Personal Brands",
+        "teacher_name": "Lucy Werner",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5566,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

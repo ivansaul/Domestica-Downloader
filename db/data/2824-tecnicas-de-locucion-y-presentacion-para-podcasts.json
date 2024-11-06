@@ -1,0 +1,148 @@
+{
+    "id": "2824",
+    "title": "Técnicas de locución y presentación para podcasts",
+    "url": "https://www.domestika.org/es/courses/2824-tecnicas-de-locucion-y-presentacion-para-podcasts/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/130/79183b29fb72f05449de2d919aa87b35/master.m3u8?1676402895"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/131/d339b60974e31c4cd8e950fc3e3edab7/master.m3u8?1676402899"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hf8ua0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación de podcasts",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El poder de la voz en la comunicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/133/51f3c8e82d6b656ff53afad8842dec8e/master.m3u8?1676402902"
+                },
+                {
+                    "id": null,
+                    "title": "Los diferentes tipos de discurso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/134/83c33262ec048d235f816a7f7937f5d3/master.m3u8?1676402907"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de podcasts",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/135/72e4b2763faa2fe8b31090ab47b51d31/master.m3u8?1676402903"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/871ycn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción de podcasts",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definiendo el tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/136/2e2e7d26f47ab9a2da92071118e988f3/master.m3u8?1676402902"
+                },
+                {
+                    "id": null,
+                    "title": "Imprimiendo tu estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/137/bd783d1575f4965dd73ebb7859d8e566/master.m3u8?1676402900"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando el guion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/138/cc2d7d0b5d06733f3b182a24acfad1ab/master.m3u8?1676402906"
+                },
+                {
+                    "id": null,
+                    "title": "Grabación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/139/db585905eef1398b7dd5d466546c162c/master.m3u8?1676402905"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ge87t2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos detalles y publicación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Podcast editado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/140/530e399db0b1273d0d90836c60468e04/master.m3u8?1676402904"
+                },
+                {
+                    "id": null,
+                    "title": "Qué hacer con tu podcast grabado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/141/05b7abb371f05d38ff49ff3f2daa6e71/master.m3u8?1676402904"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aiqzqv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/o8udyz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2824,
+        "product_name": "Voice-over and Presentation Techniques for Podcasts",
+        "teacher_name": "Isabella Saes",
+        "category_id": 19,
+        "category_name": "Music & Audio",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 6917,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

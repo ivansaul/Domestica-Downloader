@@ -1,0 +1,158 @@
+{
+    "id": "3434",
+    "title": "Marketing de influencer crea campañas en redes sociales",
+    "url": "https://www.domestika.org/es/courses/3434-marketing-de-influencer-crea-campanas-en-redes-sociales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/500/0c883a2ef6df6ecd9b055f892feb32e4/master.m3u8?1676410370"
+                },
+                {
+                    "id": null,
+                    "title": "Las influencias en mi carrera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/501/3c11b6d878027f7c90a7914e09c0d18a/master.m3u8?1676410370"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1vhrip.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos del marketing de influencers",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué significa realmente el marketing de influencers",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/502/cf813099b3c4128db29abcb4b13e57c3/master.m3u8?1676410372"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo el panorama de la economía del creador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/503/8469343068fa2e5724c82b09001999fa/master.m3u8?1676410372"
+                },
+                {
+                    "id": null,
+                    "title": "Jerga útil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/504/f092e918983a65fe0712dae8a47eccf8/master.m3u8?1676410376"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yrvtaa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollar la estrategia adecuada de marketing de influencers",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Establecer una meta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/505/4ccbf1fcb91da9519d16f294503e9a1c/master.m3u8?1676410375"
+                },
+                {
+                    "id": null,
+                    "title": "Identificación del público objetivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/506/fdc1b82d542901f33fa0a2117d440123/master.m3u8?1676410377"
+                },
+                {
+                    "id": null,
+                    "title": "Elección de los aliados adecuados influencers y terceros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/507/45cbc3f35f4b9c273318a29a8a020b90/master.m3u8?1676410378"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de las plataformas y acciones adecuadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/508/6f2129633016993fc3f4cff541ff852a/master.m3u8?1676410383"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x6sxos.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejecución y gestión de la campaña de marketing de influencers",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El plan de 5 pasos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/509/d8252c9c909a7c143c4fb5bccf59d61a/master.m3u8?1676410382"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo un resumen asesino",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/510/e9e1486d214605aede3a11b1e38dc724/master.m3u8?1676410380"
+                },
+                {
+                    "id": null,
+                    "title": "La plantilla de resultados de programación y rendimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/511/0acaf0135dc747a07187eb2e216d727b/master.m3u8?1676410383"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos y trucos a tener en cuenta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/512/6825d4b03fcfa650ab94470f1128f249/master.m3u8?1676410381"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2evk0z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/tdi44m.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3434,
+        "product_name": "Influencer Marketing: Create Social Media Campaigns",
+        "teacher_name": "Alejandra Gonzalez Martínez de Escobar",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7517,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

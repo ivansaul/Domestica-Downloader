@@ -1,0 +1,168 @@
+{
+    "id": "2652",
+    "title": "Producción de videoclips para principiantes del guion a la pantalla",
+    "url": "https://www.domestika.org/es/courses/2652-produccion-de-videoclips-para-principiantes-del-guion-a-la-pantalla/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/714/2aebf9300d37b2781745ce5572984703/master.m3u8?1676397334"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/715/dd858962edf72e8ed8a0b4acd987f0d6/master.m3u8?1676397334"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qu62jl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos de la preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/716/3d49f344ddf2b8b66984213232ff3d2a/master.m3u8?1676397333"
+                },
+                {
+                    "id": null,
+                    "title": "Acercarse a un proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/717/333289aa23a5c638da055fe62e686f29/master.m3u8?1676397335"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas y conceptos creativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/718/37c4289fe707264c1d221aa94a96aa64/master.m3u8?1676397334"
+                },
+                {
+                    "id": null,
+                    "title": "Los fundamentos de la narración simple",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/719/6f617777048fb48830cae4299393ad63/master.m3u8?1676397334"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/stowhc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los aspectos de la producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de un tratamiento y redacción del guión 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/720/102b2ca1aa40917677441789b0d48cd0/master.m3u8?1676397337"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un tratamiento y escribir el guión 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/594/b5af5c59d4774333ff39c1962fc01a42/master.m3u8?1676397793"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar un buen equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/721/0598bd374f50791672e6a38628c62a15/master.m3u8?1676397342"
+                },
+                {
+                    "id": null,
+                    "title": "Exploración y reconocimiento de ubicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/722/5263b3d0af7a45bcaecf3b973cc8219c/master.m3u8?1676397338"
+                },
+                {
+                    "id": null,
+                    "title": "Listado de disparos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/723/9df99fc372298d52b01c846c048d426d/master.m3u8?1676397344"
+                },
+                {
+                    "id": null,
+                    "title": "Rodaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/724/c045518e47e7e345fa6191ab5e8d8bbd/master.m3u8?1676397345"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/acwjcs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción de video",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Edición de su metraje 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/725/4fc41693d5754f022637029a0a1813a4/master.m3u8?1676397347"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de su material de archivo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/726/dec2f63956363b029a796b45a8b35f90/master.m3u8?1676397339"
+                },
+                {
+                    "id": null,
+                    "title": "Compartiendo tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/727/a8e2c129b5e1f05a6ffa83df6ab52914/master.m3u8?1676397340"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kj739y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hc5blk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2652,
+        "product_name": "Music Video Production for Beginners: From Script to Screen",
+        "teacher_name": "David J East",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7117,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

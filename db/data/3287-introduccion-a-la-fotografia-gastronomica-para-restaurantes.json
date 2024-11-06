@@ -1,0 +1,183 @@
+{
+    "id": "3287",
+    "title": "Introducción a la fotografía gastronómica para restaurantes",
+    "url": "https://www.domestika.org/es/courses/3287-introduccion-a-la-fotografia-gastronomica-para-restaurantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/587/0d3a8bad6192ac7985d4da0ed22a4c0d/master.m3u8?1676402618"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/588/f7e40021e8da186987c40e91827d0f8d/master.m3u8?1676402619"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2qr6n5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Miseenplace",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Del retrato a la fotografía gastronómica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/589/396fbc970cec5d5d33a2cbc5c35d6965/master.m3u8?1676402620"
+                },
+                {
+                    "id": null,
+                    "title": "Resumen del cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/590/73ca692395259c4485bc9d10d6946726/master.m3u8?1676402621"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación Referencias y Estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/596/c5040e2b9268bb20e2ae57f4bac1aeb7/master.m3u8?1676402623"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/597/543f4593e503265697de35ae9db64e59/master.m3u8?1676402620"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación y uso de la cámara antes del día de la sesión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/607/1b7c748d7e56044efcfa3cbc5e1dccad/master.m3u8?1676402629"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8gzg0d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La parte divertida capturar la comida",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Día de preparación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/628/6bc1335f2367e2c6d9d024f3aa63512d/master.m3u8?1676402640"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografiar el cóctel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/629/b619832548f33bf6f774abd11cf36a72/master.m3u8?1676402640"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografiando el aperitivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/630/d59536311fc41e6cad434360d613b957/master.m3u8?1676402641"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografiar el plato principal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/631/b531cfb7d90bfd4ac47bd3512ebe6ff7/master.m3u8?1676402641"
+                },
+                {
+                    "id": null,
+                    "title": "Propagación completa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/641/5b38f27a73d1c7cac73b70e15fac6f5f/master.m3u8?1676402649"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/baep3a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Selección edición y color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de fotos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/643/f3c3c1c5fe02f2a8e8853ac1e9d4e6cf/master.m3u8?1676402650"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de fotos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/645/64eb391716b1eee9d3728d15a84ffc68/master.m3u8?1676402651"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de fotos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/662/9b84428feac0b4c106fe673efa62eccd/master.m3u8?1676402674"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de fotos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/663/3b6f8c70abf0b62ede90dbf7e406825e/master.m3u8?1676402659"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación de acuerdo con el resumen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/646/30fe944c816dc3afa55d426f585527c7/master.m3u8?1676402645"
+                },
+                {
+                    "id": null,
+                    "title": "Obtenga más de su fotografía de alimentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/661/a8ec5b9e33e9df7bc1ef9e963c442c23/master.m3u8?1676402656"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1iwabr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1a2q6i.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3287,
+        "product_name": "Introduction to Food Photography for Restaurants",
+        "teacher_name": "Cole Wilson",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 11218,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

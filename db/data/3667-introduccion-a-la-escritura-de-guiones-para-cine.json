@@ -1,0 +1,180 @@
+{
+    "id": "3667",
+    "title": "Introducción a la escritura de guiones para cine",
+    "url": "https://www.domestika.org/es/courses/3667-introduccion-a-la-escritura-de-guiones-para-cine/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/333/211f8c049163cc71d6249f707f3d536a/master.m3u8?1676406281"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/334/ff03d9f813e9c5f0e4aa7cc843b09b5e/master.m3u8?1676406282"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zawme7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las historias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas básicas del guion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/335/fdd0d070a062bab8fb1c19345f59f4d3/master.m3u8?1676406283"
+                },
+                {
+                    "id": null,
+                    "title": "Los géneros cinematográficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/336/1e7ba09d3369c103b325f9769f6a407b/master.m3u8?1676406292"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo ver una película de manera analítica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/337/9018e1cbb17509f14acc1ba155dfb5bc/master.m3u8?1676406282"
+                },
+                {
+                    "id": null,
+                    "title": "La idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/338/2b1651e61c8eda3ab38ed2fd1f3f74f3/master.m3u8?1676406288"
+                },
+                {
+                    "id": null,
+                    "title": "Los personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/339/d2639b6563dd50d72de0ae9cab25a781/master.m3u8?1676406288"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yr715e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La estructura de la película",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primer acto el planteamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/340/278a7dc1b01fd6d1f4bbe8a2a53f38bc/master.m3u8?1676406283"
+                },
+                {
+                    "id": null,
+                    "title": "Segundo acto desarrollar punto medio y segundo giro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/341/4442c1b0f979539e3f5db0f02e88b6f4/master.m3u8?1676406291"
+                },
+                {
+                    "id": null,
+                    "title": "Tercer acto clímax y desenlace",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/342/5242b36a0bf7c2a6db825dcf47e37578/master.m3u8?1676406284"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kveglp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La escritura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elementos narrativos punto de vista temporalidad y espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/343/6f605b66c7b797c16ef87afc66162ef4/master.m3u8?1676406288"
+                },
+                {
+                    "id": null,
+                    "title": "La sinopsis argumental",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/344/7d1625b6afa3043f7cee1add8eab7656/master.m3u8?1676406285"
+                },
+                {
+                    "id": null,
+                    "title": "Referentes visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/345/4654ddcd52b489faabc1164c3d0676f0/master.m3u8?1676406288"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h9x3fv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Marcas de estilo y venta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Singularizar un proyecto marcas de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/346/e6a43cb937d25fbe9b932bbbcc7e58a0/master.m3u8?1676406287"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo vender el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/347/b6a0ae7484f1a8fa0e47fcfd4190c2e3/master.m3u8?1676406289"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qaavs4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/u4d5j2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3667,
+        "product_name": "Introduction to Screenwriting for Film",
+        "teacher_name": "Daniel Monedero",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8972,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}
