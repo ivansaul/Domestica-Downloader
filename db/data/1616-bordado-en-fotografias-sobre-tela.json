@@ -1,0 +1,201 @@
+{
+    "id": "1616",
+    "title": "Bordado en fotografías sobre tela",
+    "url": "https://www.domestika.org/es/courses/1616-bordado-en-fotografias-sobre-tela/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/638/0492e2b32e51bec102b3bd7ead224cc6/master.m3u8?1676393058"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/639/2234797b65fddee44214f4459a2da3fe/master.m3u8?1676393056"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/640/62642aedf3f154207bb224fd5c1c2808/master.m3u8?1676393054"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pcptm0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas materiales y muestrarios de puntos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/641/aee883e524aceb63836a5a6060322c88/master.m3u8?1676393060"
+                },
+                {
+                    "id": null,
+                    "title": "Muestrario de puntos planos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/992/92cae8b8a7aa7ea444c995ebcb0e1714/master.m3u8?1676403304"
+                },
+                {
+                    "id": null,
+                    "title": "Muestrario de puntos planos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/993/42e472f93858c995063d0c0d9c15e93b/master.m3u8?1676403300"
+                },
+                {
+                    "id": null,
+                    "title": "Muestrario de puntos de relieve",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/994/962fdb46dc62c05316609156f9c0d481/master.m3u8?1676403301"
+                },
+                {
+                    "id": null,
+                    "title": "Muestrario de puntos de relieve 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/995/b9f80cfb08e127ee786301c046f01e30/master.m3u8?1676403305"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s3fcrs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotografía color y transferencia de la imagen",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de fotografías que podemos usar y por qué",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/649/05a4fe50127db4926decc06763078c7a/master.m3u8?1676393061"
+                },
+                {
+                    "id": null,
+                    "title": "Paletas de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/650/46600c9e6942da04e6b1b51dd8d634a3/master.m3u8?1676393062"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de transferencia de imágenes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/651/2c8efe748970cca683821af50f0c6500/master.m3u8?1676393065"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de transferencia de imágenes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/652/277813e4f24e18c3d7ef731f0ce2e546/master.m3u8?1676393065"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sar1ze.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bordado y remate de nuestro bastidor",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bordado sobre fotografía 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/653/ccdd5d4e1b498f168a3f133b26a81303/master.m3u8?1676393064"
+                },
+                {
+                    "id": null,
+                    "title": "Bordado sobre fotografía 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/654/2d9c3bc580d36213963f76007c97842a/master.m3u8?1676393065"
+                },
+                {
+                    "id": null,
+                    "title": "Bordado del escenario 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/656/99780c711d54812a6461e68b0a6189c5/master.m3u8?1676393072"
+                },
+                {
+                    "id": null,
+                    "title": "Bordado del escenario 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/661/8603c3c8159d051893973252907f6c95/master.m3u8?1676393071"
+                },
+                {
+                    "id": null,
+                    "title": "Remate del bastidor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/667/eaa81e11503fad6d22ac1087bd41d77b/master.m3u8?1676393069"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/loj966.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cuidado y aplicaciones de tus bordados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Superficies donde aplicar tus bordados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/646/8c61222851c2699c0a7342f2a8558f0b/master.m3u8?1676393059"
+                },
+                {
+                    "id": null,
+                    "title": "Cuidado de las piezas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/647/87e83f77ead50687105a9d0ae69623b0/master.m3u8?1676393058"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1ez1mf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9l70ab.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1616,
+        "product_name": "Photo Embroidery on Fabric",
+        "teacher_name": "Studio Variopinto",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 11873,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

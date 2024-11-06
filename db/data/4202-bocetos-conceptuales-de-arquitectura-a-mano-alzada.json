@@ -1,0 +1,158 @@
+{
+    "id": "4202",
+    "title": "Bocetos conceptuales de arquitectura a mano alzada",
+    "url": "https://www.domestika.org/es/courses/4202-bocetos-conceptuales-de-arquitectura-a-mano-alzada/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/948/972c2e78e8c52e0ab3a8fb048c13185b/master.m3u8?1690909559"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/949/6da5f97804976821cbafd1af344d64fd/master.m3u8?1690907413"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/30822e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/950/e765d9a274623a29e23fbaa4af8a9323/master.m3u8?1690907689"
+                },
+                {
+                    "id": null,
+                    "title": "Imaginando el diseño y los espacios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/951/8144044630f09aa3834b26496eb78ba6/master.m3u8?1689208367"
+                },
+                {
+                    "id": null,
+                    "title": "Identificar la idea y la visión del diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/952/1abb862d2c3783d7c1846c10ec0a1881/master.m3u8?1690908487"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño Arquitectónico y Elementos de Infraestructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/953/30c10443b74459c448da29a600894814/master.m3u8?1689362609"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ppdfa4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Haciendo el proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dibujo del Centro de Tránsito y Transporte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/954/d3863ba55bec802bdf394c3928144982/master.m3u8?1690908535"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujando el Centro de Tránsito y Transporte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/036/d230655dbdf9c436e93350e9c6e1b245/master.m3u8?1689365318"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujando el Portal del Puente y los Túneles 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/955/4d07d42dc2a2eeb7d78519836ce78607/master.m3u8?1689363324"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujando el Portal de Puentes y Túneles 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/037/7a0f264b77cf5ca4b86f120271222a5f/master.m3u8?1689621888"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar el punto de vista y las estructuras auxiliares",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/056/5bcabae847eda6df84ef661b37967ec4/master.m3u8?1689586367"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s0t6z9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Un resumen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/957/2ce25318702e6883d53ffe9d479b8768/master.m3u8?1690907793"
+                },
+                {
+                    "id": null,
+                    "title": "Analizar su trabajo para descubrir más",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/958/fc3cda347543b2947487911fb74ceda3/master.m3u8?1690908304"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wifust.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9brnal.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4202,
+        "product_name": "Architectural Freehand Concept Sketching",
+        "teacher_name": "Pavel Fomenko",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 10139,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

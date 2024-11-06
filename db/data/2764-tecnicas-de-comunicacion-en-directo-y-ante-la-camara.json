@@ -1,0 +1,178 @@
+{
+    "id": "2764",
+    "title": "Técnicas de comunicación en directo y ante la cámara",
+    "url": "https://www.domestika.org/es/courses/2764-tecnicas-de-comunicacion-en-directo-y-ante-la-camara/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/035/35f3425bb01bf80bc52f879f2af1b979/master.m3u8?1676405625"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/036/2c1f04abfc42ae14a349fcba39a3a77e/master.m3u8?1676405624"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fofpoi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diferentes tipos de discurso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/037/3680f62278f721b415c8860be07ce0d4/master.m3u8?1676405628"
+                },
+                {
+                    "id": null,
+                    "title": "Conoce a tu presentador tú",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/038/61014ee3b9bcf6f5c30700eb1661256b/master.m3u8?1676405630"
+                },
+                {
+                    "id": null,
+                    "title": "Sabes de quién y de qué estás hablando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/039/09256b7e238c445137a338d97d170175/master.m3u8?1676405625"
+                },
+                {
+                    "id": null,
+                    "title": "Espejo espejo mío",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/040/88b1126e0d4c80a4bfdf210655a6eb2e/master.m3u8?1676405624"
+                },
+                {
+                    "id": null,
+                    "title": "Para aprender más Vídeo de prueba 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/417/b4a895442bda40f784af6c8f5bb58fb9/master.m3u8?1676408293"
+                },
+                {
+                    "id": null,
+                    "title": "Para aprender más Vídeo de prueba 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/418/5b37934edfbb98ccdf2c91f62793c0fd/master.m3u8?1676408301"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5t8qmc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "De qué vas a hablar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/041/86069a5c9e19fae107edd07243b367dc/master.m3u8?1676405629"
+                },
+                {
+                    "id": null,
+                    "title": "Repasar y practicar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/042/eb3a605c77f9721640646cf2b46e9f0a/master.m3u8?1676405631"
+                },
+                {
+                    "id": null,
+                    "title": "Está todo listo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/043/6215125dcf4921dce3853bbba6a2f273/master.m3u8?1676405632"
+                },
+                {
+                    "id": null,
+                    "title": "Luz Cámara acción 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/044/4e91fac96652e22fc2ea60e2d39970a1/master.m3u8?1676405629"
+                },
+                {
+                    "id": null,
+                    "title": "Luz Cámara acción 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/045/58ba349afa5db6e7e36c11bdcd68458d/master.m3u8?1676405632"
+                },
+                {
+                    "id": null,
+                    "title": "Para aprender más Ejercicios de calentamiento respiración y habla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/419/fefeeaf3722ca5be9d5457645f86ac19/master.m3u8?1676408295"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1vi7pc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mira quién está hablando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/046/5027388f409f3d916e4409ebbd9bd13e/master.m3u8?1676405633"
+                },
+                {
+                    "id": null,
+                    "title": "El entrenamiento es el entrenamiento el juego es el juego 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/047/d2229b2313520b44d2a278122911c692/master.m3u8?1676405633"
+                },
+                {
+                    "id": null,
+                    "title": "El entrenamiento es el entrenamiento el juego es el juego 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/048/aefa4fd78d8e4e205f918fee32f3c79c/master.m3u8?1676405628"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ax8msg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/k11ecf.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2764,
+        "product_name": "Communication Techniques: Speaking Live and On Camera",
+        "teacher_name": "Marina Person",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 14380,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

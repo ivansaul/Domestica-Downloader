@@ -1,0 +1,163 @@
+{
+    "id": "766",
+    "title": "Iluminación creativa para retratos fotográficos",
+    "url": "https://www.domestika.org/es/courses/766-iluminacion-creativa-para-retratos-fotograficos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/824/9ea1e08c9946e056943b7a3b9cd46858/master.m3u8?1676387995"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/839/941c7608c99f0914c35f8b5442430c25/master.m3u8?1676388000"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/825/8c328f5f6bbc1800df0a509099b901ca/master.m3u8?1676387993"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/88tk7x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Antecedentes del retrato fotográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/827/98036fda9b65972e73b9a3a3f17334e2/master.m3u8?1676387999"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/828/c5af8dfe243a7acae24dda9cc1ca12d5/master.m3u8?1676387996"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/829/090a154da576fc740f198465a13d46ec/master.m3u8?1676387997"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n1tugr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Shooting",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Foto I Capas de color Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/830/0a1ed8619c39c02f60ac63268cdba58d/master.m3u8?1676387997"
+                },
+                {
+                    "id": null,
+                    "title": "Foto I Capas de color Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/831/4fdf6b798169c71a592c11df9d69f93f/master.m3u8?1676387999"
+                },
+                {
+                    "id": null,
+                    "title": "Foto II Oscuridad y movimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/832/a69fc2417c4d74d7e8e6c65ab5c71167/master.m3u8?1676388000"
+                },
+                {
+                    "id": null,
+                    "title": "Foto III Doble exposición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/833/4fd41b21d1d30b22e55168b1150df5ba/master.m3u8?1676387999"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u1bw3q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Revelado y retoque",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Integración de la doble exposición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/834/400f623a7fd02ca6faa41695af099bdb/master.m3u8?1676387998"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/835/713cb6231d32f007a9555252b77e856d/master.m3u8?1676388001"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado en Capture One",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/836/9cc57b52682f57450d429211e8836182/master.m3u8?1676387998"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque en Photoshop y Exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/837/887cf8674fcd4cf1361f460db65df974/master.m3u8?1676388003"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3fyvro.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/io0ypw.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 766,
+        "product_name": "Creative Lighting for Portraits",
+        "teacher_name": "Victor Idrogo",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7433,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

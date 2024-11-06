@@ -1,0 +1,158 @@
+{
+    "id": "2111",
+    "title": "Técnicas de creatividad escribe para el público infantil",
+    "url": "https://www.domestika.org/es/courses/2111-tecnicas-de-creatividad-escribe-para-el-publico-infantil/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/616/7f2d4de85f596907f66fcf36f2a2f37d/master.m3u8?1676397805"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/617/b4fac95caf6512288032c20009393c34/master.m3u8?1676397807"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/618/2708c8844df416647f4b85b3d24a8f8d/master.m3u8?1676397805"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wyu0ts.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estructuras lúdicas para tu texto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Jugar con la palabra adivinanzas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/619/35f331ae016e94cdd15dfbefc32020a1/master.m3u8?1676397813"
+                },
+                {
+                    "id": null,
+                    "title": "Jugar con la palabra adivinanzas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/620/d8be80b53a03f791ec544450facd0f91/master.m3u8?1676397807"
+                },
+                {
+                    "id": null,
+                    "title": "Jugar con la palabra trabalenguas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/621/4090c022bc29451bed864935c5077178/master.m3u8?1676397814"
+                },
+                {
+                    "id": null,
+                    "title": "Observar investigar y ordenar para escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/622/3b018a65b5e863b28c9d87f4d3964544/master.m3u8?1676397811"
+                },
+                {
+                    "id": null,
+                    "title": "En busca de estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/623/5fc698bd3442ee9fc743105fcdeb864a/master.m3u8?1676397816"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e2hwff.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hora de escribir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Decir las palabras mágicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/624/3e5b1e36f95542d26a2ac17ba9418f91/master.m3u8?1676397812"
+                },
+                {
+                    "id": null,
+                    "title": "Darle vida al texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/625/f6e406654193f77e6db817287dddd4a2/master.m3u8?1676397810"
+                },
+                {
+                    "id": null,
+                    "title": "Versión final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/626/617821b5084b0d573d323fa3372a1986/master.m3u8?1676397810"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e3moi8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hora de compartir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hacer sonar al texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/627/508cdce38145ef03a5a5dcf784f5d3d3/master.m3u8?1676397809"
+                },
+                {
+                    "id": null,
+                    "title": "Llegar a los lectores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/628/0c58a9bfe8a815ffb52e97e296ea98ac/master.m3u8?1676397810"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f2hxfo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rvkhba.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2111,
+        "product_name": "Creativity Techniques: Writing for Children",
+        "teacher_name": "Luis Téllez Tejeda",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6577,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

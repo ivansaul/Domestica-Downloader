@@ -1,0 +1,163 @@
+{
+    "id": "575",
+    "title": "Iluminación con luz natural para principiantes",
+    "url": "https://www.domestika.org/es/courses/575-iluminacion-con-luz-natural-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/401/90abf8adc641442e0ebd565351cdf395/master.m3u8?1676385707"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/402/c265605dec269b6e97a0b6b1d19d7ed1/master.m3u8?1676385709"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ypsngh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La luz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo ven nuestros ojos la luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/403/f23361bdb826230d919a3ef0d4925f46/master.m3u8?1676385708"
+                },
+                {
+                    "id": null,
+                    "title": "La temperatura de color de la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/404/1a8280d12cdac218781b7696c4ab3f05/master.m3u8?1676385710"
+                },
+                {
+                    "id": null,
+                    "title": "Balance de blancos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/405/5a14f579dd959286a5c9d67b27f3e809/master.m3u8?1676385709"
+                },
+                {
+                    "id": null,
+                    "title": "7 formas de iluminar con luz de sol",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/406/8528f31c06e62549c413bd9f707c96f4/master.m3u8?1676385710"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x5iryv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Transformando la luz natural",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la luz dura y qué es la luz difusa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/407/3d9dc29f4eaff61e72a836541f779050/master.m3u8?1676385710"
+                },
+                {
+                    "id": null,
+                    "title": "Los rebotes con luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/408/98b5e208ea01ecdabc46a4eb233c5ff8/master.m3u8?1676385714"
+                },
+                {
+                    "id": null,
+                    "title": "Los difusores con luz de  día",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/409/53a9af8e41b8408ea715aa07ea7bd7c5/master.m3u8?1676385715"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de las banderas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/410/9be1a092a1320e1d7122f9eac4f3e47b/master.m3u8?1676385717"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5grkx1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El control de la iluminación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El contraste de la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/411/ea38ef3685a60c489bde9ae6191bb987/master.m3u8?1676385713"
+                },
+                {
+                    "id": null,
+                    "title": "La regla de los 360",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/412/89ac89aa96417b0f269c854faadeaaaf/master.m3u8?1676385711"
+                },
+                {
+                    "id": null,
+                    "title": "Luz  de ventana",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/413/3153f0f402d52e2dd28d6f7306bfb394/master.m3u8?1676385713"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo controlar la luz al medio día",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/416/b5e4b0840506a86d53d333f2c11071e6/master.m3u8?1676385719"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/08195w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/nyzogl.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 575,
+        "product_name": "Lighting with Natural Light for Beginners",
+        "teacher_name": "Zony Maya",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8153,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

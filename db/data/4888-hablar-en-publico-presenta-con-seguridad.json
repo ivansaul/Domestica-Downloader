@@ -1,0 +1,154 @@
+{
+    "id": "4888",
+    "title": "Hablar en público presenta con seguridad",
+    "url": "https://www.domestika.org/es/courses/4888-hablar-en-publico-presenta-con-seguridad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/391/9e53fdae35ff2ed2c2d654b8236c0dc0/master.m3u8?1722839799"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/392/76d9fa381af689b99976cc2b5ac66a9e/master.m3u8?1721288970"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h3e4gl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué es desalentador hablar en público",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/393/48a43900e734f6cdf4b17e0d4d197637/master.m3u8?1697764965"
+                },
+                {
+                    "id": null,
+                    "title": "Qué caracteriza a un buen orador público",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/394/0937888ee54800844fb74dcdc26fd771/master.m3u8?1697764978"
+                },
+                {
+                    "id": null,
+                    "title": "Comprender el espacio o el escenario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/395/5b04d101b593900cc9fb58d9f988423c/master.m3u8?1697764992"
+                },
+                {
+                    "id": null,
+                    "title": "Calentamientos vocales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/396/23ab5a6c744f17dec3e6f2e324c2b828/master.m3u8?1697765009"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4nheny.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Escribir y practicar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elegir un tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/397/47fc8414a38d3763efa035fc815c9fb0/master.m3u8?1697765030"
+                },
+                {
+                    "id": null,
+                    "title": "Escritura de tu charla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/398/cbe98afefe76bb2f03e075ead35d7a48/master.m3u8?1697765051"
+                },
+                {
+                    "id": null,
+                    "title": "Practicando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/399/5166a37b541d797e78836e9dda6a12be/master.m3u8?1697765067"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5gs3fy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Analizando y preparándose",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Analizando su discurso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/400/ad19d4df447604344ca7b5548f451e43/master.m3u8?1697765100"
+                },
+                {
+                    "id": null,
+                    "title": "La presentación final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/401/d2599997399bbe9d1e1fadd39a946122/master.m3u8?1697765221"
+                },
+                {
+                    "id": null,
+                    "title": "Hablando en las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/402/c5f1ad1d50fdbcf346fa8abd53a7515b/master.m3u8?1697765236"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k36i2z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qqn5k1.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4888,
+        "product_name": "Public Speaking: Build your Confidence when Presenting",
+        "teacher_name": "Jonathan Richards",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4616,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}

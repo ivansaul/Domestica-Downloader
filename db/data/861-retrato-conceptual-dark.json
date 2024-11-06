@@ -1,0 +1,185 @@
+{
+    "id": "861",
+    "title": "Retrato conceptual dark",
+    "url": "https://www.domestika.org/es/courses/861-retrato-conceptual-dark/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación Quién soy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/092/41ed6f6d5b57920d8c51b650ac957601/master.m3u8?1676388519"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/093/fab6ac0d5dac9f4690f5ab4de388b8db/master.m3u8?1676388522"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/094/9c5cfb024ce83790296af763d1b2b118/master.m3u8?1676388520"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x2hd14.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El concepto proceso creativo y casting",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición del tema y el personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/095/f212c475129db4ac325ce7446928f003/master.m3u8?1676388527"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board y boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/096/20d816c776edd227aa758fc73c09666c/master.m3u8?1676388524"
+                },
+                {
+                    "id": null,
+                    "title": "El casting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/097/2a17ebd628b5d67bdd083bc4a0ed51f7/master.m3u8?1676388529"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tv0cyc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La preproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El vestuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/098/1e71a5b1ef456809e40a2bb50c406142/master.m3u8?1676388523"
+                },
+                {
+                    "id": null,
+                    "title": "El maquillaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/099/a8b58370a04979b74aa45b10f2b3a925/master.m3u8?1676388523"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de arte set y atrezzo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/100/78bc4abfeb71c75cedaa558b13fd4f70/master.m3u8?1676388524"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f9rvkd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Iluminación y shooting",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación dramática",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/102/b962bc99a45c198ad8fe10502088261a/master.m3u8?1676388528"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de modelo y sesión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/103/502339df27fd351160389ff31c349f70/master.m3u8?1676388534"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5p59t6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revelado digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/104/213e41958c74d0fd42e961ec7c39f25f/master.m3u8?1676388531"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque de piel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/105/3521579be8f41a9d20b554aed04ddf8a/master.m3u8?1676388534"
+                },
+                {
+                    "id": null,
+                    "title": "Fondos digitales y atmósfera tenebrosa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/106/4b1baad10589ed98af3b9fe2d199af77/master.m3u8?1676388537"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos especiales y acabado final P1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/107/5d6c10535813988a7e01c8f568d91204/master.m3u8?1676388533"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos especiales y acabado final P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/108/ae9bc73b933c35f699fbcf7e6ebfede1/master.m3u8?1676388535"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/orppdv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/w9641m.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 861,
+        "product_name": "Dark Conceptual Portraits",
+        "teacher_name": "Eduardo Gómez (Alter Imago)",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 9832,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

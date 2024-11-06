@@ -1,0 +1,163 @@
+{
+    "id": "1297",
+    "title": "Retrato fotográfico editorial luz y creatividad",
+    "url": "https://www.domestika.org/es/courses/1297-retrato-fotografico-editorial-luz-y-creatividad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/273/5e889d9ce18fd6b7ce1a4a18033fbd34/master.m3u8?1676392872"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/274/53a559bee8ddeb1e9bdc413732eafecf/master.m3u8?1676392867"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/284/89fef69def398e1f2bd0bf21036436bc/master.m3u8?1676392873"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dg0tko.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ojos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Banco de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/275/083755b0157dcc41f0d143010705dfff/master.m3u8?1676392875"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/276/96946e7b339b8b382188cdc1725f8985/master.m3u8?1676392871"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/277/56852e4a6f11132ea0c1d291e94b22f5/master.m3u8?1676392871"
+                },
+                {
+                    "id": null,
+                    "title": "El equipo fotográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/278/6a9531d07068eec40a1f127fa5c9bea2/master.m3u8?1676392873"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9tjxv6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Luces cámara y dirección",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dirección de arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/362/53a9bfa2d35540a775cd1d4c4d8880f3/master.m3u8?1676392902"
+                },
+                {
+                    "id": null,
+                    "title": "Retrato profesional con luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/363/1d2a94fb466300919cf763c97fc25d51/master.m3u8?1676392907"
+                },
+                {
+                    "id": null,
+                    "title": "Retrato profesional con luz de estudio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/364/3d7ed316873ea885db8eeda690bf42a0/master.m3u8?1676392908"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kxlt27.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Revelado y finalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección y revelado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/280/d9730def3daa3fa52370845141bb4bfe/master.m3u8?1676392877"
+                },
+                {
+                    "id": null,
+                    "title": "Corrección de errores comunes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/281/7ca5bc3be9c8c2e6ae36a0b389965906/master.m3u8?1676392877"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque fino color y finalización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/282/f07f92146f067f0267eb5cc012fcec36/master.m3u8?1676392889"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque fino color y finalización 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/283/04f57d45170eff853902b83336e61a2a/master.m3u8?1676392883"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nk05uh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/n9nuzv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1297,
+        "product_name": "Editorial Portraiture: Light and Creativity",
+        "teacher_name": "Natalia Gw",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7935,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

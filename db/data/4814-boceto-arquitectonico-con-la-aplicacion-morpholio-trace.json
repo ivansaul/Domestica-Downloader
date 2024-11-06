@@ -1,0 +1,153 @@
+{
+    "id": "4814",
+    "title": "Boceto arquitectónico con la aplicación Morpholio Trace",
+    "url": "https://www.domestika.org/es/courses/4814-boceto-arquitectonico-con-la-aplicacion-morpholio-trace/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/083/25955e46ec9b0a7eadb80e0f2511498a/master.m3u8?1689240532"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/084/27d6b1ed94e008f85f2c9e727437047b/master.m3u8?1679929674"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zqt32u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos del dibujo digital",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dibujar como un arquitecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/085/b99fac0addeb67115425f77c3508f5d7/master.m3u8?1679929918"
+                },
+                {
+                    "id": null,
+                    "title": "Los fundamentos de Morpholio Trace",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/086/5ce0578d8a44a5260536afdf7ecee537/master.m3u8?1679930050"
+                },
+                {
+                    "id": null,
+                    "title": "Práctica de bocetos y aceptación de errores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/087/384cefa46d875b1b3745e8696b7cd61b/master.m3u8?1680002388"
+                },
+                {
+                    "id": null,
+                    "title": "Representación de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/088/c5e476d68e5b262da2252dfc28686231/master.m3u8?1679931009"
+                },
+                {
+                    "id": null,
+                    "title": "La idea del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/089/f4ce7382cbb43c3f50a0c3c7f6cd6ed9/master.m3u8?1679931023"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1mdq2g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Croquizado en perspectiva 2D a partir de un objeto 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El borrador de diseño y el modelado 3D básico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/090/286b48802dcde753ee940b7d0c60243b/master.m3u8?1679931105"
+                },
+                {
+                    "id": null,
+                    "title": "Establecer la perspectiva y comenzar a dibujar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/092/84e4139cc062c4df18b90f35788cf503/master.m3u8?1679931301"
+                },
+                {
+                    "id": null,
+                    "title": "Colorear y renderizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/093/326ad2b36111b835ff29f82b468038e9/master.m3u8?1679931317"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7zqma7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diferentes tipos de dibujos arquitectónicos a partir de un objeto 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Últimos detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/094/94d2de95d09c65bcc3101abef165c75c/master.m3u8?1679931357"
+                },
+                {
+                    "id": null,
+                    "title": "Compartir su trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/095/25835c9da8a264b0e0bcf81c91162a65/master.m3u8?1679931399"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1cmfvd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/q33r6h.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4814,
+        "product_name": "Architectural Sketch with Morpholio Trace App",
+        "teacher_name": "AMIN ZAKARIA",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4850,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

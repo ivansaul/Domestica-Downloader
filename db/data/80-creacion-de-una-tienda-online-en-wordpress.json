@@ -1,0 +1,211 @@
+{
+    "id": "80",
+    "title": "Creación de una tienda online en WordPress",
+    "url": "https://www.domestika.org/es/courses/80-creacion-de-una-tienda-online-en-wordpress/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a WordPressorg y WooCommerce",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/050/35731a4e6bca884447c9960781792e45/master.m3u8?1676388081"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c1lb5t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Instalando y configurando WooCommerce",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Instalando WooCommerce",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/749/c2df11eb5f38b2a3c4efac351b069cc1/master.m3u8?1676394588"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración básica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/053/efefd97fa55efc15e52d1d3995aeee9d/master.m3u8?1676388084"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración básica II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/054/757c02017007acfa558114c09630a239/master.m3u8?1676388083"
+                },
+                {
+                    "id": null,
+                    "title": "Impuestos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/653/49f368d09f40cbad68366cce85effbb8/master.m3u8?1676381245"
+                },
+                {
+                    "id": null,
+                    "title": "Envíos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/654/d22dac0ca5b2e4cb0926d766b3be3619/master.m3u8?1676381246"
+                },
+                {
+                    "id": null,
+                    "title": "Métodos de pago",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/494/1e429640a4dacc1759df71e58f9c4b1d/master.m3u8?1676388695"
+                },
+                {
+                    "id": null,
+                    "title": "Métodos de pago II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/495/10fe8ff31980dc9d732e521dac0b5d2b/master.m3u8?1676388695"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x4kweo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Productos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando productos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/656/f7767941686920243b8be7e5a55fdcb2/master.m3u8?1676381250"
+                },
+                {
+                    "id": null,
+                    "title": "Creando productos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/056/251691b6a9ed028a2dcdf1b6273b86e3/master.m3u8?1676388081"
+                },
+                {
+                    "id": null,
+                    "title": "Productos virtuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/657/30a364a2067a1dc369a16f4ec1d8c578/master.m3u8?1676381247"
+                },
+                {
+                    "id": null,
+                    "title": "Productos agrupados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/658/8044c116e19377b8e28003470bb8b781/master.m3u8?1676381246"
+                },
+                {
+                    "id": null,
+                    "title": "Productos afiliados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/659/30a60f7c6c79d39ccf44592d4bfd9335/master.m3u8?1676381247"
+                },
+                {
+                    "id": null,
+                    "title": "Productos variables",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/660/d172dbb7ce821ee26de27272092fc9f9/master.m3u8?1676381251"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c7070e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aspecto y organización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Menús y Widgets",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/661/8faa4add673162baaf333dde8ce194be/master.m3u8?1676381251"
+                },
+                {
+                    "id": null,
+                    "title": "Menús y Widgets II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/059/9de196c9c93391eef2f201a57fac3f2b/master.m3u8?1676388084"
+                },
+                {
+                    "id": null,
+                    "title": "Atributos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/662/9ac8358ce4384d95a0061842a3282c1d/master.m3u8?1676381250"
+                },
+                {
+                    "id": null,
+                    "title": "Categorías y etiquetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/663/ef4c2e0fea487593d0bcfec7e1dcc43c/master.m3u8?1676381250"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/owf10m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Gestión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pedidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/664/b60925f5985d671b0ef56c4314c974c3/master.m3u8?1676381252"
+                },
+                {
+                    "id": null,
+                    "title": "Cupones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/665/5339ea75716a8a8284c9ab55dffe34e2/master.m3u8?1676381251"
+                },
+                {
+                    "id": null,
+                    "title": "Informes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/666/eb074837df683070ca17372250d6677a/master.m3u8?1676381251"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3dwkk7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ixpugx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 80,
+        "product_name": "Creation of an Online WordPress Store",
+        "teacher_name": "Joan Boluda",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 13932,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

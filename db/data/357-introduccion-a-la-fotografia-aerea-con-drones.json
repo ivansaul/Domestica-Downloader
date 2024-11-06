@@ -1,0 +1,178 @@
+{
+    "id": "357",
+    "title": "Introducción a la fotografía aérea con drones",
+    "url": "https://www.domestika.org/es/courses/357-introduccion-a-la-fotografia-aerea-con-drones/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/491/bc0f717ce94e024c8e69d78a712bd919/master.m3u8?1676384572"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/492/5aaec0c9988b0efe71dd8d92eccce7b0/master.m3u8?1676384570"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9kb0it.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Historia de la fotografía aérea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Breve historia de la fotografía aérea y el uso de los drones en la actualidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/493/b7a8f9e057a99dcde56a6c754f926110/master.m3u8?1676384582"
+                },
+                {
+                    "id": null,
+                    "title": "Legislación de los drones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/494/3f974f98e5b230a167fb7cb5d829a390/master.m3u8?1676384571"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es un dron y cómo funciona I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/495/e2a9a5439d6bcdd5e0f1268c3a5b04b4/master.m3u8?1676384571"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es un dron y cómo funciona II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/496/db5b8c322695184ce719e73cf06c57fd/master.m3u8?1676384577"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo vuela un dron",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/497/d2c74d38ddd90c50e615461969bde903/master.m3u8?1676384574"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ak6dob.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotografía con dron",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "App del dron DJI GO Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/528/e5da714a6f92e2fddf02842af6e2d807/master.m3u8?1676384591"
+                },
+                {
+                    "id": null,
+                    "title": "App del dron DJI GO Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/796/761f64f8d5afe46d0f739cd1e3020252/master.m3u8?1676384723"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía fija con drones Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/530/cfdc8ba4efa75f5d5031bf112e138426/master.m3u8?1676384592"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía fija con drones Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/531/8e50a96953a3162b81b79d43cf1fca05/master.m3u8?1676384594"
+                },
+                {
+                    "id": null,
+                    "title": "A volar Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/551/e79f6b25d1b46b14b9e803a59d78f5ef/master.m3u8?1676384599"
+                },
+                {
+                    "id": null,
+                    "title": "A volar Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/552/b49c5456f820988c355fe2c7b425b843/master.m3u8?1676384603"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque y publicación de fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/553/6b2f20bbca08028709e9f21ed0bda02a/master.m3u8?1676384600"
+                },
+                {
+                    "id": null,
+                    "title": "Impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/555/402543e65b518dfb37a62dd341fa7962/master.m3u8?1676384599"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kpbpoq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Video con dron",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "1 2 3Grabando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/568/8fff95695525dcfb13fdb43117a3ef68/master.m3u8?1676384614"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de video y publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/569/15987dce25960801a9fdc4e1d3680715/master.m3u8?1676384611"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mpk9n9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/08tdn6.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 357,
+        "product_name": "Introduction to Aerial Photography with Drones",
+        "teacher_name": "Santiago Arau Pontones",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 13277,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "id": "532",
+    "title": "Introducción a la fotografía nocturna",
+    "url": "https://www.domestika.org/es/courses/532-introduccion-a-la-fotografia-nocturna/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/443/9f2e4b36c746c86d4627ce08c7b8d36e/master.m3u8?1676386498"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/467/bf071e2abbe175b6afeae6def0cdb9ce/master.m3u8?1676386503"
+                },
+                {
+                    "id": null,
+                    "title": "Qué vamos a hacer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/468/78e4776208c023551ad70d139b5732bd/master.m3u8?1676386503"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vihbyc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Equipo necesario",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/440/45e5b4234aad13124b21814a7ac477bc/master.m3u8?1676386496"
+                },
+                {
+                    "id": null,
+                    "title": "Enfoque manual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/441/3bc71fe5b1d18de302def206f7749930/master.m3u8?1676386499"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir locaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/442/210bdbebb2e657c564d4999b948a48af/master.m3u8?1676386498"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/56fmn6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Paisaje urbano hora azul",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografía en la hora azul",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/438/d002de8a04ab1a2b15b21bd7e55a2638/master.m3u8?1676386496"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía en hora nocturna",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/439/0a700e6d3bf6fe5d35890d47a3bd9c70/master.m3u8?1676386496"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tvzaed.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Paisaje rural nocturno",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografía de estrellas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/436/3511593d762037cc96dadd0de62969a4/master.m3u8?1676386496"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yo7kyg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Larga exposición  Light painting",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografía light painting de tractor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/434/30b849b120a01e98b09a09ccecd6449c/master.m3u8?1676386497"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía light painting con drone",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/435/a0dfec72b9e04a7900707d9473a71d3c/master.m3u8?1676386495"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pu0hy0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Edición de fotos en hora azul y nocturna",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/430/dac58566aed8eb4bdc0b19f6611c6e56/master.m3u8?1676386495"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de fotos de estrellas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/431/3b0b344681e5fda514a0cdd7d5102fde/master.m3u8?1676386499"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de fotos light painting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/432/36d555af8dc339f714e1bb82c5872519/master.m3u8?1676386497"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zak8sx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/50cxcq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 532,
+        "product_name": "Introduction to Night Photography",
+        "teacher_name": "Adrián Melo",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4586,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "id": "3790",
+    "title": "Técnicas narrativas para el desbloqueo creativo",
+    "url": "https://www.domestika.org/es/courses/3790-tecnicas-narrativas-para-el-desbloqueo-creativo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/209/d8431bc9096d56d2cf25a1aa3fd683e4/master.m3u8?1676403402"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/210/407a336b625d557afc1e8d6cf11817cc/master.m3u8?1676403402"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/04xla2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El bloqueo creativo estructuras narrativas y el diario de ideas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el bloqueo creativo y por qué a mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/211/0fe439f963767c2553e5facb2d068027/master.m3u8?1676403402"
+                },
+                {
+                    "id": null,
+                    "title": "Distintos formatos y estructuras narrativas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/212/880e08dfb43b89ccb151caf2a71825f7/master.m3u8?1676403403"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es un diario creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/213/12ac5c459249ff1f55c7e5508799411e/master.m3u8?1676403403"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/upqtaz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tu diario creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escritura automática",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/214/25dd48da7bc623e9e8b5fae59c1738a3/master.m3u8?1676403403"
+                },
+                {
+                    "id": null,
+                    "title": "Archivo de anécdotas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/215/a575d2eb76a9360e3b30f73659165ba2/master.m3u8?1676403403"
+                },
+                {
+                    "id": null,
+                    "title": "Diario cotidiano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/216/738508ce00bd08ad33f6e9f5003a240b/master.m3u8?1676403406"
+                },
+                {
+                    "id": null,
+                    "title": "Imagen como punto de partida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/217/395f2c2ecc7409646c4d06170b9333f6/master.m3u8?1676403405"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0kj9r5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Transformar las ideas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo identificar una buena idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/218/8a8a2d4139e4cb19b9e380a35728f26b/master.m3u8?1676403405"
+                },
+                {
+                    "id": null,
+                    "title": "Materializar la idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/219/93b6c7ad49441baa15b346a9a248bf97/master.m3u8?1676403404"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo crear una rutina de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/220/8d3a6f30b3d049436517e3c043cda05c/master.m3u8?1676403406"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b17w1i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/lxfp55.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3790,
+        "product_name": "Narrative Techniques for Unlocking Your Creativity ",
+        "teacher_name": "Mela Pabón Navedo",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4014,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

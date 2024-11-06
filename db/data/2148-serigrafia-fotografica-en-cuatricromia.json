@@ -1,0 +1,159 @@
+{
+    "id": "2148",
+    "title": "Serigrafía fotográfica en cuatricromía",
+    "url": "https://www.domestika.org/es/courses/2148-serigrafia-fotografica-en-cuatricromia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/921/5dca0211c4f21ab9f79342b70dc101c5/master.m3u8?1676395222"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/922/1f255eaa1e58fcfe791d720aae3381a6/master.m3u8?1676395220"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/923/a700c09b928c6d88b361f92b177c16c5/master.m3u8?1676395219"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/89dx89.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La cuatricromía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/924/5abf3f0af812bf30a533fed807af5ab3/master.m3u8?1676395223"
+                },
+                {
+                    "id": null,
+                    "title": "Separación de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/925/ef7f5b05a13cc7c6d415f6f03f769608/master.m3u8?1676395223"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/926/74e9278223353628d8389d4ab9b9f264/master.m3u8?1676395220"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7gw3f9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La estampación en CMYK",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación de la pantalla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/927/7e673eebb46671690772a2431978234c/master.m3u8?1676395225"
+                },
+                {
+                    "id": null,
+                    "title": "Espacio de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/928/711c465a657c7781858c24b215282fdb/master.m3u8?1676395222"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso de estampación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/929/1c83be1336de3fd7e11cd031bbb2f2bd/master.m3u8?1676395224"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso de estampación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/930/d71dc8bb7ad4765fa7934cf58dfe1a59/master.m3u8?1676395227"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hem7bl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicaciones de la serigrafía y mercado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La serigrafía en edición limitada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/931/f29294d5165fb25b6cbc512b9a3c3ff3/master.m3u8?1676395222"
+                },
+                {
+                    "id": null,
+                    "title": "Otras formas de utilizar la fotografía en serigrafía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/951/4e3274280d7366841a373efc266ea9f6/master.m3u8?1676395232"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo promocionar tu obra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/952/53789d40a2cd6e5ef512fb546959fbe2/master.m3u8?1676395239"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9bh951.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ht1a5k.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2148,
+        "product_name": "Four-color Photographic Screen Printing ",
+        "teacher_name": "Amazink",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6759,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

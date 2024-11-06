@@ -1,0 +1,158 @@
+{
+    "id": "1109",
+    "title": "Upcycling creación de una colección de moda",
+    "url": "https://www.domestika.org/es/courses/1109-upcycling-creacion-de-una-coleccion-de-moda/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/987/cd70cfea296cc1005eecfc767860764c/master.m3u8?1676391232"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/988/2e3ea218b7d848d9780607269c73956c/master.m3u8?1676391232"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/989/972842d3f04c1dd6854f9ba4271fa317/master.m3u8?1676391234"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ok4p53.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ideación de nuestra colección",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué quiero hacer y cómo Búsqueda y desarrollo de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/990/71dce3d0e70042fc672cb0a6dee047fe/master.m3u8?1676391231"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de un mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/991/2817d2c1f5d038236955d868a3fa78b3/master.m3u8?1676391233"
+                },
+                {
+                    "id": null,
+                    "title": "La búsqueda de las prendas y los primeros bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/992/94c02fe0dc920776fdb3ade422e178f8/master.m3u8?1676391237"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j8zfy0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Realización de la prenda",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/993/43c70aca9841dedc599403f7201b8715/master.m3u8?1676391231"
+                },
+                {
+                    "id": null,
+                    "title": "Bordados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/994/6144e44e9820cce6d88c18df21da6a79/master.m3u8?1676391245"
+                },
+                {
+                    "id": null,
+                    "title": "La estampación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/031/24a7190753009a7fd5fa124b84f622d3/master.m3u8?1676391248"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/032/a9d32452f6a031331ad4dae5d155a881/master.m3u8?1676391249"
+                },
+                {
+                    "id": null,
+                    "title": "La deconstrucción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/076/77ed29618b6224276cbdc5ba6a81d4f1/master.m3u8?1676391277"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6t74tv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Look final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis de la colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/995/0b624ffd846aac1f2d1d587b690584e6/master.m3u8?1676391234"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board para sesión de fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/996/dd04afd68b7d1c174d07e23b26fc48e7/master.m3u8?1676391236"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zn1cg1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4sstbd.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1109,
+        "product_name": "Upcycling: Creating a Fashion Collection",
+        "teacher_name": "Krizia Robustella",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4709,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

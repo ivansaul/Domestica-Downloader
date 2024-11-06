@@ -1,0 +1,148 @@
+{
+    "id": "1975",
+    "title": "Retrato fotográfico de principio a fin",
+    "url": "https://www.domestika.org/es/courses/1975-retrato-fotografico-de-principio-a-fin/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/995/d7d26459d76fac0b925304401a7e4fef/master.m3u8?1676402296"
+                },
+                {
+                    "id": null,
+                    "title": "influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/996/08e129bb101b0c4e57341f5aec8d448f/master.m3u8?1676402297"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/emizv7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prefoto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "hurgando en los cajones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/997/25332d79d881209bd91b8b386fae084e/master.m3u8?1676402298"
+                },
+                {
+                    "id": null,
+                    "title": "el arte de reunirse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/998/1028b5dded4cc4865713ae14a42ee65b/master.m3u8?1676402300"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de equipos y ubicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/999/c1e272cb1858bf684b2970f5cd0448cf/master.m3u8?1676402301"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ziwcab.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Después de la luz y la cámara acción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Luz composición y técnica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/002/036df75f1930700c5b368546f432b8dd/master.m3u8?1676402301"
+                },
+                {
+                    "id": null,
+                    "title": "dirigiendo al retratado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/007/f34ece88f2cc82de6599c59ceeeae23a/master.m3u8?1676402302"
+                },
+                {
+                    "id": null,
+                    "title": "establecer consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/008/2eae3a7c94be7bd8baf659b2fec67864/master.m3u8?1676402301"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6fky6u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La búsqueda de síntesis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección y procesamiento de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/009/57b2b0c8b676911ee8a23640325e8d28/master.m3u8?1676402309"
+                },
+                {
+                    "id": null,
+                    "title": "construyendo el ensayo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/010/918e802cd59b0b70211913bfe73e5740/master.m3u8?1676402305"
+                },
+                {
+                    "id": null,
+                    "title": "Dar a conocer tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/011/92fc1c1389335b8d39bb490d3a95a6ed/master.m3u8?1676402305"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/61olfc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/n24s8y.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1975,
+        "product_name": "Portrait Photography from Start to Finish",
+        "teacher_name": "Jorge Bispo",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 4554,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

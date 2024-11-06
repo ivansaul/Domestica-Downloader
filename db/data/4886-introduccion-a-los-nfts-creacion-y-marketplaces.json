@@ -1,0 +1,169 @@
+{
+    "id": "4886",
+    "title": "Introducción a los NFTs creación y marketplaces",
+    "url": "https://www.domestika.org/es/courses/4886-introduccion-a-los-nfts-creacion-y-marketplaces/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/787/732eb6aa5a5de5cac2559db76fe9cfb8/master.m3u8?1676411159"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/788/bb101254c9994425c3974fbc0537c6f9/master.m3u8?1676411158"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hcljl9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo nació la blockchain",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Historia del dinero de las conchas a la blockchain",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/789/78ca250082284942e8f69ff81f8ac96c/master.m3u8?1676411161"
+                },
+                {
+                    "id": null,
+                    "title": "Las eras del internet",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/790/f0d33f3d2e9ed1e6e986684d91be93e0/master.m3u8?1676411162"
+                },
+                {
+                    "id": null,
+                    "title": "Blockchain y la fiebre NFT 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/791/c91bd6b2240c15b78e519f6e4fd2e96f/master.m3u8?1676411161"
+                },
+                {
+                    "id": null,
+                    "title": "Blockchain y la fiebre NFT 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/792/951a8f8c5a3eca6e8ae50039642a7a9d/master.m3u8?1676411161"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de colecciones de NFT",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/793/d0aaec85a53f841123557594d433e293/master.m3u8?1676411163"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2rsqlt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Subir tu trabajo a la blockchain",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación del archivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/794/3260aa42c1282f87efef926a3a423cde/master.m3u8?1676411161"
+                },
+                {
+                    "id": null,
+                    "title": "Crea una cartera de ETH usando MetaMask",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/795/2997b4544dcf835a9f3c4023b8addf14/master.m3u8?1676411164"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir la tienda en la que vender tus NFT",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/796/3a35f8cda4205aca7710465e60af24f2/master.m3u8?1676411168"
+                },
+                {
+                    "id": null,
+                    "title": "Poner a la venta tu primer NFT 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/797/f82f8b9d3248e76371501a1fffd26af1/master.m3u8?1676411165"
+                },
+                {
+                    "id": null,
+                    "title": "Poner a la venta tu primer NFT 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/798/febf59777d5f3febe65aac9352219be2/master.m3u8?1676411163"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iwpuvt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Concretar las primeras ventas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "De los sitios webs a los ENS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/799/a2672a3e33753d40e4c0df092b65abcb/master.m3u8?1676411164"
+                },
+                {
+                    "id": null,
+                    "title": "Compartir tu trabajo estrategia de marketing y PR 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/800/58ea9f0b48061db2198a618de5b5b9e7/master.m3u8?1676411167"
+                },
+                {
+                    "id": null,
+                    "title": "Compartir tu trabajo estrategia de marketing y PR 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/801/b3d5ee4e5e83e35a205e991ec3068cd8/master.m3u8?1676411168"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gegxs5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8b04no.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4886,
+        "product_name": "NFT Art for Beginners: Creation & Marketplaces",
+        "teacher_name": "Marian Pedroza",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9311,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

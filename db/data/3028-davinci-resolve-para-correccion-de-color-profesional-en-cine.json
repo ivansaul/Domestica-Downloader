@@ -1,0 +1,183 @@
+{
+    "id": "3028",
+    "title": "DaVinci Resolve para corrección de color profesional en cine",
+    "url": "https://www.domestika.org/es/courses/3028-davinci-resolve-para-correccion-de-color-profesional-en-cine/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/467/201ab07e4231490190bdeda9f193ab60/master.m3u8?1676400353"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/468/e5d2eb8cad9c4a7f619dc18441004d82/master.m3u8?1676400357"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1ay3pa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Imagen digital y técnicas de uso del color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Imagen digital y el píxel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/469/4c06bf3181056f7dc08d479bfa733d4f/master.m3u8?1676400358"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de uso del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/470/ed3bc6aa94ca381e4039a4c81e27e834/master.m3u8?1676400354"
+                },
+                {
+                    "id": null,
+                    "title": "Correcciones primarias 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/471/426c5dee8a5e486e4322088693c437d9/master.m3u8?1676400357"
+                },
+                {
+                    "id": null,
+                    "title": "Correcciones primarias 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/472/e9ed9560ca86499a1bb7755d09d4d991/master.m3u8?1676400360"
+                },
+                {
+                    "id": null,
+                    "title": "Correcciones primarias 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/473/a3f73e580ff1e631eeaf972fd4417126/master.m3u8?1676400361"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gwp1p4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Looks cinematográficos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Clean Grey Hollywood",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/475/9636c4710041a41ddafcba5b1c65c2e8/master.m3u8?1676400361"
+                },
+                {
+                    "id": null,
+                    "title": "Day for Night",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/476/78db404a2940fe0e1527d219a811c620/master.m3u8?1691502710"
+                },
+                {
+                    "id": null,
+                    "title": "Teal u0026 Orange",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/477/c835dce7777951c689394cb9989b7d1f/master.m3u8?1676400363"
+                },
+                {
+                    "id": null,
+                    "title": "Scifi",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/478/684bc8c2d7f0f1be948b8fc48c0daf40/master.m3u8?1676400363"
+                },
+                {
+                    "id": null,
+                    "title": "Bleach Bypass",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/479/56c2728609563c0c5ddc3a63ccc81f18/master.m3u8?1676400361"
+                },
+                {
+                    "id": null,
+                    "title": "Commercial TV 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/480/e76af8c7e8757183597a06805a7079bf/master.m3u8?1676400363"
+                },
+                {
+                    "id": null,
+                    "title": "Commercial TV 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/481/c8ffabda9ae3f77105a2209f23eca5e4/master.m3u8?1676400363"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vkd9c2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando tu propio look ajustes finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando tu look",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/482/cfb395a08d343e15d42e6d7d2290a809/master.m3u8?1676400365"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/483/9370dcac15c432bc9c4c9bfefd21989d/master.m3u8?1676400366"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/484/d7299dd28399e7fab50b66c671b28e7c/master.m3u8?1676400366"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/485/14db555be21b70c41b8451ca1208d479/master.m3u8?1676400369"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6x54vu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/kf4mob.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3028,
+        "product_name": "DaVinci Resolve for Professional Color Correction in Cinema",
+        "teacher_name": "Luis Dengó",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 14094,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

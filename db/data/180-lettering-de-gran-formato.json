@@ -1,0 +1,159 @@
+{
+    "id": "180",
+    "title": "Lettering de gran formato",
+    "url": "https://www.domestika.org/es/courses/180-lettering-de-gran-formato/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Quién es Panco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/242/014ca28602c3ccb55e3ea1b2ae2b2acd/master.m3u8?1676382514"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/243/18f3a14bd25788856e4e0263e8686c60/master.m3u8?1676382562"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía caligrafía y lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/244/6b5376b78334f8eaf2f621d8ca259548/master.m3u8?1676382517"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rqatj6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Toma de partido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El pedido y el cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/245/61c089e20c0b423e1fd6c1fefa692d61/master.m3u8?1676382515"
+                },
+                {
+                    "id": null,
+                    "title": "El plan de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/246/80e6f17148cda3f21120f776669bd1ad/master.m3u8?1676382517"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hxm5y3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bocetado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollo conceptual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/247/50a204b0bc9a2a3738eda83378e584fe/master.m3u8?1676382519"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetado y ajustes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/248/afb7b48cc94fd84a677962042ff02501/master.m3u8?1676382520"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8z839e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Original",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Digitalización y vectorizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/249/5439cd906bc3f3b76efcdba0d05fe6a5/master.m3u8?1676382520"
+                },
+                {
+                    "id": null,
+                    "title": "Prueba de color y original",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/250/dcbfbb8d659ff1dfa5bbf3b669786e4e/master.m3u8?1676382520"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jcdwli.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Del papel al muro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y superficie",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/251/6787c69f1c2466031df8d4a371a5a342/master.m3u8?1676382519"
+                },
+                {
+                    "id": null,
+                    "title": "Del papel al muro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/252/a3dca099acb92b616a75369f961bb205/master.m3u8?1676382522"
+                },
+                {
+                    "id": null,
+                    "title": "Pintura y detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/253/4586454bf23ce804fd884db11c7aec1b/master.m3u8?1676382522"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a0ycx4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6ps384.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 180,
+        "product_name": "Large Format Lettering",
+        "teacher_name": "Panco Sassano",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5345,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

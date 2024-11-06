@@ -1,0 +1,169 @@
+{
+    "id": "5008",
+    "title": "Subtitulación de vídeos para redes sociales",
+    "url": "https://www.domestika.org/es/courses/5008-subtitulacion-de-videos-para-redes-sociales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/949/7a5cd734b9c831ad303fc0e407802dfa/master.m3u8?1722262755"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/950/a1a493bc29ade1436b6c308d2d1beb20/master.m3u8?1719396809"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ktk8b4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El mundo de la subtitulación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué subtitular tus vídeos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/951/a1852262b7e3abee1d841302d98883ec/master.m3u8?1703012689"
+                },
+                {
+                    "id": null,
+                    "title": "Principios de la subtitulación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/952/f46f15cb5ea79ddb0efb8d3dfc688471/master.m3u8?1703012707"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos avanzados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/953/0871fbd6cc71f5551e26c4763efd5ffe/master.m3u8?1703012721"
+                },
+                {
+                    "id": null,
+                    "title": "Subtitulación convencional vs subtitulación creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/954/7f07d22fe755bdf5e8e246add779cd80/master.m3u8?1703012739"
+                },
+                {
+                    "id": null,
+                    "title": "Jugar con los subtítulos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/955/200dc00e0a6e5c26aa10ec90c0cb5527/master.m3u8?1703012757"
+                },
+                {
+                    "id": null,
+                    "title": "Subtítulos seleccionables vs subtítulos incrustados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/968/c5e34e7ad3266528cee277520663b696/master.m3u8?1703084170"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0buqkt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Subtitulación convencional",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Subtitular desde cero con Subtitle Edit",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/956/b4a270323bb7d75f52814c6793f099e2/master.m3u8?1703013038"
+                },
+                {
+                    "id": null,
+                    "title": "Subtitular a partir de un borrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/957/26727763dd9e29c201560935fc05d731/master.m3u8?1703013054"
+                },
+                {
+                    "id": null,
+                    "title": "Funciones avanzadas de Subtitle Edit",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/958/7d63f7137897949ad966cac04d3332a0/master.m3u8?1703013074"
+                },
+                {
+                    "id": null,
+                    "title": "Incrustar y subir los subtítulos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/959/f50ed706ef66e938977d275eb9a40545/master.m3u8?1703013094"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/altcad.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Subtitulación creativa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear subtítulos con CapCut desde el móvil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/960/1f6b3c9ba3e922dcb0146a665b932674/master.m3u8?1703013118"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con CapCut desde el ordenador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/961/cef488453f7e08ea92a3b7759442f16f/master.m3u8?1703013135"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar y subir el vídeo subtitulado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/962/33ad396eb397061cd608e6580b774da9/master.m3u8?1703013152"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e2uqv5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/nzz1ow.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5008,
+        "product_name": "Subtitling Videos for Social Media",
+        "teacher_name": "Guillermo Parra López",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 11109,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

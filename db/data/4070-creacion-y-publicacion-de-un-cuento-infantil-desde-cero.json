@@ -1,0 +1,158 @@
+{
+    "id": "4070",
+    "title": "Creación y publicación de un cuento infantil desde cero",
+    "url": "https://www.domestika.org/es/courses/4070-creacion-y-publicacion-de-un-cuento-infantil-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/921/bc1d37c30b78c493a617c1503158e9e1/master.m3u8?1676408019"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/922/f4f4003a53c74ea4857579eef0960c8c/master.m3u8?1676408020"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ljbbol.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Una buena historia para contar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Todo el mundo tiene una buena historia que contar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/923/68580af2c69bd4c3fa7a686df4bfbd9c/master.m3u8?1676408021"
+                },
+                {
+                    "id": null,
+                    "title": "Errores frecuentes al escribir para niños",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/924/aa612503832ccf29000bee623e700f67/master.m3u8?1676408020"
+                },
+                {
+                    "id": null,
+                    "title": "Elige tu primera historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/925/046ccdbf755dfc0a0bd225802436d3c7/master.m3u8?1676408020"
+                },
+                {
+                    "id": null,
+                    "title": "Conoce tu historia y cuídala bien",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/926/c9b9203e0adf1fea7a7f89eb720a3700/master.m3u8?1676408022"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wnhndf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tú escritor",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Perfiles de escritores cuál es el tuyo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/927/add831a11fffc404cdf665b0f67f6673/master.m3u8?1676408023"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación por un editor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/928/405d47a391c39bb0f87e5a91d798f78c/master.m3u8?1676408023"
+                },
+                {
+                    "id": null,
+                    "title": "Autopublicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/929/b889ad5b8a4511d313d50f63a3bce0be/master.m3u8?1676408024"
+                },
+                {
+                    "id": null,
+                    "title": "Novedades en el mercado editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/930/27cbbab89898767aa57412af11721347/master.m3u8?1676408024"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1q6gsa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conociendo el libro y los hacedores de libros",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conoce el libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/931/8338fdc6cad191fececef0326890e137/master.m3u8?1676408034"
+                },
+                {
+                    "id": null,
+                    "title": "Los fabricantes de libros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/932/11879ca749f725fcc65c74760440b700/master.m3u8?1676408026"
+                },
+                {
+                    "id": null,
+                    "title": "La distribución y la publicidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/933/9d2dabea69bc45c8da44c758d38de45d/master.m3u8?1676408025"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/utd1kp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qzrb0n.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4070,
+        "product_name": "Creating and Publishing a Children's Story from Scratch",
+        "teacher_name": "Emília Nuñez",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5889,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

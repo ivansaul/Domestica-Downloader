@@ -1,0 +1,163 @@
+{
+    "id": "2193",
+    "title": "Escritura de guiones de no ficción para podcasts narrativos",
+    "url": "https://www.domestika.org/es/courses/2193-escritura-de-guiones-de-no-ficcion-para-podcasts-narrativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/602/4afceb06816876d656540b3fd358c250/master.m3u8?1676397276"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/603/24792be91521fe4bb6dcffe0e31bf98a/master.m3u8?1676397277"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rpx940.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Una idea en papel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cual es mi historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/604/fa561c00a654de25be020ec768daa366/master.m3u8?1676397282"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo contaré mi historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/605/6be752726e8b669978e7727be43a261c/master.m3u8?1676397282"
+                },
+                {
+                    "id": null,
+                    "title": "Qué existe ya en mi historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/606/b8d5e39a00462bab5e1cb7de08f2c07a/master.m3u8?1676397280"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ne8ezx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El guion en la calle",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Antes de salir a la calle equipamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/607/08776ae73b2602f8a6dd678ef117ef5d/master.m3u8?1676397281"
+                },
+                {
+                    "id": null,
+                    "title": "en la calle afuera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/608/348f86a3e0abab4dbead0e7e1012bb3c/master.m3u8?1676397283"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo pedir una entrevista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/609/e90110f790680158ce94bf2e62058af7/master.m3u8?1676397288"
+                },
+                {
+                    "id": null,
+                    "title": "Poner la realidad en papel 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/610/4e8680928dfeee916b56a3a3d4f8a7d8/master.m3u8?1676397283"
+                },
+                {
+                    "id": null,
+                    "title": "Poniendo la realidad en papel 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/611/19879c66c1e960ebcd3c50ef963b2aa8/master.m3u8?1676397283"
+                },
+                {
+                    "id": null,
+                    "title": "Grabación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/612/59c4812389c1fa8f573b6957831b0861/master.m3u8?1676397286"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/us2znj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "es hora de salir al aire",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Es esta historia hijo único",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/613/56f79b6a38432e4dcf0747bbd38490c3/master.m3u8?1676397282"
+                },
+                {
+                    "id": null,
+                    "title": "Un podcast es un producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/614/ddb79bdb7c5fc97d64d1e1316298834d/master.m3u8?1676397283"
+                },
+                {
+                    "id": null,
+                    "title": "poniendo en el aire",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/615/63d52dd9572129cd8b6211de9215487a/master.m3u8?1676397283"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/myymyj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/giavhm.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2193,
+        "product_name": "Nonfiction Script Writing for Narrative Podcasts",
+        "teacher_name": "Chico Felitti",
+        "category_id": 19,
+        "category_name": "Music & Audio",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7110,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

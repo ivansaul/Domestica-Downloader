@@ -1,0 +1,174 @@
+{
+    "id": "2978",
+    "title": "Modelado con chocolate crea toppers de animales",
+    "url": "https://www.domestika.org/es/courses/2978-modelado-con-chocolate-crea-toppers-de-animales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/899/5911ea761344ceaa2f649148261597fc/master.m3u8?1676402248"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/900/15eded0a2ebe0eab78b4574f1a39f074/master.m3u8?1676402249"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gui11j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al modelado en chocolate de toppers",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/901/1809eb5ec2b9f7537224e17a87ee87d2/master.m3u8?1676402250"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/903/9c0c622ec49d9c6a809a4fe36e300398/master.m3u8?1676402253"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de referencias y boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/904/6c684160e997c4dc0a1f549591166391/master.m3u8?1676402250"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rhxfrr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estructura y modelado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando la estructura con alambre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/905/3b15fd56c6f1c808a9a377e97c0524b7/master.m3u8?1676402256"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo dar volumen a la estructura y aislarla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/906/b5526ffc2c1a131c2e1ad7870a3e7489/master.m3u8?1676402252"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado con chocolate del cuerpo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/907/6ef98f6e43a96192b51e66744baeb265/master.m3u8?1676402259"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado con chocolate del cuerpo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/908/d66e7d8f7c4782363498c186d4bd6871/master.m3u8?1676402260"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado con chocolate de la cabeza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/909/3f7789bf908916c3168bc005cbb2aaba/master.m3u8?1676402257"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u911xl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Un paso más",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dando un toque hiperrealista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/910/b760d40f5ab5a62fe216a1d779725452/master.m3u8?1676402259"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas de animales en chocolate 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/911/ba5ee2fad05eec2d08ba3394a6b554d4/master.m3u8?1676402263"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas de animales en chocolate 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/912/56d86c98ff4f3aa2ba9f298f6896bd76/master.m3u8?1676402257"
+                },
+                {
+                    "id": null,
+                    "title": "Coloreando el chocolate moldeable 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/913/a134c8f415e6a6efe1dd25f1cf8eb94f/master.m3u8?1676402259"
+                },
+                {
+                    "id": null,
+                    "title": "Coloreando el chocolate moldeable 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/914/8166326249c0281cb91af368d20ec151/master.m3u8?1676402259"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/915/44541780abd01badddff3d3e7c140638/master.m3u8?1676402265"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r7ez8z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ce6h19.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2978,
+        "product_name": "Modeling Chocolate: Create Animal Toppers ",
+        "teacher_name": "Marc Suárez",
+        "category_id": 21,
+        "category_name": "Culinary",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 11255,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

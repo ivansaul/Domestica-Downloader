@@ -1,0 +1,210 @@
+{
+    "id": "4005",
+    "title": "Diseño de aplicaciones con Figma del brief al prototipo",
+    "url": "https://www.domestika.org/es/courses/4005-diseno-de-aplicaciones-con-figma-del-brief-al-prototipo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/094/3855e0485258cad0306e75bca5256317/master.m3u8?1676408669"
+                },
+                {
+                    "id": null,
+                    "title": "Mis fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/095/91d9c45ecd3f41d1385decb71cfdb034/master.m3u8?1676408671"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3690pc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/096/708c5a63302e8e657ac6ce94dcb9d58d/master.m3u8?1676408669"
+                },
+                {
+                    "id": null,
+                    "title": "El árbol de aplicaciones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/097/4636b816eb359b6db37f7955c36f5116/master.m3u8?1676408672"
+                },
+                {
+                    "id": null,
+                    "title": "El árbol de aplicaciones 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/098/c917dbc46f2b8a158729adbefe90b27d/master.m3u8?1676408670"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos y maquetas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/099/722deea359ef0fdc3f76c2e19f8ca61b/master.m3u8?1676408675"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos y maquetas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/100/1bf103cfa8971673bd5a82d468a8fd5e/master.m3u8?1676408675"
+                },
+                {
+                    "id": null,
+                    "title": "Figma y su interfaz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/458/f1a798441067921151349c406f99d31f/master.m3u8?1676408943"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fn4aid.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dirección de arte y diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "encontrar inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/101/0a8f2db98dc15c27732ef93e9eda99f3/master.m3u8?1676408674"
+                },
+                {
+                    "id": null,
+                    "title": "Buscar estilo de aplicación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/102/67e6cd13240e9da044440b7fae450473/master.m3u8?1676408676"
+                },
+                {
+                    "id": null,
+                    "title": "Encuentra el estilo de aplicación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/103/b8a37e64979c40fe7c0aed573724ea8a/master.m3u8?1676408677"
+                },
+                {
+                    "id": null,
+                    "title": "la carta grafica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/935/f4e6552d47f548a530ab74181ac3946a/master.m3u8?1676410621"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g0otmo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Realización del diseño de UI",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La página de inicio 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/105/13c393bce0b43394e735786b361597da/master.m3u8?1676408677"
+                },
+                {
+                    "id": null,
+                    "title": "La página de inicio 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/106/7c90adb6dd2ae084fd48a7560d1f0551/master.m3u8?1676408677"
+                },
+                {
+                    "id": null,
+                    "title": "La página de la colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/107/3b7de091ef3c738777d9e0b9c1031968/master.m3u8?1676408679"
+                },
+                {
+                    "id": null,
+                    "title": "La página del producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/108/a5bb4c0653b5cf23c96d6da2307a2f25/master.m3u8?1676408677"
+                },
+                {
+                    "id": null,
+                    "title": "Funnel de compras y configuración de página 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/109/d2b39d622ded55316c1d91f98a29f814/master.m3u8?1676408680"
+                },
+                {
+                    "id": null,
+                    "title": "Funnel de compras y configuración página 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/110/a08f7fa7e5769f7af77fd10fdeb0634f/master.m3u8?1676408684"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7t274d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasos finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Probar la idea con el prototipo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/111/2ed6a01fc7348d7e997862ac0a7806c5/master.m3u8?1676408684"
+                },
+                {
+                    "id": null,
+                    "title": "Probar la idea con el prototipo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/112/3227dedfd97de9809b5c8cd59d18d26a/master.m3u8?1676408685"
+                },
+                {
+                    "id": null,
+                    "title": "Documentar el sistema de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/113/d63ab7272237c6965d937054271ba972/master.m3u8?1676408683"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6fs0f0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/jp3wed.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4005,
+        "product_name": "App Design with Figma: From Brief to Prototype",
+        "teacher_name": "Index Studio",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 18047,
+        "total_units": 5,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

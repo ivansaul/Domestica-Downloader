@@ -1,0 +1,200 @@
+{
+    "id": "2557",
+    "title": "Introducción a la caligrafía china",
+    "url": "https://www.domestika.org/es/courses/2557-introduccion-a-la-caligrafia-china/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/055/ee3cf16845f8f6a9042c4ca7da053d94/master.m3u8?1676396450"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/056/19e930b600ac96281bb9a10503702d52/master.m3u8?1676396448"
+                },
+                {
+                    "id": null,
+                    "title": "Breve introducción a la caligrafía china",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/057/b0d0e5392b6b24c7a4cd942b300517c6/master.m3u8?1677576274"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/whfeki.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales y trazos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/109/67374771ed306750e3d052e7109e8711/master.m3u8?1676396479"
+                },
+                {
+                    "id": null,
+                    "title": "Trazos de puntos horizontales y verticales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/110/d71edc4cfa116c94bef7ae42d6b61e83/master.m3u8?1676396480"
+                },
+                {
+                    "id": null,
+                    "title": "Trazos de puntos horizontales y verticales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/111/7a225602f2eddd1ad6fc14385728dd85/master.m3u8?1676396481"
+                },
+                {
+                    "id": null,
+                    "title": "Trazo descendente hacia la izquierda y trazos planos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/112/9bf36fb71ecb7a917f92d3d0071d1d4a/master.m3u8?1676396480"
+                },
+                {
+                    "id": null,
+                    "title": "Ganchos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/113/34729a26154a056b14cdec000c7f0c64/master.m3u8?1676396480"
+                },
+                {
+                    "id": null,
+                    "title": "Trazos en curva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/114/4eeeca4e09eeb8a29b81aecbc7abf9dc/master.m3u8?1676396482"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z25bs1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Caracteres chinos con estructura abierta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Orden de los trazos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/115/cffa3102e053ba5f96a870c37c1add09/master.m3u8?1676396484"
+                },
+                {
+                    "id": null,
+                    "title": "Caracteres de estructura simple",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/116/f54448e67a02ed1f81f751570f466132/master.m3u8?1676396483"
+                },
+                {
+                    "id": null,
+                    "title": "Caracteres de estructura descendente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/117/b20e292fc84d4cba272e145d0e78a162/master.m3u8?1676396486"
+                },
+                {
+                    "id": null,
+                    "title": "Caracteres de estructura de izquierda a derecha",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/118/73745cff30d24e7b32be3eb8bd2ea17e/master.m3u8?1676396486"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hp6dj2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Caracteres chinos con estructura cerrada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estructuras cerradas con dos lados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/119/2619ff79c4a43447e1e99d9ecf925b1f/master.m3u8?1676396486"
+                },
+                {
+                    "id": null,
+                    "title": "Estructuras cerradas con tres lados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/120/baff5f9a99f3e783c0ecc568efb0efd6/master.m3u8?1676396487"
+                },
+                {
+                    "id": null,
+                    "title": "Estructuras completamente cerradas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/121/31e0c363e8c80ef40523eac03fce4f1a/master.m3u8?1676396487"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura combinada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/122/ea5560fa774558d22e025f5a3042881e/master.m3u8?1676396490"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c66zjp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo crear tu portfolio de caligrafía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo crear una obra de arte de caligrafía china",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/123/1ecb9a30a3c7b5ebff65f6abfba9fe6f/master.m3u8?1676396490"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo tomar una foto de tu obra de arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/124/1b4c5fc82e80332eecce55d6a0090eb3/master.m3u8?1676396487"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/azi33t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/nbtum0.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2557,
+        "product_name": "Introduction to Chinese Calligraphy",
+        "teacher_name": "Thomas Lam",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 10961,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

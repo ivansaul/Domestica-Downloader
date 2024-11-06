@@ -1,0 +1,149 @@
+{
+    "id": "3428",
+    "title": "Diseño de identidad visual para negocios",
+    "url": "https://www.domestika.org/es/courses/3428-diseno-de-identidad-visual-para-negocios/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/101/ee32722f0eaccf59c52cb9193d8f1e8e/master.m3u8?1717600687"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/102/52ebaec70feefc7196e401717c062f60/master.m3u8?1717600996"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oo8bqw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Por qué hacemos lo que hacemos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La búsqueda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/103/695873a7d59579ff2302f08e707604f8/master.m3u8?1704973127"
+                },
+                {
+                    "id": null,
+                    "title": "Relaciones cercanas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/104/200dba28be21028ac423f78eb561c97e/master.m3u8?1704973170"
+                },
+                {
+                    "id": null,
+                    "title": "Conocer el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/105/4c225112401d842708f60a78fc586045/master.m3u8?1704973215"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zkes18.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tres pasos hacia una idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/106/552162fcad49e5680c611ac063cd749c/master.m3u8?1704974152"
+                },
+                {
+                    "id": null,
+                    "title": "Identidades a partir de una pieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/107/10803b1b676699ffff0b8c7fb3f2f574/master.m3u8?1704974186"
+                },
+                {
+                    "id": null,
+                    "title": "De la idea a la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/108/8b7fed4f5eecc06b2b4627ff52f19405/master.m3u8?1704974222"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollar el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/109/4ce30871e32011d7772a7c97ce36af49/master.m3u8?1704974251"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/65wwx8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Contar nuestro proceso",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo contar tus ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/110/b08d2e813aa0c0162308a0ce369147da/master.m3u8?1704974322"
+                },
+                {
+                    "id": null,
+                    "title": "Posibles escenarios y cómo seguir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/111/be345b7dae4fde1bdb96c49ebd86c12a/master.m3u8?1704974430"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ql0pvw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/iemzy7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3428,
+        "product_name": "Visual identity Design for Businesses",
+        "teacher_name": "Atolón de Mororoa",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 2679,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

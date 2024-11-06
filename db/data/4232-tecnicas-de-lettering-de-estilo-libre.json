@@ -1,0 +1,153 @@
+{
+    "id": "4232",
+    "title": "Técnicas de lettering de estilo libre",
+    "url": "https://www.domestika.org/es/courses/4232-tecnicas-de-lettering-de-estilo-libre/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/398/b36d52bf7802ee4b20f66349e0a1446c/master.m3u8?1676408883"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/399/e2a8cc8d6485f1c6d09a679eb0315b1c/master.m3u8?1676408882"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dcgcdu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción y lluvia de ideas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al lettering experimental",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/400/a88b954243769c819ead0f0068b402ce/master.m3u8?1676408882"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/401/c35745bb81e761d6f52469a24db21bac/master.m3u8?1676408889"
+                },
+                {
+                    "id": null,
+                    "title": "Resumen del curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/402/d401375a97850ee86c491767c00fb913/master.m3u8?1676408881"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iiitmk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación de las diferentes técnicas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tinta gruesa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/403/ae0b1cb1b78500e522eb54c7e422a6a5/master.m3u8?1676408890"
+                },
+                {
+                    "id": null,
+                    "title": "Cepillo de espuma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/404/d85d74c4bbfaa7f66eefa6a2829bf380/master.m3u8?1676408890"
+                },
+                {
+                    "id": null,
+                    "title": "Mojado sobre mojado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/405/d37c01e1f6608279c3019161911e14d6/master.m3u8?1676408886"
+                },
+                {
+                    "id": null,
+                    "title": "Letras líquidas y de burbujas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/406/b8340a270cc98575271e80911953577b/master.m3u8?1676408885"
+                },
+                {
+                    "id": null,
+                    "title": "Lettering digital y AR",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/407/99b62de7856bbd5bc841322f6926f80d/master.m3u8?1676408894"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tc66i1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sustratos experimentales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Letras líquidas en el postre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/408/702aca929271ebce81085d417edd700d/master.m3u8?1676408894"
+                },
+                {
+                    "id": null,
+                    "title": "Lejía en la ropa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/409/b92216c0fc22295bd69a62e2644a8562/master.m3u8?1676408893"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xi49jb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8jbxt9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4232,
+        "product_name": "Freestyle Lettering Techniques",
+        "teacher_name": "Snooze One",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6887,
+        "total_units": 4,
+        "subtitles_language": [
+            "de",
+            "es",
+            "en",
+            "pt",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "de"
+        ],
+        "original_language": "de"
+    }
+}

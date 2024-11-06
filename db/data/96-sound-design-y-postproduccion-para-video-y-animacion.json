@@ -1,0 +1,252 @@
+{
+    "id": "96",
+    "title": "Sound design y postproducción para vídeo y animación",
+    "url": "https://www.domestika.org/es/courses/96-sound-design-y-postproduccion-para-video-y-animacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/068/a18a27bba3c5210087d57dcaa18ac9bf/master.m3u8?1676381377"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/069/455ea317dbc1ef10763f66baa3fed8f7/master.m3u8?1676381384"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/11vquq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Nociones básicas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sonido I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/070/d817831b85cc3224bf06b101a4e273e9/master.m3u8?1676381384"
+                },
+                {
+                    "id": null,
+                    "title": "Sonido II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/071/d7b94e984e339526ce825bc24f689020/master.m3u8?1676381388"
+                },
+                {
+                    "id": null,
+                    "title": "Sonido III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/072/f54ae861935a00d22d4c5cd51e360fd1/master.m3u8?1676381387"
+                },
+                {
+                    "id": null,
+                    "title": "Música I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/073/4ad6f81cb08ac3fe3fb8b4e6b0739e76/master.m3u8?1676381384"
+                },
+                {
+                    "id": null,
+                    "title": "Música II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/074/929579b5cf92f50a830ed893529476dc/master.m3u8?1676381385"
+                },
+                {
+                    "id": null,
+                    "title": "Música III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/075/a548ff775e3cbdd9f161a3584d85304d/master.m3u8?1676381386"
+                },
+                {
+                    "id": null,
+                    "title": "Unión entre el vídeo y el sonido I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/076/50289061db45a7d5984c6c7edbb750d2/master.m3u8?1676381387"
+                },
+                {
+                    "id": null,
+                    "title": "Unión entre el vídeo y el sonido II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/077/392146f3d897514d9d6b72bfa024007f/master.m3u8?1676381379"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9bia5u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción cómo conseguir la materia con la que trabajaremos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Plantear nuestra pieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/078/c8f44ba4bcef24afed975b10c0c904b0/master.m3u8?1676381384"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo conseguir tus sonidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/079/c5e285e2bc0b58bb9ee1fa38f7768fe0/master.m3u8?1676381382"
+                },
+                {
+                    "id": null,
+                    "title": "Limpiar nombrar y organizar tus sonidos I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/080/43d96cc2ab61cfeb4dfbe1f2d7d63e3d/master.m3u8?1676381390"
+                },
+                {
+                    "id": null,
+                    "title": "Limpiar nombrar y organizar tus sonidos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/081/385327fea7b57178897feec702782ecb/master.m3u8?1676381386"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wtl3j2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción 100 común en cualquier software",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Trabajando el sonido I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/082/eee3a47b7e60b28d51f19aec93b750f6/master.m3u8?1676381389"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando el sonido II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/083/d6da345398eacdcc60d8a40a6dea5ea6/master.m3u8?1676381388"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando el sonido III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/084/30e7bf74b542ed7c113771d62b40f354/master.m3u8?1676381386"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando el sonido IV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/085/182873e10a666d139bb483e41f0d901b/master.m3u8?1676381391"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando la música I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/086/f035964ebf8ed23cfb77cbf59c7acaa5/master.m3u8?1676381394"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando la música II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/087/545d66f911e4b08bbba8f551a9d11935/master.m3u8?1676381392"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qwswxf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción 90 común en cualquier software de audio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Funcionamiento típico de un software de audio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/088/25a667749705e252a55666ba9003639f/master.m3u8?1676381392"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar más a fondo el sonido I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/089/8d790a387ae660609e369edb4586edbd/master.m3u8?1676381397"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar más a fondo el sonido II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/090/728e55197e30ac40222577b77082e054/master.m3u8?1676381394"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar más a fondo la música I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/091/61f203c97973227e4c0d44bc2abf3db2/master.m3u8?1676381398"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar más a fondo la música II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/097/edda2a0e2ea96b75f8b45c9a7f383e8c/master.m3u8?1676381395"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5zp3bu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Masterizar y Exportar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sacar el master de tu pieza I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/092/13d0840c537747adcba5cc92c9532ca3/master.m3u8?1676381399"
+                },
+                {
+                    "id": null,
+                    "title": "Sacar el master de tu pieza II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/093/7e9ac825472e86106c2401df2af43577/master.m3u8?1676381391"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6y96bt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/eek7ml.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 96,
+        "product_name": "Sound Design and Post-Production for Video and Animation",
+        "teacher_name": "Aimar Molero",
+        "category_id": 19,
+        "category_name": "Music & Audio",
+        "course_level": "beginner",
+        "course_number_of_lessons": 27,
+        "course_total_duration_sec": 24145,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

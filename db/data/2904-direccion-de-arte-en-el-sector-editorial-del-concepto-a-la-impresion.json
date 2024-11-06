@@ -1,0 +1,153 @@
+{
+    "id": "2904",
+    "title": "Dirección de arte en el sector editorial del concepto a la impresión",
+    "url": "https://www.domestika.org/es/courses/2904-direccion-de-arte-en-el-sector-editorial-del-concepto-a-la-impresion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/578/e93910440e2929ef210d592014b42e3e/master.m3u8?1676404514"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestras fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/579/6141b71044c3189c45199c58f7ef96f0/master.m3u8?1676404518"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2x279l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La dirección artística en el sector editorial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la dirección artística",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/580/92a8cdea6576a6150e86f6a85c5b2316/master.m3u8?1676404518"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración e impulso creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/581/4ead0574259a7da86b21ce502f47cae2/master.m3u8?1676404517"
+                },
+                {
+                    "id": null,
+                    "title": "Utilizar un brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/582/266bbb50164ad7bfad9935f09b1560a0/master.m3u8?1676404517"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lt6djw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El diseño grafico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cuadrícula de composición y plano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/583/198c43a5a01eaacf4e0187029e9851a3/master.m3u8?1676404521"
+                },
+                {
+                    "id": null,
+                    "title": "Las imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/584/7feedef662d6c89bfb6683d8086e1edd/master.m3u8?1676404517"
+                },
+                {
+                    "id": null,
+                    "title": "La tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/585/6f2186ba03d3fa8b51efd4578c6d0e26/master.m3u8?1676404519"
+                },
+                {
+                    "id": null,
+                    "title": "Los textos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/586/12e1ab953363156808d72d8f4fda7fc1/master.m3u8?1676404519"
+                },
+                {
+                    "id": null,
+                    "title": "Las cubiertas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/587/7e20a947749da3ee43ad0b017c2c70a5/master.m3u8?1676404519"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2kntdv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El objeto impreso",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El objeto papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/588/965b42aa507ecd68925a953533dc60b2/master.m3u8?1676404520"
+                },
+                {
+                    "id": null,
+                    "title": "Comunicar sobre tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/589/a4d44d1a3eda0c961ed296ca5302c38c/master.m3u8?1676404521"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9v27io.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3huai8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2904,
+        "product_name": "Art Direction and Publishing: From Concept to Print",
+        "teacher_name": "Akatre",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4776,
+        "total_units": 4,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

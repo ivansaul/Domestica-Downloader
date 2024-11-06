@@ -1,0 +1,163 @@
+{
+    "id": "2573",
+    "title": "Visualización de datos con medios alternativos",
+    "url": "https://www.domestika.org/es/courses/2573-visualizacion-de-datos-con-medios-alternativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/884/40eceb66167becc333da825d1f5af98d/master.m3u8?1676398449"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/885/df9a8f606e0c9e64d0d50071ab6e43db/master.m3u8?1676398447"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aq5t9h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicar datos a tu arte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El medio agrega significado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/886/1aad3f302382ae6d3b116bea5b984a17/master.m3u8?1676398449"
+                },
+                {
+                    "id": null,
+                    "title": "Fuentes de datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/887/3708b3601892ecaba20f8495d66c811b/master.m3u8?1676398451"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al punto de cruz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/888/5c17b95dfae5340f4ceb9d55e0cbda07/master.m3u8?1676398456"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/360ca5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño y elaboración de tu trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diferentes formas de visualizar datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/889/f233cd9a2b0dc6768fdacde49ad378fc/master.m3u8?1676398453"
+                },
+                {
+                    "id": null,
+                    "title": "Crear el diseño de tu gráfico en Illustrator 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/890/e32ca5fedd10c6688fa4528c5ef36ffd/master.m3u8?1676398453"
+                },
+                {
+                    "id": null,
+                    "title": "Crear el diseño de tu gráfico en Illustrator 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/891/565db4199bdf2caf2459489c92cbf2f5/master.m3u8?1676398455"
+                },
+                {
+                    "id": null,
+                    "title": "Traducir el diseño de tu gráfico a un patrón en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/892/bb218dc3b9cb89af6c0dda0f0052f4f7/master.m3u8?1676398453"
+                },
+                {
+                    "id": null,
+                    "title": "Comenzar a coser tu proyecto en punto de cruz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/893/8bebabb3bc0cf07773e6c60470cad701/master.m3u8?1676398460"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo terminar tu pieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/894/51fcd226fe70d75b31c0b0faba8a89a6/master.m3u8?1676398455"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kc4ju6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Documentación y compartir tu trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Documentar tu trabajo y aplicar etiquetas digitales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/895/5fca258ceabcdc040269719d367ed68d/master.m3u8?1676398456"
+                },
+                {
+                    "id": null,
+                    "title": "Compartir tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/896/666ea34bc37ee21a123b965e0e7c8156/master.m3u8?1676398452"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/897/84136798f1bfd355c9567b12eba49841/master.m3u8?1676398453"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ew9773.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ouccf2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2573,
+        "product_name": "Data Visualization with Alternative Mediums",
+        "teacher_name": "Olivia Johnson",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 9249,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "id": "174",
+    "title": "Lettering e Ilustración Composición técnicas y aplicación",
+    "url": "https://www.domestika.org/es/courses/174-lettering-e-ilustracion-composicion-tecnicas-y-aplicacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/060/7e867b969c11d8747e7866113a518523/master.m3u8?1676382421"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/059/7e86e609d4bad08c51e2033ff766e4dd/master.m3u8?1676382421"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/po0jh8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dirección de Arte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proceso creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/061/160af84f689180be054fa11a13c3b5ce/master.m3u8?1676382422"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración investigación u0026 Moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/062/05a62cd800d832f78b8ae422f3a42b88/master.m3u8?1676382423"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/063/5874deccea703f2b83f46ffd657175cf/master.m3u8?1676382422"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xnf5x6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El Layout",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Layout Espacio contenido y jerarquía  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/064/05d30370b861687447d8aab5c31b39c2/master.m3u8?1676382428"
+                },
+                {
+                    "id": null,
+                    "title": "Layout Espacio contenido y jerarquía  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/065/874f0b6ee4dd172c67407a353cf566cd/master.m3u8?1676382422"
+                },
+                {
+                    "id": null,
+                    "title": "Tips de composición y jerarquía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/084/745b413fac5677ae3d4535fc12a76a52/master.m3u8?1676382432"
+                },
+                {
+                    "id": null,
+                    "title": "El layout de nuestro proyecto  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/085/412e74ca454cff3adaaf8042446d8813/master.m3u8?1676382432"
+                },
+                {
+                    "id": null,
+                    "title": "El layout de nuestro proyecto  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/086/04168a7dc630a2c4a6663e9190ea3999/master.m3u8?1676382435"
+                },
+                {
+                    "id": null,
+                    "title": "Autocrítica y análisis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/069/cb4e82e4347ef2bf56f53f2f2812c1ef/master.m3u8?1676382423"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/orhqou.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lettering",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ilustrando a base de lettering diferentes procesos  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/070/ae213d60af0796a603afb81ab6145645/master.m3u8?1676382427"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrando a base de lettering diferentes procesos  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/071/96039bc3b1197c3539561067e60e489f/master.m3u8?1676382428"
+                },
+                {
+                    "id": null,
+                    "title": "Tips para elegir estilos de letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/072/0d6e751ea09fcc93ad9c5d661ad91851/master.m3u8?1676382425"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo vectorizar letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/073/b6f0f889653266e65d333f6bfa524fb8/master.m3u8?1676382428"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tsy7cy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ilustración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ilustrar a partir de letras base",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/074/a4709aa9263519b65eede5f0cfcaa51b/master.m3u8?1676382429"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir el estilo adecuado de ilustración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/075/71eabbf3bf571be78b3156364baa5851/master.m3u8?1676382430"
+                },
+                {
+                    "id": null,
+                    "title": "Tips u0026 tricks Recursos para no ilustradores  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/076/4b2dd6c1014a772ceb23829c2139ac15/master.m3u8?1676382432"
+                },
+                {
+                    "id": null,
+                    "title": "Tips u0026 tricks Recursos para no ilustradores  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/077/c7d353e192327170e9a539911e82e360/master.m3u8?1676382433"
+                },
+                {
+                    "id": null,
+                    "title": "Brushes texturas sombreado y otros recursos útiles  Parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/078/f6ee0171dfb81ea6a545a005a97fea8b/master.m3u8?1676382433"
+                },
+                {
+                    "id": null,
+                    "title": "Brushes texturas sombreado y otros recursos útiles  Parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/079/2032e644fe44841a6f989529f27536f3/master.m3u8?1676382431"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wj5xtw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El arte final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ejecución a partir del layout  Union Pool lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/093/f526e38f962bd686b02ca312431a4878/master.m3u8?1676382437"
+                },
+                {
+                    "id": null,
+                    "title": "Ejecución a partir del layout  Union Pool ilustración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/088/cdad20d8a40bcb65d35714aa1483a85a/master.m3u8?1676382436"
+                },
+                {
+                    "id": null,
+                    "title": "Ejecución a partir del layout  Best Pizza lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/089/73cf4c8a40dccf50bd33471d8205653c/master.m3u8?1676382437"
+                },
+                {
+                    "id": null,
+                    "title": "Ejecución a partir del layout  Best Pizza ilustración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/090/e10b0a8bdbc238a24e7b6a0b0ff3cdfd/master.m3u8?1676382435"
+                },
+                {
+                    "id": null,
+                    "title": "Ejecución a partir del layout  Milk Bar lettering",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/091/d5d1329ebd39a9dafa005fe0f4fc2e19/master.m3u8?1676382435"
+                },
+                {
+                    "id": null,
+                    "title": "Ejecución a partir del layout  Milk Bar ilustración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/092/56c700a30e211c7634c8294446255401/master.m3u8?1676382443"
+                },
+                {
+                    "id": null,
+                    "title": "Unir las ilustraciones y las letras en nuestro diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/081/466eb4ae1df68ed22e4963188353148b/master.m3u8?1676382429"
+                },
+                {
+                    "id": null,
+                    "title": "Acabados finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/082/30278561b7366c7512c18db59a3a94ef/master.m3u8?1676382435"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t30vzs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/dkl4zj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 174,
+        "product_name": "Lettering and Illustration: Composition, Techniques, and Application",
+        "teacher_name": "Sindy Ethel & Alan Rodríguez (R3DO)",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 29,
+        "course_total_duration_sec": 20000,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

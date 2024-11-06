@@ -1,0 +1,173 @@
+{
+    "id": "3656",
+    "title": "Creación de una identidad visual completa para un lugar",
+    "url": "https://www.domestika.org/es/courses/3656-creacion-de-una-identidad-visual-completa-para-un-lugar/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/194/14c2d22540160224273aee26aafe09c7/master.m3u8?1676408726"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestras fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/195/bbf128037c98ba73dde463b38b7b3d3a/master.m3u8?1676408729"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rwf4n1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos para crear una identidad de lugar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo crear una identidad de lugar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/196/10450b534657497f4913ee5ab7479d8c/master.m3u8?1676408727"
+                },
+                {
+                    "id": null,
+                    "title": "Conoce al cliente el brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/197/521c6de070572d1689c32d04a7e14bc9/master.m3u8?1676408731"
+                },
+                {
+                    "id": null,
+                    "title": "El moodboard del cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/198/c4d7b8f6b03b7833cc601c785d3eccd8/master.m3u8?1676408732"
+                },
+                {
+                    "id": null,
+                    "title": "El mood board de Fakepaper",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/199/03f2cc0772253529534300f9b70c2adb/master.m3u8?1676408733"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bou0ch.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo de conceptos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Investigación y documentación iconográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/200/674454c02d2660c9c1b8aa39da15b8da/master.m3u8?1676408735"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un banco de ilustraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/201/ddf0915882d167e68405cf3f58fad56d/master.m3u8?1676408733"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorización de ilustraciones en Illustrator",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/202/216e9b693dd33ff2af3eeb5166018b78/master.m3u8?1676408731"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía y composición de visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/203/b46e01a24a38692855d7fc2500f91dc5/master.m3u8?1676408734"
+                },
+                {
+                    "id": null,
+                    "title": "Despliegue de identidad el logotipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/204/c47e09079ce31329f8e0ac16d611022c/master.m3u8?1676408735"
+                },
+                {
+                    "id": null,
+                    "title": "El uso de maquetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/205/863eb98c94fed68bbd146042eb6fd7e3/master.m3u8?1676408734"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kxhcob.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicación de la identidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El primer medio digital la landing page",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/206/89d5ed850ca734b1b330bb7a211ef215/master.m3u8?1676408737"
+                },
+                {
+                    "id": null,
+                    "title": "El sitio completo los planos de las habitaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/207/7ac6db5ff220e098d7dac0918e44090e/master.m3u8?1676408738"
+                },
+                {
+                    "id": null,
+                    "title": "Los primeros medios impresos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/208/b1505708121d64dcf3cb6cea2d07ef6c/master.m3u8?1676408742"
+                },
+                {
+                    "id": null,
+                    "title": "Los primeros medios impresos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/209/b4235d0c806681dcbd5ee0bfe48afa33/master.m3u8?1676408736"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ytm0jo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/jvd7pz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3656,
+        "product_name": "Visual Identity Design for Hospitality",
+        "teacher_name": "Fakepaper",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 10721,
+        "total_units": 4,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

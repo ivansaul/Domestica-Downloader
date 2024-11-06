@@ -1,0 +1,153 @@
+{
+    "id": "3360",
+    "title": "Estrategias de Brand Storytelling",
+    "url": "https://www.domestika.org/es/courses/3360-estrategias-de-brand-storytelling/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/668/523ffdca8dcc3cb496b0f9331445ac23/master.m3u8?1676404557"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/669/59c157b9b8aa3d66a6d864cf85f4897c/master.m3u8?1676404557"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4ekord.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación calentando motores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dándole sentido a tu marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/670/996419f20316b50a2a9cf7f04f6f31d5/master.m3u8?1676404556"
+                },
+                {
+                    "id": null,
+                    "title": "Storytelling y brand storytelling diferencias y similitudes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/671/f98f723f9892dd7a36ffc76adc17d3f8/master.m3u8?1676404561"
+                },
+                {
+                    "id": null,
+                    "title": "La información que necesitas para trabajar el brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/672/e5812cb90392c7ffb4a719790a4606ce/master.m3u8?1676404561"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rpvi6l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Universo de marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando marcas que se viven y se sienten",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/673/1a06d2a02d7d379550a2725c0835df74/master.m3u8?1676404560"
+                },
+                {
+                    "id": null,
+                    "title": "Tono de voz la marca en palabras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/674/7d3c431fe6847b56c26eb7e5192565ec/master.m3u8?1676404564"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ucqi7t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tu estrategia de brand storytelling",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es y quién es la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/675/020673a3a714de2fb33d617f01c25b79/master.m3u8?1676404560"
+                },
+                {
+                    "id": null,
+                    "title": "Competencia y segmento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/676/baf181c9a663ef9125bb218df7ccd544/master.m3u8?1676404559"
+                },
+                {
+                    "id": null,
+                    "title": "Tono de comunicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/677/4f883cc236f82487f5c9dd3c9be9ce60/master.m3u8?1676404561"
+                },
+                {
+                    "id": null,
+                    "title": "Territorio de contenidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/678/c73946c100779e1e4385adf5d86fa651/master.m3u8?1676404561"
+                },
+                {
+                    "id": null,
+                    "title": "Conversación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/679/7dbb0e0fc885c02833eb56872db9e2b3/master.m3u8?1676404564"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k9log3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8endt7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3360,
+        "product_name": "Strategies for Brand Storytelling",
+        "teacher_name": "Anita Cufari",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6563,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

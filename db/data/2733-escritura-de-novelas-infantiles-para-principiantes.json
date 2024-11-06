@@ -1,0 +1,158 @@
+{
+    "id": "2733",
+    "title": "Escritura de novelas infantiles para principiantes",
+    "url": "https://www.domestika.org/es/courses/2733-escritura-de-novelas-infantiles-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/728/eabe642cb247ec4cf3b8469155c7eda1/master.m3u8?1676400495"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/729/515d903f86065a44ce97e5de27677400/master.m3u8?1676400494"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5otif2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Encontrar ideas y prepararse para escribir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales para escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/730/07f731e3b6b3013a62949f99c81a1d45/master.m3u8?1676400496"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/731/cf98e97bba12fa5d8ff7f8f26d4cfa28/master.m3u8?1676400498"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir tus personajes principales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/732/20cd1cd17b832a72741758b138c42162/master.m3u8?1676400498"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar material en su pasado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/733/ef77cd7b9452feb03f4be15023ebcc10/master.m3u8?1676400500"
+                },
+                {
+                    "id": null,
+                    "title": "Planificando una historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/734/569006f5aa813b7d5cc33722deeec993/master.m3u8?1676400498"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vvhac5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo enriquecer tu escritura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Investigar para conectar con su audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/735/fbc8f7a27e3c321e0ca36cbfb2299a84/master.m3u8?1676400500"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de mostrar no decir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/736/f9a50956c36039c3152cd9171557c61e/master.m3u8?1676400501"
+                },
+                {
+                    "id": null,
+                    "title": "Tableros de música y estado de ánimo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/737/00e91a367b083eaa9c60dc54fd37b540/master.m3u8?1676400499"
+                },
+                {
+                    "id": null,
+                    "title": "Redacción y finalización de su borrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/738/88523024b517b58416f3acd1a65351ce/master.m3u8?1676400500"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b8t6xr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Editar y terminar su escrito",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Editando su escritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/739/08a4979ce3f11568ee86eda89f9676b6/master.m3u8?1676400502"
+                },
+                {
+                    "id": null,
+                    "title": "Compartiendo su escritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/740/380072837f224ff74912a269fb6f637d/master.m3u8?1676400499"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3415l7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/amyyxt.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2733,
+        "product_name": "Children's Novel Writing for Beginners",
+        "teacher_name": "Lisa Thompson",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5969,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

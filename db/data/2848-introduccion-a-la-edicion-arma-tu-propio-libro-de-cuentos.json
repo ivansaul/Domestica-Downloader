@@ -1,0 +1,157 @@
+{
+    "id": "2848",
+    "title": "Introducción a la edición arma tu propio libro de cuentos",
+    "url": "https://www.domestika.org/es/courses/2848-introduccion-a-la-edicion-arma-tu-propio-libro-de-cuentos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/368/4a390a37b7fc6e95a93bb382d5d2e4c6/master.m3u8?1676403480"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/369/cd19585aabbeb8abdbb5efbf77e45579/master.m3u8?1676403478"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e51580.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos del editor",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Esto es un libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/370/cf66b227421fe81b294708da808e264b/master.m3u8?1676403481"
+                },
+                {
+                    "id": null,
+                    "title": "Contenido y géneros literarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/371/e0d496f3f430214b86ebea99180af450/master.m3u8?1676403478"
+                },
+                {
+                    "id": null,
+                    "title": "Montaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/372/038689a7a4043b153016af86d0f478db/master.m3u8?1676403484"
+                },
+                {
+                    "id": null,
+                    "title": "Clasificación de cuentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/373/ac31011cc733ee6a9507ec3ae7fbe10a/master.m3u8?1676403483"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6i6vbu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Componer el libro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Esqueleto del libro y primer orden 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/374/2c4bfe897df05892e8127c98b87108af/master.m3u8?1676403480"
+                },
+                {
+                    "id": null,
+                    "title": "Esqueleto del libro y primer orden 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/375/80ec21f65836274e7c65a05cf37de9a2/master.m3u8?1676403482"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura final del libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/376/9b02a4794efb0599e06667073018589c/master.m3u8?1676403483"
+                },
+                {
+                    "id": null,
+                    "title": "Corrección final síntesis argumental y título",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/377/1ada954b369a705a6fae6989ec8a3af9/master.m3u8?1676403482"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8tpiwd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hacia dónde vas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo contactar a una editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/378/62b0ee7bcc325b4a2e9c6fde258de041/master.m3u8?1676403482"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo es un contrato editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/379/b4d8e3e6a91395e4ce75e125678b89ad/master.m3u8?1676403480"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo autopublicar tu libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/380/a2cdaa683cd7acbc20fb5b95728cd16a/master.m3u8?1676403483"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xzqr4j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ltb1ak.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2848,
+        "product_name": "Introduction to Publishing: Build Your Own Storybook",
+        "teacher_name": "Paula Brecciaroli",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 9425,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

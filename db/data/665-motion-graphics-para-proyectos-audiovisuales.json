@@ -1,0 +1,210 @@
+{
+    "id": "665",
+    "title": "Motion graphics para proyectos audiovisuales",
+    "url": "https://www.domestika.org/es/courses/665-motion-graphics-para-proyectos-audiovisuales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/910/f5f6c1b1382dbcc54920b16b481c6e98/master.m3u8?1676388021"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/911/b43cd8a70c68a15930550164d944a129/master.m3u8?1676388023"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/912/d9664deb43286c0bb9c544e9a67bb1bc/master.m3u8?1676388021"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wdhw6z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Analicemos nuestra marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elección y análisis de nuestro logo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/914/ec77587b5ac093952fc7e5fcae4a0c47/master.m3u8?1676388024"
+                },
+                {
+                    "id": null,
+                    "title": "Branding para televisión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/915/09d895738c9913becf4f06e067272876/master.m3u8?1676388026"
+                },
+                {
+                    "id": null,
+                    "title": "El storytelling",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/916/4f022676a23d5b8eac4a3f436cc99a58/master.m3u8?1676388027"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestro storyboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/917/c42ba890f924060668e229764f66afb6/master.m3u8?1676388027"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tcsb2u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Animemos nuestro logo en 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dar volumen y estilo a nuestro logo en 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/921/93bb04a3a178870bb0b3ff25648f75fe/master.m3u8?1676388034"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicar materiales e iluminación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/922/cc1f8834229fa41c1f7fa253f10e934e/master.m3u8?1676388031"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicar materiales e iluminación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/925/e5cdd9ed3b030cddccc8692bf34641fd/master.m3u8?1676388033"
+                },
+                {
+                    "id": null,
+                    "title": "Hagamos animación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/923/c55b51c4e8e8eaae4c02220a3fa7f52f/master.m3u8?1676388036"
+                },
+                {
+                    "id": null,
+                    "title": "Hagamos animación 3D 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/924/8ed1e88139f4166f0512741bb36ed302/master.m3u8?1676388034"
+                },
+                {
+                    "id": null,
+                    "title": "Hagamos animación 3D 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/926/1e3d286b5f7b9716dfe35b308cd56471/master.m3u8?1676388033"
+                },
+                {
+                    "id": null,
+                    "title": "Saquemos nuestros renders 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/927/ffe4f74e3d3abc7350ca2335cd3398cd/master.m3u8?1676388036"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4pme1n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Armando de nuestra animación en After Effects",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparemos nuestro proyecto de After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/928/b11c969c550cd2dd8e1b26fbe9ed5aee/master.m3u8?1676388033"
+                },
+                {
+                    "id": null,
+                    "title": "Armemos nuestra animación en After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/929/79cf65d69c8f53145ea9c5e2866cbbf8/master.m3u8?1676388038"
+                },
+                {
+                    "id": null,
+                    "title": "Editemos nuestra animación en After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/930/889dfb6812044827f4f6ea1b6d951414/master.m3u8?1676388037"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/76rxbh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Apliquemos acabados finales y efectos a nuestra animación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Efectos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/931/da2111895e9f78bb0f5882d03c0813cf/master.m3u8?1676388041"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/932/8d1f39b663a4364edf89070b6889d6b4/master.m3u8?1676388040"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/933/9a7bd004797592eb5c142632fd55ea38/master.m3u8?1676388039"
+                },
+                {
+                    "id": null,
+                    "title": "Toques finales y export de nuestra animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/934/772af91af708cebcec0e476d7191481d/master.m3u8?1676388040"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gmpmdi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1dfosh.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 665,
+        "product_name": "Motion Graphics for Audiovisual Projects",
+        "teacher_name": "DON PORFIRIO",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 15606,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

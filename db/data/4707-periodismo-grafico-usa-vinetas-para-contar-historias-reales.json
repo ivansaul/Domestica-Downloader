@@ -1,0 +1,143 @@
+{
+    "id": "4707",
+    "title": "Periodismo gráfico Usa viñetas para contar historias reales",
+    "url": "https://www.domestika.org/es/courses/4707-periodismo-grafico-usa-vinetas-para-contar-historias-reales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/278/8829249016ce68df8cda1b43a962c24b/master.m3u8?1676412053"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/279/b2564955c875e54b5b4160d997faf494/master.m3u8?1676412055"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zu08z3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elige un tema y un tono",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/280/f15d2661f85ebab3b9dac783a24089e5/master.m3u8?1676412057"
+                },
+                {
+                    "id": null,
+                    "title": "Ponte en la piel de un reportero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/281/c07357360af06aa6ecc103230d5453f2/master.m3u8?1676412054"
+                },
+                {
+                    "id": null,
+                    "title": "Transformación de reportero a narrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/285/8e8ca5d5beb9dfc275caca918051fa6a/master.m3u8?1676412058"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir el guion del cómic",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/287/6c798a8f86658c9e2184d8d197411855/master.m3u8?1676412060"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8e43yu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeros borradores del cómic",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/293/77fc47538223ac359998d8c3ced19a72/master.m3u8?1676412067"
+                },
+                {
+                    "id": null,
+                    "title": "Elección de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/295/d96a82fed6a6a05652ca5695c7d61753/master.m3u8?1676412069"
+                },
+                {
+                    "id": null,
+                    "title": "Añadir texto y compararlo con el exterior",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/297/6eea1f2ebb3e2d6221670113a78500dd/master.m3u8?1676412067"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wourqs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Publicación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Enlace con el editor y la audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/298/c69c7e7140667131155b6c2bbd9940d1/master.m3u8?1676412064"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/487nx0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/dwlw5y.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4707,
+        "product_name": "Graphic Journalism: Use comics to tell real stories",
+        "teacher_name": "Takoua Ben Mohamed",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 10,
+        "course_total_duration_sec": 5434,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

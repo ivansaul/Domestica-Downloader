@@ -1,0 +1,163 @@
+{
+    "id": "3906",
+    "title": "Fotografía lifestyle exprésate en Instagram",
+    "url": "https://www.domestika.org/es/courses/3906-fotografia-lifestyle-expresate-en-instagram/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/453/b076f09abfb5467cafff735e54391350/master.m3u8?1676410959"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/454/12ccde3534f51cc762b4a096e446dc8c/master.m3u8?1676410960"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k6azq4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prepararse",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/455/5700fcdf9fee32313162d4fc70f5e1d6/master.m3u8?1676410960"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos para capturar la luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/456/f4a1e904272e088afeee7c56673a1be7/master.m3u8?1676410961"
+                },
+                {
+                    "id": null,
+                    "title": "El mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/457/39c8bd8c9e89619cb5334c36519b01e7/master.m3u8?1676410962"
+                },
+                {
+                    "id": null,
+                    "title": "Objetos accesorios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/458/76db1f73cf6c4ffe2c09f58d1cf349be/master.m3u8?1676410962"
+                },
+                {
+                    "id": null,
+                    "title": "Los bocetos de composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/459/ddbbb786d5489edb39cc0cc4ac4d803d/master.m3u8?1676410963"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8i5aj2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sesión de fotos y retoque",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografía fotos de productos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/460/8a0c057b10252ba23efe2a83e34733fa/master.m3u8?1676410973"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía escenas de estilo de vida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/461/e4f2c5ab28e3015c069df2d43479225c/master.m3u8?1676410967"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía el artesano y su taller",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/462/0338f056619e1168b9375e8dc79c3fe8/master.m3u8?1676410966"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque con Adobe Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/463/4fcc61da09ebe01ff33e4a7e80481d8f/master.m3u8?1676410965"
+                },
+                {
+                    "id": null,
+                    "title": "La cuadrícula de Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/464/842692f08c7e7cea46a5f740f923c68e/master.m3u8?1676410964"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/93gm0q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Compartir tu trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografía artista cómo ponerte en escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/465/ee85c14a929ac81718c216a2298ac73e/master.m3u8?1676410964"
+                },
+                {
+                    "id": null,
+                    "title": "Publicar tu trabajo en las redes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/466/b6dafd05219d41a2bfcc30ea817fce67/master.m3u8?1676410967"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/crmk7l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mnbtgl.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3906,
+        "product_name": "Lifestyle Photography: Express Yourself on Instagram",
+        "teacher_name": "Olivia Thébaut",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4878,
+        "total_units": 4,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

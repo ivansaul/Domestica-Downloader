@@ -1,0 +1,183 @@
+{
+    "id": "1572",
+    "title": "WordPress crea una web profesional desde cero",
+    "url": "https://www.domestika.org/es/courses/1572-wordpress-crea-una-web-profesional-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/157/e6fa6511c742774183f58bb1d8e0243c/master.m3u8?1676393826"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/158/f6df8c05454af6487da24a338823a540/master.m3u8?1676393827"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/159/fc8258c1b24bcc2f55aacbfadfe31751/master.m3u8?1676393827"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/95ownb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos en WordPress",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es WordPress",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/160/45ef7be924201eb3562cbecb5ca0e46d/master.m3u8?1676393829"
+                },
+                {
+                    "id": null,
+                    "title": "El panel de administración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/162/3c3380661c87ea0ca5cff66ad9ce8f9b/master.m3u8?1676393829"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes iniciales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/163/1a76c211da410a39a522943c544e8c6e/master.m3u8?1676393832"
+                },
+                {
+                    "id": null,
+                    "title": "Instalación de WordPress",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/177/fc605b2453e551921c289eca7a10769f/master.m3u8?1676393835"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/klqqdy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proceso de creación del sitio web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando una página",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/164/e438c41b7302c83ff098396a56c09a80/master.m3u8?1676393833"
+                },
+                {
+                    "id": null,
+                    "title": "Creando tus primeras publicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/165/fc302be239b56a421e97007813e91d12/master.m3u8?1676393833"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando un tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/175/0b00a4811c915e0441408be8f2d71048/master.m3u8?1676393835"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de su tema 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/166/da1a512fe23f99072e45af2dc0883d43/master.m3u8?1676393832"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de su tema 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/167/8b943fc8088cbddb594e050b7ace492c/master.m3u8?1676393835"
+                },
+                {
+                    "id": null,
+                    "title": "Pagina principal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/168/a6f09427e68df02b15e7924b8d955452/master.m3u8?1676393837"
+                },
+                {
+                    "id": null,
+                    "title": "Menús widgets y CSS personalizados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/169/a648c063dba204d9780c42af1be714b2/master.m3u8?1676393836"
+                },
+                {
+                    "id": null,
+                    "title": "Complementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/170/1326a674bdb3f82775e02519f38ed339/master.m3u8?1676393844"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zjggk1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Publicando el sitio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Publicar su sitio web en la web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/172/5079b2052cd77f5eab771edf939d7082/master.m3u8?1676393837"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/173/b6c46a708a945d5fb0950ce007426af1/master.m3u8?1676393835"
+                },
+                {
+                    "id": null,
+                    "title": "Hosting y dominio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/179/e1e2299b697dc3fda64840451fa8a320/master.m3u8?1676393837"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b28a8v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/yf1u96.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1572,
+        "product_name": "WordPress: Create a Professional Website from Scratch",
+        "teacher_name": "Anyssa Ferreira",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 9936,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

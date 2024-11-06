@@ -1,0 +1,163 @@
+{
+    "id": "3908",
+    "title": "Lanzamiento de un negocio en redes sociales desde cero",
+    "url": "https://www.domestika.org/es/courses/3908-lanzamiento-de-un-negocio-en-redes-sociales-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/655/fa3f6ba030c9553e108e06957534071e/master.m3u8?1676408449"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/656/55b55cf55788c2ce3298532f85d1de27/master.m3u8?1676408447"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/677372.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo un negocio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando una idea fuerte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/658/91831947922e6183e518528d09ce400d/master.m3u8?1676408449"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación de mercado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/659/f4e0b06eacc6a520fdd686c2042402e6/master.m3u8?1676408453"
+                },
+                {
+                    "id": null,
+                    "title": "Marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/663/d8522e3babbd3d75efba5022534443c5/master.m3u8?1676408451"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir la plataforma de redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/664/22b4bfbadd682bd08c52120a93bb5c20/master.m3u8?1676408455"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rribz2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aprovechar las redes sociales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear contenido y tener presencia online",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/665/beddd225f8b2122fe0ae01d517c2d4eb/master.m3u8?1676408461"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategias de lanzamiento 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/666/896bff8fa9a01f2b726b491c0f018536/master.m3u8?1676408460"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategias de lanzamiento 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/667/4810e24adb382f8d24516b7eb49c3c35/master.m3u8?1676408457"
+                },
+                {
+                    "id": null,
+                    "title": "Crecer en las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/668/1de370dca71d4ca50716f4f230f41163/master.m3u8?1676408460"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo una comunidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/669/fab44d13b3bf64ea1efb27bc01bc72d6/master.m3u8?1676408456"
+                },
+                {
+                    "id": null,
+                    "title": "Desmontando mitos de Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/677/f9ad6887b235cda6a163e1f3fe6c5d1d/master.m3u8?1676408461"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2o1l4x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Más consejos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ignore la cultura del ajetreo y priorice su salud mental",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/670/efc4132c007d9e2de42028b4a49c005f/master.m3u8?1676408457"
+                },
+                {
+                    "id": null,
+                    "title": "Sus próximos pasos después de un lanzamiento exitoso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/672/40337bf47a4bc4f95e5f4cf47a9b4717/master.m3u8?1676408464"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u1zv9l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/swszbo.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3908,
+        "product_name": "Launching a Business Successfully on Social Media",
+        "teacher_name": "Sapphire Bates",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 9174,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

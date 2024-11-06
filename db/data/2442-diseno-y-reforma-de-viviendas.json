@@ -1,0 +1,163 @@
+{
+    "id": "2442",
+    "title": "Diseño y reforma de viviendas",
+    "url": "https://www.domestika.org/es/courses/2442-diseno-y-reforma-de-viviendas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/968/fae9aff520abf88e8c9c2f619192bc1e/master.m3u8?1676395833"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/969/4a500447054cbdf3cc1790e3ff72f2f1/master.m3u8?1676395835"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wp60gn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasos previos e inspiración antes de diseñar la reforma",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué necesitaremos para el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/970/baa83258e37d5ca990d96772176497dd/master.m3u8?1676395834"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de necesidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/971/58bb7949e6fb7845a91b81cb65daed05/master.m3u8?1676395835"
+                },
+                {
+                    "id": null,
+                    "title": "Estado previo de la casa toma y volcado de datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/972/e477c6acda477d3ac0b31edcf3d1811e/master.m3u8?1676395840"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/973/919a34f52528b33388f57bdb4401c33d/master.m3u8?1676395837"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board de materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/974/7ec4ac1b14f831d71b850936a37703b9/master.m3u8?1676395838"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ml1ky5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de la reforma de tu casa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mejorando la distribución espacial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/975/97af56ba19a00f1c4f7ced6cc64a37aa/master.m3u8?1676395841"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño y elección de suelos y paredes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/976/4f7d0ad3f5185cf591e8784b1edf1ad7/master.m3u8?1676395840"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño y elección de techos e iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/977/9053ece112bd639218ae0f06814d2896/master.m3u8?1676395841"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de carpintería",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/978/c36a79d570073f2e09ba9d2d8b34a53d/master.m3u8?1676395843"
+                },
+                {
+                    "id": null,
+                    "title": "Elección de complementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/979/a57d7dc3d6ed6951e90c63c96fb475e7/master.m3u8?1676395840"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tk6xu0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos pasos y consejos finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Memoria de acabados y complementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/980/4228314a8b1a86da44c4a420fa081db3/master.m3u8?1676395841"
+                },
+                {
+                    "id": null,
+                    "title": "Tips finales agilizando el proceso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/981/60de93df62383d1f80d2fe2bb7c1b9a1/master.m3u8?1676395842"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8ezm69.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mxowqm.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2442,
+        "product_name": "Home Design and Reform",
+        "teacher_name": "Himera Estudio",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4391,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

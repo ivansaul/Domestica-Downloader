@@ -1,0 +1,148 @@
+{
+    "id": "1507",
+    "title": "Introducción a la escritura de historias de ficción",
+    "url": "https://www.domestika.org/es/courses/1507-introduccion-a-la-escritura-de-historias-de-ficcion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/021/b7305c58cf89c2f80073336d12265dbe/master.m3u8?1676400637"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/022/3707c3bf0e627f03d14dae12584ffd91/master.m3u8?1676400638"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ftz10u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué necesito para escribir un cuento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Trama tiempoespacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/023/3f0b440f3bfc8d9b09323669afa15197/master.m3u8?1676400643"
+                },
+                {
+                    "id": null,
+                    "title": "Narrador puntos de vista y lenguaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/024/cadb758fea2c082c9df82c5ad9827871/master.m3u8?1676400640"
+                },
+                {
+                    "id": null,
+                    "title": "Personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/025/c8162a9a49832e309c0f87c4438b8cf1/master.m3u8?1676400644"
+                },
+                {
+                    "id": null,
+                    "title": "Materia prima y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/026/bb0f00e7c74976a50a9dfe4914e57a6c/master.m3u8?1676400639"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f2yp0v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo escribo un relato",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definir y conceptualizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/027/8d948c54f9393cbd8575517b90bcc2a0/master.m3u8?1676400642"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir escribir escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/029/2890d95d2e0f0b840e4a6ec0e4645752/master.m3u8?1676400639"
+                },
+                {
+                    "id": null,
+                    "title": "Leer revisar y volver a escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/028/aaab558a51b5b43a1883511bb87cb63c/master.m3u8?1676400639"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8w4qfq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cuánto más hay después del cuento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Socializar el relato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/030/78bce58ea7b6771a1273d4ab58abe8b4/master.m3u8?1676400642"
+                },
+                {
+                    "id": null,
+                    "title": "Más escritura escenas y resúmenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/031/049ec3c9d39a072c05642c4d0ad059ce/master.m3u8?1676400642"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o3kgyb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hcujab.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1507,
+        "product_name": "Introduction to Writing Fiction",
+        "teacher_name": "Sylvia A. Zéleny",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 5977,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

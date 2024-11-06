@@ -1,0 +1,153 @@
+{
+    "id": "2922",
+    "title": "Decoración de interiores trucos para renovar tu hogar",
+    "url": "https://www.domestika.org/es/courses/2922-decoracion-de-interiores-trucos-para-renovar-tu-hogar/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/649/ccedfd0849887049b3ab7c0eb2dfb7d1/master.m3u8?1676401571"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/650/d65d0821529d522a2d6f6bb529e19b22/master.m3u8?1676401570"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nq7rk0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Antes de empezar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las posibilidades que nos da la decoración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/651/40c7ea7f59a95a31f3d82a2b56a38f65/master.m3u8?1676401574"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/652/30df66fc3cdb39c02c8ec96b9793d6f8/master.m3u8?1676401572"
+                },
+                {
+                    "id": null,
+                    "title": "La distribución del espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/653/1478e48ab95b5d99808456468a45238f/master.m3u8?1676401573"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k9ci8i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El usuario el entorno y el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/654/58841a56f5763d276f2b07e5eadc22da/master.m3u8?1676401573"
+                },
+                {
+                    "id": null,
+                    "title": "Plan de transformación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/655/e8983f072603ffe9de927e5105ff5035/master.m3u8?1676401573"
+                },
+                {
+                    "id": null,
+                    "title": "Colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/657/5bc340dbe2afd08e8bee87b9d8ee4adf/master.m3u8?1676401573"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos decorativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/658/10010305fe237dfbf2a13fcd8e600b01/master.m3u8?1676401575"
+                },
+                {
+                    "id": null,
+                    "title": "Mobiliario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/460/4da62d1bf29e4c75f586501efb539e7f/master.m3u8?1676402553"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/76p1un.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo podemos cambiar el look de nuestra casa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El comedor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/659/42d5ee770eaf20af6114ef6ddf444da9/master.m3u8?1676401576"
+                },
+                {
+                    "id": null,
+                    "title": "Trucos para cambiar el look de nuestra casa gastando poco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/660/49a516ccf8d7d80305e76a54229144a3/master.m3u8?1676401577"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4rea7t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4zsf22.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2922,
+        "product_name": "Interior Decoration: Tricks to Renovate Your Home",
+        "teacher_name": "Trucos para Decorar (Cristina Larrumbe)",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 3969,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

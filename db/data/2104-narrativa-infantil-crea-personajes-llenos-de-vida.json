@@ -1,0 +1,163 @@
+{
+    "id": "2104",
+    "title": "Narrativa infantil crea personajes llenos de vida",
+    "url": "https://www.domestika.org/es/courses/2104-narrativa-infantil-crea-personajes-llenos-de-vida/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/054/1e2a4fe5a2e6b01ac858caa232855470/master.m3u8?1676397516"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/057/0d1d76e85987326af91363695c8e06ef/master.m3u8?1676397521"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fwdxkf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Imaginar para escribir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las semillas de una historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/058/a5be2e17ad67f03cd8de2fb0854f7866/master.m3u8?1676397518"
+                },
+                {
+                    "id": null,
+                    "title": "De la memoria nace un árbol",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/059/a1fa496b6484b395dadf27db05ce453a/master.m3u8?1676397519"
+                },
+                {
+                    "id": null,
+                    "title": "Las ramas históricas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/060/7f64ffd7a4db53a24f35a826e4218691/master.m3u8?1676397522"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetar la escritura del personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/107/4f6e7880787f995708bab937f861f5e6/master.m3u8?1676397541"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i3bxar.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Escribir para imaginar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La narración y su escritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/061/298b9683bc871e5aa36d0205e7715d86/master.m3u8?1676397521"
+                },
+                {
+                    "id": null,
+                    "title": "La historia también es ficción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/062/1eb2b7fed719061b1f39f9e8e4df54a5/master.m3u8?1676397523"
+                },
+                {
+                    "id": null,
+                    "title": "La hora de la verdad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/063/4c3e90518512af254fa7b41a006299bb/master.m3u8?1676397521"
+                },
+                {
+                    "id": null,
+                    "title": "La otra verdad de las cosas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/064/c343007758ed46e2c7595bb627dc7d1a/master.m3u8?1676397524"
+                },
+                {
+                    "id": null,
+                    "title": "Editar también es escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/108/8da19144dff0f04e27f6e27c9df57c44/master.m3u8?1676397542"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/22imbm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dar a conocer la historia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Detalles finales de la escritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/065/004d453ea3b15800aa1750a1296f3f73/master.m3u8?1676397521"
+                },
+                {
+                    "id": null,
+                    "title": "Del texto al libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/066/a6ea4fabb8f1fc18feccc7e04e9af85f/master.m3u8?1676397523"
+                },
+                {
+                    "id": null,
+                    "title": "El archivo final final final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/109/930678526d5e3f551e143859884c4b1b/master.m3u8?1676397543"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kfyv2l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/idkpy2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2104,
+        "product_name": "Children's Narrative: Create Lively Characters  ",
+        "teacher_name": "Idalia Sautto",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 10235,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "id": "4734",
+    "title": "Introducción al bordado de crochet de Lunéville",
+    "url": "https://www.domestika.org/es/courses/4734-introduccion-al-bordado-de-crochet-de-luneville/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/170/7645d1405ff7775544b67ad77bbfee08/master.m3u8?1677081563"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/171/90cf3e58939e8fb2bf0ac3353186d4b3/master.m3u8?1677081577"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/clvz4t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación del diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué bordado luneville",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/172/fe1a10808819116baff8cc568166f882/master.m3u8?1677081937"
+                },
+                {
+                    "id": null,
+                    "title": "Los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/173/807b416517c690fa19c874108b504a2d/master.m3u8?1677081952"
+                },
+                {
+                    "id": null,
+                    "title": "De la idea al diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/174/a6fdd80c4decb267572153b1dda02ab1/master.m3u8?1677081968"
+                },
+                {
+                    "id": null,
+                    "title": "El bastidor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/175/63a5dc35e49904182812432592a70924/master.m3u8?1677082382"
+                },
+                {
+                    "id": null,
+                    "title": "Transferencia del papel a la tela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/176/ba6947f5a410e3eec91fa0e45765cae4/master.m3u8?1677082393"
+                },
+                {
+                    "id": null,
+                    "title": "Herramienta de bordado y movimientos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/177/cd893719553c079932ad7f47d42486a7/master.m3u8?1677082416"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e785le.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comenzar a bordar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Puntadas principales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/178/ce2080e302e07b81eca89e276bf2bb20/master.m3u8?1677082878"
+                },
+                {
+                    "id": null,
+                    "title": "Puntadas principales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/179/d5c21c8972228b51bc2c62271d29f708/master.m3u8?1677082891"
+                },
+                {
+                    "id": null,
+                    "title": "Puntada laberinto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/180/40c9a98fc3ff545d102cd8123463b5d0/master.m3u8?1677083290"
+                },
+                {
+                    "id": null,
+                    "title": "Puntada de relleno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/181/94ea45e7e16ee5afdf843a8434e22459/master.m3u8?1677083317"
+                },
+                {
+                    "id": null,
+                    "title": "Puntadas con materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/182/04d8cef89087442e12910332f307d1ea/master.m3u8?1677083666"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/znyto7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Consejos para la mecanización de la mano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/183/d90b7f17298e2f53989a1f0169200d12/master.m3u8?1677083979"
+                },
+                {
+                    "id": null,
+                    "title": "Programas útiles y optimizar recursos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/184/98292528be7e58bd5a87a4f20d9893ad/master.m3u8?1677083991"
+                },
+                {
+                    "id": null,
+                    "title": "Acabados y desmontaje del diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/185/fa6ae9ff9a5b11cfb5f1203464f57215/master.m3u8?1677084008"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0giqe6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/a9ujft.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4734,
+        "product_name": "Introduction to Lunéville Crochet Embroidery",
+        "teacher_name": "leticia lopez",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 6798,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

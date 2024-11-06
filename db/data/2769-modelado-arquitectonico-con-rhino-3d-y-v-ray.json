@@ -1,0 +1,163 @@
+{
+    "id": "2769",
+    "title": "Modelado arquitectónico con Rhino 3D y VRay",
+    "url": "https://www.domestika.org/es/courses/2769-modelado-arquitectonico-con-rhino-3d-y-v-ray/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/328/f425c34aa51153adea06f07b3298956c/master.m3u8?1676398160"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/329/cd32abfde17f59f21a99511227e22e94/master.m3u8?1676398162"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nsmrxy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Antecedentes de la arquitectura lúdica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/330/4242bfb93d3fbe88122b321cad4aebb2/master.m3u8?1676398164"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/331/9eade2a776dd22a474c5dfd22bec31f7/master.m3u8?1676398163"
+                },
+                {
+                    "id": null,
+                    "title": "Superficie plegable",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/332/6964200877cf254417dd43227a8cdca5/master.m3u8?1676398171"
+                },
+                {
+                    "id": null,
+                    "title": "Superficie autointersectante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/333/104e28e733c98469e2d99f3b24d693bf/master.m3u8?1676398168"
+                },
+                {
+                    "id": null,
+                    "title": "Deconstruyendo una caja",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/334/fd079f94a9afe6550a4b742f27ccb478/master.m3u8?1676398164"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j5h5e6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado en Rhino 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado de una superficie plegable conceptos básicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/335/38c2b923a94db8def665236f8f22eb33/master.m3u8?1676398171"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de una superficie plegable en contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/336/f4a0291fd7270979dd126e80d145c882/master.m3u8?1676398169"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de una superficie autointersectante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/337/9fcde913c26f407c575a2c37aef7576c/master.m3u8?1676398168"
+                },
+                {
+                    "id": null,
+                    "title": "Mejora del modelo de superficie autointersectante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/338/6c542a07439d15186640ac73c97f3faf/master.m3u8?1676398166"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hy3r7v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Representación básica de VRay",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración básica de VRay",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/339/5b167674921fdc3dee668ef79378c31b/master.m3u8?1676398166"
+                },
+                {
+                    "id": null,
+                    "title": "Mapeo de fondo y textura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/340/ec3b6aead1840ab4aca09a259b25e39a/master.m3u8?1676398166"
+                },
+                {
+                    "id": null,
+                    "title": "Encendiendo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/341/2f0aa7a8669bb6919531d3441faf5389/master.m3u8?1676398168"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s30k58.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/l4ilak.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2769,
+        "product_name": "Architectural Models with Rhino 3D and V-Ray",
+        "teacher_name": "Saul Kim",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7480,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

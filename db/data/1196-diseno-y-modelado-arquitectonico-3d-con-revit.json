@@ -1,0 +1,215 @@
+{
+    "id": "1196",
+    "title": "Diseño y modelado arquitectónico 3D con Revit",
+    "url": "https://www.domestika.org/es/courses/1196-diseno-y-modelado-arquitectonico-3d-con-revit/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/463/6d5d21b900c90b23ee6244a4d9bb4ff2/master.m3u8?1676389639"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/464/3937cf6389ea0576f44646a157815be4/master.m3u8?1676389635"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/465/3cd10d00e13ab004700bb75ffbcf87d2/master.m3u8?1676389633"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a32vv9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aproximación a Revit",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conociendo Revit",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/466/44ebf865b966db0236b3996527a732ca/master.m3u8?1676389639"
+                },
+                {
+                    "id": null,
+                    "title": "Comandos de diseño asistidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/467/30e471451aa843c5ba10969f162a06a1/master.m3u8?1676389639"
+                },
+                {
+                    "id": null,
+                    "title": "Concepto de familias tipos e instancias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/468/27afb13bed1540d3ef63414ec4b72889/master.m3u8?1676389637"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de ejes y niveles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/469/fd802355762a959bffe5af7df49747ef/master.m3u8?1676389638"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de anotaciones cotas y textos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/470/4158ac5f6109073e81bd30c71710b007/master.m3u8?1676389638"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de anotaciones cotas y textos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/471/c401cb889d2fa24feed09c4c298d28fa/master.m3u8?1676389639"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/brd5ru.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Avanzado de modelamiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño de muros primera parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/317/cd876f308f880e3c0ff6f5a378eddb9e/master.m3u8?1676391833"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de muros segunda parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/473/b4cb1b9929d8ee05c38370e175aa56fa/master.m3u8?1676389638"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de columnas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/474/4abf955271b5af709a4fb6c1fcf39356/master.m3u8?1676389639"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de muros cortina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/509/f8646b79b8c22157e08d378bbedb2527/master.m3u8?1676389665"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de muros cortina 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/476/ea82f6e9f1082307936a9c5d37e9125c/master.m3u8?1676389643"
+                },
+                {
+                    "id": null,
+                    "title": "Inserción de puertas y ventanas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/501/e57b94b4d64a0d3cad03227ef95d3abb/master.m3u8?1676389657"
+                },
+                {
+                    "id": null,
+                    "title": "Inserción de puertas y ventanas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/502/fdf4c10d0f6ca0ec2a97a11124b4dbd5/master.m3u8?1676389663"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de pisos y cielos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/504/7019108b18e7ce1c8ae3f8aab5eafc64/master.m3u8?1676389659"
+                },
+                {
+                    "id": null,
+                    "title": "Materialidad de elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/505/4b39e34ab9334024f38810f4f06e3028/master.m3u8?1676389663"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de cubiertas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/506/794436b1b33608a88e8ce1cbaf423970/master.m3u8?1676389663"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de escaleras y pasamanos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/507/d488e156ed6a07d3d0f25cdf0a436fd6/master.m3u8?1676389663"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de rampas y componentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/508/84901f896e5e6929a3f9a0e094843e10/master.m3u8?1676389664"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gkf0j9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Obtención de información y datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño de cortes elevaciones y vistas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/497/598a5d6f92e99bfd582dea763a7eaad6/master.m3u8?1676389660"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de tablas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/498/14a34ce95d375b3e772a3a1db92e91bc/master.m3u8?1676389656"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de láminas  de presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/499/ebb30ea09b7ad95f5fcab3801211b97a/master.m3u8?1676389664"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tdkgik.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6avrvc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1196,
+        "product_name": "3D Architectural Design and Modeling with Revit",
+        "teacher_name": "Arturo Bustíos Casanova",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 19763,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

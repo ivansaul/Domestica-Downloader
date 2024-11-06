@@ -1,0 +1,153 @@
+{
+    "id": "4948",
+    "title": "Técnicas de confección de corbatas para principantes",
+    "url": "https://www.domestika.org/es/courses/4948-tecnicas-de-confeccion-de-corbatas-para-principantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/805/d76a40d922083fe43e2e03a50464cf7a/master.m3u8?1676407968"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/806/69484484fab118ca33f9e42553951d1d/master.m3u8?1676407964"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s5nv7b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La corbata",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/807/5d612c9b85f59a13bc0aab5f13d0bb24/master.m3u8?1676407966"
+                },
+                {
+                    "id": null,
+                    "title": "Nociones históricas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/808/6d5a4e2fd82b47ec65cc07b766a01f1e/master.m3u8?1676407967"
+                },
+                {
+                    "id": null,
+                    "title": "Características estructurales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/809/b4a092bc0a38deb038949aaf7aeb6a7e/master.m3u8?1676407968"
+                },
+                {
+                    "id": null,
+                    "title": "Estilo telas colores y estampados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/810/adbcb56ca16192745b650b4e694ee175/master.m3u8?1676407967"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hf37um.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de la corbata",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/811/cb6a860c566348d9b2d9d57ec617be2a/master.m3u8?1676407969"
+                },
+                {
+                    "id": null,
+                    "title": "Los patrones de papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/812/55adec0dabb0fa5a0bc90aeaf8ecbf9c/master.m3u8?1676407972"
+                },
+                {
+                    "id": null,
+                    "title": "Corte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/813/b008d01ac169e48c46be14f74e122064/master.m3u8?1676407971"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eh93hh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Costura y nudos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Forro y embalaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/814/d5c0c4c808121cf929e344bdef25b576/master.m3u8?1676407974"
+                },
+                {
+                    "id": null,
+                    "title": "Costura y planchado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/815/e9d95f5fa84da9eecd9f9e2f6255a8b6/master.m3u8?1676407972"
+                },
+                {
+                    "id": null,
+                    "title": "El arte del hermoso nudo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/816/9c515a0bd1826060c2da5f54426159ca/master.m3u8?1676407970"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a8vy8g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/k4ak8z.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4948,
+        "product_name": "Making a Tie: Tailoring Techniques for Beginners",
+        "teacher_name": "Matteo Olivieri",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5166,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

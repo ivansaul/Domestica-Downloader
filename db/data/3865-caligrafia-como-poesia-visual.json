@@ -1,0 +1,153 @@
+{
+    "id": "3865",
+    "title": "Caligrafía como poesía visual",
+    "url": "https://www.domestika.org/es/courses/3865-caligrafia-como-poesia-visual/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/720/a2d6ccbf52967851082cbf6a79a0c78c/master.m3u8?1676406946"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/721/24cbca0739e74446bbb86f524a13e618/master.m3u8?1706613904"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/72sla4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales y trabajo con texto y contexto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Descripción general de materiales y procesos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/722/04629613d1596044e3e85dea8a079a08/master.m3u8?1676406948"
+                },
+                {
+                    "id": null,
+                    "title": "Personalidades de las letras y estilos caligráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/723/104cc449ad3b9a9fb168ac9c360ed62c/master.m3u8?1676406950"
+                },
+                {
+                    "id": null,
+                    "title": "Jerarquía de contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/724/28ddec8539fbcf26e7406da6a4fd29aa/master.m3u8?1676406948"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uksn1l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crea tu proyecto de poesía visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Seleccionar y deconstruir su texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/725/84f7e4d046b8332d2db5adfca0594117/master.m3u8?1676406949"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar para crear composiciones conscientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/726/bc1844b5091f1e46ef5a0691801a1ceb/master.m3u8?1676406950"
+                },
+                {
+                    "id": null,
+                    "title": "Poniéndolo todo junto palabras textos y medios 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/727/242fbf78c6f322104f7bea9d2e69fb08/master.m3u8?1676406954"
+                },
+                {
+                    "id": null,
+                    "title": "Poniéndolo todo junto palabras textos y medios 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/729/d208f79bef3d9526fb0b581e64bd3412/master.m3u8?1676406951"
+                },
+                {
+                    "id": null,
+                    "title": "Poniéndolo todo junto palabras textos y medios 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/921/0b220cbbbe626ec973085faf753d2c01/master.m3u8?1676407043"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pp3n0l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Llevando su trabajo a nuevas alturas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear sobres artísticos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/730/0069e9b8dc4512b3d702f470e4de8232/master.m3u8?1676406951"
+                },
+                {
+                    "id": null,
+                    "title": "Creando una marca personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/731/b94affa8015c6e6b508149c2a7076161/master.m3u8?1676406950"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5cjwgc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6i4rlh.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3865,
+        "product_name": "Calligraphy as Visual Poetry",
+        "teacher_name": "Carol Fountain Nix",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5317,
+        "total_units": 4,
+        "subtitles_language": [
+            "tr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

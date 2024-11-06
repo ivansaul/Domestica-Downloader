@@ -1,0 +1,163 @@
+{
+    "id": "3227",
+    "title": "Fotografía urbana nocturna",
+    "url": "https://www.domestika.org/es/courses/3227-fotografia-urbana-nocturna/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/171/1ff2f895d59fac63439c404995515093/master.m3u8?1676404767"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/172/ac2b1b6ac0dfd5a4d513aee13c6746aa/master.m3u8?1676404767"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ujfbsp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación e inspiración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Historia de la fotografía callejera nocturna",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/176/6c175de085a3cfe1fb406ca7e53e0181/master.m3u8?1676404770"
+                },
+                {
+                    "id": null,
+                    "title": "Lenguaje fotográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/177/d6c58e8529083c1fac15842597237d3d/master.m3u8?1676404769"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía nocturna con luz disponible",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/179/80b4c57370e9193ecb23e0c48bc12b55/master.m3u8?1676404771"
+                },
+                {
+                    "id": null,
+                    "title": "El flash en la fotografía callejera nocturna",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/180/e280b55e67ab2f8d32809b29eb07beb9/master.m3u8?1676404772"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o5xyeb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Equipos para fotografía callejera nocturna",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/181/ff66df0c1db5c3b5eb0b9b68fbf3cee9/master.m3u8?1676404770"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo configuro mi cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/182/8cc5de8d3dc7a122091e472a6e573db9/master.m3u8?1676404772"
+                },
+                {
+                    "id": null,
+                    "title": "Salida de fotos con luz disponible",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/183/2b97e328aed0d5cfabae919af2f06370/master.m3u8?1676404773"
+                },
+                {
+                    "id": null,
+                    "title": "Salida de fotos con flash retratos de noche",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/184/7a72afbb77a2dc2a2d290bce63bf54e4/master.m3u8?1676404772"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mef5ci.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción y edición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué funcionó y qué podría mejorarse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/185/18120cf273f8b0bede85bf9e9273eabd/master.m3u8?1676404774"
+                },
+                {
+                    "id": null,
+                    "title": "Flujo de trabajo y procesamiento de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/186/16286266e27203f88e5e5bbbce00d41c/master.m3u8?1676404777"
+                },
+                {
+                    "id": null,
+                    "title": "Difusión del trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/187/5028d17f78bbfc9e9ac694ea2dc3cbaf/master.m3u8?1676404774"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de una serie nocturna",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/188/79d2199614da53c7f3900e917a9c0876/master.m3u8?1676404775"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u2a2ca.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/up0yfy.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3227,
+        "product_name": "Street Photography at Night",
+        "teacher_name": "Gustavo Minas",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 5881,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

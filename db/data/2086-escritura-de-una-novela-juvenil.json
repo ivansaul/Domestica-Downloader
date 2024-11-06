@@ -1,0 +1,173 @@
+{
+    "id": "2086",
+    "title": "Escritura de una novela juvenil",
+    "url": "https://www.domestika.org/es/courses/2086-escritura-de-una-novela-juvenil/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/428/435d38bfd4899738c13ec51210ee712d/master.m3u8?1676397699"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/429/06892f191bb37561ea6b43505af04ad6/master.m3u8?1676397702"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a0pyau.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sentando las bases",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lectura como forma de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/430/c88d6e082e9ee232d4d617198069bef8/master.m3u8?1676397702"
+                },
+                {
+                    "id": null,
+                    "title": "Antecedentes de libros para jóvenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/472/4119e9efa7ad6e7b6ae5bed3253ae51f/master.m3u8?1676397731"
+                },
+                {
+                    "id": null,
+                    "title": "Diferencia entre cuento y novela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/473/11218f67e05d14b5436cb24a43bb03e9/master.m3u8?1676397729"
+                },
+                {
+                    "id": null,
+                    "title": "Escaleta narrativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/474/bce69c61563e9cd4deee80ab694f6991/master.m3u8?1676397735"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sdm4nh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas y estructura elementos para escribir una novela",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/475/fe0a7f1afd083bb991381fc6cc099cce/master.m3u8?1676397735"
+                },
+                {
+                    "id": null,
+                    "title": "Diálogo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/551/1b809f43d1f464095ad081bc69df65f9/master.m3u8?1676397772"
+                },
+                {
+                    "id": null,
+                    "title": "Conflicto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/553/5800a0eff697185748c70408cf9b97ac/master.m3u8?1676397775"
+                },
+                {
+                    "id": null,
+                    "title": "Narrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/554/04502ebeeea01e07216141c9f66f9d2b/master.m3u8?1676397772"
+                },
+                {
+                    "id": null,
+                    "title": "Ambiente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/555/941f639e6f1e8bb4eaa24fadf6f367c6/master.m3u8?1676397775"
+                },
+                {
+                    "id": null,
+                    "title": "Tiempo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/556/8f56c11a1f0d9d09af1cd59638a3b307/master.m3u8?1676397775"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6ycx7g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/557/674998aa88d0e7b43c8a46822ab09769/master.m3u8?1676397776"
+                },
+                {
+                    "id": null,
+                    "title": "Reescribir la mejor parte del proceso 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/558/f644eea5dea629b72f55cfd878e01d15/master.m3u8?1676397776"
+                },
+                {
+                    "id": null,
+                    "title": "Reescribir la mejor parte del proceso 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/559/63925580ae6c8cd95d17476ae9ad029d/master.m3u8?1676397782"
+                },
+                {
+                    "id": null,
+                    "title": "Mercado editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/560/714510567905a8502b91ebfc8a32381b/master.m3u8?1676397775"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4mfwr8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3dpf9r.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2086,
+        "product_name": "Writing a Young Adult Novel",
+        "teacher_name": "Carola Martinez Arroyo",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 11858,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

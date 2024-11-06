@@ -1,0 +1,180 @@
+{
+    "id": "3455",
+    "title": "Fotografía moderna de naturaleza",
+    "url": "https://www.domestika.org/es/courses/3455-fotografia-moderna-de-naturaleza/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/877/c508a07fac9f2d662b07a56e406be687/master.m3u8?1676404649"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/879/7223a70a243eec4803344fe5f42c5ec5/master.m3u8?1676404652"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mfkiud.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de fotografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/880/80ecc29263ca7414763b89397db856e1/master.m3u8?1676404650"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes de la cámara que hacen la vida más fácil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/881/d5ade6d84e2b35f1da9baff94d97bc2e/master.m3u8?1676404650"
+                },
+                {
+                    "id": null,
+                    "title": "La exposición y el triángulo de exposición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/882/4cd265b00457d42260f37725c362ba28/master.m3u8?1676404650"
+                },
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/883/1c8e215ebdf19e08b44fee7f13239109/master.m3u8?1676404652"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yed0br.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "En busca de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/884/5f66b194fa049d9fda193e6f989a67ff/master.m3u8?1676404653"
+                },
+                {
+                    "id": null,
+                    "title": "La búsqueda de localizaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/885/9699da6e11445134a726d24e4f3bdefb/master.m3u8?1676404655"
+                },
+                {
+                    "id": null,
+                    "title": "En el lugar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/886/cd4e35e3ef855abeacf34af186764666/master.m3u8?1676404659"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jba9bt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Curación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/887/7bab9c5b02f90fe8c6efd7785548c69e/master.m3u8?1676404660"
+                },
+                {
+                    "id": null,
+                    "title": "Edición en Lightroom Classic 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/888/a80770d71380317ff026867b2909b723/master.m3u8?1676404658"
+                },
+                {
+                    "id": null,
+                    "title": "Edición en Lightroom Classic 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/894/86095414c0eb8d3df29c0ad45dbf9664/master.m3u8?1676404659"
+                },
+                {
+                    "id": null,
+                    "title": "Los toques finales en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/890/8df711d50c9cd64bc96669b493dab9d6/master.m3u8?1676404657"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u2cv9a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Información adicional",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/891/5015ed63c0367e3922723840d855dce7/master.m3u8?1676404657"
+                },
+                {
+                    "id": null,
+                    "title": "Descripción general de las NFT",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/403/9da9400d615f9c7c7e8768e9829b7e9c/master.m3u8?1676404877"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kikthy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/juc9ys.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3455,
+        "product_name": "Modern Photography in Nature",
+        "teacher_name": "Michael Schauer",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8508,
+        "total_units": 5,
+        "subtitles_language": [
+            "de",
+            "es",
+            "en",
+            "pt",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "de"
+        ],
+        "original_language": "de"
+    }
+}

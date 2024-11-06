@@ -1,0 +1,175 @@
+{
+    "id": "3243",
+    "title": "Introducción a Digital Product Management",
+    "url": "https://www.domestika.org/es/courses/3243-introduccion-a-digital-product-management/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/539/f4152dd70b2717c0c53d8f401a15c162/master.m3u8?1676404028"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/540/b7079c1da4db582c297951317b5795b5/master.m3u8?1676404030"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bpq6yf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos de Product Management",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los productos digitales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/541/8b39f7addc652aa75266802ee0c6a7a2/master.m3u8?1676404031"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso global de desarrollo de producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/542/6bea23f684c3bbf9bf27802f28914038/master.m3u8?1676404030"
+                },
+                {
+                    "id": null,
+                    "title": "El rol del Product Manager",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/543/300dd737b8b2e21a627935e98231fab6/master.m3u8?1676404030"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/muoyci.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Identificar oportunidades",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Misión visión y estrategia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/544/c9e4c0be45a83c5eabb4914710ce25ba/master.m3u8?1676404032"
+                },
+                {
+                    "id": null,
+                    "title": "Discovery",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/545/6478089aa1cebcd6bcc1dcfa1e2aef33/master.m3u8?1676404035"
+                },
+                {
+                    "id": null,
+                    "title": "Objetivos roadmap y priorización 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/546/ad5a86a06f26a09f002d5026bf5ec46f/master.m3u8?1676404033"
+                },
+                {
+                    "id": null,
+                    "title": "Objetivos roadmap y priorización 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/547/848df5c3f07d5a242af4e7f82c43ff89/master.m3u8?1676404033"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/icatru.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear y lanzar tu producto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Experimentación y validación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/548/009c898b2a2fc81926cd4cf044b9c2de/master.m3u8?1676404033"
+                },
+                {
+                    "id": null,
+                    "title": "Metodologías ágiles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/549/52519eb5776f151adde2b285f1a293ee/master.m3u8?1676404034"
+                },
+                {
+                    "id": null,
+                    "title": "Lanzando y midiendo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/550/139e223ed8f8b8aa78b89bdc94b0f5da/master.m3u8?1676404033"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1n7fqs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conviértete en Product Manager",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Habilidades necesarias para ser Product Manager",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/551/7a2b4d216fa88903b5b32e21d2bc05a6/master.m3u8?1676404033"
+                },
+                {
+                    "id": null,
+                    "title": "Comunicación y gestión de stakeholders",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/552/bcc6435131851a2e99ea08be95eaf8e0/master.m3u8?1676404035"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t84vee.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/peyii4.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3243,
+        "product_name": "Introduction to Digital Product Management",
+        "teacher_name": "Irene Prieto y María Granadino",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8930,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

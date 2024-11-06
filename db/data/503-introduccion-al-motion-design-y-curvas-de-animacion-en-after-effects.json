@@ -1,0 +1,232 @@
+{
+    "id": "503",
+    "title": "Introducción al motion design y curvas de animación en After Effects",
+    "url": "https://www.domestika.org/es/courses/503-introduccion-al-motion-design-y-curvas-de-animacion-en-after-effects/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Bienvenidos a bordo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/793/9e4cd90fbf0abe489db9f56ce8b31216/master.m3u8?1676385076"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/794/23d4bea225fbf42624f148dee309cf51/master.m3u8?1676385080"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tgd0gf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Animando en After Effects con estilo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es Adobe After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/795/b17e8360ea09f210bcf66593bdc3231e/master.m3u8?1676385079"
+                },
+                {
+                    "id": null,
+                    "title": "Primeros pasos en After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/796/709254d05c3e28cddeae590b9eb359e5/master.m3u8?1676385078"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción Capas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/797/42d3ebe5cae924423c5a582fa1da9ca0/master.m3u8?1676385084"
+                },
+                {
+                    "id": null,
+                    "title": "Capas de forma o shape layers",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/798/0291f3341257ba2816998d6c4d8e3370/master.m3u8?1676385081"
+                },
+                {
+                    "id": null,
+                    "title": "A mover gráficos 1 Nuestros aliados los Keyframes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/799/22c030ecaeaa81669e90570ae2317242/master.m3u8?1676385081"
+                },
+                {
+                    "id": null,
+                    "title": "A mover gráficos 2 Nos adentramos hasta el fondo en las curvas de animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/800/2fddd5af8ac498ccb24bbe3c827ff24a/master.m3u8?1676385084"
+                },
+                {
+                    "id": null,
+                    "title": "Renders y formatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/801/de050a41a9dc63ab6553f0b7b4a0a4e6/master.m3u8?1676385082"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o4j2xd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando el movimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Un poco de contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/802/9def885411d618827b045b523730aaf7/master.m3u8?1676385081"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestra metodología basada en personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/803/2ad858624dcb3f557d353107bd3a1233/master.m3u8?1676385083"
+                },
+                {
+                    "id": null,
+                    "title": "Un poco de diseño antes de animar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/804/1a2367dd44b661681b84ab905dfc4eb8/master.m3u8?1676385085"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fmot5r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando nuestra librería básica de movimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Animación de escala",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/805/3e39f95fbb510734e70bd3b02b8cf471/master.m3u8?1676385085"
+                },
+                {
+                    "id": null,
+                    "title": "Animación de posición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/806/0b5a38159455beaba86d15e6bb25c43f/master.m3u8?1676385086"
+                },
+                {
+                    "id": null,
+                    "title": "Animación de posición con estiramiento stretch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/807/75f13f30405517b3849337f434d58bec/master.m3u8?1676385087"
+                },
+                {
+                    "id": null,
+                    "title": "Animación de Rotación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/808/6544a6b3e9111dc585e53a19af00037f/master.m3u8?1676385088"
+                },
+                {
+                    "id": null,
+                    "title": "Swipe o arrastre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/809/d0b01c1e3a594e91c4b4f96cd2012fee/master.m3u8?1676385090"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v1dixa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Siguiente nivel animaciones coreográficas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Coreografía 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/810/d8fd52ca3cf962a60a6e5be0ad0274aa/master.m3u8?1676385092"
+                },
+                {
+                    "id": null,
+                    "title": "Coreografía 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/811/d00acc3aafabfdb5dfd4865403f24885/master.m3u8?1676385092"
+                },
+                {
+                    "id": null,
+                    "title": "Coreografía 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/812/eb6f929d3f16a062a11f5b9321c0f5a2/master.m3u8?1676385092"
+                },
+                {
+                    "id": null,
+                    "title": "Coreografía 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/813/b68627df353d3ec6deb56e4992a6255e/master.m3u8?1676385094"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sijpd9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trucos para elaborar una buena reel y arrasar en Redes Sociales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Workflow y tips para la mini reel final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/842/a0ef761cece0e82053aa9c5843d6596a/master.m3u8?1676385104"
+                },
+                {
+                    "id": null,
+                    "title": "Conclusión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/843/3028f5666f1c2dd8f129e1b9cf16c7e6/master.m3u8?1676385102"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bni07i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/68el7y.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 503,
+        "product_name": "Introduction to Motion Design and Animation Curves in After Effects",
+        "teacher_name": "Holke 79",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 23,
+        "course_total_duration_sec": 12952,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

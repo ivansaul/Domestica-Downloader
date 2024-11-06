@@ -1,0 +1,163 @@
+{
+    "id": "3055",
+    "title": "Teletrabajo sesiones creativas en videollamada",
+    "url": "https://www.domestika.org/es/courses/3055-teletrabajo-sesiones-creativas-en-videollamada/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/242/bb81c6a75867528c6c63f02d94e058bc/master.m3u8?1676404796"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/243/e8afe0769ad9a50d1fe5759fad2e1c00/master.m3u8?1676404798"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gha6tc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De las videollamadas al streamworking",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Son eficientes las videollamadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/244/ad46a2e6bcd89c44edfa64dc9d0687c2/master.m3u8?1676404798"
+                },
+                {
+                    "id": null,
+                    "title": "Replantear y experimentar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/245/07f4b6235cdcc9a000c07c9042d96da8/master.m3u8?1676404798"
+                },
+                {
+                    "id": null,
+                    "title": "Los inicios del streamworking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/246/5b715045e05111ced076f494affaa788/master.m3u8?1676404808"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6plbg8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El montaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparar el sistema de streaming",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/247/dc039869acf5f75b3daa19b80b9dcd9a/master.m3u8?1676404801"
+                },
+                {
+                    "id": null,
+                    "title": "Importar el proyecto y personalizar las escenas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/248/2c0fedbcb2f27baa113f9bbcbc67dfee/master.m3u8?1676404807"
+                },
+                {
+                    "id": null,
+                    "title": "Importar el proyecto y personalizar las escenas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/249/b631c364d5431f161a287eead82fa4fd/master.m3u8?1676404803"
+                },
+                {
+                    "id": null,
+                    "title": "Conectar el proyecto a las videollamadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/250/2fab8e46b4389c2c24c798ba89bd12f6/master.m3u8?1676404802"
+                },
+                {
+                    "id": null,
+                    "title": "Optimizar la calidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/251/7b463d224c32ea082410ece7270923d4/master.m3u8?1676404808"
+                },
+                {
+                    "id": null,
+                    "title": "Hacemos las videollamadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/252/db05ed5632eaccf8842ec54e5601263e/master.m3u8?1676404809"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bz7yew.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tips y optimización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tips para el streamworking",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/253/eaf02d20284f7034af78f57eaa9962cf/master.m3u8?1676404810"
+                },
+                {
+                    "id": null,
+                    "title": "Hay que estar a la vanguardia para ser profesional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/254/5e92737ff5458bc2064f25d8b56818a0/master.m3u8?1676404807"
+                },
+                {
+                    "id": null,
+                    "title": "Una comunidad de streamworkers",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/255/7a3199cee7c3200a837dfd545c563031/master.m3u8?1676404802"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a6jush.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cid60t.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3055,
+        "product_name": "Remote Work: Creative Sessions over Video Call",
+        "teacher_name": "Kali Romiglia",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8483,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

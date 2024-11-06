@@ -1,0 +1,158 @@
+{
+    "id": "2535",
+    "title": "Diseño de interiores con madera de inspiración japonesa",
+    "url": "https://www.domestika.org/es/courses/2535-diseno-de-interiores-con-madera-de-inspiracion-japonesa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/854/2b2f636974fc238613844a05f7c5226b/master.m3u8?1676404178"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/855/150cf83564c5fdc67af12d192dad98c0/master.m3u8?1676404176"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e068p7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La poesía de la luz y la lógica espacial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entender lo existente cliente y espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/602/2e5dfc749420095401cae2bc62c609f4/master.m3u8?1676402623"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategia de diseño espacio luz y programa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/604/25e5dda12e1a4b09a68b983e1944a527/master.m3u8?1676402626"
+                },
+                {
+                    "id": null,
+                    "title": "Arquitectura japonesa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/856/6d3de919112f84ee1b19ed17c55d59a4/master.m3u8?1676404180"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pdcuos.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los sistemas de diseño y el juego",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Flexibilidad y límites entre estancias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/606/3094a3980458398e4277b1b7c69b15e8/master.m3u8?1676402626"
+                },
+                {
+                    "id": null,
+                    "title": "Sistemas y estructuras de madera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/609/47093c322100b027883e96c920330126/master.m3u8?1676402629"
+                },
+                {
+                    "id": null,
+                    "title": "Luz y ventanas de madera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/610/7d441a0aac62bdd97319034890e69451/master.m3u8?1676402626"
+                },
+                {
+                    "id": null,
+                    "title": "Mobiliario de madera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/611/89119442529c31d7cb0d23742582f794/master.m3u8?1676402638"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de madera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/857/b9f6a97297089acbdc1e8d7562a8cf1a/master.m3u8?1676404178"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3h6wbq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Detalles naturaleza y sostenibilidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La elegancia de los detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/616/6bdc8c98969852e87d34c6fc1e5dc16f/master.m3u8?1676402632"
+                },
+                {
+                    "id": null,
+                    "title": "La belleza de la naturaleza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/617/5f179df0242547f63fd81b1fadd96678/master.m3u8?1676402632"
+                },
+                {
+                    "id": null,
+                    "title": "Reutilización en los sistemas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/619/5cc2f78226c92553d4091794678adb2f/master.m3u8?1676402633"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kc9pyw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1tda2r.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2535,
+        "product_name": "Japanese-Inspired Interior Design with Wood",
+        "teacher_name": "Roman Izquierdo Bouldstridge",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7549,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

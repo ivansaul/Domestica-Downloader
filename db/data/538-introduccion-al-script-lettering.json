@@ -1,0 +1,208 @@
+{
+    "id": "538",
+    "title": "Introducción al script lettering",
+    "url": "https://www.domestika.org/es/courses/538-introduccion-al-script-lettering/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/731/3749832951fba491398e8f128dc87e2f/master.m3u8?1676385830"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/733/8922ec3ff0b2ad589cb896c1f6af7745/master.m3u8?1676385830"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/734/7dce26a933cce62908c6afabc23ac899/master.m3u8?1676385827"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xf75q0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aclarando conceptos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Caligrafía lettering y tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/739/f2053012af909ee55ea490403f57a19f/master.m3u8?1676385832"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos básicos sobre las letras cursivas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/740/e42dd7a316569581ae14db7fdc8339b8/master.m3u8?1676385831"
+                },
+                {
+                    "id": null,
+                    "title": "Mi kit de herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/741/1f01a045080092e44bb25083df62c390/master.m3u8?1676385834"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a la caligrafía con brushpen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/742/0e50f77eea35ece77692b7e738728363/master.m3u8?1676385836"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yxac5n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El alfabeto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Caja de X",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/743/5defc58866290ff56cfb9845d2d8a842/master.m3u8?1676385845"
+                },
+                {
+                    "id": null,
+                    "title": "Primeros signos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/744/794ecf0b4c05555e22c67256e60c28a4/master.m3u8?1676385839"
+                },
+                {
+                    "id": null,
+                    "title": "Signos abiertos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/745/42b6cb2cd04b067f6fd19f898c039801/master.m3u8?1676385840"
+                },
+                {
+                    "id": null,
+                    "title": "Signos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/746/5a51160bcffe00e776b4a6a89517d300/master.m3u8?1676385849"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/htabnw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lettering y composición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/778/6c53c28f921f09ab1c4b62ead310cd63/master.m3u8?1676385853"
+                },
+                {
+                    "id": null,
+                    "title": "Ornamentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/780/7708a60dd79c6080b6cbb404b0fef7a5/master.m3u8?1676385855"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes y refinamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/799/2a4dd9467644db897f522a93ac78612c/master.m3u8?1676385861"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4lzuky.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Digitalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Vectorización con pluma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/800/47b4d256dff928a65dd6bb6f50bac227/master.m3u8?1676385866"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorización con image trace",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/851/f76398b1d97af4d3921efd0b94ac621f/master.m3u8?1676385875"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jn9wy3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción promoción y venta de la camiseta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Producción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/916/3677c4f100b7c4022cd0597f10890232/master.m3u8?1676385900"
+                },
+                {
+                    "id": null,
+                    "title": "Promoción y venta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/917/fd6b3d913a6cb51bdec3f83f349e7b11/master.m3u8?1676385897"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kqdb2n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/a8el5q.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 538,
+        "product_name": "Introduction to Script Lettering",
+        "teacher_name": "Ximena Jiménez",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 11468,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

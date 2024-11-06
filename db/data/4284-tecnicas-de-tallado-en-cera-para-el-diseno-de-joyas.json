@@ -1,0 +1,185 @@
+{
+    "id": "4284",
+    "title": "Técnicas de tallado en cera para el diseño de joyas",
+    "url": "https://www.domestika.org/es/courses/4284-tecnicas-de-tallado-en-cera-para-el-diseno-de-joyas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/050/58d578e675408dad0f675a315231d069/master.m3u8?1676409378"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/051/ab7ca56aabedbdd559b4e5e2d5c0e81f/master.m3u8?1676409391"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xvdjm1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño y preparación para tallar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Una breve introducción a la historia de la fundición a la cera perdida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/054/c592964e363f3d56aa6a357880d85e5a/master.m3u8?1676409392"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y espacio de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/055/e9fee467736846ac771d48f4a9443337/master.m3u8?1676409387"
+                },
+                {
+                    "id": null,
+                    "title": "Los diferentes tipos de cera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/056/9c91483f5e66dd1885092b4a14a86ffd/master.m3u8?1676409393"
+                },
+                {
+                    "id": null,
+                    "title": "Jugando con cera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/057/7193c24e9fb7c4c8b6cd517b01a66570/master.m3u8?1676409413"
+                },
+                {
+                    "id": null,
+                    "title": "Del boceto al dibujo técnico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/830/eec1f97018d550cdc6eb1df2a7020448/master.m3u8?1676412387"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/44un6d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Medición y simetría",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Medición corte y nivelación del tubo anular",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/059/86099078ee6846dcd3eb50cccc260afa/master.m3u8?1676409400"
+                },
+                {
+                    "id": null,
+                    "title": "Medidas de forma para simetría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/831/1703b5bbe4cb324692744341095bba43/master.m3u8?1676412386"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4jcsyw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dar forma al anillo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Limar y dimensionar la forma de anillo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/061/ef7c034e096346a4c9ae5dcd4ec697f4/master.m3u8?1676409408"
+                },
+                {
+                    "id": null,
+                    "title": "Limar y dimensionar la forma de anillo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/832/f111de241ac3d1c5855104e817f4f5ef/master.m3u8?1676412388"
+                },
+                {
+                    "id": null,
+                    "title": "Dar forma y refinar la estructura del anillo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/063/90d6e498d9511dd04b29e38e8cedf3f5/master.m3u8?1676409405"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas decorativas y texturizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/064/bbf84144bd2e41072feda24fbbdd5db9/master.m3u8?1676409406"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3l222a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundición y grabado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Spruing listo para colar en metal 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/069/6d8000fb54a890c930163edd98b759e3/master.m3u8?1676409412"
+                },
+                {
+                    "id": null,
+                    "title": "Spruing listo para fundición en metal 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/065/44706469a25c84a0e689d3ef4f54c32c/master.m3u8?1676409404"
+                },
+                {
+                    "id": null,
+                    "title": "Grabado opcional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/066/2b7ab8868439389bf65f66062526592b/master.m3u8?1676409401"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/otxrxv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/r4yoxh.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4284,
+        "product_name": "Wax Carving Techniques for Jewelry Design",
+        "teacher_name": "Elsa Tierney",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 8791,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

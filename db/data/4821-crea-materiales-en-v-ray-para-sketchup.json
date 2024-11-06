@@ -1,0 +1,168 @@
+{
+    "id": "4821",
+    "title": "Crea materiales en VRay para SketchUp",
+    "url": "https://www.domestika.org/es/courses/4821-crea-materiales-en-v-ray-para-sketchup/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/315/082451bbaca7879a920c4afdfe665782/master.m3u8?1676413288"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/316/e0c9e45cfd2a988dbd86431890355fb5/master.m3u8?1676413290"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p2ujsm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Iniciación creativa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Todos somos creativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/317/de76fc74f292ff56360c8f88e152b5b6/master.m3u8?1676413290"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas creativas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/318/5aed7ac03f32f7716e9d78e5417143cf/master.m3u8?1676413293"
+                },
+                {
+                    "id": null,
+                    "title": "Crear una guía de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/330/537ab7e023022e3d38424d4d1322cb4a/master.m3u8?1676413302"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nnqafp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear y editar materiales en VRay",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Repaso de VRay 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/319/3f50574655ae99c0a95fdfb2cd1ce414/master.m3u8?1676413296"
+                },
+                {
+                    "id": null,
+                    "title": "Repaso de VRay 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/320/f0a7d55423d2752e8faae2c3288e9f9e/master.m3u8?1676413294"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo funcionan los materiales en VRay 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/321/2042792e22ba67a98f1697573a68d9c7/master.m3u8?1676413295"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo funcionan los materiales en VRay 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/322/6996faca40699c88cbe7f002ff1d14eb/master.m3u8?1676413294"
+                },
+                {
+                    "id": null,
+                    "title": "Crear aplicar y guardar materiales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/323/eb42e2d467c0a2c802c77d51262273c0/master.m3u8?1676413298"
+                },
+                {
+                    "id": null,
+                    "title": "Crear aplicar y guardar materiales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/324/dc0a061daaab40b959a7c9b9ffbecedd/master.m3u8?1676413300"
+                },
+                {
+                    "id": null,
+                    "title": "Render de la paleta de materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/325/d646f6fc28b4206d7ab0272238a6c809/master.m3u8?1676413296"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rdvrfv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Render del espacio final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear tu biblioteca de elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/326/5f70119a62dac2860e4959b5c5a0c646/master.m3u8?1676413299"
+                },
+                {
+                    "id": null,
+                    "title": "Crear tu composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/327/fe0b42e24521dd08e068bc569cddf467/master.m3u8?1676413300"
+                },
+                {
+                    "id": null,
+                    "title": "Render del espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/328/7c877f2f8814f6efb1c5517bf452beef/master.m3u8?1676413300"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/spetu5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/upocip.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4821,
+        "product_name": "Create materials in V-Ray for SketchUp",
+        "teacher_name": "María Alarcón",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9137,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

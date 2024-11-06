@@ -1,0 +1,169 @@
+{
+    "id": "5506",
+    "title": "Vendiendo tu Arte",
+    "url": "https://www.domestika.org/es/courses/5506-vendiendo-tu-arte/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/567/be523b57e585bf82a314d346573dfabd/master.m3u8?1721285389"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/571/fcb394e010fe7dadc0880133ec439204/master.m3u8?1721036253"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ryk82e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Del arte a gran escala a los productos comerciales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Identificación de elementos comercializables en el arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/579/d78cf21c1277d4c23bb16fcab11540ce/master.m3u8?1728977528"
+                },
+                {
+                    "id": null,
+                    "title": "Adaptación de la obra de arte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/581/8faea8700a15d9a93b6d4e34e4d65808/master.m3u8?1728977507"
+                },
+                {
+                    "id": null,
+                    "title": "Adaptación de la obra de arte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/582/2438a4254e860f3cf6a4bc108089919e/master.m3u8?1721032326"
+                },
+                {
+                    "id": null,
+                    "title": "Adaptación de obras de arte al envío directo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/761/f7cca600ba9edef93e5e59ab9c122b2a/master.m3u8?1728977161"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo elegir su empresa de envío directo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/997/f8e34c47c3dd23d345e00aecf083ad87/master.m3u8?1728903127"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k9hg3h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando el producto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Impresión de pegatinas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/585/784e989d6f9d045b730a5a47509d8113/master.m3u8?1728977466"
+                },
+                {
+                    "id": null,
+                    "title": "Control de calidad y consistencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/586/5cd4be35891cc971032bec9172c06212/master.m3u8?1728903131"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos básicos de la fotografía de producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/587/d4ef3ce8953e80e6faf922fce5f20a61/master.m3u8?1728977368"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6zwkuq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vender tu arte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configurando tus precios 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/588/97134ab8b39a4660baee90409f90f6a4/master.m3u8?1728903133"
+                },
+                {
+                    "id": null,
+                    "title": "Configurando tus precios 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/735/e7df9c882d30d2a6e4464356ebd29e94/master.m3u8?1728977183"
+                },
+                {
+                    "id": null,
+                    "title": "Eventos de feria lo que se debe y lo que no se debe hacer 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/590/ecdac9494ea64527ca82d548d62eca26/master.m3u8?1728977228"
+                },
+                {
+                    "id": null,
+                    "title": "Eventos de feria lo que se debe y lo que no se debe hacer 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/998/317cb4e4abfcf98d40ace4a6798318f7/master.m3u8?1728976191"
+                },
+                {
+                    "id": null,
+                    "title": "Comercializar su arte en línea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/592/863c329560a29382522e0092ec2783bd/master.m3u8?1721035149"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fmwalp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/j4d1lc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5506,
+        "product_name": "Selling your Art",
+        "teacher_name": "Hannah Stelter",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9089,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}

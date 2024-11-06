@@ -1,0 +1,190 @@
+{
+    "id": "989",
+    "title": "Técnicas de corrección de color con DaVinci Resolve",
+    "url": "https://www.domestika.org/es/courses/989-tecnicas-de-correccion-de-color-con-davinci-resolve/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/898/c47017246ceb69bcd78bcebd6807a83f/master.m3u8?1676389365"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/900/42062aa2572f546dd9a0b169819963b3/master.m3u8?1676389351"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/901/7940995d59fbd0e68ff8fe96026dc78c/master.m3u8?1676389350"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5ua7od.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Antes de colorear",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proyectos y bases de datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/902/bd5944975005dc54d9390ef676edadaa/master.m3u8?1676389354"
+                },
+                {
+                    "id": null,
+                    "title": "La nueva interfaz de DaVinci 16",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/903/46a8ac0a368801a4210d54d17c1397f4/master.m3u8?1676389353"
+                },
+                {
+                    "id": null,
+                    "title": "Preferencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/904/7ee894c073263aabf78fb1325b6cfee1/master.m3u8?1676389354"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ktya2u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Traer una edición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importar clips",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/905/7a49853d759041f0cdcfaea8fcf47f00/master.m3u8?1676389352"
+                },
+                {
+                    "id": null,
+                    "title": "Conformado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/051/d00e7516903ce0cb16284034813ae837/master.m3u8?1676389429"
+                },
+                {
+                    "id": null,
+                    "title": "Conformado avanzado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/907/11afb17452a7dc9a4b713b9911128cae/master.m3u8?1676389356"
+                },
+                {
+                    "id": null,
+                    "title": "Qué hacer cuando me dan la edición en un solo archivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/908/02138f3ea0c5cccc4cf289dbffe29988/master.m3u8?1676389354"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yg3mml.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "A colorear",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Corrección primaria",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/909/92a8eb9e243af91d6e90e24886d06253/master.m3u8?1676389359"
+                },
+                {
+                    "id": null,
+                    "title": "Corrección secundaria",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/910/e4b9cb37940fb452aad03c5594f4bd8c/master.m3u8?1676389363"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas avanzadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/911/4e0b141dab80e7a46d476ff9d24d14fb/master.m3u8?1676389360"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/17g27b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Saquemos esto de acá",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Exportar para web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/912/9f2e92d32c21d5fc6155cdc1ec7672c8/master.m3u8?1676389360"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar para otros softwares",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/913/2af8df8d845168ee6522c8bac1fd49a0/master.m3u8?1676389358"
+                },
+                {
+                    "id": null,
+                    "title": "Archivado y máster en alta calidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/914/3b3e46d44f0aac93f2acf32a613b3867/master.m3u8?1676389358"
+                },
+                {
+                    "id": null,
+                    "title": "Lección Bonus",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/915/37666936442450d7920b1303dd7e408f/master.m3u8?1676389360"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6ztayt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qrq25a.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 989,
+        "product_name": "Color Correction Techniques with DaVinci Resolve",
+        "teacher_name": "Leo Fallas",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 10752,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

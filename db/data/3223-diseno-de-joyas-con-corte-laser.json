@@ -1,0 +1,158 @@
+{
+    "id": "3223",
+    "title": "Diseño de joyas con corte láser",
+    "url": "https://www.domestika.org/es/courses/3223-diseno-de-joyas-con-corte-laser/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/263/fa8789a3770d80b4941edcc110abaed4/master.m3u8?1676401888"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/264/36bced696e4c3e49e3906e74fcb667f7/master.m3u8?1676401889"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v3sj4k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseña tu colección",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/265/a83d8fcf23c8deb0b03d5f377ade1c1a/master.m3u8?1676401891"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de una colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/266/01b9ec5afdd5347ab9fe4ca6465182f8/master.m3u8?1676401890"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar ideas a mano o en procreate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/267/99cb3b53d4a740c01a468df4c60fd0f2/master.m3u8?1676401894"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorizando su diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/268/c33c608560aa282cd8358706b6658716/master.m3u8?1676401897"
+                },
+                {
+                    "id": null,
+                    "title": "Pautas de diseño de corte por láser",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/269/fac395acd878dd15802397afd2bf0059/master.m3u8?1676401891"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zd5k5i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Armando tu colección",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pendientes de acrílico en capas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/270/1567be787b3da01672427399e8bc9d89/master.m3u8?1676401896"
+                },
+                {
+                    "id": null,
+                    "title": "Pendientes de acrílico pintado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/271/6a9e373185db8104694ed4b3e2e28805/master.m3u8?1676401896"
+                },
+                {
+                    "id": null,
+                    "title": "Pendientes con Resina UV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/272/783d4ad69ff6bad28cbf32331a0eec2f/master.m3u8?1676401901"
+                },
+                {
+                    "id": null,
+                    "title": "Marca tu colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/273/a37517bc9f3f9826c76f585357128938/master.m3u8?1676401900"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/frwx8v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Otras aplicaciones de corte por láser",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Expansión a 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/274/3a281e2f404b6755a77cccdeff2acdf9/master.m3u8?1676401896"
+                },
+                {
+                    "id": null,
+                    "title": "Más allá de los pendientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/275/05b661eeb3ff8d209d3e79664aed775a/master.m3u8?1676401902"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u42fu2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/pa99qw.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3223,
+        "product_name": "Jewelry Design with Laser Cutting",
+        "teacher_name": "Amanda Woodcock",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5697,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

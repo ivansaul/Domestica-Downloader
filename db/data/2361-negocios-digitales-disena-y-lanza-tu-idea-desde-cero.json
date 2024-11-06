@@ -1,0 +1,168 @@
+{
+    "id": "2361",
+    "title": "Negocios digitales diseña y lanza tu idea desde cero",
+    "url": "https://www.domestika.org/es/courses/2361-negocios-digitales-disena-y-lanza-tu-idea-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/770/cb64f3c4c3080d6713f7cc6657187485/master.m3u8?1676399477"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/771/56eb557e0f7ae159ac15b6963e0f7ee1/master.m3u8?1676399478"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j3s8o8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conoce tus posibilidades",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El concepto MVP y prototipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/772/a8c3ed2f08b8e4571c40f84b910754f9/master.m3u8?1676399477"
+                },
+                {
+                    "id": null,
+                    "title": "Análisis de competencia y tendencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/773/4f7caa2f1f8bdc6279bf072a85ff2932/master.m3u8?1676399480"
+                },
+                {
+                    "id": null,
+                    "title": "Conoce a tu cliente o usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/774/1f3e6a719366845a5a46be3b0ca7e530/master.m3u8?1676399481"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de persona",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/775/a632d55921dbef7cea7b8ddd51fa510f/master.m3u8?1676399484"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kwpk2x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Perfecciona tu negocio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Perfecciona tu idea de negocio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/776/9f4723755b7cb3c68c886c845418d2c3/master.m3u8?1676399493"
+                },
+                {
+                    "id": null,
+                    "title": "Customer journey",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/777/5e00d4e605d04d48717bff6afd3d5eb1/master.m3u8?1676399484"
+                },
+                {
+                    "id": null,
+                    "title": "Momentos mágicos de la experiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/778/9334ff6fa72489ca0f9f5def7d9b6a3a/master.m3u8?1676399481"
+                },
+                {
+                    "id": null,
+                    "title": "Propósito y valores de tu startup",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/779/ceb582f48993ad8eeba7c7100ce4f89b/master.m3u8?1676399483"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j7ilgt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo de marca básica y prototipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de marca básica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/780/1554d907a2645c97ac11bba12aaec0a1/master.m3u8?1676399485"
+                },
+                {
+                    "id": null,
+                    "title": "Flujos de usuario y wireframes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/781/1cc3e98b76b67645fb6b5f74bdf92698/master.m3u8?1676399487"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipo de tu idea 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/782/ca693b6826cb3783078ef9ddc986acd0/master.m3u8?1676399487"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipo de tu idea 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/783/3a37ae0990dd311a6decb3b069552427/master.m3u8?1676399487"
+                },
+                {
+                    "id": null,
+                    "title": "Testea y saca conclusiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/784/6b1c036abe95f679357fa48824140650/master.m3u8?1676399487"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/do76nr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/u5igey.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2361,
+        "product_name": "Digital Business: Design and Launch Your Idea from Scratch",
+        "teacher_name": "Pablo Alaejos",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7709,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

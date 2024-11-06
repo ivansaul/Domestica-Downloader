@@ -1,0 +1,168 @@
+{
+    "id": "1209",
+    "title": "Introducción a la fotografía callejera",
+    "url": "https://www.domestika.org/es/courses/1209-introduccion-a-la-fotografia-callejera/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Primeros pasos trayectoria y referencias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/543/ea458aeb2740c2288b5194d153dda578/master.m3u8?1676393517"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/544/34020cfb31bbfd78c031f8a3ad70bfad/master.m3u8?1676393516"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/558/c337dbd22f7581d98b17f7063f3b5570/master.m3u8?1676393525"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h3hhkk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "En camino",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La construcción de un ensayo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/545/a9a79dda1245123fbf84e7bfcfdd9924/master.m3u8?1676393517"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al lenguaje fotográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/546/68e5a6c8b10d68cf92088b2a0bb7ffa3/master.m3u8?1676393520"
+                },
+                {
+                    "id": null,
+                    "title": "Luces y sombras el estado de ánimo de una imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/547/9b7d78d736492fca3634bf6670388951/master.m3u8?1676393524"
+                },
+                {
+                    "id": null,
+                    "title": "Los reflejos en la fotografía callejera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/548/5cb67bc2df5966c0098c955f1ce4138b/master.m3u8?1676393519"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qsazwy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La práctica en las calles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de lentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/549/57aa105f6e704466ed7400fd5064841e/master.m3u8?1676393521"
+                },
+                {
+                    "id": null,
+                    "title": "Lo que llevo en mi bolso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/550/f1097f515867a82eb87027e3f1c68de9/master.m3u8?1676393520"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo configuro mi cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/551/48b054621e587307aa24e2079f1a70ae/master.m3u8?1676393520"
+                },
+                {
+                    "id": null,
+                    "title": "Practica en la calle luz y movimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/552/3eb37c1615d5729cc23ee42577600935/master.m3u8?1676393520"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4926xb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción y publicación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lo que funcionó",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/553/b6243f6adce5aad6c589d574b8132b5b/master.m3u8?1676393521"
+                },
+                {
+                    "id": null,
+                    "title": "Tratamiento de imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/554/8f95bb22883d27c121db3a07e7dd45dd/master.m3u8?1676393525"
+                },
+                {
+                    "id": null,
+                    "title": "Caminos de la edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/555/85a836a3e3010db80979567ad45254c6/master.m3u8?1676393535"
+                },
+                {
+                    "id": null,
+                    "title": "Promoción de tu trabajo de las redes sociales al libro impreso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/556/15dadefb6f69d6d8665b8005ca7d1150/master.m3u8?1676393523"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zkel60.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/n91up8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1209,
+        "product_name": "Introduction to Street Photography",
+        "teacher_name": "Gustavo Minas",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7433,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

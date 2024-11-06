@@ -1,0 +1,158 @@
+{
+    "id": "1819",
+    "title": "Edición fotográfica con smartphone para redes sociales",
+    "url": "https://www.domestika.org/es/courses/1819-edicion-fotografica-con-smartphone-para-redes-sociales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/607/50154d8ffbd642d3c5d09c22508781aa/master.m3u8?1676393040"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/608/7a3e3a9eb41c9ba9386adadfab3e57c0/master.m3u8?1676393045"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/609/c93d467e52e18a4aa78d467625a1de20/master.m3u8?1676393039"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2a7ft5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aprende de los mejores aprende de los errores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotógrafos que editan con smartphones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/610/5e40fe8bc890f245915b07c7d6142f68/master.m3u8?1676393042"
+                },
+                {
+                    "id": null,
+                    "title": "Partir de una buena base",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/611/90cb5fe503bd0545017f26697c97452a/master.m3u8?1676393044"
+                },
+                {
+                    "id": null,
+                    "title": "Descargar aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/612/abb76a47a67c6ff65ea7a615effe5d24/master.m3u8?1676393045"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zc61ac.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edita como un profesional",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografía de arquitectura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/712/b22c9c9d459bca568319c0b39e6e413d/master.m3u8?1676393097"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía de bodegón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/713/c56bb5f21f3fac95525064beeb99a142/master.m3u8?1676393101"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía de viajes con VSCO",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/714/772a427c4aebb2b12797e3d00efa98f1/master.m3u8?1676393091"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía de retrato con VSCO",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/715/91c71f6a93cb8223e30ea9ff8c0d3abb/master.m3u8?1676393093"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qdzqi7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Más allá de la edición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Edición con VSCO y Snapseed",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/716/fde385434f79a4aac94b3ac26925848c/master.m3u8?1676393095"
+                },
+                {
+                    "id": null,
+                    "title": "Ordenar el feed",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/717/a433b0485956da4097453677c0233953/master.m3u8?1676393093"
+                },
+                {
+                    "id": null,
+                    "title": "Consigue que vean tus fotos hashtags",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/718/4a0e7491e8ec9fd4955f3ddcb87b889c/master.m3u8?1676393093"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r01hsv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/78i3u6.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1819,
+        "product_name": "Mobile Photo Editing for Social Media",
+        "teacher_name": "Juan David Chaves Abadía",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7354,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

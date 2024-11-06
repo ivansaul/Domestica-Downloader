@@ -1,0 +1,163 @@
+{
+    "id": "1981",
+    "title": "Técnicas creativas para convertir ideas en textos",
+    "url": "https://www.domestika.org/es/courses/1981-tecnicas-creativas-para-convertir-ideas-en-textos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/755/e4b2df517b4f99f772b7e51090dca18e/master.m3u8?1676397353"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/756/c0453de6c4c4eb33df1ee48d23764a03/master.m3u8?1676397356"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/757/301ada02ae8256a8924689d12e5f43bd/master.m3u8?1676397359"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e84hpv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso creativo y preparación para la escritura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "En el camino del proceso creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/758/712ac4594ec48a4eff56561a10f836ad/master.m3u8?1676397358"
+                },
+                {
+                    "id": null,
+                    "title": "Repetición y rutina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/759/b2a7d1ca713a81ecd475b25871b8b1e1/master.m3u8?1676397356"
+                },
+                {
+                    "id": null,
+                    "title": "Repertorio y uso de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/760/49cd2de0d4485dd697db825ddc448e7a/master.m3u8?1676397357"
+                },
+                {
+                    "id": null,
+                    "title": "Newsletter como ejercicio en lenguaje de derechos de autor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/761/3664334beaa6ea54cf2762ce861cf591/master.m3u8?1676397359"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jdhg4c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la escritura a la publicación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo sacar ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/762/6c6222d0cd8d10e5df0db6df8339f689/master.m3u8?1676397360"
+                },
+                {
+                    "id": null,
+                    "title": "El texto gana resolución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/763/bcb398696e0933fe90bcda8b3a8d3a78/master.m3u8?1676397362"
+                },
+                {
+                    "id": null,
+                    "title": "Qué revela la reescritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/764/054dd3d2f979bae8d99a130b028cbbe4/master.m3u8?1676397357"
+                },
+                {
+                    "id": null,
+                    "title": "Toques finales envío y todo de nuevo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/765/c4113fe317c9eaae495b3fd7158c0624/master.m3u8?1676397365"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ftkh47.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Otras posibilidades de publicación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "mirada del editor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/791/6ea408113d8b4c2ace94163d090e2cb1/master.m3u8?1676397375"
+                },
+                {
+                    "id": null,
+                    "title": "convirtiéndose en libro electrónico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/792/c954a8b5ff03dec6ddd0a1844ae6b940/master.m3u8?1676397377"
+                },
+                {
+                    "id": null,
+                    "title": "Adaptarse a una revista impresa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/793/6ba09f87bfc0fdeec0983cffae1697f2/master.m3u8?1676397376"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/didb0x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/jffgby.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1981,
+        "product_name": "Creative Techniques to Transform Ideas into Texts",
+        "teacher_name": "Aline Valek",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6243,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

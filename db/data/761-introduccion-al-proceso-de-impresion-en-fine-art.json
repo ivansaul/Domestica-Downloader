@@ -1,0 +1,168 @@
+{
+    "id": "761",
+    "title": "Introducción al proceso de impresión en fine art",
+    "url": "https://www.domestika.org/es/courses/761-introduccion-al-proceso-de-impresion-en-fine-art/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación Quién soy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/946/3da53ce83e0165e27f93d900e275cf76/master.m3u8?1676387149"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/947/dc6224a631d41bd29b2db4c2a94b5456/master.m3u8?1676387148"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/948/01fe190985014cea30037f9cb83fea4b/master.m3u8?1676387147"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ntatwr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación del archivo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es impresión Fine Art",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/949/7b512b79303c381473d37e80a8c48e20/master.m3u8?1676387149"
+                },
+                {
+                    "id": null,
+                    "title": "Calibración del monitor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/950/60afcb332a859d09a1dc7aeb92118642/master.m3u8?1676387150"
+                },
+                {
+                    "id": null,
+                    "title": "Perfiles de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/951/12613e75510078feb7d31b2a9dc06cef/master.m3u8?1676387148"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando el RAW",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/952/cc4fe5b5f9f474556756bd1a95278ef5/master.m3u8?1676387150"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando tu negativo para impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/953/a35cf4363dea6ac9aabacd6ab670435d/master.m3u8?1676387152"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sfz2l5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Retoque y pre impresión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pasando a photoshop  Ajustes iniciales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/954/1277254a219620f2afb87a008cc507dd/master.m3u8?1676387150"
+                },
+                {
+                    "id": null,
+                    "title": "Corrección de sombras y altas luces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/955/914b7e72ebab71a6a1c8e32dd8f4841a/master.m3u8?1676387152"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque de luces  Ajuste puntual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/956/0cb71eda8d3a97ec65cfe7e128fbef4c/master.m3u8?1676387152"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando con el foco y tipo de grano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/957/5a5291e48aa67b66500afd142ed483bc/master.m3u8?1676387153"
+                },
+                {
+                    "id": null,
+                    "title": "Export del archivo de photoshop para impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/959/2b72925de56244f4be967f83d6cc0551/master.m3u8?1676387153"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qsjche.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La copia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elección del soporte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/960/29d3f2bc0da3d72b2dec4aef914de091/master.m3u8?1676387158"
+                },
+                {
+                    "id": null,
+                    "title": "Impresión y conservación de las copias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/961/be492150de30ff0267e48370d4343ebb/master.m3u8?1676387155"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/glrmmg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/da0ysj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 761,
+        "product_name": "Introduction to the Fine Art Printing Process",
+        "teacher_name": "Martin Del Pozo Ballesteros",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 4371,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

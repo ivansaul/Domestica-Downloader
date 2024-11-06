@@ -1,0 +1,163 @@
+{
+    "id": "1439",
+    "title": "Collage digital en Photoshop composición y efectos visuales",
+    "url": "https://www.domestika.org/es/courses/1439-collage-digital-en-photoshop-composicion-y-efectos-visuales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/279/2b50d3ba8307046f157ad94569a5edb6/master.m3u8?1676394361"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/280/ba698b94adae3b652600b3bfe75bfd88/master.m3u8?1676394359"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/281/59431314cc41a0a27271463b662712f7/master.m3u8?1676394357"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r5x37y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Planificación previa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/282/9754e5e20a91020ff79a64f429a59c0a/master.m3u8?1676394363"
+                },
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/283/d4db626ea886a5aae2982abd83172aea/master.m3u8?1676394359"
+                },
+                {
+                    "id": null,
+                    "title": "Material de origen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/284/9a8cf54a18fc4e51f5e62aa4547b0bc3/master.m3u8?1676394361"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jf57xu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Composición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Espacio de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/286/f46236faa204924636622a46ba6d64ad/master.m3u8?1676394363"
+                },
+                {
+                    "id": null,
+                    "title": "Trozos escogidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/287/afd3655fa9eca34747f50a5db728a05f/master.m3u8?1676394371"
+                },
+                {
+                    "id": null,
+                    "title": "Capas y máscaras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/288/5c09b42a35c6cf86acde5312dbea9f77/master.m3u8?1676394364"
+                },
+                {
+                    "id": null,
+                    "title": "Disposición completa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/289/f13d5a54030aa72b360eef79450cf1f3/master.m3u8?1676394362"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lbc3gr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Retoque",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ajustes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/290/baabde36d37ac53bdbab2c7f2171a86e/master.m3u8?1676394364"
+                },
+                {
+                    "id": null,
+                    "title": "Luz y sombra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/291/6315ef0bb264ee6f9be86cb63020c1ca/master.m3u8?1676394365"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos especiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/292/063ff7b0841c52936fc9a2483b7e3cc3/master.m3u8?1676394363"
+                },
+                {
+                    "id": null,
+                    "title": "Toques finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/293/b30c9a45fa69437e8658ab7592cf0e6c/master.m3u8?1676394366"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d6x0sw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zn5xbf.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1439,
+        "product_name": "Digital Collage in Photoshop: Composition and Visual Effects",
+        "teacher_name": "Nick Pedersen",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 10487,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

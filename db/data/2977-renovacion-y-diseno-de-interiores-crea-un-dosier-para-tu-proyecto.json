@@ -1,0 +1,135 @@
+{
+    "id": "2977",
+    "title": "Renovación y diseño de interiores crea un dosier para tu proyecto",
+    "url": "https://www.domestika.org/es/courses/2977-renovacion-y-diseno-de-interiores-crea-un-dosier-para-tu-proyecto/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/450/bdb588ca719a066a91ddfef9c3c447d7/master.m3u8?1676402551"
+                },
+                {
+                    "id": null,
+                    "title": "Modelos de referencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/009/8b087a448c91a9e3038d25376edfadbb/master.m3u8?1676403805"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f31bzk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Configuración de trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Breve y estructura del folleto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/452/fe7a6664172d605bdd64f65adac3087e/master.m3u8?1676402559"
+                },
+                {
+                    "id": null,
+                    "title": "Criticidad y análisis de potencial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/453/c8487d938efeb5cfb7bfab5634635599/master.m3u8?1676402552"
+                },
+                {
+                    "id": null,
+                    "title": "Denominación y concepción del concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/591/adb4f2eacfc53c0705318f1b146bcde9/master.m3u8?1676402622"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0facmd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proyecto cómo resolver problemas y potencialidades",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Esquemas de distribución y funcionales planos amueblados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/481/dd0369a2e7543a8cffbdb589aa61abe8/master.m3u8?1676402565"
+                },
+                {
+                    "id": null,
+                    "title": "La criticidad como recurso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/483/9926b90f915d715315a248f51bce94f0/master.m3u8?1676402564"
+                },
+                {
+                    "id": null,
+                    "title": "Acabados estudio de alzados y pisos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/018/09e48fd78fe0f41fb322bd9481f20621/master.m3u8?1676403809"
+                },
+                {
+                    "id": null,
+                    "title": "Mejora de edificios existentes y aplicación del concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/021/1ff7b0e645c93cceeafe506650bce7d8/master.m3u8?1676403811"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ymvw0u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Maquetación e impresión del folleto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/022/830636a8b6d6e0da5d6c0198bde0d877/master.m3u8?1676403813"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hq75tj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/y2hxne.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2977,
+        "product_name": "Renovation and Interior Design: Create Your Own Brochure",
+        "teacher_name": "Studio GUM",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 10,
+        "course_total_duration_sec": 7251,
+        "total_units": 4,
+        "subtitles_language": [
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

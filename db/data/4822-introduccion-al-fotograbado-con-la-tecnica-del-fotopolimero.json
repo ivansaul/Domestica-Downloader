@@ -1,0 +1,181 @@
+{
+    "id": "4822",
+    "title": "Introducción al fotograbado con la técnica del fotopolímero",
+    "url": "https://www.domestika.org/es/courses/4822-introduccion-al-fotograbado-con-la-tecnica-del-fotopolimero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/541/90b7743c9039a48086d45825adc23b79/master.m3u8?1678290075"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/542/45bd8e3dd8e3dfb2a22703405cbcb8ef/master.m3u8?1678290782"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/29sinf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El fotograbado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Historia del fotograbado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/543/129c63d2e95ff90b830dd11c3e8e1367/master.m3u8?1678290861"
+                },
+                {
+                    "id": null,
+                    "title": "El fotopolímero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/544/0462c3657ec10f2e818210d9c7219f42/master.m3u8?1678290918"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales necesarios para trabajar con fotopolímeros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/545/fa765cc9b0cf5056cf9dc0bf8454b0c8/master.m3u8?1678290996"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sb96y0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotogramas la trama estocástica como recurso",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La trama",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/546/68207daf6f98e4cc0e764b5a91c83d9a/master.m3u8?1710500596"
+                },
+                {
+                    "id": null,
+                    "title": "Insolar fotogramas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/547/9a45033b5fe9f118e92a28e837653d13/master.m3u8?1678291176"
+                },
+                {
+                    "id": null,
+                    "title": "El entintado y la estampación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/548/f86eaa150a640ce1c91ff5984c211a4b/master.m3u8?1678291242"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lvb71i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La escala de grises",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La imagen en pantalla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/549/6c686cb180df56380d6bc028a84ec651/master.m3u8?1678291468"
+                },
+                {
+                    "id": null,
+                    "title": "El procesado y la estampación de la escala",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/550/a6c407b32d0b4546479994745cba5ad2/master.m3u8?1710500598"
+                },
+                {
+                    "id": null,
+                    "title": "Crear una curva de salida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/551/da637fc0be9e5b77be08a9b54e71f073/master.m3u8?1678291603"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fbar8u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Gestión de la imagen en PHS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/552/fe10fac9f91096340d950d795f94e47d/master.m3u8?1678291835"
+                },
+                {
+                    "id": null,
+                    "title": "Procesado de plancha",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/553/07c827d31071c39d4fc1f29c7945c7d3/master.m3u8?1710500596"
+                },
+                {
+                    "id": null,
+                    "title": "La estampación artística 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/554/1aec747884fa844b7695769b8d96aa91/master.m3u8?1678291962"
+                },
+                {
+                    "id": null,
+                    "title": "La estampación artística 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/555/4147245177bf281e500f5d12680a11e4/master.m3u8?1678292015"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xhz2s8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/kvctcr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4822,
+        "product_name": "Photoengraving with Photopolymer Etching",
+        "teacher_name": "Juan Lara Hierro",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7352,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

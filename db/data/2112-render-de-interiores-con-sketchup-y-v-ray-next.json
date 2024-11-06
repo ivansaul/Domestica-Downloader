@@ -1,0 +1,185 @@
+{
+    "id": "2112",
+    "title": "Render de interiores con SketchUp y VRay Next",
+    "url": "https://www.domestika.org/es/courses/2112-render-de-interiores-con-sketchup-y-v-ray-next/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/179/64c7a07b2bda5d98ccb53b7807684c00/master.m3u8?1676395357"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/180/31ff7efbada6d60b92a1bcaa5fbd57eb/master.m3u8?1676395359"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/181/aa44357a7ab056f342f249fc6c791488/master.m3u8?1676395359"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m248a5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aproximación al proyecto 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Optimización y organización del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/197/975e2bf73cb27916a8e528c6fb50f82b/master.m3u8?1676395373"
+                },
+                {
+                    "id": null,
+                    "title": "Optimización y organización de componentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/198/cf49382d7d9419e6a0e099adacdff4d6/master.m3u8?1676395368"
+                },
+                {
+                    "id": null,
+                    "title": "Interfaz de VRay",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/199/02bb52f024208b9e48014db2c40a2320/master.m3u8?1676395368"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de escena y formato de imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/200/3fdf3e78f88ed87ad4d3fb81d59a1e10/master.m3u8?1676395371"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dza0o5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Iluminación con VRay Next",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación natural con mapa HDRI",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/373/76fb338eb25e10642209c2bb2ebab872/master.m3u8?1676395490"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación artificial con luces IES",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/374/44fb15f46b99f17a2d5014531136eac8/master.m3u8?1676395491"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación con Mesh Lights y controles de corrección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/375/8994b752f543400671b6ee5af0a49d1e/master.m3u8?1676395491"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t4vphh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales 1 Madera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/380/234165f3512e3cdca87fd3e1fbfadc14/master.m3u8?1676395497"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales 2 Vidrio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/381/5612e003da567e5779f458f35ba6b688/master.m3u8?1676395499"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales 3 Telas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/382/d9d28ecbc27a21a42fba3dcc0ac17981/master.m3u8?1676395497"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales 4 Metales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/383/bdfc4953a658ca6f9042f74cb2410c0f/master.m3u8?1676395502"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n8lmhz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Render Final y postproducción de imagen",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración de render final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/384/b5861d15162fdebf9f56ac1a524506b6/master.m3u8?1676395498"
+                },
+                {
+                    "id": null,
+                    "title": "Photoshop y Camera Raw",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/385/8ccbc7a53eebf4403658c558549025f6/master.m3u8?1676395502"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/517fcn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/r8cjyd.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2112,
+        "product_name": "Interior Renders with SketchUp and V-Ray Next",
+        "teacher_name": "Giancarlo Pava Durand",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 6746,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

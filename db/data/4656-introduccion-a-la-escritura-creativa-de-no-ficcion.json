@@ -1,0 +1,168 @@
+{
+    "id": "4656",
+    "title": "Introducción a la escritura creativa de no ficción",
+    "url": "https://www.domestika.org/es/courses/4656-introduccion-a-la-escritura-creativa-de-no-ficcion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/630/7e9740020df06a68b227b1a2dd9779c1/master.m3u8?1676412867"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/631/f63a15a83c2237b268bae5dadacefbe6/master.m3u8?1676412868"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8u3v09.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Juntar ideas y empezar a escribir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Prestar atención",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/632/77f0804b9cd931564013bd960798c161/master.m3u8?1676412868"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollando tu voz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/633/2caea69f357b07a6dcec9f9ac05d7265/master.m3u8?1676412869"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con la memoria",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/634/dcd8e04dc3f2b7dfc478f481694acad3/master.m3u8?1676412870"
+                },
+                {
+                    "id": null,
+                    "title": "La situación y la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/635/45561fe87dfc81eb1d4d111ef0070251/master.m3u8?1676412870"
+                },
+                {
+                    "id": null,
+                    "title": "Historias estructurantes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/644/532f43b16556338ce8e9b9424d2a0f9e/master.m3u8?1676412876"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bcnm6v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dar forma a una pieza convincente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué hace una buena historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/648/720fd66ab0928302ab32d51ace2a0499/master.m3u8?1676412877"
+                },
+                {
+                    "id": null,
+                    "title": "Reuniendo tu conocimiento e investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/649/9bb94a9d32ce36e3e2b8abe898298d43/master.m3u8?1676412882"
+                },
+                {
+                    "id": null,
+                    "title": "La voz de la pieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/650/f77cc82e4932d9f97329828ac12d02cf/master.m3u8?1676412882"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer una escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/651/eb4c1089a27dcd9a840852761d3d2867/master.m3u8?1676412880"
+                },
+                {
+                    "id": null,
+                    "title": "Refinando el final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/652/780afa534ccef614589f2e5ee5a025cb/master.m3u8?1676412880"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9w1o6t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Terminar la pieza y encontrar una audiencia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diferentes enfoques para la edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/653/4b231764deb096df6a9245046849e3a4/master.m3u8?1676412886"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación y desarrollo de un proyecto más largo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/670/006012c156f420a5ecefec4709b445c2/master.m3u8?1676412891"
+                },
+                {
+                    "id": null,
+                    "title": "Llevando tu trabajo adelante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/671/32e49f379dc6d7e76a2dc38f7f06cf96/master.m3u8?1676412895"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cucd3q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/68xz22.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4656,
+        "product_name": "Creative Nonfiction: Write from Life",
+        "teacher_name": "Julia Bell",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 10568,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

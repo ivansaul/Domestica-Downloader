@@ -1,0 +1,155 @@
+{
+    "id": "2493",
+    "title": "Creación de una tienda en Etsy desde cero",
+    "url": "https://www.domestika.org/es/courses/2493-creacion-de-una-tienda-en-etsy-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/504/7c8c646fed59534f06d54fd8942dc92b/master.m3u8?1676400373"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/895/aaa87015647b5b74af0d76d6e889a5a7/master.m3u8?1676401097"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0kfw48.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué necesito saber antes de vender online",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "De la idea al producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/505/13c287b9be7f9e23e6bb1ff5d366413c/master.m3u8?1676400375"
+                },
+                {
+                    "id": null,
+                    "title": "Creando el nombre de tu tienda Etsy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/507/b5bdb6d8daa9c2878d036da89fbec653/master.m3u8?1676400376"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo fotografiar tus productos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/508/27dba8e852045e5486084a3854328e17/master.m3u8?1716389788"
+                },
+                {
+                    "id": null,
+                    "title": "Subiendo el primer producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/509/b08e08b334df7b1f8ece5eec9783c2a3/master.m3u8?1690547142"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u853cj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Puesta en marcha cómo crear tu tienda Etsy",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo calcular el precio de tus productos tarifas y planes de suscripción de Etsy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/510/45e7b7ee7ed05ca0649e259a817a2cfa/master.m3u8?1690547168"
+                },
+                {
+                    "id": null,
+                    "title": "Personalizando el aspecto de tu tienda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/511/23bad91b9057f8e70547dda09ebb77b5/master.m3u8?1676400382"
+                },
+                {
+                    "id": null,
+                    "title": "Panel de administración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/512/205adf925c2bc6a89e0818cffaa0e000/master.m3u8?1676400379"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hl4lna.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Publicidad y promociones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Campaña de publicidad con Etsy Ads",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/513/f2d873f1f73414a626630da180e45bfd/master.m3u8?1676400382"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo crear ofertas y cupones descuento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/514/f61c4a270a6c9f7dcf4bca04c16e26e7/master.m3u8?1676400381"
+                },
+                {
+                    "id": null,
+                    "title": "Estadísticas de Etsy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/515/e084f0cb66b05022cc2b260c4f38dfac/master.m3u8?1676400381"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qii57z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/yd8yt3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2493,
+        "product_name": "Creating an Etsy Store from Scratch",
+        "teacher_name": "Depeapa",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7284,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

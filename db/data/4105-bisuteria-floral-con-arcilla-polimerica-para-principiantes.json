@@ -1,0 +1,180 @@
+{
+    "id": "4105",
+    "title": "Bisutería floral con arcilla polimérica para principiantes",
+    "url": "https://www.domestika.org/es/courses/4105-bisuteria-floral-con-arcilla-polimerica-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/174/d41dd3d585d5fd85f8cd71c070a258c1/master.m3u8?1676411993"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/175/27580a0f3a6a4c8ca05c6277715d38c0/master.m3u8?1676411994"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pl2toe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales y diseño de la colección",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/176/917d9066d81e2c15e1f1ced7aad998b6/master.m3u8?1676411995"
+                },
+                {
+                    "id": null,
+                    "title": "Lluvia de ideas y mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/177/310d782c92f260943eea38b4533c55f7/master.m3u8?1676411995"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de la paleta de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/178/37366d3cc02be305b9f371292a0e1c2b/master.m3u8?1676411996"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b1dyae.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de arcilla",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acondicionamiento y limpieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/179/55ed72c50224502b1bc7e25af9701f3a/master.m3u8?1676411996"
+                },
+                {
+                    "id": null,
+                    "title": "Cortar arcilla correctamente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/180/5dcbd8a3d6db626c4b2044a52eb19fc7/master.m3u8?1676411995"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de patrones de arcilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/181/a313c2ec110a9e43dc4e05f91919dae2/master.m3u8?1676412002"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas florales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/182/250990244591f61707ca83ce533b31c0/master.m3u8?1676412006"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas florales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/183/02e0d93a22d753f94ce785e84b17d780/master.m3u8?1676412001"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cguqi8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hornear ensamblar y limpiar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hornear la arcilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/184/fc12a59e3dc75409c1489fb6e1881bb3/master.m3u8?1676411997"
+                },
+                {
+                    "id": null,
+                    "title": "Lijado pulido y limpieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/185/f6741a09ac849682223fc9868e99f1df/master.m3u8?1676412002"
+                },
+                {
+                    "id": null,
+                    "title": "Montaje de la colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/188/99d5932123b4aca023b0f4b2817e5172/master.m3u8?1676412011"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uwcnya.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cuidar y compartir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conservación y almacenamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/192/1eb65e8dc4263577c2d8540115305feb/master.m3u8?1676412002"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografiar la colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/197/56e931790b794b70749b0c64ee723e74/master.m3u8?1676412008"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aiujtz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vtgjs9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4105,
+        "product_name": "Intro to Polymer Clay Jewelry: Design Floral Accessories",
+        "teacher_name": "Mallory Smith",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 6716,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

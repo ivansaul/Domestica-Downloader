@@ -1,0 +1,207 @@
+{
+    "id": "218",
+    "title": "Diseño editorial cómo se hace un libro",
+    "url": "https://www.domestika.org/es/courses/218-diseno-editorial-como-se-hace-un-libro/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/796/613591e1678f47858ec822689178f02f/master.m3u8?1676382815"
+                },
+                {
+                    "id": null,
+                    "title": "Libros de texto que me han influido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/797/356c7ea97087c2ce06255f506dfc2897/master.m3u8?1676382815"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/buj22l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dando forma al libro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/798/f4884b75c3f09d5fc18f4047b0f7ab67/master.m3u8?1676382820"
+                },
+                {
+                    "id": null,
+                    "title": "Partes de la tripa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/799/ba1f58fd86bac5508b232f1394eab7ce/master.m3u8?1678291486"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9yo8f5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dando forma a la página",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pliegos y número de páginas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/800/59b584c052c45fbdad0c1dc0dd7a26a5/master.m3u8?1676382821"
+                },
+                {
+                    "id": null,
+                    "title": "La caja de texto claves en InDesign",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/801/98b3d98775c5c0df175c74bf61bb6534/master.m3u8?1676382819"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x1mrev.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El texto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elección de la letra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/802/92b56f7950b821cfa778eb0092b37e0b/master.m3u8?1678291840"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar el texto en párrafos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/803/a841b37953345bc342e9ccee7b04c32c/master.m3u8?1676382821"
+                },
+                {
+                    "id": null,
+                    "title": "Más parámetros de párrafo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/804/24dba6f8e59b9dd968134715ff35978d/master.m3u8?1678448012"
+                },
+                {
+                    "id": null,
+                    "title": "Organizar los párrafos y editaje I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/805/f81e4dc38d7ee799731a8e568d8138b7/master.m3u8?1676382820"
+                },
+                {
+                    "id": null,
+                    "title": "Organizar los párrafos y editaje II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/806/7992a43844603a90135ec79fc19093cc/master.m3u8?1676382824"
+                },
+                {
+                    "id": null,
+                    "title": "Ajuste final de la textura I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/807/15afbcdfc12f0652744483c471e7d591/master.m3u8?1676382822"
+                },
+                {
+                    "id": null,
+                    "title": "Ajuste final de la textura II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/808/dd8d737e1ccb92c2d471b71c3922fd68/master.m3u8?1676382826"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6vwy7b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las partes comunes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lo que no es cuerpo de texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/809/46d7300a4cc7d5868b6de8e88eecf73f/master.m3u8?1676382827"
+                },
+                {
+                    "id": null,
+                    "title": "Automatizaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/815/7df32bbbc4e4b12b425e052fb1ed64dc/master.m3u8?1676382825"
+                },
+                {
+                    "id": null,
+                    "title": "La cubierta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/816/00d9e7c65cae556c73240ca27d0a7125/master.m3u8?1676382826"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6y9ppr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalizando el libro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Procesos de trabajo y seguridad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/817/42a896c7d52da803ce41b879d3d2a8e3/master.m3u8?1676382828"
+                },
+                {
+                    "id": null,
+                    "title": "Versión electrónica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/818/271a9c97a61c8dfc7dcd34300c0a5996/master.m3u8?1676382827"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nmdod3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/meyspq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 218,
+        "product_name": "Editorial Design: How a Book is Made",
+        "teacher_name": "Enric Jardí",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 15374,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

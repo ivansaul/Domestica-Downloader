@@ -1,0 +1,206 @@
+{
+    "id": "5226",
+    "title": "Introducción a SketchUp para arquitectos y diseñadores de interiores",
+    "url": "https://www.domestika.org/es/courses/5226-introduccion-a-sketchup-para-arquitectos-y-disenadores-de-interiores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/265/c24ed0635443353e63dc8a1a0a5203fc/master.m3u8?1723223219"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/266/52f59615ca0f6ba53e29c6f49081722b/master.m3u8?1718957045"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kn1h64.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentamos la interfaz de SketchUp",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las herramientas y las teclas de acceso directo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/268/d49aae019b0d738cd1ae816b9aae2228/master.m3u8?1697514017"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas de forma primera pincelada y superficies planas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/269/fdf85d8bcb71270daa2cf11bfaf71f94/master.m3u8?1697514040"
+                },
+                {
+                    "id": null,
+                    "title": "Volúmenes 3D a partir de superficies planas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/270/5ecff10c49c13318f655417d17e8240e/master.m3u8?1697514059"
+                },
+                {
+                    "id": null,
+                    "title": "Crear y editar grupos y componentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/271/62fec65a44f07741570736f1a36ee5c6/master.m3u8?1697514077"
+                },
+                {
+                    "id": null,
+                    "title": "Experimentando con las herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/272/92e4af2eeee55f1de3458d7e753ac2fb/master.m3u8?1697514092"
+                },
+                {
+                    "id": null,
+                    "title": "Familiarizarse con el software",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/805/39c398ea04512ea71edd5e359d60367d/master.m3u8?1721747949"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6b8lew.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importar el dibujo de AutoCAD a SketchUp",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/273/d37a1f1b878a6c4450af286d38286e32/master.m3u8?1697514114"
+                },
+                {
+                    "id": null,
+                    "title": "Paredes y Perforaciones de Paredes para Puertas y Ventanas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/274/4832ae5b13b6cc685cc4a81645c80270/master.m3u8?1697514130"
+                },
+                {
+                    "id": null,
+                    "title": "El piso y el techo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/275/82fcf6c2563f2a6004bc442fd4ae9821/master.m3u8?1697514144"
+                },
+                {
+                    "id": null,
+                    "title": "Mobiliario y otros detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/276/6371ed57a424dec1da3295cfeb68b7ae/master.m3u8?1697514163"
+                },
+                {
+                    "id": null,
+                    "title": "Crear material nuevo y editarlo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/277/7608b6542978cb1e8c66edd8485dcfc4/master.m3u8?1697514178"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uuue85.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Organizando el proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Edición del modelo vista axonométrica explosionada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/278/f7aca820a6295ed38aeaca8f2c0515d8/master.m3u8?1697514199"
+                },
+                {
+                    "id": null,
+                    "title": "Seleccionar el estilo del modelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/279/d8df905424587f9ce896b2733dbb5cc5/master.m3u8?1697514220"
+                },
+                {
+                    "id": null,
+                    "title": "Creando una escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/280/2c30bf4a86244888651eab16acf61692/master.m3u8?1697514237"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar archivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/281/b726d11dda7023c7fc5e35d6fb36cf9b/master.m3u8?1720518319"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ahlvrs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los toques finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importar el archivo a Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/282/af2cdfa2098dc1e9d367007d25e8cc37/master.m3u8?1697514271"
+                },
+                {
+                    "id": null,
+                    "title": "El fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/283/0d704538bb0df6d2c528f424319c3810/master.m3u8?1697514290"
+                },
+                {
+                    "id": null,
+                    "title": "El archivo final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/284/d99856e0386444ae7f8227c40c4cf69a/master.m3u8?1697514307"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sdjo8e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1zy953.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5226,
+        "product_name": "Introduction to SketchUp for Architects and Interior Designers",
+        "teacher_name": "Kritika Thakur",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 8967,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}

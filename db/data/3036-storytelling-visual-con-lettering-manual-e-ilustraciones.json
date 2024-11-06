@@ -1,0 +1,195 @@
+{
+    "id": "3036",
+    "title": "Storytelling visual con lettering manual e ilustraciones",
+    "url": "https://www.domestika.org/es/courses/3036-storytelling-visual-con-lettering-manual-e-ilustraciones/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/032/73f2e0429110000b375217f54364d960/master.m3u8?1676403813"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/033/ab5e0b648a84fdb5d208bf0ede611c38/master.m3u8?1676403814"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ra9klb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos del lettering",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el lettering manual y qué necesitarás para el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/034/335010ef32398e742d75233b06d42ce3/master.m3u8?1676403818"
+                },
+                {
+                    "id": null,
+                    "title": "Los estilos de lettering en los que nos centraremos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/035/a021c4bc27f8a057c70407b6842bcf5b/master.m3u8?1676403819"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos de lettering en la práctica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/036/6a0f7e2e9a02bfd9b3a72130dc693add/master.m3u8?1676403817"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo encontrar un buen dicho y concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/037/b5f0c65fe31a3dab2030e753c5cf0e67/master.m3u8?1676403820"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kg4gap.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mood board analógico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/038/5b6e9b5a6a7d7cad63ad1595cfdfa7b3/master.m3u8?1676403821"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/039/0fdb0f2068d0e14efc2c1b7a76dc0718/master.m3u8?1676403819"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustración y narración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/040/09968c662822d63d9d9153b54c5805ad/master.m3u8?1676403817"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos libres y composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/041/e4f311183d339f005bc57e790baee521/master.m3u8?1676403823"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ed7vc5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñemos tu cartel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a Procreate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/042/ac20228687ae25772eefb68f9e96247f/master.m3u8?1676403822"
+                },
+                {
+                    "id": null,
+                    "title": "Perfeccionar el boceto 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/043/c53732631a953a5e29bdc7c3e17cc35a/master.m3u8?1676403822"
+                },
+                {
+                    "id": null,
+                    "title": "Perfeccionar el boceto 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/044/c00803d46501f1a3fbaab24614f2266c/master.m3u8?1676403818"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/045/f6a4f4f5ff67e51707bd30642804b835/master.m3u8?1676403823"
+                },
+                {
+                    "id": null,
+                    "title": "Color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/046/f6bacc1275f49d6a057de7e5d43b3b9c/master.m3u8?1676403824"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles y sombreado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/047/829667c8cb3adf0357c318a24d7abd24/master.m3u8?1676403824"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fd2uxm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Y ahora",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación y exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/048/6afb1242b79c08e4b4044ad3eb908a75/master.m3u8?1676403821"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar tu estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/049/0f08b24c31c086e2ce4c4adcd1c09865/master.m3u8?1676403821"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/czemyf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/m6zuch.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3036,
+        "product_name": "Visual Storytelling with Hand-Lettering and Illustration",
+        "teacher_name": "David Leutert",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 13221,
+        "total_units": 5,
+        "subtitles_language": [
+            "de",
+            "es",
+            "en",
+            "pt",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "de"
+        ],
+        "original_language": "de"
+    }
+}

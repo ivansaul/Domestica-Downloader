@@ -1,0 +1,153 @@
+{
+    "id": "2624",
+    "title": "Diseño de letras 3D cromadas con Procreate",
+    "url": "https://www.domestika.org/es/courses/2624-diseno-de-letras-3d-cromadas-con-procreate/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/652/92eaebe6bb0c3b7c95ec18b8642b91b7/master.m3u8?1676414080"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/653/bf17e5a493dfb9b6cac2d608230aa956/master.m3u8?1676414079"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sqcb0e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y conceptos básicos de letras a mano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/654/4b8deb137af95cb7cd1552354340bf7b/master.m3u8?1676414079"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo dibujar formas de letras de script",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/655/50af0b857a9a0436f244189c5f82db85/master.m3u8?1676414082"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir su propia palabra y estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/656/0ea6e6d33fe8c57a8c3b03921f35d4fd/master.m3u8?1676414081"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b3yt4c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparando el lienzo en Procreate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/657/8c059af2f4cbba644dcbb06aba20747b/master.m3u8?1676414084"
+                },
+                {
+                    "id": null,
+                    "title": "Refinamiento de bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/658/7b8a02b96b97f36cf7796f0c0398a2d5/master.m3u8?1676414086"
+                },
+                {
+                    "id": null,
+                    "title": "Crear la forma final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/660/164c480b8fa8801f265a48206d776892/master.m3u8?1676414090"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2l6ym2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Refinando los últimos detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Agregar color y volumen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/661/7329cc3d92be35293e498e5b83a214e5/master.m3u8?1676414087"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de sombras y reflejos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/662/6d6875df4e39ad45168dd7538f67dc78/master.m3u8?1676414093"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de sombras y reflejos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/663/1bc4ef921858d70ec9936a07f3cdfbe0/master.m3u8?1676414087"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes finales de fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/664/b2c35787171028c4cd6df4422a085cea/master.m3u8?1676414092"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j2svco.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/lxclst.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2624,
+        "product_name": "Designing 3D Chrome Letters in Procreate",
+        "teacher_name": "Aurelie Maron",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 8011,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

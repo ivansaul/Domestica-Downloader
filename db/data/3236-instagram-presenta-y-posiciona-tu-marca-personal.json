@@ -1,0 +1,148 @@
+{
+    "id": "3236",
+    "title": "Instagram presenta y posiciona tu marca personal",
+    "url": "https://www.domestika.org/es/courses/3236-instagram-presenta-y-posiciona-tu-marca-personal/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/154/a4061e1cca9f6debada01de1ad42ddca/master.m3u8?1676403376"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/155/b179bcf3d924407602474c46934b6c8a/master.m3u8?1676403376"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w7t6pp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Marca personal y comunicación digital",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Marca personal vs marca corporativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/156/656041503b5ebd691c85a8ab979815c1/master.m3u8?1676403378"
+                },
+                {
+                    "id": null,
+                    "title": "Instagram y contenidos digitales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/157/ca82be4e3ab8f8367a899602c7fbcafe/master.m3u8?1676403378"
+                },
+                {
+                    "id": null,
+                    "title": "Universo visual descubre tu diferencial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/158/cc076ffdacadd76b4d05a1b29e2dadfc/master.m3u8?1676403379"
+                },
+                {
+                    "id": null,
+                    "title": "Persona la persona detrás de la publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/159/a7c41e462fcbca6aee0fac699f4899b2/master.m3u8?1676403379"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i2gf3m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Poniendo en práctica tu autoconocimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición de temas de contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/160/e008a8fc59b08506a6991334df54dbfe/master.m3u8?1676403380"
+                },
+                {
+                    "id": null,
+                    "title": "El propósito de cada publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/161/21079d9f911a58fe6ac637f651bb72ef/master.m3u8?1676403380"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de un lanzamiento en cinco publicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/162/be1021adb871ab860800b1cbefad0994/master.m3u8?1676403380"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dv523l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Analizar lo hecho y empezar de nuevo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Analizando lo que se ha hecho",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/163/53b6515e829ae7fe9a3864c23f62be36/master.m3u8?1676403380"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo tener siempre algo que publicar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/164/bd61d3a327dedefd18d4698a37cbeea4/master.m3u8?1676403381"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5a4rs3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ltb0ke.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3236,
+        "product_name": "Instagram: Promote and Position Your Brand",
+        "teacher_name": "Guid Meinelecki",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 5156,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

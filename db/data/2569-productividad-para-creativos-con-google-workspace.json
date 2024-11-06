@@ -1,0 +1,153 @@
+{
+    "id": "2569",
+    "title": "Productividad para creativos con Google Workspace",
+    "url": "https://www.domestika.org/es/courses/2569-productividad-para-creativos-con-google-workspace/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/429/14a388e50e830560a6499dd4c3886820/master.m3u8?1676398205"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/430/01debebe6aec97b7f7801d9b42e6c60b/master.m3u8?1676398206"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mpr1g6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definición de su propio sistema de productividad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cuáles son mis necesidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/431/5950d9391eb45e89b49503a621c965a2/master.m3u8?1676398209"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es Google Workspace",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/432/a88698c9eeecf2dcc9e5aa82447bf117/master.m3u8?1676398207"
+                },
+                {
+                    "id": null,
+                    "title": "Primero lo primero cree una cuenta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/433/6a7f4ddbb8ada9f11ec806ae90d65498/master.m3u8?1676398210"
+                },
+                {
+                    "id": null,
+                    "title": "Empecemos a colaborar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/434/864be4ef47ee8909e5602d938ef238a1/master.m3u8?1676398211"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/28plm5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los componentes básicos de su sistema de productividad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Organízate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/435/73caf187f57e33d368e398745b508f5b/master.m3u8?1676398211"
+                },
+                {
+                    "id": null,
+                    "title": "Comunicarse con los demás",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/436/715864e8bca7655e9b655fdfb48b76a5/master.m3u8?1676398212"
+                },
+                {
+                    "id": null,
+                    "title": "Sea más productivo y organizado gracias a Google Workspace",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/437/3a2b0c80d91ecda887b1d3ffefff2d9f/master.m3u8?1676398209"
+                },
+                {
+                    "id": null,
+                    "title": "Colabore de forma más eficaz con su equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/438/9559e1788d2f2df83f570558178d5e64/master.m3u8?1676398209"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b4d2d6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mejores prácticas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mejores prácticas para autónomos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/439/90704e20723e10f8664b1ecb73c1935a/master.m3u8?1676398212"
+                },
+                {
+                    "id": null,
+                    "title": "Prácticas recomendadas para equipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/440/a5fb8a8540fe07407904c79ef22268f4/master.m3u8?1676398211"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3kdcyj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9p67tu.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2569,
+        "product_name": "Productivity for Creatives with Google Workspace Tools",
+        "teacher_name": "Chanel Greco",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6693,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

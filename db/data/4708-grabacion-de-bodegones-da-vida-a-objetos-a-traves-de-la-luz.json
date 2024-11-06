@@ -1,0 +1,163 @@
+{
+    "id": "4708",
+    "title": "Grabación de bodegones da vida a objetos a través de la luz",
+    "url": "https://www.domestika.org/es/courses/4708-grabacion-de-bodegones-da-vida-a-objetos-a-traves-de-la-luz/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/336/32be04d8ab6d0c56334b5f4affc047a7/master.m3u8?1686213353"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/337/3a86631528aa77ed1401ca8f7a30866a/master.m3u8?1686213391"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/orkkqz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasando al movimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El poder de la imagen en movimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/415/dfadd32ea1badb302e40bf83d5423850/master.m3u8?1686566839"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/416/645baa657806e4d504dddd65e7c3dc3a/master.m3u8?1686567010"
+                },
+                {
+                    "id": null,
+                    "title": "Mood boards y storyboards 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/417/c6cad0511917549286b2de2eb726436b/master.m3u8?1686567104"
+                },
+                {
+                    "id": null,
+                    "title": "Mood boards y storyboards 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/418/dd519d80eb33bcb2d801e384c6f80fed/master.m3u8?1686567139"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y54d06.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Capturar las fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración del estudio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/419/d2c3bea412c491eeae2833624c66156d/master.m3u8?1686567181"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/384/1e1325fda6dbf05e4dae27f9e2e9ae4c/master.m3u8?1686308266"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/385/a2494c0b5d6c62a026e5d71b8dcfbefc/master.m3u8?1686308286"
+                },
+                {
+                    "id": null,
+                    "title": "Grabando al héroe",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/386/f089e257245a8d144480f1290a58363b/master.m3u8?1686308306"
+                },
+                {
+                    "id": null,
+                    "title": "Adición de flores y captura de detalles 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/420/fb3bc34b84f9d40117c366686ca306eb/master.m3u8?1686567272"
+                },
+                {
+                    "id": null,
+                    "title": "Adición de flores y captura de detalles 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/421/49d5dd7831fb82441911e9b1e2162ded/master.m3u8?1686567291"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6z5ch6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos toques",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Edición de postproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/422/e24f4af9019154c8be2f63d677a85fdc/master.m3u8?1686567323"
+                },
+                {
+                    "id": null,
+                    "title": "Graduación y formato de posproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/423/b260591dc6138be35238486e0b2c8444/master.m3u8?1686567354"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vr4vhx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/bowsl7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4708,
+        "product_name": "Filming Still Life: Bring Objects to Life through Light",
+        "teacher_name": "Sam Hofman",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 11335,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

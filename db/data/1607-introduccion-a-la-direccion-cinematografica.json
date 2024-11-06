@@ -1,0 +1,210 @@
+{
+    "id": "1607",
+    "title": "Introducción a la dirección cinematográfica",
+    "url": "https://www.domestika.org/es/courses/1607-introduccion-a-la-direccion-cinematografica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/828/0295022b8d6648ed1788edef54f2d69a/master.m3u8?1676400032"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/829/62d2e731944216fea8b83bfef1982e69/master.m3u8?1676400026"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b2j3df.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La labor de un director tener una visión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sintaxis cinematográfica el abc de un director",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/830/0e741c793c21511c2f6cc4ea70975798/master.m3u8?1676400031"
+                },
+                {
+                    "id": null,
+                    "title": "El guion el germen de tu película 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/831/c8bfe4df9dd268919a3d86ba7c140b8e/master.m3u8?1676400027"
+                },
+                {
+                    "id": null,
+                    "title": "El guion el germen de tu película 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/832/fae3090bbf6321700741590782f94252/master.m3u8?1676400032"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias y referencias visualiza aprendiendo de otros 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/833/e3d3eff012cd8e3b76439648e346c62f/master.m3u8?1676400033"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias y referencias visualiza aprendiendo de otros 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/834/164003f675ffb42c4f026b7ed2bcf8c1/master.m3u8?1676400034"
+                },
+                {
+                    "id": null,
+                    "title": "El tratamiento la piedra angular de tu visión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/835/c1d53c02b42e1b538bac388d19501f1c/master.m3u8?1676400034"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0s8x97.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la visión al mundo real",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La producción se pone en marcha",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/840/48d1bb4dbccb33ab48417701805cad38/master.m3u8?1676400043"
+                },
+                {
+                    "id": null,
+                    "title": "El storyboard tu visión traducida a lenguaje cinematográfico 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/841/91a03cc214bc35f8c911e7a7584c6ca3/master.m3u8?1676400052"
+                },
+                {
+                    "id": null,
+                    "title": "El storyboard tu visión traducida a lenguaje cinematográfico 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/842/0fe7fb7d55b9573cb95c92542c37bc4e/master.m3u8?1676400041"
+                },
+                {
+                    "id": null,
+                    "title": "El dossier de preproducción tu visión bajada al mundo real",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/843/2afa2cf0824c561819d2be19d4b9dc6d/master.m3u8?1676400038"
+                },
+                {
+                    "id": null,
+                    "title": "Para aprender más Lectura de guion y ensayo con actores 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/855/d6566095ce38f6e8276b9ec6564d9044/master.m3u8?1676400051"
+                },
+                {
+                    "id": null,
+                    "title": "Para aprender más Lectura de guion y ensayo con actores 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/856/6e1f1e87d8e9f8c999ee25501e796974/master.m3u8?1676400058"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jlla7i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El plan de rodaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/844/93d9718d25e389609576a3904d2826d0/master.m3u8?1676400041"
+                },
+                {
+                    "id": null,
+                    "title": "Llegamos al set consejos experiencias y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/845/245a656c774b0ee732d054eb62194a85/master.m3u8?1676400040"
+                },
+                {
+                    "id": null,
+                    "title": "El rodaje dirigiendo al equipo y los actores 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/846/8e56b1277b99cab003bead63a524f2f3/master.m3u8?1676400044"
+                },
+                {
+                    "id": null,
+                    "title": "El rodaje dirigiendo al equipo y los actores 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/848/0f2ba28cfad865a5d7c50a9635cfdd92/master.m3u8?1676400044"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/utkx9e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La visión se hace realidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo estructurar tu postproducción 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/850/3665a529e7d68bb95facd82dc08904f2/master.m3u8?1676400047"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo estructurar tu postproducción 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/852/5ff47b508b5163cd2641311ff828be20/master.m3u8?1676400047"
+                },
+                {
+                    "id": null,
+                    "title": "Tu visión ante ti",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/853/890be740a00ac9713f35a811ae28bff9/master.m3u8?1676400046"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oe8g12.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/em0lbw.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1607,
+        "product_name": "Introduction to Film Direction",
+        "teacher_name": "César Pesquera",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 16465,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}
