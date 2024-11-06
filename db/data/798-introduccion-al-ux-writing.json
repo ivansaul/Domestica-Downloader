@@ -1,0 +1,158 @@
+{
+    "id": "798",
+    "title": "Introducción al UX Writing",
+    "url": "https://www.domestika.org/es/courses/798-introduccion-al-ux-writing/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/017/8d6b72c1439c3760c5417347c4003076/master.m3u8?1676391237"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/018/b42ad1eacaf0d474e49dd7f1d87fdb0a/master.m3u8?1676391238"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/019/e880c2b6a17745c008b48d1998b717bf/master.m3u8?1676391237"
+                },
+                {
+                    "id": null,
+                    "title": "Calentamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/095/13ce6ff6ddb8307380f23383a5e7a271/master.m3u8?1676391283"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bdhilu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al UX Writing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué demonios es el UX Writing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/020/1f07dec20ebd2cc234a1e13ecf91c2bc/master.m3u8?1676391242"
+                },
+                {
+                    "id": null,
+                    "title": "Conocer a tu usuario es el primer paso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/021/fc4256180995ebfe29579f2ffc69c212/master.m3u8?1676391241"
+                },
+                {
+                    "id": null,
+                    "title": "Parte del equipo de producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/022/6b86047930d8a6e0c9169b8e253a81d9/master.m3u8?1676391256"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7q4khf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Principios básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entender cómo leemos para escribir mejor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/023/ccb41e3fcfcc9b20cdbc446fbc08db8b/master.m3u8?1676391244"
+                },
+                {
+                    "id": null,
+                    "title": "Los sistemas digitales son como una conversación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/024/59c86b8edfc08177732f178d85c8416e/master.m3u8?1676391244"
+                },
+                {
+                    "id": null,
+                    "title": "Voz y tono",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/025/f55084ef10c86f95ec94593d1c092188/master.m3u8?1676391244"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sut3hi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Escribir para la experiencia de usuario",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Onboardings y pantallas que aún no tienen contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/026/747322727641ab99a4294848151f0f54/master.m3u8?1676391246"
+                },
+                {
+                    "id": null,
+                    "title": "Notificaciones mensajes de error y botones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/027/bea6e84cb88e108163592cb5e117af20/master.m3u8?1676391246"
+                },
+                {
+                    "id": null,
+                    "title": "Accesibilidad diversidad y localización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/092/2b5e6f46b15e2313827418ec2d958527/master.m3u8?1676391281"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xflwza.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ngmn8o.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 798,
+        "product_name": "Introduction to UX Writing",
+        "teacher_name": "Mario Ferrer",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8333,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

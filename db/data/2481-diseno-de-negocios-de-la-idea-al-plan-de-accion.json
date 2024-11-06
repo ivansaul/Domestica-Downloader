@@ -1,0 +1,163 @@
+{
+    "id": "2481",
+    "title": "Diseño de negocios de la idea al plan de acción",
+    "url": "https://www.domestika.org/es/courses/2481-diseno-de-negocios-de-la-idea-al-plan-de-accion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/073/983eb651535e18952b9c0cf319b07c95/master.m3u8?1676397524"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/137/278d1862cc1e658f0c3c7df10f106dfc/master.m3u8?1676397551"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/15beip.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La idea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cuál es tu idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/074/5eb6e71d7d1c2f9581651a7fcb85d90f/master.m3u8?1676397528"
+                },
+                {
+                    "id": null,
+                    "title": "Por qué te contratarían",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/075/76e0c4fc8bb70dd227f657e9cf3de17e/master.m3u8?1676397527"
+                },
+                {
+                    "id": null,
+                    "title": "Quién es tu competencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/076/43dec391ef22995a1ddfe9f7400a80ef/master.m3u8?1676397527"
+                },
+                {
+                    "id": null,
+                    "title": "Quién es tu mercado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/077/287b80b915f8d360e9b771f0139e40fa/master.m3u8?1676397527"
+                },
+                {
+                    "id": null,
+                    "title": "Propuesta de valor Por qué te eligirían",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/078/3448a199c8784e89a5de9517c7b3f9ac/master.m3u8?1676397528"
+                },
+                {
+                    "id": null,
+                    "title": "El manifiesto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/079/86310de3e5add42d5563662229b3c1c9/master.m3u8?1676397527"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tu1fg4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El negocio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelo de negocio y modelo financiero Cómo se hacen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/080/a00fc0e26671c3273beb0b587ead2c52/master.m3u8?1676397529"
+                },
+                {
+                    "id": null,
+                    "title": "Proyecciones financieras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/081/5347e5f0b3892cf88abfca592936bb8a/master.m3u8?1676397532"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de socios y equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/082/c009c14b02f015f3416dea9361998157/master.m3u8?1676397529"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l9iwlx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La empresa empieza la implementación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "De plan estratégico a deck 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/083/a6bdd25a0c0d50b0ed00811d56809b79/master.m3u8?1676397531"
+                },
+                {
+                    "id": null,
+                    "title": "De plan estratégico a deck 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/084/cb29ea16c4d34a1a43aa4e722bf8bb28/master.m3u8?1676397532"
+                },
+                {
+                    "id": null,
+                    "title": "El pitch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/085/8ae6ff4949e8dd6eba8d21b081a71dcd/master.m3u8?1676397531"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x0usby.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/489c9x.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2481,
+        "product_name": "Business Design: From Idea to Action Plan",
+        "teacher_name": "Pablo Lascurain",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8307,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

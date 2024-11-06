@@ -1,0 +1,158 @@
+{
+    "id": "2311",
+    "title": "Worldbuilding iníciate en la narrativa fantástica",
+    "url": "https://www.domestika.org/es/courses/2311-worldbuilding-iniciate-en-la-narrativa-fantastica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/894/b989458905c4515d08ded06f2872256e/master.m3u8?1676400064"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/895/f63b9dc288fb600757626081589fdfe0/master.m3u8?1676400064"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hgsfho.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los mundos de ficción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo trabajar cierto género",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/896/8037e2f2c8fa982dc854dd167ac5b8cb/master.m3u8?1676400064"
+                },
+                {
+                    "id": null,
+                    "title": "Imagina tu mundo entorno tiempo y personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/897/98724f9faea99bf2341593d74017892e/master.m3u8?1676400069"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo organizar la creación de tu mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/898/80a1c2a152b8170f645da479aa16c65f/master.m3u8?1676400066"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yx413l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De lo esencial a los detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué historias quieres contar en tu mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/899/ea0410408fee489df0585aa830495d6d/master.m3u8?1676400066"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de materiales cronología y ficha de personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/900/2436f17c96b149e2acc19a923a037daf/master.m3u8?1676400068"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de materiales tablas de concordancia y mapas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/901/81b935a6abdb590acebff93d7ed22f78/master.m3u8?1676400066"
+                },
+                {
+                    "id": null,
+                    "title": "Crea la guía general de tu mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/902/0db824c5b12a3533f77eb6ed8c270615/master.m3u8?1676400071"
+                },
+                {
+                    "id": null,
+                    "title": "Tu primer argumento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/903/144778daf77c036fd8634a14bbbec41e/master.m3u8?1676400068"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6tbtng.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Seguir explorando",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo crear apoyos para tu mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/904/1be37ca45bd53c954449452066a722b1/master.m3u8?1676400069"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollar el argumento cómo y dónde",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/905/f6d4b0405d75f1f91f032897a3e10f80/master.m3u8?1676400069"
+                },
+                {
+                    "id": null,
+                    "title": "Recomendaciones finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/906/69b34f26bbb088a537a0e7e9fa4fb684/master.m3u8?1676400069"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wtzmb6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qfwelz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2311,
+        "product_name": "Worldbuilding: Discover the Fantasy Narrative",
+        "teacher_name": "Alberto Chimal",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7525,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

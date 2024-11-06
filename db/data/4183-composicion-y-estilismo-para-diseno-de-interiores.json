@@ -1,0 +1,143 @@
+{
+    "id": "4183",
+    "title": "Composición y estilismo para diseño de interiores",
+    "url": "https://www.domestika.org/es/courses/4183-composicion-y-estilismo-para-diseno-de-interiores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/752/4bc5c65c42296c5c7603614c4a74c329/master.m3u8?1676409118"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/753/22b241334d54827195eea4e85e53c61a/master.m3u8?1676409120"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i5kjnl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de muebles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una viñeta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/754/9279baa366ef1992e57952ca6bce6c57/master.m3u8?1676409120"
+                },
+                {
+                    "id": null,
+                    "title": "La habitación y la pared",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/755/1697fc22d7aea211eac6bb8c6c3c3627/master.m3u8?1676409117"
+                },
+                {
+                    "id": null,
+                    "title": "Adquiriendo piezas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/756/57e1dfa67015aa26e2fb998fbe080bc1/master.m3u8?1676409119"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xsoid3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo la viñeta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El mueble principal y las piezas laterales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/757/04503320dd9578c4792d16ca6b19ecb9/master.m3u8?1676409118"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de pared",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/758/14348e0c8beac590bfe1c582568e0d7f/master.m3u8?1676409121"
+                },
+                {
+                    "id": null,
+                    "title": "El tablescape",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/759/4afaebcd9a9447bcf4d28742de8795c0/master.m3u8?1676409123"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/387qr3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Terminando la viñeta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Variaciones y temporadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/760/1a3adeb6b6fed517317e2afcccf84f7b/master.m3u8?1676409122"
+                },
+                {
+                    "id": null,
+                    "title": "Documentando la viñeta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/761/5b97ee811503060678cd111537456520/master.m3u8?1676409122"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pi3pq4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/y71415.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4183,
+        "product_name": "Composition and Styling for Interior Design",
+        "teacher_name": "Sean Scherer",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 10,
+        "course_total_duration_sec": 6147,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

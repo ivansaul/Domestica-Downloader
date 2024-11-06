@@ -1,0 +1,178 @@
+{
+    "id": "1005",
+    "title": "Introducción a la fotografía narrativa",
+    "url": "https://www.domestika.org/es/courses/1005-introduccion-a-la-fotografia-narrativa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Me presento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/207/30f02c068dd8d7c27378ff87f6331ff0/master.m3u8?1676893153"
+                },
+                {
+                    "id": null,
+                    "title": "Qué me inspira",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/208/6b8040371b91d816e02e3970b773389a/master.m3u8?1676389005"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/209/1e7757a1c4215da61ef3b99c7328d50e/master.m3u8?1676389007"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ycz8yy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Antes de la imagen la idea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Narrar a través de la fotografía las series fotográficas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/210/143ab9c23110fd122aab227d7290c097/master.m3u8?1676389005"
+                },
+                {
+                    "id": null,
+                    "title": "El cuaderno de artista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/211/a8d1b100f380bcd7acf4fc17c91d33a8/master.m3u8?1676389007"
+                },
+                {
+                    "id": null,
+                    "title": "Cultura visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/212/04474c81b4e2e788fafe01d0f4f15cdb/master.m3u8?1676389010"
+                },
+                {
+                    "id": null,
+                    "title": "La idea brainstorming y bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/213/f2ebb2c5cbd425bbc08c4707a455f4bc/master.m3u8?1676389010"
+                },
+                {
+                    "id": null,
+                    "title": "El equipo fotográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/214/78c52a7720f74a8270d96e8d34fa924c/master.m3u8?1676389005"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9ybzus.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empezamos a fotografiar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparando la sesión localizaciones atrezzo y styling",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/215/9a7a0bd46b3baf0a810b360f5223e1dd/master.m3u8?1676389015"
+                },
+                {
+                    "id": null,
+                    "title": "La sesión fotográfica detrás de la cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/216/033f7da1db5ba7b0b9777366af046e24/master.m3u8?1676389009"
+                },
+                {
+                    "id": null,
+                    "title": "La sesión fotográfica delante de la cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/217/c51b46759e6c231a3113e991d6bb622d/master.m3u8?1676389007"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/09iomo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción narrar con Photoshop",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/429/5092064be2976d5011c751dc670338a8/master.m3u8?1676389621"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes básicos en Camera Raw",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/219/2fa411149853476bcdf793e693e62dd8/master.m3u8?1676389008"
+                },
+                {
+                    "id": null,
+                    "title": "Editar con Photoshop 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/220/0d61b23e65e7f5d12662e71e731bcc7a/master.m3u8?1676389014"
+                },
+                {
+                    "id": null,
+                    "title": "Editar con Photoshop 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/221/d54bcb45971b9f31f71fd7bb1ca204f9/master.m3u8?1676389008"
+                },
+                {
+                    "id": null,
+                    "title": "Edición narrativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/222/128c49ac7bbf824ed0bac733ff4bef34/master.m3u8?1676389010"
+                },
+                {
+                    "id": null,
+                    "title": "El después",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/223/5a55b04d5a57e0f3777366af36cab7e4/master.m3u8?1676389013"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rq8td8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/62qf5i.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1005,
+        "product_name": "Introduction to Narrative Photography",
+        "teacher_name": "Dara Scully",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 7899,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

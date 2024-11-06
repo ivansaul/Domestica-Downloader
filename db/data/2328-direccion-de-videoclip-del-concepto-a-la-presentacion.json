@@ -1,0 +1,163 @@
+{
+    "id": "2328",
+    "title": "Dirección de videoclip del concepto a la presentación",
+    "url": "https://www.domestika.org/es/courses/2328-direccion-de-videoclip-del-concepto-a-la-presentacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/328/53faeadcfd51f3715cfaae5c02bb15a2/master.m3u8?1676399242"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/329/45b657c18ee8808e69167211e84704b9/master.m3u8?1676399241"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h2p6xg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptualizando el video",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "primeras ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/330/27c90eea1f7cd26da5dc3c76305e4c9c/master.m3u8?1676399247"
+                },
+                {
+                    "id": null,
+                    "title": "En busca de una propuesta conceptual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/331/ef2bb9e7a53dedb6b6399a442c252ec0/master.m3u8?1676399246"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/332/c97aed9a86de0bba7c21a579b54eb5b5/master.m3u8?1676399242"
+                },
+                {
+                    "id": null,
+                    "title": "Armado de su presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/333/79dc16ba52fc23c2332b23a43235a0d7/master.m3u8?1676399243"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo y equipamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/334/924f67e15956690c05d2848acd519246/master.m3u8?1676399245"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yx86qz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Produciendo el videoclip",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "el alquiler",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/335/6afec4f4cba65059e6e09fcd32c19a66/master.m3u8?1676399243"
+                },
+                {
+                    "id": null,
+                    "title": "arte y vestuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/336/75c37d7bb98bf9c6f036c2edfedc9ea7/master.m3u8?1676399244"
+                },
+                {
+                    "id": null,
+                    "title": "dirección de fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/337/8002f904f7ff2899ba61a76d75d6d109/master.m3u8?1676399245"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección de acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/338/79d766e584dc4741b59f2230599d3ee6/master.m3u8?1676399246"
+                },
+                {
+                    "id": null,
+                    "title": "plan de rodaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/339/7cdff34526371546750ad31d972d5e58/master.m3u8?1676399247"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6nzvds.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "la selección y el equilibrio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/340/01626aea55d4dfa12572993742819ad5/master.m3u8?1676399246"
+                },
+                {
+                    "id": null,
+                    "title": "Tengo un proyecto qué hacer con él",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/341/117dbee3f9110e24b2b65a6ea2c7a56c/master.m3u8?1676399245"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7v62ub.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/drv3fd.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2328,
+        "product_name": "Music Video Direction: From Concept to Presentation",
+        "teacher_name": "Fred Ouro Preto",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4379,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

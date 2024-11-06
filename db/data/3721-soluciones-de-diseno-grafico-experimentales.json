@@ -1,0 +1,168 @@
+{
+    "id": "3721",
+    "title": "Soluciones de diseño gráfico experimentales",
+    "url": "https://www.domestika.org/es/courses/3721-soluciones-de-diseno-grafico-experimentales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/370/77716e6695faa0fc9558590f0a72a291/master.m3u8?1676404410"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/371/590cfb80b26ab204cea45fb95fd1f069/master.m3u8?1676404412"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6xf41k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos de diseño experimental",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño experimental",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/372/3ef8ec47095d86d666660ce2428956fe/master.m3u8?1676404412"
+                },
+                {
+                    "id": null,
+                    "title": "Problema briefing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/373/fb39c51a57a22f80598e644819bb8376/master.m3u8?1676404415"
+                },
+                {
+                    "id": null,
+                    "title": "Problema en proyectos de derechos de autor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/374/93b93aedeb7c4e92e6c1688dc6b08782/master.m3u8?1676404414"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo planificar experimentos en diseño gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/375/ccfd15a630e000e1b668c6f9e0097eee/master.m3u8?1676404414"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al ejercicio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/376/4be3050d081b4f4bc00edbf3594bffc7/master.m3u8?1676404414"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/372cle.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejercicio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explicación del experimento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/378/2c79c60522fcce36b0d9eeeaf84698bc/master.m3u8?1676404415"
+                },
+                {
+                    "id": null,
+                    "title": "desarrollando el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/379/7d5f7328f5020094d9fd732897dc23df/master.m3u8?1676404419"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo evaluar tus experimentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/380/c2066405ff6d68da100fde1dbffb1ca8/master.m3u8?1676404415"
+                },
+                {
+                    "id": null,
+                    "title": "fin del ejercicio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/381/b12d2d5cc1950b94c5ff472db817eac9/master.m3u8?1676404417"
+                },
+                {
+                    "id": null,
+                    "title": "No subestimes una tarea simple",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/382/1eb96267fb91c8f0eef722d16b6cce6d/master.m3u8?1676404417"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nbdbkl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Produciendo experimentos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Otros metodos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/383/28b63c24307d9f20698bac866533efad/master.m3u8?1676404419"
+                },
+                {
+                    "id": null,
+                    "title": "Registrar el proceso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/384/f5edc748c82ec509b87da5470c3ec136/master.m3u8?1676404418"
+                },
+                {
+                    "id": null,
+                    "title": "Incluir la experimentación en la presentación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/385/3b3a868dcd3824b27b26d4060b59049a/master.m3u8?1676404421"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wblvzb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/19d6jz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3721,
+        "product_name": "Experimental Techniques for Graphic Design Solutions",
+        "teacher_name": "Leopoldo Leal",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 6299,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

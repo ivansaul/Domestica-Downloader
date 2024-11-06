@@ -1,0 +1,225 @@
+{
+    "id": "1084",
+    "title": "Filmación con drones para proyectos audiovisuales",
+    "url": "https://www.domestika.org/es/courses/1084-filmacion-con-drones-para-proyectos-audiovisuales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/265/2b0691f40a767afffe8e2337565a933f/master.m3u8?1676388588"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/266/2a25ece067e7bc121330f6679f0eea86/master.m3u8?1676388587"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/267/cbcb6200126d81215e7e5555bb937d1f/master.m3u8?1676388587"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ha4ihb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación teórica y técnica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y tipos de dron",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/268/7d9a1833a6b20b74a05c0fb7c2ab3551/master.m3u8?1676388590"
+                },
+                {
+                    "id": null,
+                    "title": "Partes de un dron y mantenimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/269/193d9fc83c3d08d8949d25a2558b0ce7/master.m3u8?1676388595"
+                },
+                {
+                    "id": null,
+                    "title": "Seguridad y  riesgos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/271/7fd7865408c7f875a233253b33b003e6/master.m3u8?1676388595"
+                },
+                {
+                    "id": null,
+                    "title": "Legislación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/272/4c351e1469af7321fe24033baf575ec3/master.m3u8?1676388591"
+                },
+                {
+                    "id": null,
+                    "title": "Meteorología",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/273/1d2c476494b34624f5d08096cc65d66e/master.m3u8?1676388591"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8zjx8h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vuelo en exterior",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración del dron 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/274/d2f6fb1184e11c5836422c0bbfc52274/master.m3u8?1676388593"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración del dron 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/275/c0a4613e6c222e777f2e852e9f23ea33/master.m3u8?1676388594"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de la cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/276/144cc8c4e93d533df279b30da8dd34d2/master.m3u8?1676388596"
+                },
+                {
+                    "id": null,
+                    "title": "Composición espacial y preparar nuestro vuelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/277/c64d40bfd494dec559a5f33668366947/master.m3u8?1676388590"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de planos en exterior",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/278/e31384aa4b292209fd1fe1f61f258b3d/master.m3u8?1676388592"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas especiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/279/cd80823d74495707f170a48c92de8a0e/master.m3u8?1676388594"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4un6a3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vuelo en interior",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración del dron y de la cámara en interior",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/280/b4f7b83dfa9069bc9027742cc9f119df/master.m3u8?1676388594"
+                },
+                {
+                    "id": null,
+                    "title": "Composición espacial y preparar nuestro dron",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/281/fac9db07905720810c85b3177f54eb89/master.m3u8?1676388592"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de planos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/282/225961242380b743c2511a274d5a5d35/master.m3u8?1676388593"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vg7hz4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición del videoreel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Organización y edición del  material en DaVinci 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/283/2d24348358ec940ea4944e418bc2928d/master.m3u8?1676388597"
+                },
+                {
+                    "id": null,
+                    "title": "Organización y edición del material en DaVinci 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/284/ba61be0fb0465ab77960f55fac070ae6/master.m3u8?1676388598"
+                },
+                {
+                    "id": null,
+                    "title": "Organización y edición del  material en DaVinci 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/285/3a82857476c1e308187de3dd9d57d6c6/master.m3u8?1676388598"
+                },
+                {
+                    "id": null,
+                    "title": "Organización y edición del material en DaVinci 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/286/ff949712e8161e915df932b415a6aa0d/master.m3u8?1676388598"
+                },
+                {
+                    "id": null,
+                    "title": "Color 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/287/4ecd055e05f1591782df30b258ec19ba/master.m3u8?1676388601"
+                },
+                {
+                    "id": null,
+                    "title": "Color 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/288/89e2fdb4ce4cd1e4160f52034e1e1902/master.m3u8?1676388601"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización y publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/289/20176f9e4d1c7aa630de8c2f6ac923ce/master.m3u8?1676388600"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oi900t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/63k2uw.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1084,
+        "product_name": "Filming with Drones for Audiovisual Projects",
+        "teacher_name": "Yeray Martín Perdomo",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 12774,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

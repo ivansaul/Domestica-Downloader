@@ -1,0 +1,188 @@
+{
+    "id": "892",
+    "title": "Introducción a la astrofotografía",
+    "url": "https://www.domestika.org/es/courses/892-introduccion-a-la-astrofotografia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/850/815e1caab4246179c332d15818d91bd6/master.m3u8?1676388001"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/851/8a633f8ac61aa53530022bb1776d7520/master.m3u8?1704739927"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/852/46a485db654564ad6fbfb8baeca8fab9/master.m3u8?1676388002"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kpi78v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Astrofotografía de paisajes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los distintos tipos de astrofotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/853/34a6f9d7e0ccad11c3acebd6cd5f4e23/master.m3u8?1704737896"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de las fotografías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/854/e07aa2fe7d900d2d964e2ea2ff10a068/master.m3u8?1676388003"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo requerido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/855/fe73a606c6256cf7d9780c088cc4a44f/master.m3u8?1676388004"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1lv0dr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Configuración del equipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Manipulando la cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/856/3184782fc7bb60e0939a4d35463f0119/master.m3u8?1676388006"
+                },
+                {
+                    "id": null,
+                    "title": "Los dos tipos de enfoque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/857/0009cc6ee86b428af1f2cd77696b0439/master.m3u8?1676388005"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/858/ac04b20ce48d6a611a140c98e7e85bc6/master.m3u8?1676388007"
+                },
+                {
+                    "id": null,
+                    "title": "A la cancha",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/859/71ba59463a6f7a8fdadd09a59ef0aa94/master.m3u8?1676388005"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g7gfya.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Revelado y edición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis y elección de la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/860/cefae8c0cced33dcd6c06a2a91412f65/master.m3u8?1676388006"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado en Camera Raw",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/861/144ccf663ce20e5752be88973a849ba9/master.m3u8?1676388013"
+                },
+                {
+                    "id": null,
+                    "title": "Photoshop parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/629/0e0e77cc548504d51f73e3c369d5ad88/master.m3u8?1676390139"
+                },
+                {
+                    "id": null,
+                    "title": "Photoshop parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/632/0eb0d7430f8c6e6c12973ce98ffd6db3/master.m3u8?1676390142"
+                },
+                {
+                    "id": null,
+                    "title": "Uso de los pluging",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/863/b02006904883a45f792a9ee8ee2f47a9/master.m3u8?1676388009"
+                },
+                {
+                    "id": null,
+                    "title": "Corrección de dominantes de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/864/c757547f700575f62266d1d7229d7e9a/master.m3u8?1676388007"
+                },
+                {
+                    "id": null,
+                    "title": "Nitidez para exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/865/2d54aede17ee2fd2f2207d5fb177ff11/master.m3u8?1676388008"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación del archivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/866/5d7a17cc817ed2e5f15368a133287156/master.m3u8?1676388008"
+                },
+                {
+                    "id": null,
+                    "title": "Comparativa y análisis finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/867/91deb819ff38b48ebf544f3e37790fd2/master.m3u8?1676388008"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wp6qyd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/n0yidy.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 892,
+        "product_name": "Introduction to Astrophotography",
+        "teacher_name": "Jheison Huerta",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 7928,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

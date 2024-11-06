@@ -1,0 +1,163 @@
+{
+    "id": "2754",
+    "title": "Sketching arquitectónico y artístico con Procreate",
+    "url": "https://www.domestika.org/es/courses/2754-sketching-arquitectonico-y-artistico-con-procreate/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/722/ce04f7097e8d13b1624a94fd4e1c5c84/master.m3u8?1676399449"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/724/6faa8afe7e54141180e3c95efcc03880/master.m3u8?1676399451"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yfzwxh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al boceto digital y procrear",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué dibujar en Procreate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/729/8898d43fb1f250a95be52932941d7560/master.m3u8?1676399456"
+                },
+                {
+                    "id": null,
+                    "title": "Acerca de la perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/730/00fadb48143155ab2167775008021333/master.m3u8?1676399459"
+                },
+                {
+                    "id": null,
+                    "title": "Composiciones dinámicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/731/9dabd99993a319a8297c9f6d2c770ef2/master.m3u8?1676399457"
+                },
+                {
+                    "id": null,
+                    "title": "Luz y sombra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/732/0e23b8656bee09acdfaef474c934e37d/master.m3u8?1676399466"
+                },
+                {
+                    "id": null,
+                    "title": "Color y textura en Procreate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/733/8926b917cbb6588fa683e073407df84c/master.m3u8?1676399460"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n2lue5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Solicitud",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El boceto inicial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/879/ea9227f36454d9693634279230939bfa/master.m3u8?1676399540"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/880/5652c83f4157c5a1234926924327cc14/master.m3u8?1676399540"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de colores y texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/881/9dbb8d14beff3c18c8c03406f73953f0/master.m3u8?1676399544"
+                },
+                {
+                    "id": null,
+                    "title": "Añadiendo luz y sombras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/882/290085995b7960010016dea224ded965/master.m3u8?1676399544"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n2fsmr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Toques finales y compartir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Agregar efectos y fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/886/fadb1930cc3ba8fa24eb6b11838b89af/master.m3u8?1676399544"
+                },
+                {
+                    "id": null,
+                    "title": "Diagrama de proceso de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/887/d0db291c0e1d8a2c0149285b1d6fbf7a/master.m3u8?1676399545"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar y compartir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/888/9a42ac0c746b584ae984a38f56cfe2fb/master.m3u8?1676399540"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/as6eiq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qs8xxk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2754,
+        "product_name": "Artistic Architectural Sketching with Procreate",
+        "teacher_name": "Ehab Alhariri",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8109,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

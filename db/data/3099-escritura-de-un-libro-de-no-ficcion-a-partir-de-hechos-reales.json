@@ -1,0 +1,173 @@
+{
+    "id": "3099",
+    "title": "Escritura de un libro de no ficción a partir de hechos reales",
+    "url": "https://www.domestika.org/es/courses/3099-escritura-de-un-libro-de-no-ficcion-a-partir-de-hechos-reales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/218/67ebdcfc294898d312adb3ea0db00b18/master.m3u8?1676402416"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/219/4d568bc6812e1427234d95db3ae283be/master.m3u8?1676402420"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o3ifc7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Buscando oro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primer contacto 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/220/2151cbf97dcaa7039f1e525c21eb67e2/master.m3u8?1676402420"
+                },
+                {
+                    "id": null,
+                    "title": "Primer contacto 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/012/02ea7a65763a6dd76a3ee966726e5b57/master.m3u8?1676405161"
+                },
+                {
+                    "id": null,
+                    "title": "Rompiéndolo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/222/db500ccacc990291903b204a9d67c82f/master.m3u8?1676402421"
+                },
+                {
+                    "id": null,
+                    "title": "La entrevista de seguimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/223/a167e59d08440cb659513c2cef1f5ecf/master.m3u8?1676402424"
+                },
+                {
+                    "id": null,
+                    "title": "La fotografía más grande",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/224/83de5e1a2fe07bf05919c0a064227fe7/master.m3u8?1676402425"
+                },
+                {
+                    "id": null,
+                    "title": "Qué tienes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/225/eb27d9293465f4ba0fbbdaa6a7724239/master.m3u8?1676402420"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zd1ddm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dar forma a la historia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Actuando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/226/42303fdbf205fd755095effcd26c1815/master.m3u8?1676402422"
+                },
+                {
+                    "id": null,
+                    "title": "Capítulos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/227/dc1a6cd0e5d5bcba6213a3d4e3820ca2/master.m3u8?1676402425"
+                },
+                {
+                    "id": null,
+                    "title": "Personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/228/e988c65907296131b03b01356b8af515/master.m3u8?1676402429"
+                },
+                {
+                    "id": null,
+                    "title": "Siembra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/229/ea4210230e2a5068e8d6ee579b16340b/master.m3u8?1676402425"
+                },
+                {
+                    "id": null,
+                    "title": "Bolígrafo a papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/230/b311fe14d9f162cf3ea1c2a77f07b6a8/master.m3u8?1676402424"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5248yx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué sigue",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Reescritura y edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/231/8fc94f3d9c0416a407f0da8d3120024b/master.m3u8?1676402427"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo publicar uno mismo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/233/15a411d2fbccbf7a5757a9fc91a40d1f/master.m3u8?1676402426"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo vender tu historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/013/f7060eac035391c0cd4fb54d3834ab62/master.m3u8?1676405154"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/svdbiz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/jl19ct.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3099,
+        "product_name": "Writing a Non-fiction Book: Capture Real-life Experiences",
+        "teacher_name": "Duncan Barrett",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 13158,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

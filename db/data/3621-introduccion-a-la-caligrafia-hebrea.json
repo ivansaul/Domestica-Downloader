@@ -1,0 +1,163 @@
+{
+    "id": "3621",
+    "title": "Introducción a la caligrafía hebrea",
+    "url": "https://www.domestika.org/es/courses/3621-introduccion-a-la-caligrafia-hebrea/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/513/f850b1c367c88cf705ab56f45814b915/master.m3u8?1676405864"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/514/892e7ab9912d136bf6f7ce93be472104/master.m3u8?1676405864"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/as7ikp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aprendiendo los conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/515/24cccb92b81be1f355694f63ba72f320/master.m3u8?1676405865"
+                },
+                {
+                    "id": null,
+                    "title": "Sintiendo los huesos del alefbet hebreo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/517/11d82b75554ba5801d7929b4e818f375/master.m3u8?1676405871"
+                },
+                {
+                    "id": null,
+                    "title": "Espaciado y ritmo la clave para una escritura hermosa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/518/ffa65c7558a5ba11a57e688090ade1f7/master.m3u8?1676405866"
+                },
+                {
+                    "id": null,
+                    "title": "El alfabeto hebreo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/044/b454564b66637b9fd7986fe25cac8389/master.m3u8?1676406128"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sp4vfv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Composición del texto pautas de dibujo y aplicación de tinta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El borrador de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/519/2d96d73179389de48ea2d93f1e54b691/master.m3u8?1676405871"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño de tinta negra 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/520/a29c9e2454de242a452e7b10de214d1a/master.m3u8?1676405874"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño de tinta negra 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/521/0a116bb7f77f7b96042d4cf3c31a5ae9/master.m3u8?1676405871"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño de tinta negra 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/522/22b2f01cf94401190652d4081c9fde56/master.m3u8?1676405873"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando en las vocales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/523/ad885f8f8be1526013fe5c46965b1844/master.m3u8?1676405874"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando en las vocales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/524/e4a5af0caf27f48e927f4024aaf0014b/master.m3u8?1676405875"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hjjac0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consejos adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo usar una pluma para caligrafía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/525/59708b16df20c106428d6cbb9182d252/master.m3u8?1676405873"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos para promover su práctica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/526/b09c80ec81826e06a94c7760c03562db/master.m3u8?1676405870"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qmhjun.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/pmaf52.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3621,
+        "product_name": "Introduction to Hebrew Calligraphy",
+        "teacher_name": "Allison Barclay (Avielah)",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 9959,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

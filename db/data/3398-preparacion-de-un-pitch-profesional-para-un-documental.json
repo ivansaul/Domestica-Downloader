@@ -1,0 +1,163 @@
+{
+    "id": "3398",
+    "title": "Preparación de un pitch profesional para un documental",
+    "url": "https://www.domestika.org/es/courses/3398-preparacion-de-un-pitch-profesional-para-un-documental/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/959/cc9c5e0359158df0677888a4f7b55055/master.m3u8?1676405126"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/960/edf7388bdc24b7391e9fcd2dede398ff/master.m3u8?1676405132"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hn41ly.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Identificar y construir una historia única",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Empezar a analizar la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/961/2264a8f6e9ebc98a746f09dfb4270f95/master.m3u8?1676405132"
+                },
+                {
+                    "id": null,
+                    "title": "Estudia la cobertura de los medios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/978/78d16779ac51c88770bb4357d0eab731/master.m3u8?1676405139"
+                },
+                {
+                    "id": null,
+                    "title": "Investiga los materiales y cuenta la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/985/a55453c565e79906cfff35f119f97396/master.m3u8?1676405147"
+                },
+                {
+                    "id": null,
+                    "title": "El vínculo único entre tú y tu historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/986/a9ad217555b2a2439fbb1ef89fb4fb79/master.m3u8?1676405142"
+                },
+                {
+                    "id": null,
+                    "title": "Diferenciar resolver problemas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/987/212f2be3df700cf36507e1166d254e46/master.m3u8?1676405141"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eds7o2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear el pitch",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/988/2693f2dc800cc019f6a565a1bf3fef78/master.m3u8?1676405143"
+                },
+                {
+                    "id": null,
+                    "title": "La sinopsis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/989/b48a9971861c9570aeafbb079ea4944a/master.m3u8?1676405145"
+                },
+                {
+                    "id": null,
+                    "title": "La reason why",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/990/8fa2350753f8aea77aeef7a832f3935d/master.m3u8?1676405146"
+                },
+                {
+                    "id": null,
+                    "title": "La lista de entrevistados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/991/e8dd1e4ef767407ba120fe19b916ec13/master.m3u8?1676405147"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2bxp48.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La difusión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Grabar un pitch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/992/d95db6947e4b9d2f1e31a9fea0db5c85/master.m3u8?1676405145"
+                },
+                {
+                    "id": null,
+                    "title": "A quién proponer el pitch productores o cadenas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/993/53099507142a3a87d1d57e855b556516/master.m3u8?1676405144"
+                },
+                {
+                    "id": null,
+                    "title": "Teaser sí o no",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/994/2e778c29a592218c0595e379883ed8d8/master.m3u8?1676405146"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gkinsp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/h9964f.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3398,
+        "product_name": "Professional Pitching for Documentaries",
+        "teacher_name": "Marco Spagnoli",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7843,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

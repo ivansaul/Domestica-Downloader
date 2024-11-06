@@ -1,0 +1,148 @@
+{
+    "id": "3904",
+    "title": "Diseño de lettering con estética de los años 70",
+    "url": "https://www.domestika.org/es/courses/3904-diseno-de-lettering-con-estetica-de-los-anos-70/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/522/25c4fc94138f3695c48123f5d67b2c5a/master.m3u8?1676411000"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/523/83ff6ed842cdfa9ec8ff94a35966f3a4/master.m3u8?1676411006"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eenptz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las bases de las letras",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conceptos y definiciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/524/30a7f4859899e24d7cf20b9c8f2c5500/master.m3u8?1676411004"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes ópticos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/525/9a81506a36543abc204d227759bdb328/master.m3u8?1676411005"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografías en los años 70",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/526/9fcb5a3507d0950f915c5f3306978b35/master.m3u8?1676411006"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4mpyz7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujar las letras",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Boceto y composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/527/8ef7699f620b7241b206ffa4465997f2/master.m3u8?1676411007"
+                },
+                {
+                    "id": null,
+                    "title": "Selección y refinado del boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/528/ba3bec8e8b8a49abad2d5427ff45da59/master.m3u8?1676411009"
+                },
+                {
+                    "id": null,
+                    "title": "Digitalización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/529/0bca6cbf1208fdf87e7b365ffc38d332/master.m3u8?1676411007"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0iojs6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las letras digitales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Puntos extremos y esquinas abiertas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/530/27f1664460fdf50c685f918fb14c0662/master.m3u8?1676411013"
+                },
+                {
+                    "id": null,
+                    "title": "Variaciones digitales y efectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/531/6c252d350102725e8506dd58ddc2572c/master.m3u8?1676411013"
+                },
+                {
+                    "id": null,
+                    "title": "Artes finales y mockup",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/532/41b5cc992fa6291e3d46b80f0c0658d3/master.m3u8?1676411010"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vgk0o1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3p5zk3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3904,
+        "product_name": "70s-Inspired Lettering Design",
+        "teacher_name": "Santiago Arango",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 5990,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

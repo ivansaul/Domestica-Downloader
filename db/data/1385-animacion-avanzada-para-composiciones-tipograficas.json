@@ -1,0 +1,211 @@
+{
+    "id": "1385",
+    "title": "Animación avanzada para composiciones tipográficas",
+    "url": "https://www.domestika.org/es/courses/1385-animacion-avanzada-para-composiciones-tipograficas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/477/3d373d5f056463e6824be51fd1e08a59/master.m3u8?1676390070"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/478/44410377e463422d6bea8f68df1979b7/master.m3u8?1676390072"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/479/efabf2825bd52a6025e75077f2dd4adb/master.m3u8?1676390070"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kmg52n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Técnicas avanzadas en After Effects y Cinema 4D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tácticas avanzadas en After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/480/e225c1e8417c248830ab8d25022cdbb0/master.m3u8?1676390075"
+                },
+                {
+                    "id": null,
+                    "title": "Tácticas avanzadas en Cinema 4D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/481/d3c49be391055093aeec161ad77e8e1e/master.m3u8?1676390078"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xcbqvi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejercicios avanzados de animación tipográfica en After Effects",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Barrido con delay mediante el efecto Time Displacement",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/482/606466232a8524305b0ff07af63c8266/master.m3u8?1676390073"
+                },
+                {
+                    "id": null,
+                    "title": "Weirdo Morphing y efectos de Shape Layers",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/483/d9dcf765f117cf5da015daf0bbde7a27/master.m3u8?1676390074"
+                },
+                {
+                    "id": null,
+                    "title": "Autoorientando capas mediante Expressions",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/484/939d41b3bd115a07bb0ae66aaa6eeae1/master.m3u8?1676390075"
+                },
+                {
+                    "id": null,
+                    "title": "Animando letras que se adaptan a un espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/485/ebd2df70b3dd00a120ef48dd3c48481b/master.m3u8?1676390081"
+                },
+                {
+                    "id": null,
+                    "title": "Texto vinculado a una forma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/486/9274a34017a5cac305b561367cbd027e/master.m3u8?1676390080"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9pobgz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejercicios avanzados de animación tipográfica en Cinema 4D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Repeticiones en Cloner en Cinema 4D y Echo en After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/487/5675deb1918f2b7ca76ec71e829c3f6d/master.m3u8?1676390080"
+                },
+                {
+                    "id": null,
+                    "title": "Deformación con Spline Wrap",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/488/2b038e74b626606fe646a073fe21ef87/master.m3u8?1676390083"
+                },
+                {
+                    "id": null,
+                    "title": "Deformación avanzada de texto editable",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/489/cc787c7d9d8a42471f81e5d2e705d7b8/master.m3u8?1676390083"
+                },
+                {
+                    "id": null,
+                    "title": "Jugando con las leyes de la física",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/490/f841ff25a7d553d642142143b205b982/master.m3u8?1676390083"
+                },
+                {
+                    "id": null,
+                    "title": "El texto que baila",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/491/08bbf8356296808689f7edeaccb6e26c/master.m3u8?1676390085"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zomo1k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El póster bailón",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis de las estéticas de los estilos musicales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/492/5da6b29822b56c66c9f3972d62115e95/master.m3u8?1676390083"
+                },
+                {
+                    "id": null,
+                    "title": "Diseños previos de nuestra composición tipográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/493/d3c7c316cd4978c216298d7d24575383/master.m3u8?1676390087"
+                },
+                {
+                    "id": null,
+                    "title": "Animación de mi cartel musical en Cinema 4D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/494/d90be39191553de71bae5bc8517a0e16/master.m3u8?1676390085"
+                },
+                {
+                    "id": null,
+                    "title": "Animación de mi cartel musical en After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/495/4b0e2c933d9900c6849beec408f586d9/master.m3u8?1676390093"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos sobre formatos de salida para las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/496/6befb5b19d092bbd401ec007d8be3fa0/master.m3u8?1676390086"
+                },
+                {
+                    "id": null,
+                    "title": "Proyecto real kinetic type en el espacio público",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/021/497/9668f7403fb865d18c70831904356d62/master.m3u8?1676390091"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nilwgn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8tu1sg.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1385,
+        "product_name": "Advanced Animation for Typographic Compositions",
+        "teacher_name": "Holke 79",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 12353,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

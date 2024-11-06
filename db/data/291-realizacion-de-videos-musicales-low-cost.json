@@ -1,0 +1,188 @@
+{
+    "id": "291",
+    "title": "Realización de vídeos musicales low cost",
+    "url": "https://www.domestika.org/es/courses/291-realizacion-de-videos-musicales-low-cost/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/501/a81829f25d8891d6e961e644449f1a1c/master.m3u8?1676383798"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/502/455589a28a16f6be1fcb8b7e5e2c1e4b/master.m3u8?1676383806"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/503/a990a048375c2f38903aad7fa53573d3/master.m3u8?1676383806"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nm68rv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Luces",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Documentación visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/490/b296359a84d65ed64701defc0600cabd/master.m3u8?1676383816"
+                },
+                {
+                    "id": null,
+                    "title": "Casting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/491/512f4e1c69fdd9f476874ebba32a9524/master.m3u8?1676383796"
+                },
+                {
+                    "id": null,
+                    "title": "Guión técnico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/492/b589de7ef90cc4b7fcac741475ccb099/master.m3u8?1676383796"
+                },
+                {
+                    "id": null,
+                    "title": "Plan de rodaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/493/23fc5f0c7500ab611f1be532f1dee724/master.m3u8?1676383797"
+                },
+                {
+                    "id": null,
+                    "title": "Inspírate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/504/1cefad5efca31c6204c251790fc18d59/master.m3u8?1676383801"
+                },
+                {
+                    "id": null,
+                    "title": "Localizaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/506/2c406bcd0c6c8ed3764bcb9ce00a0a3e/master.m3u8?1676383803"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo técnico y humano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/511/79fa22269cf783a42f9029ab0d8e8514/master.m3u8?1676383811"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5pwaqw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cámara",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Set de rodaje I detrás de las cámaras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/494/da5fb97492eb2a970f66669dc18fec75/master.m3u8?1676383798"
+                },
+                {
+                    "id": null,
+                    "title": "Set de rodaje III los actores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/495/0818da2c2084744cd10ddd6b63aee98d/master.m3u8?1676383827"
+                },
+                {
+                    "id": null,
+                    "title": "Rodaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/496/11d5b7d4b90352ce3dff72ea5e9c8b11/master.m3u8?1676383798"
+                },
+                {
+                    "id": null,
+                    "title": "Set de rodaje II iluminación y fx",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/507/702421ac25efdfc1f4b6be2f4ea56714/master.m3u8?1676383802"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g1nkyf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Montaje I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/508/1833f16d259521d52c58f80ff9ed6568/master.m3u8?1676383807"
+                },
+                {
+                    "id": null,
+                    "title": "Montaje II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/497/f0b524b10cb49dc50ec8278213869ac7/master.m3u8?1676383801"
+                },
+                {
+                    "id": null,
+                    "title": "Montaje III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/498/7a4a7b7c4aa1ec62447ec6341d88945d/master.m3u8?1676383800"
+                },
+                {
+                    "id": null,
+                    "title": "Color y postproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/509/c145cdb80fd7935731a657b15885ee2a/master.m3u8?1676383808"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/499/1a53a49bc99d35692cc06cf98e61063f/master.m3u8?1676383802"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/szkxbr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6cfw5f.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 291,
+        "product_name": "Directing Low-Cost Music Videos",
+        "teacher_name": "Juanma Carrillo",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 12269,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

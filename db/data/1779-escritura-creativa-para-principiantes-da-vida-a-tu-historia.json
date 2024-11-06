@@ -1,0 +1,169 @@
+{
+    "id": "1779",
+    "title": "Escritura creativa para principiantes da vida a tu historia",
+    "url": "https://www.domestika.org/es/courses/1779-escritura-creativa-para-principiantes-da-vida-a-tu-historia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/845/b366eab0eec94ad0481745b916da124d/master.m3u8?1676391584"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/846/dedb6678deb70bfa62d94fd5569e6e6e/master.m3u8?1676391586"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/847/3977fd35821632da1b41b3ef0eeb47be/master.m3u8?1676391584"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ubgug8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tómatelo con calma y empieza a escribir de inmediato",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/848/1023db67cdaaf5fb90546a22821b746e/master.m3u8?1676391593"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas para escribir en cualquier lugar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/849/e6200c951f91b17035510911bfff3248/master.m3u8?1676391591"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas para abordar un solo tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/850/c10f06faabdd10b49929cbf34192f2b1/master.m3u8?1676391592"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas para dibujar con palabras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/851/cbc7976be2fa294ed20fc58e4476ac21/master.m3u8?1676391590"
+                },
+                {
+                    "id": null,
+                    "title": "Cuando te atascas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/852/61fb107f4df7b8e2a73478c749c5d8cd/master.m3u8?1677862750"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ngnieq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo crear impacto y sorpresa en tus historias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo mirar una fresa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/853/da32068496bce6ab73a09bf2282bb76e/master.m3u8?1676391590"
+                },
+                {
+                    "id": null,
+                    "title": "La historia de tus pies",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/854/dd4baca565b3f2b2a625aea91173923c/master.m3u8?1676391588"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es más importante los hechos o la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/855/29ad5daecc49817439e723786e59770d/master.m3u8?1676391591"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestra historia final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/856/302f3217a213a7267d1083dbe47885c4/master.m3u8?1676391590"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hs7859.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo dar forma a una historia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Edición y reescritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/857/cac33685b1d52ee96df275c63aab1521/master.m3u8?1676391593"
+                },
+                {
+                    "id": null,
+                    "title": "Comparte tu trabajo con el mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/858/3a7dfbce9c01de915380cd127a2cf87f/master.m3u8?1676391593"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos finales proyectos futuros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/859/1a2d4cd81559e80139bb6d5afbd6b9d6/master.m3u8?1676391593"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zdbr5w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/flz4eh.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1779,
+        "product_name": "Creative Writing for Beginners: Bringing Your Story to Life",
+        "teacher_name": "Shaun Levin",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7338,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

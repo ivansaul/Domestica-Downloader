@@ -1,0 +1,183 @@
+{
+    "id": "2309",
+    "title": "Diseño web creativo planificación y programación desde cero",
+    "url": "https://www.domestika.org/es/courses/2309-diseno-web-creativo-planificacion-y-programacion-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre nosotros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/910/8cd32126e6133f4f03f1d9287b299cf6/master.m3u8?1676400584"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/911/44a5c055a09e1f2e2395bea06b623d20/master.m3u8?1676400592"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/912/82e3ecb28dd2d6464657e912e881a5ea/master.m3u8?1676400585"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hkq35u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Planificación y diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Construyendo el concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/913/d8fd71033d345ededa54d0f23b5305e3/master.m3u8?1676400588"
+                },
+                {
+                    "id": null,
+                    "title": "Recopilación de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/914/fe04f502b9179da4fda3abb0c485568b/master.m3u8?1676400592"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un tablero de estado de ánimo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/915/83315827b21f104eddd3f9f55d293331/master.m3u8?1676400589"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer un mapa del sitio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/916/03aec79bc0e9b08ab29bf4e1b67b2b6f/master.m3u8?1676400587"
+                },
+                {
+                    "id": null,
+                    "title": "Elaboración de propuestas de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/917/5dc53c75daa2e681fb1aca0baa5e7dc2/master.m3u8?1676400591"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1curf4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construcción y codificación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sentar las bases",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/918/8d5d0792cbe7ca29021b1196aa7d5750/master.m3u8?1676400589"
+                },
+                {
+                    "id": null,
+                    "title": "Haciendo la estructura básica en HTML 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/919/753df63946f45bc0975391cac969b6a4/master.m3u8?1676400593"
+                },
+                {
+                    "id": null,
+                    "title": "Haciendo la estructura básica en HTML 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/920/cb11693ed0e87a407ce4d9d1bfbf7bcd/master.m3u8?1676400595"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de estilo en CSS 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/921/472d7d38db472823412cb95f5ca4120a/master.m3u8?1676400594"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de estilo en CSS 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/922/7c7eb5a7e2e3f0554a49211dbf9f0735/master.m3u8?1676400597"
+                },
+                {
+                    "id": null,
+                    "title": "Adición de interacciones en Javascript 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/923/82dc7cbfee88ad1e78b4f0ace49216d6/master.m3u8?1676400595"
+                },
+                {
+                    "id": null,
+                    "title": "Adición de interacciones en Javascript 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/924/403f516125bb6ea7948fa335833d049e/master.m3u8?1676400597"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/24aqt9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Va en directo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lanzamiento del sitio web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/925/7b1f11c6b921ab79432dc664218a8458/master.m3u8?1676400593"
+                },
+                {
+                    "id": null,
+                    "title": "Prueba del sitio con usuarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/926/2467d41ac72904120562d058b9086644/master.m3u8?1676400594"
+                },
+                {
+                    "id": null,
+                    "title": "Enmiendas basadas en pruebas de usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/927/a8804e3ba5b975a62a0e849131762db3/master.m3u8?1676400595"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nsif92.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/bu0t6x.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2309,
+        "product_name": "Creative Web Design: Planning and Coding from Scratch",
+        "teacher_name": "DXR Zone",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 11735,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

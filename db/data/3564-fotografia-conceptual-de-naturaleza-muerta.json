@@ -1,0 +1,195 @@
+{
+    "id": "3564",
+    "title": "Fotografía conceptual de naturaleza muerta",
+    "url": "https://www.domestika.org/es/courses/3564-fotografia-conceptual-de-naturaleza-muerta/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/616/50f2607c7aa9ca993b69e0b56f008650/master.m3u8?1676407391"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/617/a47e377f1d5406ba404e22ec4de80249/master.m3u8?1676407392"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tety6d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotografía creativa los fundamentos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El valor de los proyectos personales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/618/6efd6352f18ad2724e1f796e49f7bf7d/master.m3u8?1676407392"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de una serie coherente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/619/537474626b3617a58b20a98b6aa11c39/master.m3u8?1676407391"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k6hrp2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición del tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/620/9ed0db868c8ede5d073197ac1a0225b4/master.m3u8?1676407393"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de inspiración y mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/621/57dbd4a4ac65bada73f99646a9021301/master.m3u8?1676407396"
+                },
+                {
+                    "id": null,
+                    "title": "Los bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/622/1f735b665b3b328aa3c8c7bb311e63bb/master.m3u8?1676407394"
+                },
+                {
+                    "id": null,
+                    "title": "La escenografía y algunos consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/623/f9b4c44f1d51aa47cde84ea3ba32b842/master.m3u8?1676407401"
+                },
+                {
+                    "id": null,
+                    "title": "Las luces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/624/6d418a1b645869c04135ba05b2b5218d/master.m3u8?1676407396"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a3cjcq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La sesión de fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los ajustes básicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/625/024c0cb03f35ae69f73c56a244300fb2/master.m3u8?1676407397"
+                },
+                {
+                    "id": null,
+                    "title": "Instalación del set",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/626/fd1d9db8da178f1925a88d60c249148d/master.m3u8?1676407397"
+                },
+                {
+                    "id": null,
+                    "title": "La primera fotografia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/627/4e132183d382126105927f66319d0c41/master.m3u8?1676407401"
+                },
+                {
+                    "id": null,
+                    "title": "La segunda fotografia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/628/824b9412ef30d003fc27189ecb0fbff4/master.m3u8?1676407398"
+                },
+                {
+                    "id": null,
+                    "title": "El GIF fotografía animada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/629/934a1aa146ced061e96f18ef8b0b7cb2/master.m3u8?1676407402"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/630/4712e90aa38ea8d088f2ec075ca2f1af/master.m3u8?1676407400"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hg5pfs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción en Photoshop",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Editando las tomas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/631/14e2a6d1dc0c1a5167d486844e1c82f7/master.m3u8?1676407401"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque limpieza y croma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/632/c93400d33472ff263c50deb1aee9667f/master.m3u8?1676407401"
+                },
+                {
+                    "id": null,
+                    "title": "Edición del GIF y finalización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/633/affaddce4896932d05df09a8379e7238/master.m3u8?1676407400"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kg5unb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8yyqii.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3564,
+        "product_name": "Conceptual Still Life Photography",
+        "teacher_name": "Paris se quema",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 10254,
+        "total_units": 5,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

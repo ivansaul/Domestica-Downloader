@@ -1,0 +1,173 @@
+{
+    "id": "3877",
+    "title": "Curso de visualización de datos convertir datos en arte",
+    "url": "https://www.domestika.org/es/courses/3877-curso-de-visualizacion-de-datos-convertir-datos-en-arte/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre nosotros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/815/b5450ad083edab961b2f798c69f6cb93/master.m3u8?1676411785"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/816/7dbc04f15a93215bf66c4a5b2c4d0017/master.m3u8?1676411794"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j0c8sg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trabajar con datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué visualizar datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/817/2059541e461c4ff48ceb42482c0a81f3/master.m3u8?1676411787"
+                },
+                {
+                    "id": null,
+                    "title": "Buscar y seleccionar datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/818/0721e420cb217f7e2116d795edad20a9/master.m3u8?1676411787"
+                },
+                {
+                    "id": null,
+                    "title": "Preparar datos para visualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/819/7e3b5d822678ecc7ca99075758eb80fa/master.m3u8?1676411789"
+                },
+                {
+                    "id": null,
+                    "title": "La historia de los datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/820/0c3471f862ace9e3b8aa02fcb9cabad8/master.m3u8?1676411793"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z24r6g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empezar a visualizar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño de información modular",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/821/3c01ec8030fdadae72d3fa02e6b4816a/master.m3u8?1676411789"
+                },
+                {
+                    "id": null,
+                    "title": "Los primeros bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/822/b471f53adbe210fe04dd81da5a29de90/master.m3u8?1676411790"
+                },
+                {
+                    "id": null,
+                    "title": "Dimensiones visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/823/9c78395d5910dc21627abbce7e450fe0/master.m3u8?1676411789"
+                },
+                {
+                    "id": null,
+                    "title": "Diferentes opciones de arreglo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/824/52a7eb7fa2633a218d36f713cb0190f8/master.m3u8?1676411791"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/exxvw4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñar el cartel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los elementos más importantes de una visualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/825/a482aa1ce507645861cab91e81f0c5ca/master.m3u8?1676411792"
+                },
+                {
+                    "id": null,
+                    "title": "Construya la visualización en Adobe Illustrator",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/826/503ecdd1691f02c3189a4ef78b529cd6/master.m3u8?1676411797"
+                },
+                {
+                    "id": null,
+                    "title": "Implementar la visualización en Adobe Illustrator",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/827/9d55932cebe2a7e31a62a862e0f83732/master.m3u8?1676411804"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles de diseño importantes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/828/d1c11daea5429b0c59657fe67ef96836/master.m3u8?1676411793"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de texto resaltados y leyenda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/829/71a7b1eb308ebb93d153aca75f2b359b/master.m3u8?1676411793"
+                },
+                {
+                    "id": null,
+                    "title": "Otros consejos Pruebe y utilice el póster",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/830/425e89c5c74771e98497e49f10f8416d/master.m3u8?1676411793"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qdikzr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/plc1py.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3877,
+        "product_name": "Data Visualization Course: Turning Data into Art",
+        "teacher_name": "Superdot – visualizing complexity",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 8786,
+        "total_units": 4,
+        "subtitles_language": [
+            "de",
+            "es",
+            "en",
+            "pt",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "de"
+        ],
+        "original_language": "de"
+    }
+}

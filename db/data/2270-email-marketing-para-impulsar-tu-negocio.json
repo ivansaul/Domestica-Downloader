@@ -1,0 +1,163 @@
+{
+    "id": "2270",
+    "title": "Email marketing para impulsar tu negocio",
+    "url": "https://www.domestika.org/es/courses/2270-email-marketing-para-impulsar-tu-negocio/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/510/83bc1172b190f7f24f05925b1910b7e6/master.m3u8?1676395575"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/524/edab3371afca7c5d4c4f2e23b70a8aab/master.m3u8?1676395578"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uom8vg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los pilares del email marketing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el email marketing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/511/56beb7c052003b39eda601c850fab661/master.m3u8?1676395570"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de tener una audiencia propia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/513/d3a95735dc8f0af032145710ed37c2f1/master.m3u8?1676395572"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo crear una lista de suscriptores propia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/514/b6a0de689d0e7d762856eb262a1b17f4/master.m3u8?1676395575"
+                },
+                {
+                    "id": null,
+                    "title": "El email marketing como herramienta de fidelización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/525/ba30237d2d8ef083836baad4854323ae/master.m3u8?1676395578"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tsenbu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrolla tu estrategia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo crear una estrategia de email marketing desde cero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/515/113f1ae443702a89704216a25a55b22b/master.m3u8?1676395573"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando los contenidos estrategia giving first",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/516/a32d4563ad2761438c0c503c14c9fb91/master.m3u8?1676395572"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo crear una plantilla de email eficientemente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/517/cfeb657879b15301cbd69a461e797bed/master.m3u8?1676395574"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de un calendario de publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/518/127b229a5fd625aebdfa47cd5bc7ecae/master.m3u8?1676395575"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo evitar que mis campañas vayan a spam",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/519/5185413f1f489ab0bb7dd82b78a92b29/master.m3u8?1676395575"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v8uwe1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El impacto de tu campaña",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "KPI del email marketing midiendo el rendimiento de nuestra estrategia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/520/c7325e9f20be0a81bc2243660bea45b0/master.m3u8?1676395575"
+                },
+                {
+                    "id": null,
+                    "title": "El email marketing comparado con otras estrategias de marketing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/521/604b56f3884a7d6e9ca8812e2cea1057/master.m3u8?1676395576"
+                },
+                {
+                    "id": null,
+                    "title": "Aspectos legales del email marketing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/522/dd5c9a7c915d8bc86eebc6dcd0cea791/master.m3u8?1676395576"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6zq60a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cqqvno.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2270,
+        "product_name": "Email Marketing to Boost Your Business",
+        "teacher_name": "Ignacio Arriaga",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8141,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

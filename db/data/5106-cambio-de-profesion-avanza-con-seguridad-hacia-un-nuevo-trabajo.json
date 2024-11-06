@@ -1,0 +1,158 @@
+{
+    "id": "5106",
+    "title": "Cambio de profesión avanza con seguridad hacia un nuevo trabajo",
+    "url": "https://www.domestika.org/es/courses/5106-cambio-de-profesion-avanza-con-seguridad-hacia-un-nuevo-trabajo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/669/305550dca3858f83649dbf2c1f3e9ee5/master.m3u8?1693941121"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/670/b03a9b540fa6777eb20bd5fa17efe9d0/master.m3u8?1693941140"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kcqqxc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos el camino hacia el cambio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cambiando carreras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/671/528000841cc9800e0616de7bb1635f0e/master.m3u8?1693941159"
+                },
+                {
+                    "id": null,
+                    "title": "Autorreflexión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/672/369670774fec658334b9b3f017b549c9/master.m3u8?1693941179"
+                },
+                {
+                    "id": null,
+                    "title": "Estudiando su nueva industria",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/673/615138b8925e18cebdaf68449d8383bb/master.m3u8?1693941193"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mfpkz9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Anunciar tu cambio de profesión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparándose para responder por qué",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/674/65bf2bd3c1113ccfdf717235a66bb62b/master.m3u8?1693941220"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo escribir tu biografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/675/8a618f16f45f387fa931aa0993fde170/master.m3u8?1693941240"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo recopilar testimonios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/676/e63d1bcf6e89568edf329e43cadd78b5/master.m3u8?1693941256"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir una publicación para anunciar tu cambio de carrera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/677/b29a1daf30bc15f2180fb48a27c20d97/master.m3u8?1693941273"
+                },
+                {
+                    "id": null,
+                    "title": "Contar tu propia narrativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/678/8696dba3e89f4bcab8629527d1ce5816/master.m3u8?1693941292"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4c5j1x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elementos clave para navegar tu cambio de profesión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo lidiar con el rechazo la crítica y los fracasos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/679/7bff0fe40709eeafaaaec9e52356ce4b/master.m3u8?1693941313"
+                },
+                {
+                    "id": null,
+                    "title": "Autopromoción consistente intencional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/680/fb7304c2269d9c3150da3747d18497eb/master.m3u8?1693941330"
+                },
+                {
+                    "id": null,
+                    "title": "Escribiendo tu futura biografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/681/9d36d2209f00b65c2323668e2c3ad705/master.m3u8?1693941349"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vmlnjq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vjz051.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5106,
+        "product_name": "Career Change: Confident Steps towards a New Job",
+        "teacher_name": "Stefanie Sword-Williams @ F*ck Being Humble",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5702,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

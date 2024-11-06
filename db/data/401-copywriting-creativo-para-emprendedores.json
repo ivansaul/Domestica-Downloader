@@ -1,0 +1,175 @@
+{
+    "id": "401",
+    "title": "Copywriting creativo para emprendedores",
+    "url": "https://www.domestika.org/es/courses/401-copywriting-creativo-para-emprendedores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Mucho gusto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/801/389850b25a0ea5f4fc44087d61ec4635/master.m3u8?1676384716"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo terminé haciendo lo que hago",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/803/753b94a03d66fed721617132d26697c8/master.m3u8?1676384720"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fzpb9m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El poder de las letras",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo no amar escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/804/4aa72fd1cc344819feb19923a1350ed0/master.m3u8?1676384725"
+                },
+                {
+                    "id": null,
+                    "title": "El poder del copy en los mensajes de las marcas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/805/b2e73b3bd2e0104e1a882e812e1134ed/master.m3u8?1676384726"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ecuc3a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Quién escribe",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Como un camaleón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/818/6516eb25de5aad85c14c539db6f99f4a/master.m3u8?1676384733"
+                },
+                {
+                    "id": null,
+                    "title": "Métete en la personalidad de tu proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/808/2df195d2701c57a19d4dee10e6fdeee9/master.m3u8?1676384730"
+                },
+                {
+                    "id": null,
+                    "title": "Dedos a las teclas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/809/87f72155161c22d33c2e84e9c27e9f95/master.m3u8?1676384729"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a2gwmw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Escribiendo en el mundo online",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cada red social es un mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/810/8f0ec393f27a46d32e9b60aeb8168591/master.m3u8?1676384728"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de lo trendy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/811/2d108399a8e319201228503b86eff659/master.m3u8?1676384727"
+                },
+                {
+                    "id": null,
+                    "title": "Menos es más",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/812/59f8cffdf9abf16cba7194900d66eec4/master.m3u8?1676384724"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l5ivft.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Copywriting y algo más",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hashtags y emojis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/813/b4ac52862ad3a744ec9fdc5fd0032d6c/master.m3u8?1676384731"
+                },
+                {
+                    "id": null,
+                    "title": "Dale color y vida a tu textos modo PRO parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/814/87046dd708e2f5476df4b2541009d1e0/master.m3u8?1676384729"
+                },
+                {
+                    "id": null,
+                    "title": "Dale color y vida a tu textos modo PRO parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/815/f7c8668c045ee71eccc17ed724b21728/master.m3u8?1676384730"
+                },
+                {
+                    "id": null,
+                    "title": "Dale color y vida a tu textos modo no sé nada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/816/90d34e39de61a59585e436219d818641/master.m3u8?1676384729"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fqfwxn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6msmdm.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 401,
+        "product_name": "Creative Copywriting for Entrepreneurs",
+        "teacher_name": "Christian Caldwell",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 10395,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

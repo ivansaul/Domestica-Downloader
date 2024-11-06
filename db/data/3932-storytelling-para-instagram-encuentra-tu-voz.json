@@ -1,0 +1,158 @@
+{
+    "id": "3932",
+    "title": "Storytelling para Instagram encuentra tu voz",
+    "url": "https://www.domestika.org/es/courses/3932-storytelling-para-instagram-encuentra-tu-voz/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/595/fc10d94d119eb5723966c0ed50bd7e99/master.m3u8?1676409025"
+                },
+                {
+                    "id": null,
+                    "title": "Mis fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/596/6e84f28aaaa5d0f915e9273c35c3dd46/master.m3u8?1676409023"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k81mw9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Piensa en el perfil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/597/1ef67827e3f29a8ce2f59778b965087b/master.m3u8?1676409026"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un  mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/598/5f28a27f9a5ac1b923c550d6ad0c7d07/master.m3u8?1678116142"
+                },
+                {
+                    "id": null,
+                    "title": "Los formatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/599/ed68ddb29dde6af90cb913ebcc95c78f/master.m3u8?1676409026"
+                },
+                {
+                    "id": null,
+                    "title": "La caja de herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/600/ec002350d5b5feaf6a5c86585e24f941/master.m3u8?1676409027"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jfcsl3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Construyendo el perfil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/601/d1314d1362bce1f9b16fb4168fd49e5f/master.m3u8?1676409028"
+                },
+                {
+                    "id": null,
+                    "title": "Crear el plan editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/602/53a5c618f996b60375d17abc367073fb/master.m3u8?1676409030"
+                },
+                {
+                    "id": null,
+                    "title": "Las herramientas de Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/603/e69d15cac6c647955e843051f4f884ac/master.m3u8?1676409029"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x9sro3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de contenido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las publicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/604/bcc57a836ed8512dcb1913d2ac7bad40/master.m3u8?1676409030"
+                },
+                {
+                    "id": null,
+                    "title": "Las historias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/605/51684f75118399a58486747f0bd59277/master.m3u8?1676409034"
+                },
+                {
+                    "id": null,
+                    "title": "Reels",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/606/60e88b91668d6273a35336df6a02f004/master.m3u8?1676409033"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo leer las analíticas del perfil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/607/7d04dfca120d2f1e013b784962bf49cf/master.m3u8?1676409031"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ac3bui.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8dgg5u.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3932,
+        "product_name": "Storytelling for Instagram: Find Your Voice",
+        "teacher_name": "Fiore Manni",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6432,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

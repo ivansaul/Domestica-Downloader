@@ -1,0 +1,153 @@
+{
+    "id": "4110",
+    "title": "Fotografía lifestyle de interiores para publicidad",
+    "url": "https://www.domestika.org/es/courses/4110-fotografia-lifestyle-de-interiores-para-publicidad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/546/d1d56f99345336f1d767ad765537dbc9/master.m3u8?1676409000"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/547/9915486a1693e949ef7897370c5e528d/master.m3u8?1676409001"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l5znpj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definiendo el estilo y el espacio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entendiendo el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/549/7d77da40158998db423e0800707dd1fa/master.m3u8?1676409004"
+                },
+                {
+                    "id": null,
+                    "title": "El reconocimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/564/d40760bf5bcbf09414a3f83362009a6f/master.m3u8?1676409005"
+                },
+                {
+                    "id": null,
+                    "title": "Estilo del espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/575/68f86883804bd3e65394ccd80559f3a4/master.m3u8?1676409011"
+                },
+                {
+                    "id": null,
+                    "title": "El equipamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/582/61943a2a2a85c870f52fe66c087e6e7a/master.m3u8?1676409030"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mw3j7m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La sesión de fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Equilibrar la luz del día y el flash",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/590/86da75330c3568511c14675094dcb652/master.m3u8?1676409022"
+                },
+                {
+                    "id": null,
+                    "title": "La imagen de la luz del día",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/591/f7db208dbb21a00dd1e4935f10f7611e/master.m3u8?1676409023"
+                },
+                {
+                    "id": null,
+                    "title": "La imagen detallada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/610/771df5fe4f4cfd8d242e67f3d6674a48/master.m3u8?1676409033"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zrrgp1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Retoques y ajustes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Edición de la imagen de luz diurna",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/592/1ea3c35e12f82e58707dfa2064ad6fed/master.m3u8?1676409024"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de la imagen de luz diurna y flash",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/593/ea62a1f71238427fcf03b3d3a3521114/master.m3u8?1676409023"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de la imagen detallada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/594/3dfc51d45cdd277254dd56eeed6995b6/master.m3u8?1676409025"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8fpz0p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zl3hfr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4110,
+        "product_name": "Interior Lifestyle Photography for Publicity",
+        "teacher_name": "Susie Lowe",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4103,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

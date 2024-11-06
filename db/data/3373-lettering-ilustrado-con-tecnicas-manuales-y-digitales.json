@@ -1,0 +1,163 @@
+{
+    "id": "3373",
+    "title": "Lettering ilustrado con técnicas manuales y digitales",
+    "url": "https://www.domestika.org/es/courses/3373-lettering-ilustrado-con-tecnicas-manuales-y-digitales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/159/f7e4a9c68ea5b3605bce434c762f36a9/master.m3u8?1676402381"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/160/821d6a6064d35f48f358aa9012016c19/master.m3u8?1676402381"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7of89u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Entender para deconstruir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Letras básicas y conceptos tipográficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/172/e8aeba7abbd769fc3d5d63610a8f356d/master.m3u8?1676402391"
+                },
+                {
+                    "id": null,
+                    "title": "Deconstruyendo formas clásicas de letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/173/e98ccc9c2505d19b2722f3dbaf89dc7c/master.m3u8?1676402392"
+                },
+                {
+                    "id": null,
+                    "title": "De la idea al mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/174/51fc60160676660b21aa5307d2a110ea/master.m3u8?1676402392"
+                },
+                {
+                    "id": null,
+                    "title": "Primeros bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/175/24a34fc05287e5a78d53c66433fb2290/master.m3u8?1676402407"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n4zjpg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando un proyecto con letras ilustradas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Trabajando con capas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/197/a496a251410630a7929ae750b6c8f672/master.m3u8?1676402407"
+                },
+                {
+                    "id": null,
+                    "title": "Refinando tu boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/198/2d4e598844c3d751373d8ccaa245994e/master.m3u8?1676402407"
+                },
+                {
+                    "id": null,
+                    "title": "Importar el boceto y comenzar a trabajar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/199/9bce710a0c505d9418139e41dfd4a0f9/master.m3u8?1676402406"
+                },
+                {
+                    "id": null,
+                    "title": "Contorno y formas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/200/6be96e843e2fcd6dbb6b711875e91f68/master.m3u8?1676402406"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicando colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/201/0d407a1c12f64998073383240d8e5ddb/master.m3u8?1676402412"
+                },
+                {
+                    "id": null,
+                    "title": "Luz sombra y textura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/202/61c15d28f2339f1e543303b00146573f/master.m3u8?1676402414"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yvmu2e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Terminando tu proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acabados y detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/203/49c2d0d097ef19c557c9b1e9a37633e7/master.m3u8?1676402411"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo dar a conocer tu proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/204/89091cd79adadb83b9412b0ebae86d7c/master.m3u8?1676402409"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eph0m7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/t9t0on.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3373,
+        "product_name": "Illustrated Lettering with Manual and Digital Techniques",
+        "teacher_name": "Lygia Pires",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7881,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "646",
+    "title": "Postproducción fotográfica de alimentos en Photoshop",
+    "url": "https://www.domestika.org/es/courses/646-postproduccion-fotografica-de-alimentos-en-photoshop/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/284/0be6fe824a0729faeb755a36d1b260c1/master.m3u8?1676386798"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/285/bfbdeadc222f8ed8d8fdea3d95610316/master.m3u8?1676386799"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/286/b6aac676f90ca2d2ac94b3cd09e4b3c2/master.m3u8?1676386796"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v62c1a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materializando nuestra mente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lluvia de ideas y bocetaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/287/3f469e76339e6b011ca6ecfe115c45f6/master.m3u8?1676386801"
+                },
+                {
+                    "id": null,
+                    "title": "La creatividad es más importante que el equipo Set fotográfico y esquema de luces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/288/549ae9100e3d0bbb3853b9203675b270/master.m3u8?1676386801"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/397t4x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prepárate para sumergirte en Photoshop",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección y revelado de nuestras fotografías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/298/5021f9578e18854136c021fc43b27080/master.m3u8?1676386805"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza y retoque detallado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/299/e159f5a8fdb0986a8098805b1b2105c2/master.m3u8?1676386806"
+                },
+                {
+                    "id": null,
+                    "title": "Recorte de elementos con ayuda de scripts",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/300/34a019f846355be84a3dc920f7a19bca/master.m3u8?1676386804"
+                },
+                {
+                    "id": null,
+                    "title": "Arreglando la luz del fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/302/af3359fa8a30d07125437960be9a2299/master.m3u8?1676386802"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo recortar y convertir splashes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/303/122544e67d79ec7ebfd094adeacfd4f8/master.m3u8?1676386808"
+                },
+                {
+                    "id": null,
+                    "title": "Composición de assets y fondo en el documento final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/307/8d6934b7ec544dcdbfb4988dee1c4a4b/master.m3u8?1676386806"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b4bs78.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sombras luces y desenfoque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/304/c2a193cdff8d93c513281d03772401fb/master.m3u8?1676386806"
+                },
+                {
+                    "id": null,
+                    "title": "Últimos detalles y exportar para web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/305/62c013bf72e2d16b80cfb874c1d21228/master.m3u8?1676386807"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wnyz5x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/852y8w.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 646,
+        "product_name": "Food Photography Post-production in Photoshop",
+        "teacher_name": "Mario Olvera",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5800,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

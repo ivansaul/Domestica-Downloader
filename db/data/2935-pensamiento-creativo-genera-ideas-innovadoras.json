@@ -1,0 +1,163 @@
+{
+    "id": "2935",
+    "title": "Pensamiento creativo genera ideas innovadoras",
+    "url": "https://www.domestika.org/es/courses/2935-pensamiento-creativo-genera-ideas-innovadoras/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/348/d086444cb984a587154921d6c8ea8861/master.m3u8?1676401393"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/349/62331e25a62f0da6092ef740a58e2f8c/master.m3u8?1676401391"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gru3kx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo prepararse",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Reuniendo inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/350/49521d230fe35f1e653bad6394205c99/master.m3u8?1676401394"
+                },
+                {
+                    "id": null,
+                    "title": "Preparándose",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/351/af4d86daa2cb8918eb66a3f659ec32eb/master.m3u8?1676401396"
+                },
+                {
+                    "id": null,
+                    "title": "El brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/352/b9fdf4ded5b2d4daf4ca84c5eb3a60fe/master.m3u8?1676401403"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ljl2ni.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo tener ideas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeros pensamientos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/353/9080ef217a1e31ab9604cbc8ddf218f3/master.m3u8?1676401401"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer conexiones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/354/fbf064d03442f9799cd1a0f703a3d1bb/master.m3u8?1676401401"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer conexiones 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/355/9ff621f30559ef170cd86c84911fa060/master.m3u8?1676401400"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir las mejores ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/356/5be614b0236d934ddfbfc077a4ffaa5b/master.m3u8?1676401403"
+                },
+                {
+                    "id": null,
+                    "title": "Dar forma y perfeccionar sus ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/357/b3808840ff6d78e61d23872d1846116c/master.m3u8?1676401406"
+                },
+                {
+                    "id": null,
+                    "title": "Destrabarse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/358/86a8a1de5e3f23906385006a44828cd6/master.m3u8?1676401400"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l03bp4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo compartir ideas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Refinando sus ingredientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/359/f459b918d72dcef62378a8d8a2c4e198/master.m3u8?1676401400"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando tu historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/360/530a6c1b0f1adb1fe8360218ae5b46a7/master.m3u8?1676401400"
+                },
+                {
+                    "id": null,
+                    "title": "Haciendo su tono",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/361/57a4ba81bcca7b7f63a1760afed80e01/master.m3u8?1676401401"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/un63df.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/gmq24y.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2935,
+        "product_name": "Creative Thinking 101: Generate Groundbreaking Ideas",
+        "teacher_name": "Nick Eagleton",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8608,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

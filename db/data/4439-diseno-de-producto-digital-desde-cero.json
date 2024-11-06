@@ -1,0 +1,190 @@
+{
+    "id": "4439",
+    "title": "Diseño de producto digital desde cero",
+    "url": "https://www.domestika.org/es/courses/4439-diseno-de-producto-digital-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/041/0539c3923c2c91fc00598208d61eb7f5/master.m3u8?1676411911"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/042/80ccd5edb0637d7ea4f5970d69c61552/master.m3u8?1676411914"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2psvow.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollando el concepto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollo de conceptos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/043/6c3370f3ff1f074f30d3bbca9abbff61/master.m3u8?1676411913"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos de red y audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/044/c19ff936635457e5ac882519ed64cfe5/master.m3u8?1676411917"
+                },
+                {
+                    "id": null,
+                    "title": "Características del producto asesino",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/045/0f44d92c6f4a484be54fd4f68f0b752b/master.m3u8?1676411916"
+                },
+                {
+                    "id": null,
+                    "title": "Monetizar tu aplicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/046/3fbbd92ed7ba72219e938e2a462f5390/master.m3u8?1676411916"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/102w9i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Criterios de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/047/b60018d40cce858b0f59649396710e17/master.m3u8?1676411919"
+                },
+                {
+                    "id": null,
+                    "title": "Psicología",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/048/9865f96af9c55dca44448b39f31eb5cb/master.m3u8?1676411917"
+                },
+                {
+                    "id": null,
+                    "title": "Redacción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/049/af8d3eb006574717983d0a7cba817a2b/master.m3u8?1676411916"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m9ty8b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando el prototipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de prototipos e iteración constante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/050/8a0985b1ae3f6db92c06b686bc84f1f8/master.m3u8?1676411919"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir una plataforma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/051/139727e397a8644d8bb40b50ba5f8ebc/master.m3u8?1676411917"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de una arquitectura de producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/052/c30e6e53323d93e4e39bcdbedab94350/master.m3u8?1676411926"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando en Figma 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/053/1a1f51506bef7e16749612e0fb79fb57/master.m3u8?1676411922"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando en Figma 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/054/0076c8469911885bbaade8a32bfbeafd/master.m3u8?1676411922"
+                },
+                {
+                    "id": null,
+                    "title": "Logotipos iconos de aplicaciones marcas y nombres",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/055/46fe4f7d27be6e97e5beb61e65f7af04/master.m3u8?1676411925"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q9k6uz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hacer el prototipo real",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación de su diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/056/31dbd95c8f8552dafe6a25ed92e04e1b/master.m3u8?1676411920"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con ingenieros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/057/b247c38c1540e24384d18717b280c403/master.m3u8?1676411922"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d9plv3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ryje3w.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4439,
+        "product_name": "Digital Product Design from Scratch",
+        "teacher_name": "Rus Yusupov",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 7655,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

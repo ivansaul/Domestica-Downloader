@@ -1,0 +1,180 @@
+{
+    "id": "3410",
+    "title": "Diseño estratégico de identidades visuales de marca",
+    "url": "https://www.domestika.org/es/courses/3410-diseno-estrategico-de-identidades-visuales-de-marca/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/191/c05c3e607075d749e130c971e8fce397/master.m3u8?1676404327"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/192/d4aaea99e2d43468ad31be9b411b93c4/master.m3u8?1676404331"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xftooa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Talleres de estrategia de marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importancia de la estrategia de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/193/0044a2ca78d67f6f63fd7ee247186ff0/master.m3u8?1676404328"
+                },
+                {
+                    "id": null,
+                    "title": "Taller de palabras clave",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/194/c510572245fd14647501c9699a5ac414/master.m3u8?1676404329"
+                },
+                {
+                    "id": null,
+                    "title": "Taller de persona objetivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/195/eb267b18765870c7b529ed19a5b3e06f/master.m3u8?1676404331"
+                },
+                {
+                    "id": null,
+                    "title": "Taller de auditoría competitiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/196/3f35a66eee54acb1d6971f84f1e1ab15/master.m3u8?1676404331"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategia y mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/197/73d7e6be56c4d554a26a62bc8b3d90c7/master.m3u8?1676404332"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dsduyv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/199/d8b4be63388752d08e77bf0e01b8cf3f/master.m3u8?1676404333"
+                },
+                {
+                    "id": null,
+                    "title": "Vectores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/200/c93c08f8fbf1eeb908625dccf56a8dc7/master.m3u8?1676404336"
+                },
+                {
+                    "id": null,
+                    "title": "Edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/201/f06194c46f4ddb6b0c2fb2d95095cb9e/master.m3u8?1676404334"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/50i2g0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Colores patrones y tipografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/202/49a04d9125abba9d6d0137df7405a69d/master.m3u8?1676404333"
+                },
+                {
+                    "id": null,
+                    "title": "Patrones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/203/0ef17971817719fbecd718879f3ad626/master.m3u8?1676404334"
+                },
+                {
+                    "id": null,
+                    "title": "Sistema de tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/204/cd47d116d9b252d44ce63bcd7b38ab2c/master.m3u8?1676404333"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dnie7m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalización de la identidad de la marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Maquetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/446/2b084d442467376a8b40123cb656739a/master.m3u8?1676404448"
+                },
+                {
+                    "id": null,
+                    "title": "Poniendo todo junto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/447/ce587ee66c66f811fbccfa586d727398/master.m3u8?1676404447"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ovogw0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/o993a2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3410,
+        "product_name": "Strategy-Based Brand Identity Design",
+        "teacher_name": "Kevin Craft",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7159,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

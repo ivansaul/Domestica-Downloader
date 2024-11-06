@@ -1,0 +1,165 @@
+{
+    "id": "849",
+    "title": "Diseño de interiores para espacios multifuncionales",
+    "url": "https://www.domestika.org/es/courses/849-diseno-de-interiores-para-espacios-multifuncionales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/341/effe3ac5127217b9bad168b5f3ac0bb5/master.m3u8?1676387822"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/343/18dff4f55232c38f25e3e5de098f3d4d/master.m3u8?1676387821"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/344/2a0e700721b3e3000aa551b0a59d7af7/master.m3u8?1676387821"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kxi6er.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Punto de partida",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo descubrir las funciones del espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/345/486270c7afe8f9b3c2834a7c4a6a8e7b/master.m3u8?1690548547"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo definir el estilo del espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/349/cf940174309dd1b26148db27d2fd9863/master.m3u8?1676387826"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo el espacio levantamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/350/a72ea22ffac6d87e44903dc053a4c0b1/master.m3u8?1676387823"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/87vn0w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección preliminar de muebles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/351/46e9ea847a575f5978c158ccd77b1f9e/master.m3u8?1676387825"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es un layout",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/352/e475a0a6f27cc0ed357b382a7f9390e0/master.m3u8?1676387824"
+                },
+                {
+                    "id": null,
+                    "title": "Creamos nuestro moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/353/1bc29163631e6e3ade47a85d66367654/master.m3u8?1676387825"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yurjw0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Decostyling para espacios pequeños",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Styling",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/422/276f07c264b6cbb511a1f2cefd1e0fc3/master.m3u8?1676387843"
+                },
+                {
+                    "id": null,
+                    "title": "Tips para espacios pequeños",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/423/87556b2898b7074bda58d3d5c13f5572/master.m3u8?1676387843"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y5swg8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cronograma y presupuesto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo hacer un cronograma y presupuesto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/016/424/bd605986d6266777d9d5b8aa49d0bad0/master.m3u8?1676387846"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5fk4wv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4yq2d7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 849,
+        "product_name": "Interior Design for Multifunctional Spaces",
+        "teacher_name": "DecoStudio",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4277,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}
