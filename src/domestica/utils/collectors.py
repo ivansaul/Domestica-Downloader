@@ -78,11 +78,11 @@ async def fetch_course(url: str, context: BrowserContext) -> Course:
             tasks.append(fetch_section(section_url, context))
         sections = await asyncio.gather(*tasks)
     except TimeoutError:
+        await page.close()
         raise Exception("Could not get sections")
     except Exception as e:
-        raise e
-    finally:
         await page.close()
+        raise e
 
     # Capture content as PDF
     pdf_content_url = await tools.upload_from_bytes(
@@ -112,6 +112,7 @@ async def fetch_section(url: str, context: BrowserContext) -> Section:
 
     # TODO: implement this
     if url.endswith("/final_project"):
+        await page.close()
         return Section(
             title="Final Project",
             videos=[],
@@ -120,11 +121,11 @@ async def fetch_section(url: str, context: BrowserContext) -> Section:
     try:
         section_title = await page.locator("header.paper__header h2").text_content()
     except TimeoutError:
-        raise Exception("Could not get section title")
-    finally:
         await page.close()
+        raise Exception("Could not get section title")
 
     if section_title is None:
+        await page.close()
         raise Exception("Could not get section title")
 
     section_title = helpers.clean_string(section_title)
@@ -132,6 +133,7 @@ async def fetch_section(url: str, context: BrowserContext) -> Section:
     pattern = r"window\.__INITIAL_PROPS__ = JSON\.parse\('(.*?)'\)"
     match = re.search(pattern, await page.content())
     if not match:
+        await page.close()
         raise Exception("Could not get section content")
 
     json_str = match.group(1).replace("\\", "")
@@ -145,10 +147,8 @@ async def fetch_section(url: str, context: BrowserContext) -> Section:
             )
             videos.append(media)
     except KeyError:
-        # TODO: improve logging
-        print("Could not get section videos")
-    finally:
         await page.close()
+        raise Exception("Could not get section videos")
 
     # Capture content as PDF
     pdf_content_url = await tools.upload_from_bytes(
