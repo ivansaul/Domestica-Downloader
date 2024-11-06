@@ -61,9 +61,18 @@ async def page_to_pdf(page: Page, path: Optional[str] = None) -> bytes:
     return await page.pdf(path=path)
 
 
+async def _exit_multi_courses(page: Page) -> None:
+    multi_courses_locator = page.locator(".a-tag.bg-color-guijarro")
+    if await multi_courses_locator.count() > 0:
+        await page.close()
+        raise Exception("This kind of course is not supported")
+
+
 async def fetch_course(url: str, context: BrowserContext) -> Course:
     page = await context.new_page()
     await page.goto(url)
+
+    await _exit_multi_courses(page)
 
     title = await get_course_title(page)
 
