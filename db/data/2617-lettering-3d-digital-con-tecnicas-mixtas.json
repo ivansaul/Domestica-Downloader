@@ -1,0 +1,148 @@
+{
+    "id": "2617",
+    "title": "Lettering 3D digital con técnicas mixtas",
+    "url": "https://www.domestika.org/es/courses/2617-lettering-3d-digital-con-tecnicas-mixtas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/234/67655b19b21ba1e81ce294e024fd4046/master.m3u8?1676401874"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/235/f97b8daf067f245b6552fa37e5bf1416/master.m3u8?1676401879"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xpa8l5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mood board y bocetos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Resumen del proyecto y mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/236/8e09fe72880f5eaceb157805ab10733a/master.m3u8?1676401879"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar la composición en papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/237/2aaddf9e18ec6edcf13207f6050f97fc/master.m3u8?1676401881"
+                },
+                {
+                    "id": null,
+                    "title": "Pasar a Illustrator",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/238/03253ebb18b4da2cc07b2936a129609e/master.m3u8?1676401880"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bg5yoi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trabajando en Cinema 4D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado básico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/239/e5bf618f0aa213b309ce5871f2709346/master.m3u8?1676401879"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación y materiales básicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/240/8b185c47cd176e24b79d9f1fbe9bc2ff/master.m3u8?1676401881"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de material texturizado con pintura acrílica real",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/241/cb677483471fd7737b358e2114f38541/master.m3u8?1676401879"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de material acrílico y renderizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/242/f5186e51d6168c1a400c9bcec3d97914/master.m3u8?1676401883"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ekdsyd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Toques finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Toques finales en Photoshop y maqueta de portada de álbum",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/243/9ca641a73cf649695808cbf9f64ef718/master.m3u8?1676401881"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/244/f34e5b5a0cf46d422691be91059ae5ef/master.m3u8?1676401881"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5hzo1i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/wa7uta.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2617,
+        "product_name": "Digital 3D Lettering with Mixed Media",
+        "teacher_name": "José Bernabé",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 4615,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

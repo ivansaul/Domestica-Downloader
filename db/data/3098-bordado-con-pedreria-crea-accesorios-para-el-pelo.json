@@ -1,0 +1,148 @@
+{
+    "id": "3098",
+    "title": "Bordado con pedrería crea accesorios para el pelo",
+    "url": "https://www.domestika.org/es/courses/3098-bordado-con-pedreria-crea-accesorios-para-el-pelo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/914/1aa1f01ef9346fd85b5062b707e860ef/master.m3u8?1676407536"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/915/f494d7bd22e3306d137acee98ff03253/master.m3u8?1676407534"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3etdf3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo inspirarte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elaborar un mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/916/e45031e70e110bf83aa644f23f81bb21/master.m3u8?1676407538"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y paleta de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/917/6ed6b195210e255cbbe88b64a4deae15/master.m3u8?1676407536"
+                },
+                {
+                    "id": null,
+                    "title": "Puntadas y formas básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/918/e44711b2e13c78adf3c071d29d856371/master.m3u8?1676407541"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bdtt0u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recamado bordado con piedras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/919/c7f6a8816a52bee1499cbac1b99a5483/master.m3u8?1676407541"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo montar y acabar la diadema fina y el cintillo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/920/600a34f1007ae14fc998fa8c20860263/master.m3u8?1676407552"
+                },
+                {
+                    "id": null,
+                    "title": "Armar y confeccionar el moño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/921/1be2dfc20c011c98e61aa7b3506fe4bd/master.m3u8?1676407548"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kfues2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los toques finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cuidados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/922/3e4978eb9fab582e58fecb1b4a5c8fa3/master.m3u8?1676407538"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo usar los accesorios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/923/f8a52e806ea329e4346b241c1aa3da7c/master.m3u8?1676407536"
+                },
+                {
+                    "id": null,
+                    "title": "Vender en redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/924/e9f79c710319b8e30b2bde36369995dc/master.m3u8?1676407539"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s612iz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7cem87.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3098,
+        "product_name": "Beaded Embroidery: Create Hair Accessories",
+        "teacher_name": "MULATT",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 4973,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

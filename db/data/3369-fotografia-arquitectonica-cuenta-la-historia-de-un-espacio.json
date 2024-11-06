@@ -1,0 +1,173 @@
+{
+    "id": "3369",
+    "title": "Fotografía arquitectónica cuenta la historia de un espacio",
+    "url": "https://www.domestika.org/es/courses/3369-fotografia-arquitectonica-cuenta-la-historia-de-un-espacio/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/014/687f8114cbfc4d909af07db0fe3f405c/master.m3u8?1676408627"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/015/231e808ef2353ff801f9268f143bdbcd/master.m3u8?1676408628"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pvtpuj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La fotografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Nociones básicas de fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/016/17872d6e30aa57dfa55f854be645524a/master.m3u8?1676408629"
+                },
+                {
+                    "id": null,
+                    "title": "La luz y sus características",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/017/6d33b6d8d8808c4929215262c5694676/master.m3u8?1676408628"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y formatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/019/0ef2da8955c0914f3bd79a56705241fa/master.m3u8?1676408631"
+                },
+                {
+                    "id": null,
+                    "title": "Equipos y lentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/020/acbb145dcaeaa58cc2132e97865a8ed9/master.m3u8?1676408629"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t6igh5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construcción del relato",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primer acercamiento al espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/021/56c8747c97c02b34cef317ca78eaaf3e/master.m3u8?1676408631"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de fotografía 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/022/710ed014e4b536f3d2f73c954c0924fb/master.m3u8?1676408633"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de fotografía 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/023/61188797162b3e47970abb56eba2c3d6/master.m3u8?1676408634"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura del relato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/024/e804a198822596aa69605d05193c40b2/master.m3u8?1676408634"
+                },
+                {
+                    "id": null,
+                    "title": "La sesión de fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/025/7597a955b0aa42295d013336a2368a29/master.m3u8?1676408634"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f43124.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Revelado y entrega",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección y nomenclatura 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/027/64a5f1885b440dfbe186b6922af41fa0/master.m3u8?1676408635"
+                },
+                {
+                    "id": null,
+                    "title": "Selección y nomenclatura 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/028/4e80cc64d8653c08d4b0e2951c876e43/master.m3u8?1676408636"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado y edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/030/807a02e691d9589bdac4c9693012038c/master.m3u8?1676408642"
+                },
+                {
+                    "id": null,
+                    "title": "La presentación de las fotografías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/031/f6ab659bc88d3a90153c0a2cace3e973/master.m3u8?1676408636"
+                },
+                {
+                    "id": null,
+                    "title": "Las redes contar una historia visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/033/e96b6d360f9cfe94436d15b504e1802f/master.m3u8?1676408636"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lp2p91.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/fmn05x.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3369,
+        "product_name": "Architectural Photography: Storytelling for Spaces",
+        "teacher_name": "Bruto Studio",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 9676,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "id": "245",
+    "title": "Dirección creativa de un spot publicitario",
+    "url": "https://www.domestika.org/es/courses/245-direccion-creativa-de-un-spot-publicitario/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Qué es un director multitécnica Background e inspiración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/642/0143266f522c9b7194014dcc2fd636ba/master.m3u8?1676383330"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/643/d9f3cd1e1f9f0e55abc2a94e26c1e8b0/master.m3u8?1676383334"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4ydqyb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo ganar proyectos de dirección Posicionamiento como director y tratamientos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Posicionamiento como director",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/644/2ac2cef6fc2540f1d685caa6d2296dd0/master.m3u8?1676383334"
+                },
+                {
+                    "id": null,
+                    "title": "La historia del tratamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/645/182c2ccc5545df6ce1e0d70a5ea037d2/master.m3u8?1676383333"
+                },
+                {
+                    "id": null,
+                    "title": "Tratamiento Tips generales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/647/e0453db83252ca33771d788a3dc403e2/master.m3u8?1676383334"
+                },
+                {
+                    "id": null,
+                    "title": "El contenido del tratamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/648/c72c31e5748b3c88883e505f32de8a45/master.m3u8?1676383338"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/csyz1a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proyecto de live action con postproducción Una receta muy particular",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Del guion al tratamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/649/81e5800b24037529faa7eb6f4ece3cd6/master.m3u8?1676383339"
+                },
+                {
+                    "id": null,
+                    "title": "Preproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/650/f9481fab00041ed0a396d5283f3392ce/master.m3u8?1676383338"
+                },
+                {
+                    "id": null,
+                    "title": "Rodaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/652/c395b54c5bdff56c69abaca4cfd875e3/master.m3u8?1676383337"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/653/75039447e78e19681a717b7106c0b7db/master.m3u8?1676383341"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dsfinh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proyecto de stop motion Fiebre de chocolate por la noche",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Del guion al tratamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/654/940a078949ec7f6b152e64e746c887d3/master.m3u8?1676383340"
+                },
+                {
+                    "id": null,
+                    "title": "Preproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/655/06329aa7b9090014e02e968cf5531be9/master.m3u8?1676383342"
+                },
+                {
+                    "id": null,
+                    "title": "El rodaje de stop motion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/656/3924807649611d4fe9974f8e3c04d621/master.m3u8?1676383339"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/661/b8c0756ac4deafcb496d5954e6f59c11/master.m3u8?1676383340"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bck628.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/chhmh8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 245,
+        "product_name": "Creative Direction of an Advertising Spot",
+        "teacher_name": "Javier Lourenço",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7603,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

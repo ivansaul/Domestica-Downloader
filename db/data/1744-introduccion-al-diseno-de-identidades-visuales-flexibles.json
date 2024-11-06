@@ -1,0 +1,148 @@
+{
+    "id": "1744",
+    "title": "Introducción al diseño de identidades visuales flexibles",
+    "url": "https://www.domestika.org/es/courses/1744-introduccion-al-diseno-de-identidades-visuales-flexibles/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/904/ac2630d56e26512e8291977bd4d91c8b/master.m3u8?1676405565"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/905/faafc90a2b5b58d6e0b2320b55e700ef/master.m3u8?1676405566"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9d16c3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo de identidades visuales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cambio de paradigma en el diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/906/7b4172c89a214ae1aedfa56a61fde348/master.m3u8?1676405565"
+                },
+                {
+                    "id": null,
+                    "title": "Cambiar los métodos de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/907/5f4b882271f8ecfec5b2c56a24999edf/master.m3u8?1676405565"
+                },
+                {
+                    "id": null,
+                    "title": "Briefing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/908/83ec924fc79988a65c4c1fc15a0b0ca1/master.m3u8?1676405567"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rdj4ih.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Parámetros visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/909/c9955d6ef62915471c023e01d97e9662/master.m3u8?1676405565"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/910/b43f79447ecf49bf4f32d5c847391d49/master.m3u8?1676405569"
+                },
+                {
+                    "id": null,
+                    "title": "Sistema visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/911/386ebd1ed0bb519418c7d79ef2b3b1e8/master.m3u8?1676405573"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mzevvv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postprocesamiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un manual de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/913/43f1acb122399675f138004894fb558a/master.m3u8?1676405568"
+                },
+                {
+                    "id": null,
+                    "title": "Mockups y presentaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/914/e8cb5388d70aa1c559c5c6233b6e5da4/master.m3u8?1676405570"
+                },
+                {
+                    "id": null,
+                    "title": "Este curso fue solo el comienzo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/915/71aa3b34b4ea2413d2c996a523550292/master.m3u8?1676405569"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lyv2w7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/p74ok8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1744,
+        "product_name": "Dynamic Design: Introduction to Flexible Visual Identities",
+        "teacher_name": "Martin Lorenz",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 3895,
+        "total_units": 4,
+        "subtitles_language": [
+            "de",
+            "es",
+            "en",
+            "pt",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "de"
+        ],
+        "original_language": "de"
+    }
+}

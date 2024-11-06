@@ -1,0 +1,158 @@
+{
+    "id": "3279",
+    "title": "Fundamentos del copywriting para newsletters",
+    "url": "https://www.domestika.org/es/courses/3279-fundamentos-del-copywriting-para-newsletters/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/703/1eb34cac057d45660b4d6a55c6dd666b/master.m3u8?1676401014"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/704/b2b7273de645a20a0d70bf9d2cbd4e37/master.m3u8?1676401014"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iea3v8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué necesita saber para escribir excelentes boletines por correo electrónico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Objetivos y herramientas de este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/705/3ac34439c91f48410d7af7d54c7174c4/master.m3u8?1676401018"
+                },
+                {
+                    "id": null,
+                    "title": "Diferentes tipos de boletines informativos por correo electrónico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/706/293d8e52edff2bc8accb9aebe9297be6/master.m3u8?1676401020"
+                },
+                {
+                    "id": null,
+                    "title": "Comprenda a su audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/707/1050f0f36fec012ccad7b18b42f36f50/master.m3u8?1676401018"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a9yun5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo escribir excelentes boletines informativos por correo electrónico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El primer borrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/708/cd79512a95f0da5e707ea124438fbdda/master.m3u8?1676401019"
+                },
+                {
+                    "id": null,
+                    "title": "Cinco principios de la redacción de textos publicitarios por correo electrónico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/709/08d766e10be9156cdaffd340c680e783/master.m3u8?1676401018"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de un boletín informativo por correo electrónico y cómo redactarlo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/710/d242c59b8958d9e41e703d565b5ad73e/master.m3u8?1676995640"
+                },
+                {
+                    "id": null,
+                    "title": "Voz de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/711/a134651cf8dbf2eccb3a97d86b827d4c/master.m3u8?1676401019"
+                },
+                {
+                    "id": null,
+                    "title": "Cinco formas de obtener una copia en la página",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/712/2467d9885a9fca449569262e26e71877/master.m3u8?1676401018"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/syuxe6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Montaje y mejora de su boletín",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Armado de su boletín",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/718/01dba1b0461992eb9380160cd8319097/master.m3u8?1676401025"
+                },
+                {
+                    "id": null,
+                    "title": "Integración de boletines informativos por correo electrónico y redes sociales Facebook Twitter y LinkedIn",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/719/ae750182458b6d130afc983da1b04378/master.m3u8?1676401023"
+                },
+                {
+                    "id": null,
+                    "title": "Optimización y monetización de su boletín informativo por correo electrónico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/720/d50ab145b6ffaaf848d5cdd0647dc271/master.m3u8?1676401030"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c7e981.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ci2a3c.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3279,
+        "product_name": "Copywriting Essentials for Email Newsletters",
+        "teacher_name": "Pam Neely",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8167,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

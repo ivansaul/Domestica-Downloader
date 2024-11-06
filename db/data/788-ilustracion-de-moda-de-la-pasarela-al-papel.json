@@ -1,0 +1,158 @@
+{
+    "id": "788",
+    "title": "Ilustración de moda de la pasarela al papel",
+    "url": "https://www.domestika.org/es/courses/788-ilustracion-de-moda-de-la-pasarela-al-papel/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación y proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/176/4c78ee909eabb136a9142527dc6ca204/master.m3u8?1676386749"
+                },
+                {
+                    "id": null,
+                    "title": "Mis influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/177/fee2cfde52d08015cb40076a73a9fe00/master.m3u8?1676386749"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/178/05d2dbf83efe04c18645016da8f239e6/master.m3u8?1676386747"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/smtnq4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigación concepto y collage",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Aproximación a la ilustración de moda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/179/bd5888784d7812674ebae6bbabc45fa0/master.m3u8?1676386755"
+                },
+                {
+                    "id": null,
+                    "title": "Elección de un diseñador concepto y documentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/180/d2ac02355985f1441327b201ff4e06e3/master.m3u8?1676386751"
+                },
+                {
+                    "id": null,
+                    "title": "Collage",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/181/1e14186f541cb03881a0e3a2f13616f8/master.m3u8?1676386749"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/562veu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Puesta en marcha de la Ilustración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dibujo digital  tips",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/182/1743798483306d9c29551d45f28e1f1c/master.m3u8?1676386751"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujo digital  tips II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/183/0bfa5618f79c027ca09d0ff63a45a1dd/master.m3u8?1676386753"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de texturas y pinceles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/184/d971d6b903a3c5429d3b4e261f2704a2/master.m3u8?1676386753"
+                },
+                {
+                    "id": null,
+                    "title": "Color y combinación de herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/185/1178b18d9c392e26f154d7e39d9f3495/master.m3u8?1676386753"
+                },
+                {
+                    "id": null,
+                    "title": "Mis trucos técnicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/186/91b6155b00d43494db73fb574cc2f900/master.m3u8?1676386754"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0lzxq2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Integración final y presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Integración del conjunto retoques y fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/187/6944571700ffce7a6fa7908802313914/master.m3u8?1676386755"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación en papelmockup",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/188/9a3484b2caa2f0c97b5bc1edd31f0062/master.m3u8?1676386751"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h4z835.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/gqf76e.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 788,
+        "product_name": "Fashion Illustration: from the Catwalk to the Paper",
+        "teacher_name": "Robert Tirado",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8442,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

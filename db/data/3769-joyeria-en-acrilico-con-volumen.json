@@ -1,0 +1,158 @@
+{
+    "id": "3769",
+    "title": "Joyería en Acrílico con Volumen",
+    "url": "https://www.domestika.org/es/courses/3769-joyeria-en-acrilico-con-volumen/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/222/d4b1058dd15229b6ea491279723268ac/master.m3u8?1677161001"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/223/7c47010293ca75061233d36aae103fc6/master.m3u8?1677161016"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w0cpcj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales e ideas para comenzar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/224/8ea527be27870910916b3536ca36970c/master.m3u8?1677161036"
+                },
+                {
+                    "id": null,
+                    "title": "Las herramientas de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/225/355d4e0e7c1fefddca0aa9cce225036d/master.m3u8?1677161052"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/226/1e82996a0797a96121e8dedb366e8b7c/master.m3u8?1677161071"
+                },
+                {
+                    "id": null,
+                    "title": "Elaboración del diario técnico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/227/1c9354d91fa58beaf8f477c8bb828c18/master.m3u8?1677161093"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de un prototipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/228/6a8decff07441b6f736cf220da9f0a7f/master.m3u8?1677161105"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3h557n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La ejecución de las piezas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El marcado y el corte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/229/f46dc7918b2714da4b51624ceac7ef25/master.m3u8?1677161122"
+                },
+                {
+                    "id": null,
+                    "title": "El ensamblado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/230/d7a994e6dd7b3f729b9474f102d97443/master.m3u8?1677161138"
+                },
+                {
+                    "id": null,
+                    "title": "Limado lijado y pulido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/231/b673641835548a9f35a36c5d0517de9c/master.m3u8?1677161156"
+                },
+                {
+                    "id": null,
+                    "title": "Acabados y ornamentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/232/22c70e05c6d37614fd9101f950539301/master.m3u8?1677161209"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zhlc3a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos consejos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El cuidado de la pieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/233/0709f9eda2de71244065ba0a3df7e5ec/master.m3u8?1677161232"
+                },
+                {
+                    "id": null,
+                    "title": "El packaging y el sello personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/234/91e822684f53f58a5edc618fa14ab2e8/master.m3u8?1677161246"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9ciowe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/32idb8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3769,
+        "product_name": "Acrylic Jewelry with Volume",
+        "teacher_name": "Paula Giecco (Finn)",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6866,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

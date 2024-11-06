@@ -1,0 +1,163 @@
+{
+    "id": "2598",
+    "title": "Finanzas para freelancers y pequeñas empresas",
+    "url": "https://www.domestika.org/es/courses/2598-finanzas-para-freelancers-y-pequenas-empresas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/068/9b8c793d19998cc325ab32cde50fc55e/master.m3u8?1676402334"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/069/538aa9dc15f9f0c765a31ea32840bfd2/master.m3u8?1676402334"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vj5gkq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finanzas 101",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La importancia de la administración del dinero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/070/8c56e8c32ac48b1ab827ad386f2a4a6d/master.m3u8?1676402340"
+                },
+                {
+                    "id": null,
+                    "title": "Qué necesita en su kit de herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/071/4488d0c4565ea0a7eb39c656de8fe93c/master.m3u8?1676402339"
+                },
+                {
+                    "id": null,
+                    "title": "Finanzas comerciales vs finanzas personales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/072/2ca9fa22ab3645079aa03d4d22152310/master.m3u8?1676402339"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al estudio de caso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/073/fda5fbe0014f2d3078cbdf66e45ca0ff/master.m3u8?1676402339"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/plctev.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elaboración de su kit de herramientas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Establecer metas financieras desafiantes pero alcanzables",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/074/06155ad2a3efecca03b91edb811dcc40/master.m3u8?1676402341"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de sus ingresos para que no se quede corto 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/075/9b042ae95ed8415fae238cca0090d342/master.m3u8?1676402342"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de sus ingresos para que no se quede corto 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/076/01b56e38b5a313f59647b01001cb042f/master.m3u8?1676402341"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un presupuesto que permita ingresos flexibles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/077/fb91359d894b014cea258fff5d6c2e90/master.m3u8?1676402346"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1pow5c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Uso de sus herramientas y mejores prácticas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Uso de su kit de herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/078/a97fac51c0ce445cb0d3286b6842beaf/master.m3u8?1676402343"
+                },
+                {
+                    "id": null,
+                    "title": "Rutina y Hábitos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/079/d5f24f51ea60d55d501ec161b46bc059/master.m3u8?1676402343"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas digitales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/080/7ecdfe49dcf7e2b7cb0980070646ebe1/master.m3u8?1676402342"
+                },
+                {
+                    "id": null,
+                    "title": "Responsabilidad financiera en las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/081/5d18b83fcb33e7c2394899fcc3f0890c/master.m3u8?1676402345"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cvay34.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/5g9n30.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2598,
+        "product_name": "Money Management for Creative Freelance and Small Business ",
+        "teacher_name": "Clare Seal",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6646,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

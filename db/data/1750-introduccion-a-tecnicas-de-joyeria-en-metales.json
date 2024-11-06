@@ -1,0 +1,158 @@
+{
+    "id": "1750",
+    "title": "Introducción a técnicas de joyería en metales",
+    "url": "https://www.domestika.org/es/courses/1750-introduccion-a-tecnicas-de-joyeria-en-metales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/997/66a98e58156cc622a4ecef6bd78fed10/master.m3u8?1676397482"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/982/4766d5bbde7bc07d148173d606965c45/master.m3u8?1676397995"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3jxhwu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/999/5d3800a6aaa916f979a7c16b3bbb1de4/master.m3u8?1676397485"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board y bocetación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/000/1eb1afb18c0c126d007429f5462a25d5/master.m3u8?1676397488"
+                },
+                {
+                    "id": null,
+                    "title": "Dando vida a nuestra colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/001/7304da0eaa0dadf5dcdd5b3afef82a3f/master.m3u8?1676397484"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/inq4me.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Calado y grabado en metales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación de los materiales y equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/002/53cf6edccd043d8dc8416549954c11ef/master.m3u8?1676397486"
+                },
+                {
+                    "id": null,
+                    "title": "Aprendiendo a usar la segueta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/003/5c0f2b0a658429d66ebbdb4dcc2038c8/master.m3u8?1676397491"
+                },
+                {
+                    "id": null,
+                    "title": "Calado de piezas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/004/60f9ae97f660a7c1a50b2a1ae1b70720/master.m3u8?1676397495"
+                },
+                {
+                    "id": null,
+                    "title": "Calado de piezas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/005/8e8cb5c593c3960063405182ddf5a6fd/master.m3u8?1676397487"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de las piezas para el grabado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/006/c15da449887ddbb188ec79286fa45be2/master.m3u8?1676397488"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación del circuito y grabado de las piezas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/007/2242db3aae7e1653396673321b9577b8/master.m3u8?1676397490"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z75vr6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo complementar tu colección",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ganchos argollas y ensambles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/008/3d3af91ad96c5786af3149b4d57f000b/master.m3u8?1676397496"
+                },
+                {
+                    "id": null,
+                    "title": "Otros materiales para complementar tus piezas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/009/3e6b22ebf670a1b873042918bdfd04c7/master.m3u8?1676397492"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rxtdxu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mgb40a.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1750,
+        "product_name": "Introduction to Jewelry Techniques with Metal",
+        "teacher_name": "VATTEA",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8319,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

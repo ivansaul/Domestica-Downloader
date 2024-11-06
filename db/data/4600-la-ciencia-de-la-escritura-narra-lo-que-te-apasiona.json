@@ -1,0 +1,168 @@
+{
+    "id": "4600",
+    "title": "La ciencia de la escritura narra lo que te apasiona",
+    "url": "https://www.domestika.org/es/courses/4600-la-ciencia-de-la-escritura-narra-lo-que-te-apasiona/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/079/0f25d5dc866447e1288305a98bd9d8dd/master.m3u8?1676411361"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/080/0431996569a9bbe4ff4d61ce0e43998a/master.m3u8?1676411349"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1nsk1p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elegir una obsesión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Aprender a hurgar y a contarlo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/081/eff8050275df29462225ca56cbfef0b6/master.m3u8?1676411353"
+                },
+                {
+                    "id": null,
+                    "title": "Locura con método aprender a buscar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/082/bb19230547bbb5e82061178ccb559360/master.m3u8?1676411348"
+                },
+                {
+                    "id": null,
+                    "title": "Conocer lo raro áreas de conocimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/083/134a3e447de25bad086e318f05e5a1cc/master.m3u8?1676411349"
+                },
+                {
+                    "id": null,
+                    "title": "Locura organizada aprender a depurar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/084/3239713f802c2857c3899304e1bfa6e6/master.m3u8?1676411351"
+                },
+                {
+                    "id": null,
+                    "title": "Locura organizada aprender a depurar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/085/ecea941a9752e2443a3636d7e02e6544/master.m3u8?1676411354"
+                },
+                {
+                    "id": null,
+                    "title": "La selección como método quitar lo malo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/086/3961df9b635c47d766b7e38fb26eb691/master.m3u8?1676411355"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5tw7e1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Contar la obsesión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Narrar y divulgar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/087/089a99ef19a319ee8418107704bba687/master.m3u8?1676411354"
+                },
+                {
+                    "id": null,
+                    "title": "Vincular la información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/088/09de428771224764206c15c99584a114/master.m3u8?1676411355"
+                },
+                {
+                    "id": null,
+                    "title": "Limpiar y depurar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/089/671c61b7d35310c9d7366a476cbe9925/master.m3u8?1676411355"
+                },
+                {
+                    "id": null,
+                    "title": "Limpiar y depurar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/090/0b1de442eb7974cb43a8ae87efb65893/master.m3u8?1676411356"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6fymj9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Divulgar es leer investigar anotar revisar e imaginar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Repasar el camino",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/091/196be5e32b8e5fc6d255c2dafb10a8f2/master.m3u8?1676411355"
+                },
+                {
+                    "id": null,
+                    "title": "Pescar ideas nuevas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/092/d45743df20da26afc72ceeac51e3b7ce/master.m3u8?1676411353"
+                },
+                {
+                    "id": null,
+                    "title": "Anotar imaginar y escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/093/fcf39b488a8a3d8a65debf5f2143fc38/master.m3u8?1676411356"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y96t3i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8njomm.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4600,
+        "product_name": "The Science of Writing: Document Your Passions",
+        "teacher_name": "Julieta García González",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8517,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

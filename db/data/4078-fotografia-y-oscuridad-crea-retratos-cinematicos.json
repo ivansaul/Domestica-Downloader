@@ -1,0 +1,163 @@
+{
+    "id": "4078",
+    "title": "Fotografía y oscuridad crea retratos cinemáticos",
+    "url": "https://www.domestika.org/es/courses/4078-fotografia-y-oscuridad-crea-retratos-cinematicos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/954/a692eb54c99f673c1558b395af257c76/master.m3u8?1676409266"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiraciones creativas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/955/f309c17cc61ca0e8631eda4be6acfe3b/master.m3u8?1676409264"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pl2yqq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Atmósfera y universo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografía cinematográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/956/0abbed9db1044b162575f5b04c891b6f/master.m3u8?1676409265"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría de la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/957/70398c0bf6aeee1db1daa6e2c4b29935/master.m3u8?1676409271"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/958/7c110f26a1ef3efb203b42d2798377e4/master.m3u8?1676409274"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xoyxku.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Técnica y fotografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tomar una fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/951/602f2f0a228667598499dfd6d7fc4943/master.m3u8?1676409275"
+                },
+                {
+                    "id": null,
+                    "title": "El proceso creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/959/e2f2ceb6326d05ed52a12742fbaba9f3/master.m3u8?1676409269"
+                },
+                {
+                    "id": null,
+                    "title": "La dirección artística",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/960/fd0d17e3cfa30ef27728f4bd0795b14f/master.m3u8?1676409269"
+                },
+                {
+                    "id": null,
+                    "title": "El material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/961/c7a22cfa8c70916f561931e1cbed5081/master.m3u8?1676409270"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wbbu2e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición en Adobe Lightroom",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las herramientas básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/962/11ac9dedd1e094bd8dc618a597b259ae/master.m3u8?1676409275"
+                },
+                {
+                    "id": null,
+                    "title": "Eliminación de defectos y sombreado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/963/aa7de079cb09a9c1c4dcfc30cef8f299/master.m3u8?1676409277"
+                },
+                {
+                    "id": null,
+                    "title": "Recortar y ajustar el grano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/964/f2449eba1aaed7ae9d391f18f93e95c2/master.m3u8?1676409279"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes preestablecidos y exportaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/965/1477f18ef75794f2ed0be7eb62e8f0fb/master.m3u8?1676409281"
+                },
+                {
+                    "id": null,
+                    "title": "Exponer tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/966/0bd4b0f315b4dba33e7f948714246056/master.m3u8?1676409281"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q5v8yx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rczjjo.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4078,
+        "product_name": "Photography and Darkness: Create Cinematic Portraits",
+        "teacher_name": "Louis Dazy",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6126,
+        "total_units": 4,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

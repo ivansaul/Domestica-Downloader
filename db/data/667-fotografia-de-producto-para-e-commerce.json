@@ -1,0 +1,158 @@
+{
+    "id": "667",
+    "title": "Fotografía de producto para ecommerce",
+    "url": "https://www.domestika.org/es/courses/667-fotografia-de-producto-para-e-commerce/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/427/020614e169257554f3b235ddb2cdf69f/master.m3u8?1676386492"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/428/af853127866a81dfbe24548748eac91d/master.m3u8?1676386492"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/429/e660d3b4cf077a65d4981feb5e1f7b8d/master.m3u8?1676386491"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/62rh4a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acercamiento a la luz natural",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El volumen de los productos I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/463/7d017068617db8c0a5b8fc754de48ff2/master.m3u8?1676386504"
+                },
+                {
+                    "id": null,
+                    "title": "El volumen de los productos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/464/cd093975f5cba99b074cacec441a5d7e/master.m3u8?1676386507"
+                },
+                {
+                    "id": null,
+                    "title": "Acercamiento personal a la luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/465/98732ee6e310a1b137ed611b7c9d8494/master.m3u8?1676386508"
+                },
+                {
+                    "id": null,
+                    "title": "Checklist de preproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/466/dc40c1283f34610d6f34b161eb34b9fd/master.m3u8?1676386510"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f707ww.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Montaje de set y equipo en una ventana",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/522/b5df993c89fc691bf3a9659ee5ea848e/master.m3u8?1676386535"
+                },
+                {
+                    "id": null,
+                    "title": "Planos generales  planos detalle",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/523/ca843d4bf83bd46d59afec8c3c317685/master.m3u8?1676386537"
+                },
+                {
+                    "id": null,
+                    "title": "Cenitales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/524/453b7f9f234211865d27803e81de8266/master.m3u8?1676386536"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jxmsfb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El toque final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección del material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/532/9618c5021acaeb9bdd8baeea829a7726/master.m3u8?1676386533"
+                },
+                {
+                    "id": null,
+                    "title": "Colorización y revelado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/533/a8db8b53637a20d70e5f3eeb0e345076/master.m3u8?1676386535"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza sencilla  Exporte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/534/37c330842f26fe49f939286b12ff0d40/master.m3u8?1676386541"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dvvjs3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mhtvap.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 667,
+        "product_name": "Product Photography for E-commerce",
+        "teacher_name": "Andres C",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8398,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

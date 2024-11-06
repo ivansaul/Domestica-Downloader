@@ -1,0 +1,192 @@
+{
+    "id": "3920",
+    "title": "Arte digital y diseño para encontrar el color dentro del caos",
+    "url": "https://www.domestika.org/es/courses/3920-arte-digital-y-diseno-para-encontrar-el-color-dentro-del-caos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/633/469aeb507e3771d5e2fc0a1d7d3d4fc5/master.m3u8?1676408436"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/665/a149ac42e8be97079121810d71e94e15/master.m3u8?1678790779"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/msumh1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Piensa antes de crear",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proceso y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/635/4cf114169719f08b437eb64cc9462983/master.m3u8?1676408435"
+                },
+                {
+                    "id": null,
+                    "title": "Crear formas simples en Illustrator 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/636/184201cbc4aca8160c2576abd34cefef/master.m3u8?1676408442"
+                },
+                {
+                    "id": null,
+                    "title": "Crear formas simples en Illustrator 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/664/ac958259ded8c1dffb7c6458bff1c07e/master.m3u8?1678790752"
+                },
+                {
+                    "id": null,
+                    "title": "Color teoría y diseño de paleta 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/663/3d69a24d3ea6bf9af688de2ef305cb29/master.m3u8?1678790714"
+                },
+                {
+                    "id": null,
+                    "title": "Color teoría y diseño de paleta 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/653/e545ac668fd10e4221b11a9e5972633c/master.m3u8?1676408445"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación para generar ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/639/888eb159d89ea49b28bf34e88bb35793/master.m3u8?1676408442"
+                },
+                {
+                    "id": null,
+                    "title": "Crear el boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/640/fa87fb93f51a31eaa9503d977eb2f067/master.m3u8?1676408438"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1vpipu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear la obra de arte emoji",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El emoji 2D en Illustrator",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/641/64d2027d83a954cd6cf442800d805950/master.m3u8?1676408446"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/642/03505a6448798a3a25c657da545d4d53/master.m3u8?1676408441"
+                },
+                {
+                    "id": null,
+                    "title": "Emoji 3D forma básica en Cinema 4D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/643/64cf0e5ce65627545337e50b8934eb74/master.m3u8?1676408440"
+                },
+                {
+                    "id": null,
+                    "title": "Emoji 3D añadiendo Luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/644/d0e249cfd8265a68e12e77224cd42cd6/master.m3u8?1676408441"
+                },
+                {
+                    "id": null,
+                    "title": "Emoji 3D la textura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/645/1e92f8b63fd26cc031199538cdbb5ba7/master.m3u8?1676408445"
+                },
+                {
+                    "id": null,
+                    "title": "Crear formas huecas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/646/d7eab01c389cb3b409ec549b4116d47f/master.m3u8?1676408444"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes y renders",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/662/1fc5de157fb65394215179db1cf1d82a/master.m3u8?1678790694"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cux9s0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Composición de la ilustración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La composición en Illustrator",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/648/61f56345fe4003891c08ac7dc44a6c20/master.m3u8?1676408454"
+                },
+                {
+                    "id": null,
+                    "title": "Reorganización de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/649/71444b9dc3f161caddae53f398441f43/master.m3u8?1676408447"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes finales en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/650/1f528103f506be61911d3fdc2a0f3ea6/master.m3u8?1676408453"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes de exportación digital e impreso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/651/0d84bd092387bc9bbb71a6de9a4bbcaf/master.m3u8?1676408447"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/orvecv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4i6vbq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3920,
+        "product_name": "Digital Art and Design: Explore the Colorful Side of Chaos",
+        "teacher_name": "Adhemas Batista",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 13871,
+        "total_units": 4,
+        "subtitles_language": [
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "en",
+            "pt",
+            "de",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

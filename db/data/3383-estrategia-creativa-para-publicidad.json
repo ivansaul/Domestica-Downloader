@@ -1,0 +1,148 @@
+{
+    "id": "3383",
+    "title": "Estrategia creativa para publicidad",
+    "url": "https://www.domestika.org/es/courses/3383-estrategia-creativa-para-publicidad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/838/c88ad672c3ce613fe7f1587f7400ff01/master.m3u8?1676409953"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/839/c66c22764f641b714d71b44657489825/master.m3u8?1676372366"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qqib14.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La estrategia creativa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La creatividad es personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/840/6003c12b5a2c2c65c01e250f8c685ff1/master.m3u8?1676409954"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es la estrategia creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/841/29f41eed1f64037fb1426ecc7b9d80e9/master.m3u8?1676565133"
+                },
+                {
+                    "id": null,
+                    "title": "Ganando perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/842/6825664cf6597eaa7b6aaaac03953965/master.m3u8?1676409954"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xvrj3r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Centrándose en el qué",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrar una perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/843/8d3e923cf3dc17f466e728f66a85d53d/master.m3u8?1676409956"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar una tensión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/844/3b71355fe2e6a4dc18a04cd75df54100/master.m3u8?1676409954"
+                },
+                {
+                    "id": null,
+                    "title": "Poniendolo todo junto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/845/4b6579e8891a5c03af7c9f3c2c7649a0/master.m3u8?1676409958"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h0ixyp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pensando en el cómo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición de un tono de voz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/846/eeb1cfb1ba472e77bfd2e34ddd98e87f/master.m3u8?1676409958"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de la estrategia creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/847/b5ad9414e28af3185f2f544f4f2854f3/master.m3u8?1676409964"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos Prácticos para el Proceso Creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/848/f50f1aeb866877618aa411ab1e7bbba1/master.m3u8?1676409959"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oertal.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ao5dxh.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3383,
+        "product_name": "Creative Strategy for Advertising",
+        "teacher_name": "Laura Visco",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 4479,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

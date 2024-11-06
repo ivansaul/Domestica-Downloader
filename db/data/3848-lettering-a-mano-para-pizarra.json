@@ -1,0 +1,153 @@
+{
+    "id": "3848",
+    "title": "Lettering a mano para pizarra",
+    "url": "https://www.domestika.org/es/courses/3848-lettering-a-mano-para-pizarra/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/263/ded02a3449ea4d4b38828ef2c013b348/master.m3u8?1676405736"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/264/b75203fd426b4f1bb798910f298f8055/master.m3u8?1676405738"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8oy4i3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales y técnicas de calentamiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/265/393faa432ec8023e0b21373d9f8c9e7f/master.m3u8?1676405738"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios de letras a mano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/266/57a1b0a754c8eb3c26d0e5b093f13756/master.m3u8?1676405745"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios de ilustración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/267/92ff4c2716db782f779402dba0b808b9/master.m3u8?1676405739"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mfut95.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear el mural de pizarra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referencias para la inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/268/12b4f476e58520568a85d9331475f15b/master.m3u8?1676405742"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar tu diseño en papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/269/86f231570f919ecbcc9e75daee694312/master.m3u8?1676405742"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de la superficie de la pared de pizarra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/270/4297f57458e2f4d8a752d0d4b73432af/master.m3u8?1676405739"
+                },
+                {
+                    "id": null,
+                    "title": "Maquetación del mural contornos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/271/289d4229857852c7160adf2504d1b5cc/master.m3u8?1676405745"
+                },
+                {
+                    "id": null,
+                    "title": "Llenando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/272/d48bcf87d59084c9102f180e4d56f035/master.m3u8?1676405742"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h27nuu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Terminar y compartir el trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Últimos retoques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/273/1a370f29cc34d337199833b9354aefb7/master.m3u8?1676405741"
+                },
+                {
+                    "id": null,
+                    "title": "Compartir su trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/274/f93034874f88d687631698e86bfaab42/master.m3u8?1676405742"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xw1gcy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/uv0jiu.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3848,
+        "product_name": "Freehand Lettering for Blackboard Art",
+        "teacher_name": "The Blackboard Artist",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6074,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "3632",
+    "title": "Corte y confección de faldas con sastrería artesanal",
+    "url": "https://www.domestika.org/es/courses/3632-corte-y-confeccion-de-faldas-con-sastreria-artesanal/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Me Myself and Misstufi",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/253/f7d47d1620e4405bdc79dca34e76312e/master.m3u8?1676406235"
+                },
+                {
+                    "id": null,
+                    "title": "Una mirada a lo que me rodea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/254/d34d0b4332e3f912d9d2cf5075fdc475/master.m3u8?1676406236"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9sb0z6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El abc de la sastrería",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/255/fe0b86e4606dc47c37ec3d38f8bb6829/master.m3u8?1676406239"
+                },
+                {
+                    "id": null,
+                    "title": "Encuentra tu estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/256/d48df03784ca9295822ddb65a6b381e2/master.m3u8?1676406237"
+                },
+                {
+                    "id": null,
+                    "title": "Resumen de los diferentes tejidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/257/2f9a61ce22ea1eda31cb6111184ccac6/master.m3u8?1676406238"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jyc0an.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la teoría a la práctica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "A cada cuerpo sus medidas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/258/777a58372b560d6bcf6457406880d5e5/master.m3u8?1676406238"
+                },
+                {
+                    "id": null,
+                    "title": "Haciendo el patrón de la falda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/259/ef69796d80a9db5ecd8eac39d9e4c353/master.m3u8?1676406243"
+                },
+                {
+                    "id": null,
+                    "title": "El patrón del panel decorativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/260/8ef92aa4a238cd270acba236da6881a3/master.m3u8?1676406248"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wktfn2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La falda de media rueda se hace realidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Posicionamiento y corte de falda y cinturilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/261/482a4a03e8ff419ef1d36f703499c947/master.m3u8?1676406242"
+                },
+                {
+                    "id": null,
+                    "title": "Posicionamiento y corte del panel decorativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/262/26e605088b37e8dbdde286386971c76e/master.m3u8?1676406243"
+                },
+                {
+                    "id": null,
+                    "title": "Confección y acabado falda y cinturilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/263/52b0d9453e777ab1e512258156bd4ef2/master.m3u8?1676406245"
+                },
+                {
+                    "id": null,
+                    "title": "Confección del panel y cierre de la falda 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/264/ee18f99637e90b5aad151470016f067f/master.m3u8?1676406246"
+                },
+                {
+                    "id": null,
+                    "title": "Confección del panel y cierre de la falda 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/265/f2a6113a75c255f90f443c862f20c5d1/master.m3u8?1676406248"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ytxg3t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ecixom.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3632,
+        "product_name": "Traditional Dressmaking Techniques: Make Your Own Skirt",
+        "teacher_name": "Sara Forlini",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7163,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

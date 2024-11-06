@@ -1,0 +1,163 @@
+{
+    "id": "2507",
+    "title": "Escritura y juego crea cuentos infantiles",
+    "url": "https://www.domestika.org/es/courses/2507-escritura-y-juego-crea-cuentos-infantiles/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/083/1e491b1bd0e76e4d9945e1af5423de6a/master.m3u8?1676402346"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/084/afa6988d9ef494de174200c9bb38b745/master.m3u8?1676402347"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0epwlu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear y jugar en la literatura para niños",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Habitar el mundo desde la narración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/085/ccd9d3629178b33d5529db775e03a2b7/master.m3u8?1676402348"
+                },
+                {
+                    "id": null,
+                    "title": "El antecedente del relato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/086/5f30c6fd64bd3cd35e54de1de849b5f0/master.m3u8?1676402353"
+                },
+                {
+                    "id": null,
+                    "title": "Un personaje es un amigo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/087/56a43fa65a777fd224d656a06f5d950d/master.m3u8?1676402351"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r5o3b0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El arte de escribir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Una historia y sus versiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/088/efd8fc313b3fd0bf0b835b8cbf6cd490/master.m3u8?1676402348"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrolla tu historia para crear un interés explosivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/089/96688690578e7b5e6abe8cb1cc76e9b8/master.m3u8?1676402359"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicaciones del juego en la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/090/d4470745ab43e35eec4ece256931f30d/master.m3u8?1676402350"
+                },
+                {
+                    "id": null,
+                    "title": "Cerrar con un gran final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/091/9aefd50f9390665a7c66e3a799f999aa/master.m3u8?1676402351"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo saber si terminé el manuscrito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/092/c5f218936878edbeb17e86693cc64d0a/master.m3u8?1676402349"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q6gqk9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Corregir el verdadero juego de escribir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Reescribir una forma de corregir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/098/fced3657cd7267a9b0f6bef2b76b7bad/master.m3u8?1676402353"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo revisar la historia desde el lenguaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/099/cda1d0c332e6d858481cc5a580c7c29f/master.m3u8?1676402353"
+                },
+                {
+                    "id": null,
+                    "title": "Revisar las ideas del texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/100/196a0ee25736f05170407a23f73b24ca/master.m3u8?1676402354"
+                },
+                {
+                    "id": null,
+                    "title": "En búsqueda de la editorial y los lectores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/101/3805d9af327f13082150258fdfc4f4b8/master.m3u8?1676402353"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nh7lrl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/uyhxti.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2507,
+        "product_name": "Playful Writing Techniques for Children’s Stories",
+        "teacher_name": "Antonio Ramos Revillas",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 9817,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

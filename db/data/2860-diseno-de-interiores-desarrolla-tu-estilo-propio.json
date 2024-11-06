@@ -1,0 +1,158 @@
+{
+    "id": "2860",
+    "title": "Diseño de interiores desarrolla tu estilo propio",
+    "url": "https://www.domestika.org/es/courses/2860-diseno-de-interiores-desarrolla-tu-estilo-propio/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/499/4ea1b019b266bf2d83327e6120a8128d/master.m3u8?1676402572"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/500/dce7fb5a4009d1d700ffb147a5b51e7d/master.m3u8?1676402571"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c8u57q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lo que necesita saber para diseñar un esquema",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear un espacio que sea auténticamente tuyo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/502/d79e2b1858437a326db6859442403791/master.m3u8?1676402571"
+                },
+                {
+                    "id": null,
+                    "title": "Tendencias de diseño de interiores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/504/cbf018acbf644907bd8175390b6e20f8/master.m3u8?1676402573"
+                },
+                {
+                    "id": null,
+                    "title": "Patrones y Texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/506/bca2016872ea9cfbfd04729d5e3e4b9a/master.m3u8?1676402576"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de una paleta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/507/5a60d4b5a4b19ec3fc2fa8240bfa22ef/master.m3u8?1676402575"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xlug7n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo armar un esquema",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mood Board para su esquema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/576/7e8f569d193c19fd648e06c2df163876/master.m3u8?1676402615"
+                },
+                {
+                    "id": null,
+                    "title": "Tablero de materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/577/09997eb5fc7a5b703652206b1500531a/master.m3u8?1676402614"
+                },
+                {
+                    "id": null,
+                    "title": "Abastecimiento presupuesto e investigación de tela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/578/b6841338a7420aabb14f022ae02ff54e/master.m3u8?1676402616"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto Final en Photoshop Dibujo y Collage",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/579/d2c056b7bcf93ef42065b7ee6713ec43/master.m3u8?1676402615"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iv0r6k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Promocionarte a ti mismo y a tu trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Asesoramiento de cartera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/581/3df61cde91c7c097f5b344ec8c01d8de/master.m3u8?1676402617"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos de bricolaje para sitios web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/582/f9359bea4bbcafa72222d67cdde97dc9/master.m3u8?1676402615"
+                },
+                {
+                    "id": null,
+                    "title": "Medios sociales Manteniéndolo comercial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/583/1880aaf1a1d037aa7df83312c03e9ac1/master.m3u8?1676402616"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bgj8cf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/tg221x.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2860,
+        "product_name": "Interior Design: Develop your Signature Style",
+        "teacher_name": "Charlotte Beevor",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4997,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}
