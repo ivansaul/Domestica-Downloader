@@ -1,0 +1,168 @@
+{
+    "id": "2500",
+    "title": "Diseño de portadas de libros del concepto a la creación",
+    "url": "https://www.domestika.org/es/courses/2500-diseno-de-portadas-de-libros-del-concepto-a-la-creacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/110/0f8ae337a36e6eee0d4494b34b9d0de4/master.m3u8?1676402885"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/111/65314c3ff6ebc9d2ef512f6aa3f58a43/master.m3u8?1676402886"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m6e4pa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Portada del libro entre bastidores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Contenido y formas de representarlo visualmente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/114/f142bc00c284f5258cb761c6604a512b/master.m3u8?1676402888"
+                },
+                {
+                    "id": null,
+                    "title": "Mi resumen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/115/aeaea76fff14dcd8fd01f8c3080b964e/master.m3u8?1676402891"
+                },
+                {
+                    "id": null,
+                    "title": "Formatos Tamaños y Hojas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/116/73ef3fa33bf339cbf1f14d33a031c454/master.m3u8?1676402893"
+                },
+                {
+                    "id": null,
+                    "title": "Fuentes fuentes y fuentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/117/2baa4c682fd1ad4298c1076297419b4f/master.m3u8?1676402889"
+                },
+                {
+                    "id": null,
+                    "title": "Letras en portadas de libros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/118/bb22a69fac869fa3a79619ae21acad60/master.m3u8?1676402897"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yaws7q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Trabajando en tu portada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mood board y miniaturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/119/10e9d707e8040a624418901f87d8829d/master.m3u8?1676402893"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos digitales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/120/1a95c03c93763e9f19ac62a406da582b/master.m3u8?1676402890"
+                },
+                {
+                    "id": null,
+                    "title": "Digitalizando el trazo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/121/0823d32c53acfd63a480888bc098ad86/master.m3u8?1676402890"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del archivo de portada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/122/2dc19df60e7831adbaa5eb3834586665/master.m3u8?1676402891"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aoj1aw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos retoques",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fabricación de maniquíes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/123/26b80ccd5d3885d668577541aeb59fe0/master.m3u8?1676402901"
+                },
+                {
+                    "id": null,
+                    "title": "Fabricación de maniquíes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/124/d13dae5ff5d2caedef793934e2cfc4ce/master.m3u8?1676402892"
+                },
+                {
+                    "id": null,
+                    "title": "Comprobación de la verificación previa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/125/423b4ad909dae8f70b8ad0c69ca76f74/master.m3u8?1676402891"
+                },
+                {
+                    "id": null,
+                    "title": "Redes Sociales promoción y preventa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/126/69ba16f54da871d1bef109fed3953d1e/master.m3u8?1676402893"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4ejkv4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mbc9o7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2500,
+        "product_name": "Book Cover Design from Concept to Creation",
+        "teacher_name": "Faride Mereb",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7916,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "2157",
+    "title": "Diseño de texturas con chocolate",
+    "url": "https://www.domestika.org/es/courses/2157-diseno-de-texturas-con-chocolate/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/292/4c9ca695cc11dc49ae1f20e8cb462a9f/master.m3u8?1676396008"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/293/928fb7ee5f7696f372b91fac98ecb8bd/master.m3u8?1676396008"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fcagfk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al chocolate los colores y la creación de moldes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación de materiales y preparación del espacio de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/294/0eae694cc7034cbbea6518582e6d67de/master.m3u8?1676396010"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer un molde",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/295/a4c8cf1b63ad4328786eab0da119fb80/master.m3u8?1676396013"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos básicos del chocolate conocer nuestro ingrediente principal y atemperar el chocolate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/296/d25d1a261493d94e27f4d33e8d0f7a8d/master.m3u8?1676396016"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo mezclar colores y texturas y descripción general de la paleta de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/297/fce42ceb7a1560e96bf7fce0fc285bf2/master.m3u8?1676396016"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jyb9sp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear nuestros diseños de chocolate",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hacer una loseta de terrazo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/298/b66fa697e3cb2a9a573af9dea058138c/master.m3u8?1676396013"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer una loseta de hormigón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/299/471302ba1137e61392ae0894e3024c70/master.m3u8?1676396015"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer una loseta de mármol",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/300/c70b3eed0fc513b18537e32feef960cc/master.m3u8?1676396015"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo moldear un objeto en un molde de silicona 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/301/0425cfb66350a9cd3e9f84a5798b1668/master.m3u8?1676396016"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo moldear un objeto en un molde de silicona 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/303/58487d96d9e6346d82382e5d8abd3f20/master.m3u8?1676396012"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q3yly1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Publicación presentación y degustación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo almacenar transportar y envolver tu producto de manera sostenible",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/304/5cb70e0b4ddee81529ba3dff9fb76b3a/master.m3u8?1676396012"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo maridar y saborear el chocolate",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/305/ea1fd472fe7ac4c48da21cf6b66f1225/master.m3u8?1676396011"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zlzfpq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/5zb9db.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2157,
+        "product_name": "Texture Design with Chocolate",
+        "teacher_name": "BRIK chocolate",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 9882,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

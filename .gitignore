@@ -12,6 +12,8 @@
 tmp/
 master*/
 !.vscode/settings.json
+!db/data/*.json
+!db/source/*.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

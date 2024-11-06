@@ -1,0 +1,159 @@
+{
+    "id": "438",
+    "title": "Collage digital para medios editoriales",
+    "url": "https://www.domestika.org/es/courses/438-collage-digital-para-medios-editoriales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/251/a09532c155db4c10ff03b27b04e67991/master.m3u8?1676384480"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/252/c544bc69f6997a4b4a881e453f5a86a7/master.m3u8?1676384481"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es el collage",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/253/b95bcd4583db13e7797c6bffc36cdc3e/master.m3u8?1676384480"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2300sp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El collage en el proceso editorial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proceso editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/254/ccdc5cb603d63095f6e22d1b248d24f5/master.m3u8?1676384479"
+                },
+                {
+                    "id": null,
+                    "title": "Antes del collage",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/255/622b0674d22d49039b5fd5efd90274d1/master.m3u8?1676384482"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/256/84854bd08a546f88b60e7d4fc17370dd/master.m3u8?1676384481"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i4tmfc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Composición y ensamblaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/483/a06abad3b6aba94f56da842aee35414e/master.m3u8?1676384573"
+                },
+                {
+                    "id": null,
+                    "title": "El primer recorte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/484/d5e06aeff21272865f40b8310019c656/master.m3u8?1676384576"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y ensamblaje P1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/850/a30cdfea54cd08f62b8f24218a3cf0c7/master.m3u8?1676384742"
+                },
+                {
+                    "id": null,
+                    "title": "Composition y ensamblaje P2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/851/a945b8878d50acf420d36e648bd4d5db/master.m3u8?1676384739"
+                },
+                {
+                    "id": null,
+                    "title": "De illustrator a photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/873/726907c4bf1dbb3668c0ce5e993b2d61/master.m3u8?1676384749"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/48zwhj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acabados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Retoque filtros y texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/487/9f84d1bec265b7a7d62a962a5e12dd9a/master.m3u8?1676384572"
+                },
+                {
+                    "id": null,
+                    "title": "Archivos finales montaje y últimos consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/489/00c48dd07eacf4dc8615fb0c858fd713/master.m3u8?1676384566"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/35ki15.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/eeufww.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 438,
+        "product_name": "Digital Collage for Editorials",
+        "teacher_name": "Israel GV",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 9551,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

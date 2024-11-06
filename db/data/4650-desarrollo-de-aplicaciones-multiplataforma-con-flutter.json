@@ -1,0 +1,252 @@
+{
+    "id": "4650",
+    "title": "Desarrollo de aplicaciones multiplataforma con Flutter",
+    "url": "https://www.domestika.org/es/courses/4650-desarrollo-de-aplicaciones-multiplataforma-con-flutter/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/570/1470529c466e03eb62797ed5c8fa26e8/master.m3u8?1676413449"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/571/ebf0294f1208fbfefd93df8bb7b7c12d/master.m3u8?1676413450"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h78f6h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construcción UI",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a Flutter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/572/c21ca9ed37d2288b2afee71ec5988c5b/master.m3u8?1676413453"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del proyecto base",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/573/ae196b346560af2ceb20aca02519fe0b/master.m3u8?1676413451"
+                },
+                {
+                    "id": null,
+                    "title": "Stateless widgets",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/574/52c795ac4521bad15fa06fdc9c6d13d2/master.m3u8?1676413453"
+                },
+                {
+                    "id": null,
+                    "title": "Assets",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/575/451f12984ab90585bb72a2adaae624c5/master.m3u8?1676413453"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con un diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/576/3c8e93f0454f7d5917abd80ef979b1b7/master.m3u8?1676413455"
+                },
+                {
+                    "id": null,
+                    "title": "Implementación de la Splash Page",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/577/e834a2eee63b5d63e45fe6847aa929ab/master.m3u8?1676413455"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9xqnab.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Interactividad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Stateful widgets",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/625/20580a19ae8d6e218b46ecc10cb02766/master.m3u8?1676413480"
+                },
+                {
+                    "id": null,
+                    "title": "Detectar gestos y navegación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/626/6883ff465f83fdd3e49a0c3ae78ca11c/master.m3u8?1676413482"
+                },
+                {
+                    "id": null,
+                    "title": "Refactor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/627/ba76f63157465000cde2a6a41ae23fc9/master.m3u8?1676413482"
+                },
+                {
+                    "id": null,
+                    "title": "Task List Page",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/628/f8cb8abcf23985f35140b24c06181eba/master.m3u8?1676413482"
+                },
+                {
+                    "id": null,
+                    "title": "Convertir Task List Page en Stateful widget",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/629/33027804e66db4c5a5f1a782813e88c9/master.m3u8?1676413484"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cvver4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Almacenar datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "New Task",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/631/4e31a2b211940f9016b09f6d4adecd6d/master.m3u8?1676413485"
+                },
+                {
+                    "id": null,
+                    "title": "Text Field Controller",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/632/d340d37ea13132b2a5065334f7285b16/master.m3u8?1676413481"
+                },
+                {
+                    "id": null,
+                    "title": "Manejo de estado con setState",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/633/5adface0eae55216be0df6de5872c999/master.m3u8?1676413484"
+                },
+                {
+                    "id": null,
+                    "title": "Plugins packages y Shared preferences",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/635/1727e7608bbcd70920709d8c6009f6ff/master.m3u8?1676413486"
+                },
+                {
+                    "id": null,
+                    "title": "Serialización y deserialización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/636/0905d962265b661409919cf7a0621abd/master.m3u8?1676413487"
+                },
+                {
+                    "id": null,
+                    "title": "Persistir y recuperar tareas en Shared preferences",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/637/0e66dbc21d70baf2094da1bf2fca3027/master.m3u8?1676413487"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/74dxcs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "State Management",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estado de la aplicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/638/26768ec37bcee7b4495e0b4051a7d2d0/master.m3u8?1676413487"
+                },
+                {
+                    "id": null,
+                    "title": "Inherited widgets",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/639/7f166c55d23511b265d808f1db19c666/master.m3u8?1676413487"
+                },
+                {
+                    "id": null,
+                    "title": "Provider",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/640/1d0e28db0863cfc480ed1fe6f7b76e5c/master.m3u8?1676413488"
+                },
+                {
+                    "id": null,
+                    "title": "Añadir Provider a Task List Page",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/641/6ed6d37362fab227a0790f8528956c67/master.m3u8?1676413493"
+                },
+                {
+                    "id": null,
+                    "title": "Añadir Provider a New Task Modal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/642/2f0fbe257eb445f751294f2d17303a4c/master.m3u8?1676413488"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rx2tbm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Un extra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Añadir launcher icons",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/643/2f491171aed1ac8bc00b9fc607aec738/master.m3u8?1676413489"
+                },
+                {
+                    "id": null,
+                    "title": "Compilar la app",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/644/6bece217949fd18ab222ff7ceba1dcdc/master.m3u8?1676413490"
+                },
+                {
+                    "id": null,
+                    "title": "Subida a las stores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/645/4b57863030a41a7fdc35cee26a2076fe/master.m3u8?1676413491"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/add8sv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/j96sw8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4650,
+        "product_name": "Cross-Platform App Development with Flutter",
+        "teacher_name": "Jose Manuel Márquez",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 27,
+        "course_total_duration_sec": 15274,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

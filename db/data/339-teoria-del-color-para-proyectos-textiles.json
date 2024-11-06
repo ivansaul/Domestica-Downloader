@@ -1,0 +1,159 @@
+{
+    "id": "339",
+    "title": "Teoría del color para proyectos textiles",
+    "url": "https://www.domestika.org/es/courses/339-teoria-del-color-para-proyectos-textiles/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/984/9b61eddab36c6d35ee7e1260e66f638c/master.m3u8?1676384352"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/985/5845d40fca251a3dfa6891b4c0d2cf28/master.m3u8?1676384354"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2mvkt4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Entender los colores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales para este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/986/7e2bffc7ad70a671bd6d0ae2f0886816/master.m3u8?1676384353"
+                },
+                {
+                    "id": null,
+                    "title": "Panorama glosario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/988/b5efe19aaa5f4e1eb58b525dec0cf5dd/master.m3u8?1676384353"
+                },
+                {
+                    "id": null,
+                    "title": "Círculo cromático el lugar donde viven los colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/989/82606b78623084a7e4ab01e46b2ae1de/master.m3u8?1676384353"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de tarjetas de hilos de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/103/35572f806049700a6efa38ca4e3c0d09/master.m3u8?1676384408"
+                },
+                {
+                    "id": null,
+                    "title": "Y dónde está el resto de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/104/b4254338e265d8953e1d421332eaea68/master.m3u8?1676384411"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oi2be3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Combinar colores y crear paletas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Armonías de color las maneras que tienen los colores de conversar entre ellos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/105/c1ce3838b3cc7fdcb7273d01b09441c8/master.m3u8?1676384409"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de una armonía de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/106/7709df254e5ce3b72f0817ba62b80e88/master.m3u8?1676384411"
+                },
+                {
+                    "id": null,
+                    "title": "Paletas de colores la atmósfera de una reunión de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/107/f01fa763b4a7085d9580300c7312d811/master.m3u8?1676384416"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de una paleta de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/108/5ba6f9a2347134bee8e067de0fcfe8b0/master.m3u8?1676384422"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tsd5i9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicar los colores en el bordado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Plan de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/109/e6877bebebbd81d8b85c4a7805aaa916/master.m3u8?1676384417"
+                },
+                {
+                    "id": null,
+                    "title": "De la paleta de colores al bordado Caso de estudio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/110/53cdea643f799c019cdcd7c2126dcc5f/master.m3u8?1676384420"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zc4z88.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qy958x.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 339,
+        "product_name": "Color Theory for Textile Projects",
+        "teacher_name": "Karen Barbé",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5610,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}
