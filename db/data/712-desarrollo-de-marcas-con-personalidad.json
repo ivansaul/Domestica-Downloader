@@ -1,0 +1,190 @@
+{
+    "id": "712",
+    "title": "Desarrollo de marcas con personalidad",
+    "url": "https://www.domestika.org/es/courses/712-desarrollo-de-marcas-con-personalidad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/517/27271c5378baae5482d7b2f03e071b20/master.m3u8?1676388268"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/518/f4f364d102f8bf6ca1c5828ce9bbd7e7/master.m3u8?1676388272"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/519/5574270ebcb83a9a93fbd9aeffce9497/master.m3u8?1676388268"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hilj9n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Señales vs ruido Introducción al branding",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ninguna marca me representa Importancia del branding",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/522/da93282e5e37954f512735c2408791cd/master.m3u8?1676388276"
+                },
+                {
+                    "id": null,
+                    "title": "Sácale brillo La identidad más allá de la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/523/0b567b3fffcb4310bd7841cc4d0c5c0c/master.m3u8?1676388274"
+                },
+                {
+                    "id": null,
+                    "title": "Es tiempo de que madures La importancia de crear identidades atemporales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/524/be73d31231711735857accbe791ce28c/master.m3u8?1676388276"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nqp3l0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cita a ciegas Todo lo necesario para iniciar a diseñar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La primera cita Qué necesitas saber de tu cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/525/ba9e8cd82aa1dc3d41e615c9415c7106/master.m3u8?1676388277"
+                },
+                {
+                    "id": null,
+                    "title": "Conoce a tu pareja Inspiración gráfica investigación y análisis del mercado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/526/7aa9e2859ae8a4d53b3a7cf46a9183a0/master.m3u8?1676388279"
+                },
+                {
+                    "id": null,
+                    "title": "Mírame a los ojos La creación presentación e interpretación del feedback a partir del moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/530/c3545895a1f21f9b2f57c8156f0c4b91/master.m3u8?1676388275"
+                },
+                {
+                    "id": null,
+                    "title": "Valar Morghulis La búsqueda de la personalidad de la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/542/f4df4cd6d42f5ce5ac2d62ee35c78c68/master.m3u8?1676388285"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u3ggi9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aprendiendo a bailar lambada El proceso de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Nunca lo he intentado por ahí Realización de bocetos manuales para la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/534/71e3cc09cfebf1777c7b28ea3206fcc9/master.m3u8?1676388279"
+                },
+                {
+                    "id": null,
+                    "title": "Descarta y vencerás Cómo reducir las opciones y decidirse por una única propuesta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/535/25b40e56d21545486192db792c6cdc57/master.m3u8?1676388278"
+                },
+                {
+                    "id": null,
+                    "title": "Mira esas curvas La búsqueda por el mejor acompañamiento tipográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/536/bc52cf3b0448634a93ac44912c14adcc/master.m3u8?1676388280"
+                },
+                {
+                    "id": null,
+                    "title": "Solo tú existes en mi vida Realización de la versión definitiva de la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/537/07a07a41cbdd60965b4da9d30f03f3b6/master.m3u8?1676388282"
+                },
+                {
+                    "id": null,
+                    "title": "En grupo siempre es más divertido Realización de la versión definitiva de las aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/538/1642a6443bbb7f6f15cf6b296a97ec93/master.m3u8?1676388286"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lwrufo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lets just kiss and say goodbye",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Todo lo que brilla es oro Presentación convencimiento negociación y entrega correcta del material resultante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/539/e9698c59f9f30515a8c64de4241bd2c9/master.m3u8?1676388282"
+                },
+                {
+                    "id": null,
+                    "title": "El problema soy yo no tú Evaluando logros y fracasos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/540/1aac2fafac535f6f376a396bfd01f408/master.m3u8?1676388283"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o7rh8k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/o6s389.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 712,
+        "product_name": "Branding with Personality",
+        "teacher_name": "Pupila",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 10311,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

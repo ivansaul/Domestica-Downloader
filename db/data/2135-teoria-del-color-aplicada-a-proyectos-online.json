@@ -1,0 +1,163 @@
+{
+    "id": "2135",
+    "title": "Teoría del color aplicada a proyectos online",
+    "url": "https://www.domestika.org/es/courses/2135-teoria-del-color-aplicada-a-proyectos-online/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/386/358cd56b3d4119ef15fb6456f139967c/master.m3u8?1676393924"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/387/0acfb5d065f5ef31401e437cb0c38d40/master.m3u8?1676393924"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/388/c4036a308385628465feb71e5e1fcb13/master.m3u8?1676393923"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u85x2h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Entendiendo el color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La ciencia del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/389/36fe514c69d3b338e81ff4a7d6151c2c/master.m3u8?1676393924"
+                },
+                {
+                    "id": null,
+                    "title": "La terminología básica del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/390/a68591e092a1aaafbd8a5e4d30447f2f/master.m3u8?1676393928"
+                },
+                {
+                    "id": null,
+                    "title": "Interpretación del color en diferentes culturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/391/5cdf50e97a344554467a59da24622d5b/master.m3u8?1676393926"
+                },
+                {
+                    "id": null,
+                    "title": "Significado del color psicología cultura y contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/392/dafa8395078fbd9845973e5cfd55cd01/master.m3u8?1676393928"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/17ivij.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear y aplicar una paleta de colores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Armonía combinación de tonos con la rueda de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/393/e3e42b5e289a30c9eef146a2f253d08d/master.m3u8?1676393929"
+                },
+                {
+                    "id": null,
+                    "title": "Crear una paleta de colores original",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/394/a6b78b638b4527079cb12df039aa9e23/master.m3u8?1676393931"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicar una paleta de colores a una web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/395/d39984c0e262db29b2e1b5f1c35e2d08/master.m3u8?1676393930"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicar una paleta de colores a una ilustración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/396/e99b758be9c81cdfab71a74068c3c8dc/master.m3u8?1676393930"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9181yl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Consejos para corregir errores y colores incorrectos con ilustraciones digitales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/397/425a09543b1249379d9af8d3a20aae65/master.m3u8?1676393928"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos para corregir errores y colores incorrectos en sitios web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/398/ec7e353e50253bc547a45577e123e192/master.m3u8?1676393942"
+                },
+                {
+                    "id": null,
+                    "title": "Cuáles son los mejores colores para un llamada a la acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/399/04cc8511e5dfc20b0780a5aac41b77c0/master.m3u8?1676393931"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n5k58o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8jinqe.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2135,
+        "product_name": "Color Theory Applied to Online Projects",
+        "teacher_name": "James Eccleston",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6523,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

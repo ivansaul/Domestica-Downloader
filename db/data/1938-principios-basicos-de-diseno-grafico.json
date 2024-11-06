@@ -1,0 +1,178 @@
+{
+    "id": "1938",
+    "title": "Principios básicos de diseño gráfico",
+    "url": "https://www.domestika.org/es/courses/1938-principios-basicos-de-diseno-grafico/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/625/3adfd96f4843dadb1ec100aa1faca9e6/master.m3u8?1676401561"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/626/84a4276ed5e10b0abef2e30f1f4695bd/master.m3u8?1676401562"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/627/ac81c1827695d12c22f72ea0141494dc/master.m3u8?1676401561"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o9qxzb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Principios básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el diseño gráfico historia y evolución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/628/4f19b5bb8b7a76b67abfa129fb0907ef/master.m3u8?1676401566"
+                },
+                {
+                    "id": null,
+                    "title": "Color y espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/629/7fb8f6da71268142df25c202ae12ec95/master.m3u8?1676401563"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/630/9c0955c1207d9f97dff80e0fb764f9ba/master.m3u8?1676401563"
+                },
+                {
+                    "id": null,
+                    "title": "Balance y ritmo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/631/a18a0f4e0c0f7366e0121367ce6b0981/master.m3u8?1676401564"
+                },
+                {
+                    "id": null,
+                    "title": "Contraste y jerarquía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/632/965702bd69e7845659a088d709319466/master.m3u8?1676401567"
+                },
+                {
+                    "id": null,
+                    "title": "Alineación y grillas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/633/3f29b272d36fe693ecb95598e12c8314/master.m3u8?1676401564"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dq7jao.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicar los principios básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/634/22fcff3d23a0c0017a5f5542d3d235f3/master.m3u8?1676401566"
+                },
+                {
+                    "id": null,
+                    "title": "Organizar la información y buscar inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/635/76ede4340e91ebf6e0b07b432617fd6e/master.m3u8?1676401565"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/636/9136dc2ae82a7106c4b01d14d04a4f6d/master.m3u8?1676401565"
+                },
+                {
+                    "id": null,
+                    "title": "Organizar las capas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/637/a0fbc7e036cce0d28d4da38f3cec6559/master.m3u8?1676401568"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4s813z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñar tu póster",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Formato y formas básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/638/488f5bcdca2134caa5b86cc13ad0d15a/master.m3u8?1676401569"
+                },
+                {
+                    "id": null,
+                    "title": "Colocar las imágenes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/639/a7bed3d10e716204cfba8890ce5c5789/master.m3u8?1676401572"
+                },
+                {
+                    "id": null,
+                    "title": "Colocar las imágenes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/640/02c9ddaaa27b71ea7ebecaee9336f9cf/master.m3u8?1676401573"
+                },
+                {
+                    "id": null,
+                    "title": "Escoger la tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/641/722e00f17edb9abd7c509d609e65f0b9/master.m3u8?1676401570"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zr9qo1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/l3v9ek.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1938,
+        "product_name": "Basic Principles of Graphic Design",
+        "teacher_name": "Christopher Pierce",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 6906,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

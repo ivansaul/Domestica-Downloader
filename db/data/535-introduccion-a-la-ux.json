@@ -1,0 +1,185 @@
+{
+    "id": "535",
+    "title": "Introducción a la UX",
+    "url": "https://www.domestika.org/es/courses/535-introduccion-a-la-ux/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Conoce más sobre mí",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/881/b9ef36d34d8a9bc18de5fadd021faef7/master.m3u8?1676385483"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/882/53ad7a0d639713b29a6bf21f49299788/master.m3u8?1676385484"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mqddsp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al UX",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es UX",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/883/c0c4d1c21ace26ccccf3e2a6ef9f421d/master.m3u8?1676385491"
+                },
+                {
+                    "id": null,
+                    "title": "Desmintiendo mitos y rumores digitales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/884/60c3d158b54e6f1d34d13b030ed2e14f/master.m3u8?1676385486"
+                },
+                {
+                    "id": null,
+                    "title": "Entendiendo a las personas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/885/ae9e9b64a410013e9beba2520853880d/master.m3u8?1676385490"
+                },
+                {
+                    "id": null,
+                    "title": "Entendiendo el negocio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/886/e743ebde49866d58deda525ee1796762/master.m3u8?1676385487"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gqx3hm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Analizando una página web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Alineando objetivos y metas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/887/ab437629473f54bd1142874b77e8fce4/master.m3u8?1676385488"
+                },
+                {
+                    "id": null,
+                    "title": "Analizando principios del diseños de interacción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/888/02233bbf32197402ff3d744cacbb3144/master.m3u8?1676385491"
+                },
+                {
+                    "id": null,
+                    "title": "Arquitectura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/889/e395437da2cea98f6a150ac22c21c157/master.m3u8?1676385489"
+                },
+                {
+                    "id": null,
+                    "title": "Lenguaje y redacción web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/890/6a403d6c3923c487a90ccac8ba99dce7/master.m3u8?1676385488"
+                },
+                {
+                    "id": null,
+                    "title": "Evaluación Heurística",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/891/f2a4a8b13062fcecfab1ecacb24e0e5e/master.m3u8?1676385490"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g5qomi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a la analítica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La data como ayuda a mejorar experiencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/892/ae1dac7bf8ece65e82b1b5c7cff1a1f0/master.m3u8?1676385489"
+                },
+                {
+                    "id": null,
+                    "title": "Analítica para web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/893/10e5ba3b1ed229dd1797c3659a8e109e/master.m3u8?1676385491"
+                },
+                {
+                    "id": null,
+                    "title": "Google Analytics para descubrir más datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/894/d4ae850b119210d685ebeb041e62b3c5/master.m3u8?1676385497"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lauemz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Informe Final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estructura del informe",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/996/89736e04d0cf95a2a9303a63ab49ee0c/master.m3u8?1676385544"
+                },
+                {
+                    "id": null,
+                    "title": "Notas finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/895/d372a643af7e18065b87c66a0e831832/master.m3u8?1676385500"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/phibon.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/del0qu.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 535,
+        "product_name": "UX Introduction",
+        "teacher_name": "Strike Heredia",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 6938,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "id": "4115",
+    "title": "Introducción a Notion para proyectos creativos",
+    "url": "https://www.domestika.org/es/courses/4115-introduccion-a-notion-para-proyectos-creativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/729/95d44c2644f484af75c98f7e8501a9e9/master.m3u8?1676408498"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/730/37a75fb3b4da6d56331ef72dc606a2c6/master.m3u8?1676408494"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hgz6ky.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué usar Notion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/731/ba95db74519d89f7e5dd2f9b294be60b/master.m3u8?1676408495"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a la guía del curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/732/5ca5ab826b228b65340d89030f02a1a9/master.m3u8?1676408495"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo usar Notion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/733/0e77a6da641514325dd5286df4fa15f2/master.m3u8?1676408500"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/47kvqz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos de contenido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Establecimiento de objetivos y elección de bloques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/734/40349ef4727777b99493d3f3ab7cd001/master.m3u8?1676408496"
+                },
+                {
+                    "id": null,
+                    "title": "Estructuración de la página de perfil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/735/4921c919b3b9f1528401b53a48f7c5c0/master.m3u8?1676408496"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de un blog",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/736/924520d7407ea2bb777a05f924386ce2/master.m3u8?1676408499"
+                },
+                {
+                    "id": null,
+                    "title": "Compartir una hoja de ruta de objetivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/737/3f432872a19f52d80a834d6739cc306c/master.m3u8?1676408498"
+                },
+                {
+                    "id": null,
+                    "title": "Plantillas para la pantalla principal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/738/50a1dd65d5f3d10fe47a6910ade37b96/master.m3u8?1676408497"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tfis69.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Inspiración y personalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inspiración para el diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/740/17df7c74406fd4067f02b8bdf28e4afd/master.m3u8?1676408497"
+                },
+                {
+                    "id": null,
+                    "title": "Definir tu estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/741/e43e7b2d6b03760b2274c99fd1460c9e/master.m3u8?1676408498"
+                },
+                {
+                    "id": null,
+                    "title": "Personalizar Notion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/742/0efa65b1fc3d6399f1ab76b347d0ee6c/master.m3u8?1676408503"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer una página de perfil estética",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/743/df4a680476d3696f03c09acde80ffecb/master.m3u8?1676408500"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vo5t10.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comunidad y más allá",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Publicar y compartir una página de perfil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/746/8f2c5fe0d593c0979886a557d37de680/master.m3u8?1676408499"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de comunidad y colaboración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/747/d454d3b25f144a7479c6510c41109708/master.m3u8?1676408502"
+                },
+                {
+                    "id": null,
+                    "title": "Mantener la inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/748/5b226495d6d49eb48d88f3bdad9b5cac/master.m3u8?1676408501"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lhqlvo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/fyfyae.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4115,
+        "product_name": "Introduction to Notion for Creative Projects",
+        "teacher_name": "Frances Odera Matthews",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 11066,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

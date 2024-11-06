@@ -1,0 +1,169 @@
+{
+    "id": "3524",
+    "title": "Impresión 3D para joyería y accesorios",
+    "url": "https://www.domestika.org/es/courses/3524-impresion-3d-para-joyeria-y-accesorios/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/853/edceec11f2a4405038690d81cc2fb57a/master.m3u8?1676404643"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/855/4eae9faec0697d5dacaf0f0ee7c4bf25/master.m3u8?1676404644"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2425a9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Impresión 3D aplicada en joyería",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/856/7593d6ac6e7d870c3efb49d8a384b324/master.m3u8?1676404644"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/859/72cefc9727e23103ebf675bcf54359d2/master.m3u8?1676404644"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/862/ede5798c42c3f5b1e4f04721871a2706/master.m3u8?1676404645"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de la colección 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/864/05cb36de601090efe760eaae5980fef1/master.m3u8?1676404650"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de la colección 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/865/9cae18664233c7e0d90f28bded20ac68/master.m3u8?1676404646"
+                },
+                {
+                    "id": null,
+                    "title": "Escalas y texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/866/3e849b0041b139875f5a4a9b06cc86da/master.m3u8?1676404647"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uahgfl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Digitalización e impresión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Digitalización de los diseños",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/895/f97ef874c7d353cb11f62dd2ffbb8a1b/master.m3u8?1676404662"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/896/990704465a7472b53a474b5b84c7d56d/master.m3u8?1676404661"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/897/bea6e225a7e50e013c0edbc87178c249/master.m3u8?1676404658"
+                },
+                {
+                    "id": null,
+                    "title": "Slicer 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/898/a4c789d00e0e68e2336f2854b0ee2ce7/master.m3u8?1676404662"
+                },
+                {
+                    "id": null,
+                    "title": "Impresión 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/899/3ae52d33066df50cf9ef6a2b5fbe66b9/master.m3u8?1676404663"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t82ywy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Limpieza y montaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/900/289d0cd3a64361b66cf87f799e72f50f/master.m3u8?1676404663"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía e imagen de la colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/901/4be9a7387ca53fa8cf6a2be9cd917dda/master.m3u8?1676404659"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v23u8v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9kopa5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3524,
+        "product_name": "3D Printing for Jewelry and Accessories",
+        "teacher_name": "María Romero Laspiur",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8833,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

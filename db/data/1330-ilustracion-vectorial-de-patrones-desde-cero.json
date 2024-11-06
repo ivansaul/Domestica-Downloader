@@ -1,0 +1,158 @@
+{
+    "id": "1330",
+    "title": "Ilustración vectorial de patrones desde cero",
+    "url": "https://www.domestika.org/es/courses/1330-ilustracion-vectorial-de-patrones-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/377/90ae68496044f04b8123aca3c3761266/master.m3u8?1676393431"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/378/eec9ff03d49afe6ff28dc7715774e080/master.m3u8?1676393435"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/379/54fab3765d69824e7e1ac688930f575f/master.m3u8?1676393434"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zfoin5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Teoría de los patrones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Anatomía de los patrones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/380/fdb7809d6c26156bdedfecce94db4312/master.m3u8?1676393435"
+                },
+                {
+                    "id": null,
+                    "title": "Referentes mood board paleta de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/381/f0d73551997559b1a0c9738db04a2068/master.m3u8?1676393439"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/382/62673acdf33e2f849947f1b360673861/master.m3u8?1676393437"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qq04tz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de tu patrón",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proceso de digitalización 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/383/c9af9e3f2146f4e7c17a1493d511b9c5/master.m3u8?1676393439"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso de digitalización 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/384/c92b9005bb8da1af6b038c342741dbb1/master.m3u8?1676393436"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso de composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/385/73c93cd57761693b15f13fe7fd5db692/master.m3u8?1676393440"
+                },
+                {
+                    "id": null,
+                    "title": "Patrón infinito 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/386/97758a7e07e1185f013cd3f6362bea9b/master.m3u8?1676393440"
+                },
+                {
+                    "id": null,
+                    "title": "Patrón infinito 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/387/3de36be9a4c55ff3241a9e86a34bf7cd/master.m3u8?1676393455"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o0xicz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dándole vida a tu colección",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Convertir tu patrón a monocromo y duotono",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/388/9c2292a6aece4cbe0f5f7aeb33640751/master.m3u8?1676393437"
+                },
+                {
+                    "id": null,
+                    "title": "Visualiza tu colección mockups",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/389/bd8ba43912453c044053c0404c03f2cd/master.m3u8?1676393439"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f1xkee.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/b0sem6.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1330,
+        "product_name": "Vector Pattern Illustration for Beginners",
+        "teacher_name": "Sara Tomate",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6488,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

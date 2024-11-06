@@ -1,0 +1,250 @@
+{
+    "id": "183",
+    "title": "Prototipado y diseño UX para aplicaciones de ecommerce",
+    "url": "https://www.domestika.org/es/courses/183-prototipado-y-diseno-ux-para-aplicaciones-de-e-commerce/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/270/b45e6e5ba53f7529c9252aa52033b1ae/master.m3u8?1676392868"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/277/f2b4b9e7a9649613cb9705ccb28309d8/master.m3u8?1676391813"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/278/fd4f84bd977f4574b9fcfd99a75283b7/master.m3u8?1676391811"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/egjx8j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primer contacto conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El entorno de trabajo de Axure",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/279/7cb61163dd6f25d5f9f3ea80a1e4364c/master.m3u8?1676391813"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración del documento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/280/a96a4928eeda2730ed3c11856fd80609/master.m3u8?1676391815"
+                },
+                {
+                    "id": null,
+                    "title": "Formas básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/281/cf511eb5f25d6c5ab930a0fb45a7b0b2/master.m3u8?1676391816"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos de formulario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/282/0e8449f8729aa92b307584c54cd5668a/master.m3u8?1676391817"
+                },
+                {
+                    "id": null,
+                    "title": "Formateado y trabajo con estilos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/283/8c4d1e290c7fdc169dfc03adcfcc329d/master.m3u8?1676391814"
+                },
+                {
+                    "id": null,
+                    "title": "Formateado y trabajo con estilos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/284/379350ffb0c3b0252c1c80eab7f860fa/master.m3u8?1676391817"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipos Hi Fi",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/285/71470e992ef9a61ae8834d941f3bdb2e/master.m3u8?1676391820"
+                },
+                {
+                    "id": null,
+                    "title": "Arquitectura de información y navegación básica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/286/bd69bfcb36e9a080db7b3da80007ef1d/master.m3u8?1676391818"
+                },
+                {
+                    "id": null,
+                    "title": "Documentación y requisitos funcionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/287/6812718352f1b17dbd7110dd55042d3e/master.m3u8?1676391817"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajo en equipo librerías y Axure Share",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/288/96996f6485b3e7869b48134f0310ba81/master.m3u8?1676391819"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bvmvum.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Nuestra app de tienda online bienvenida y home",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explicación del proyecto final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/289/92efdf380db99cd810a930914a6bb25c/master.m3u8?1676391817"
+                },
+                {
+                    "id": null,
+                    "title": "Página de bienvenida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/290/f6a9e04ba8e39d7c51ed30bbe5e648e2/master.m3u8?1676391824"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujando la home trabajo con masters",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/291/f65797fb094b02497a3fcc153e22c050/master.m3u8?1676391819"
+                },
+                {
+                    "id": null,
+                    "title": "Paneles dinámicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/292/ed9b0808a7f653ff28293fdcf2db01ba/master.m3u8?1676391821"
+                },
+                {
+                    "id": null,
+                    "title": "Paneles dinámicos anclado de elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/293/ad3b6b8f15647ef83b395b20a5e0c709/master.m3u8?1676391821"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vwr6zm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando las páginas de categoría y detalle",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Página de categoría los adorables repeaters",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/294/fe0779953bc57ca03a979fb6bf2efc69/master.m3u8?1676391823"
+                },
+                {
+                    "id": null,
+                    "title": "Filtrado y ordenación en repeaters",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/295/c22eea84cf31274654ba943552c6a22f/master.m3u8?1676391821"
+                },
+                {
+                    "id": null,
+                    "title": "Pintando la página de detalle",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/296/1e8c26c0958bf099192a3307f38d3c59/master.m3u8?1676391825"
+                },
+                {
+                    "id": null,
+                    "title": "Variables traspasando datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/297/2f7b3f1490dfde741f7037b47f4bd53f/master.m3u8?1676391826"
+                },
+                {
+                    "id": null,
+                    "title": "Variables 2 algunos cálculos  primera parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/298/fbd0fcdfd379ea55151456e0818c36a4/master.m3u8?1676391823"
+                },
+                {
+                    "id": null,
+                    "title": "Variables 2 algunos cálculos segunda parte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/299/253f66902dc28cb5154a83ca0bbd08d8/master.m3u8?1676391823"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x7ht1v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Rematando carro y checkout",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Programando el carrito 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/300/7cd7b5577b3f9d159d85f3e20b5f3d5b/master.m3u8?1676391824"
+                },
+                {
+                    "id": null,
+                    "title": "Programando el carrito 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/301/ea9d17a9278cd813a319feafb4d563d9/master.m3u8?1676391826"
+                },
+                {
+                    "id": null,
+                    "title": "Repeaters eliminar elementos de un listado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/302/d6e84a892377e73354cc6a233fc633ce/master.m3u8?1676391826"
+                },
+                {
+                    "id": null,
+                    "title": "El checkout 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/303/a2306a0a736e0421e61bbde22d2ff6e6/master.m3u8?1676391828"
+                },
+                {
+                    "id": null,
+                    "title": "El checkout 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/304/c9546f2bdea2fb8c011bf5ce3664a4d5/master.m3u8?1676391825"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n008me.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8ytfc2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 183,
+        "product_name": "Prototype and UX Design for E-Commerce Apps",
+        "teacher_name": "Diga33!",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 29,
+        "course_total_duration_sec": 22139,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

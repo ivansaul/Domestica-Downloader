@@ -1,0 +1,126 @@
+{
+    "id": "2596",
+    "title": "Diseña tu propio proceso creativo",
+    "url": "https://www.domestika.org/es/courses/2596-disena-tu-propio-proceso-creativo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/059/d10f1a205d2919b2aef36c22dd400252/master.m3u8?1676396457"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/060/bab96a19dd50a1a163fbe00b2434f133/master.m3u8?1676396453"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kxkn59.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Metodología para el proceso creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el proceso creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/061/6f066e88e06ecd32c493a10bf757e176/master.m3u8?1676396455"
+                },
+                {
+                    "id": null,
+                    "title": "Metodología de patrones de cocreación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/062/0e8a50ddb4ca87b5ff594d5b4cc81136/master.m3u8?1676396456"
+                },
+                {
+                    "id": null,
+                    "title": "Los 5 patrones del proceso creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/063/2b02ed26f0679314cf24fae8305b6bf5/master.m3u8?1676396455"
+                },
+                {
+                    "id": null,
+                    "title": "Conocerte a ti mismo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/107/1a320c5cbfb4b95edca1cbaa9acc93b2/master.m3u8?1676396478"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jyeoja.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conocimientos avanzados para gestionar su proceso creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bloques creativos comunes y cómo resolverlos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/064/0ac79b0e176441149e1662592aa9586a/master.m3u8?1676396458"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo diseñar un proceso creativo combinando patrones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/065/4b8bbd02736c840f6499269430623cd2/master.m3u8?1676396460"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y pautas para cada patrón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/066/9bd8ed9bc6a66f51779c90c57c9870f9/master.m3u8?1676396455"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wxvtzw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6xnhcr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2596,
+        "product_name": "Design Your Own Creative Process",
+        "teacher_name": "Alejandro Masferrer",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 9,
+        "course_total_duration_sec": 7689,
+        "total_units": 3,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "id": "3540",
+    "title": "Storytelling visual a través de la infografía",
+    "url": "https://www.domestika.org/es/courses/3540-storytelling-visual-a-traves-de-la-infografia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/277/3ea187a1a1ccee6d58aa4befc2d7aae4/master.m3u8?1676413873"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/278/e7c9edc7783e4a99a09ff2d2d5de955c/master.m3u8?1676413874"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jcgsio.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comprender las infografías",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El mensaje y la audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/279/baa79c69f0d9e1d079cd94f6956d1ed6/master.m3u8?1676413875"
+                },
+                {
+                    "id": null,
+                    "title": "Fuentes historia y conceptos clave",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/280/cbc93350d19d0bd602bd7027f59db643/master.m3u8?1676413876"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de visualizaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/281/7b597ce5dfc2c54003d4879b261d2fba/master.m3u8?1676413876"
+                },
+                {
+                    "id": null,
+                    "title": "Convertir ideas en miniaturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/282/cb3ec2b54aa33ba4c8e1d6942059da40/master.m3u8?1676413882"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uw3548.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando la infografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definir el formato y dibujar información visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/283/a7f9397cbf27ae7f66b54904706f1a62/master.m3u8?1676413879"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando el archivo digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/284/6d7d614adb5ef41a697735b69a323c3d/master.m3u8?1676413878"
+                },
+                {
+                    "id": null,
+                    "title": "Los toques finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/285/ee00732628a1c59272ceddc330d0722a/master.m3u8?1676413883"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7a2lsh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasos finales y consejos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revisión y publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/286/1aada37b9a46db9a796f3f185eaf0f47/master.m3u8?1676413878"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/287/5bee0be84772f5fa2f7fbf02cc070720/master.m3u8?1676413878"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/szfjzi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/yutd3s.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3540,
+        "product_name": "Visual Storytelling Through Infographics",
+        "teacher_name": "Catalina Plé",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 4927,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

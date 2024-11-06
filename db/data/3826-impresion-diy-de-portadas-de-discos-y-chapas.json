@@ -1,0 +1,158 @@
+{
+    "id": "3826",
+    "title": "Impresión DIY de portadas de discos y chapas",
+    "url": "https://www.domestika.org/es/courses/3826-impresion-diy-de-portadas-de-discos-y-chapas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/736/c7692592f71f9835663bd76ea013ae2d/master.m3u8?1676407928"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/739/304be769dd9f37192d1d985aef49c795/master.m3u8?1676407932"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6pht1t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Impresión DIY del archivo a los tipos de papel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estampado clásico vs impresión de producción propia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/741/065a701a688a3664eca4c4c916de0ded/master.m3u8?1676407930"
+                },
+                {
+                    "id": null,
+                    "title": "Creando el archivo para imprimir las chapas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/743/278fae2fd07b4451923fe80ec63bf173/master.m3u8?1676407935"
+                },
+                {
+                    "id": null,
+                    "title": "Bitmap y archivo para imprimir la portada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/744/0b5aa3d259afbee5227d919e4d215102/master.m3u8?1676407936"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de cartas y efectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/745/7a3badc0cd3d9ddfd5243d854b16e561/master.m3u8?1676407936"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/803/b0c73ac9112f27279676d00539cac448/master.m3u8?1676407963"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5m5qjs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La fase de impresión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hacer chapas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/746/0106ce38a8a6f55d40de0ab8cd9869d6/master.m3u8?1676407935"
+                },
+                {
+                    "id": null,
+                    "title": "Impresión transfer con solvente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/747/2a31ef7d9003bc6ffbb328915db19a12/master.m3u8?1676407937"
+                },
+                {
+                    "id": null,
+                    "title": "Estampado en caliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/748/767df10952724ffa8ef9aff1c83f21ff/master.m3u8?1676407942"
+                },
+                {
+                    "id": null,
+                    "title": "Plegado pegado y corte de una cubierta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/749/3cf346114c73264ed3cb4b7f497fd294/master.m3u8?1676407938"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lvlhq1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Alternativas de embalaje e impresión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El embalaje de los broches",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/750/a256253817358d62269c8b9f02837ea0/master.m3u8?1676407939"
+                },
+                {
+                    "id": null,
+                    "title": "Medios impresos alternativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/751/2d9a96a268873acca361a75a90e89e08/master.m3u8?1676407937"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z4zkwg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/j6ua9p.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3826,
+        "product_name": "DIY Printing for Album Covers and Pins",
+        "teacher_name": "Paolo Proserpio",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5298,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "id": "5119",
+    "title": "Introducción al diseño gráfico para amateurs",
+    "url": "https://www.domestika.org/es/courses/5119-introduccion-al-diseno-grafico-para-amateurs/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/342/1e42a870e720186dcdae407ec86b656c/master.m3u8?1686221587"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/343/29f0a81ffa0ed090d10df6bffc443597/master.m3u8?1686221671"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ongk4c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñar como profesión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Informar al diseñador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/344/8e72e0ad2c6e5b14af6d7cb192c2348d/master.m3u8?1686222476"
+                },
+                {
+                    "id": null,
+                    "title": "El arte y el negocio del diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/345/5de2aadc53fa31e077b0dafe57e40e1c/master.m3u8?1686222829"
+                },
+                {
+                    "id": null,
+                    "title": "El proceso de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/382/fddadb9ea7f8f66b95cfdee60fa2b164/master.m3u8?1686305471"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ich8zv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Disposición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Una breve historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/346/149c53b37a4d9429fe2df5e19074b3e8/master.m3u8?1686233317"
+                },
+                {
+                    "id": null,
+                    "title": "La cuadrícula 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/348/d3ea55c3f03ee0a52678a7c8ff3c8a91/master.m3u8?1686233469"
+                },
+                {
+                    "id": null,
+                    "title": "La cuadrícula 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/347/4042b6a90e69c552c50d779d590de008/master.m3u8?1686233413"
+                },
+                {
+                    "id": null,
+                    "title": "Exploración 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/349/f6ff9d90bfb684938f5cf03d8a42e8e6/master.m3u8?1686233572"
+                },
+                {
+                    "id": null,
+                    "title": "Exploración 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/350/6e8e3779dc25c788f9a0b02ad18c1b17/master.m3u8?1686233700"
+                },
+                {
+                    "id": null,
+                    "title": "Exploración 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/351/5e09c9b59f4486d4db42a7a9556276d6/master.m3u8?1723803852"
+                },
+                {
+                    "id": null,
+                    "title": "Composición lo que se debe y lo que no se debe hacer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/352/ebf74b0e69bd8b5c122a134e645753d3/master.m3u8?1686233958"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ye0z27.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Color en un mundo de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/353/f18d03737b580646fef946a2d7a2a865/master.m3u8?1686234406"
+                },
+                {
+                    "id": null,
+                    "title": "Color en un sistema de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/354/5f7a2857d57366105099749091af0c01/master.m3u8?1686234496"
+                },
+                {
+                    "id": null,
+                    "title": "Extensiones de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/355/184ab723828e80d6cd5cced2250f0d12/master.m3u8?1686234546"
+                },
+                {
+                    "id": null,
+                    "title": "Lo que se debe y no se debe hacer con el color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/356/6e8be5930c248e76b42f975d0248484e/master.m3u8?1686234586"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0lvu5k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tipografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El mundo de la tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/357/fe326cd11e26fe0534100d4d24cb3f97/master.m3u8?1686234941"
+                },
+                {
+                    "id": null,
+                    "title": "Personalidades tipográficas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/358/ba1ab9a4d2a9e06ef937f6089aba6e41/master.m3u8?1686235005"
+                },
+                {
+                    "id": null,
+                    "title": "Lo que se debe y no se debe hacer con la tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/359/9e4bcf89cd9e35edc524b875e8894ca9/master.m3u8?1686235062"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/361/97f626f462e5870240562d56ce8e614d/master.m3u8?1686235592"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jyu2wr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/q6ey0l.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5119,
+        "product_name": "Introduction to Graphic Design for non-designers",
+        "teacher_name": "Weronika Rafa",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 14422,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

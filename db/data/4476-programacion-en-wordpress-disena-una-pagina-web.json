@@ -1,0 +1,230 @@
+{
+    "id": "4476",
+    "title": "Programación en WordPress diseña una página web",
+    "url": "https://www.domestika.org/es/courses/4476-programacion-en-wordpress-disena-una-pagina-web/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/553/806252ebed1eaa42b6f37fe1e28bc350/master.m3u8?1676410399"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/554/b879807e69a5802b8b624fac5438228c/master.m3u8?1676410399"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tlw7fj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/555/160666e6c455c15ca56855f050c9c35d/master.m3u8?1676410402"
+                },
+                {
+                    "id": null,
+                    "title": "Las herramientas de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/556/e2019bc57486ed52ca5184a706bc2429/master.m3u8?1676410402"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura de WordPresscom y WordPressorg",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/557/dee7c7b98bd2fa15b9c5a323d30bffe9/master.m3u8?1676410403"
+                },
+                {
+                    "id": null,
+                    "title": "Plugins de WordPress",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/558/b1c898f7273054e6b574316fbe633071/master.m3u8?1676410403"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ydyfbu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Arquitectura web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/561/33f4aa124eb6050f3b9e9b31b65f57ac/master.m3u8?1676410403"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño y conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/565/9fb2a759afd4bd2aa23bbc8700e93987/master.m3u8?1676410410"
+                },
+                {
+                    "id": null,
+                    "title": "Wireframe mockup y diseño web en Figma 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/567/231192ce937c62ad3330906b5b5dec02/master.m3u8?1676410413"
+                },
+                {
+                    "id": null,
+                    "title": "Wireframe mockup y diseño web en Figma 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/568/3a074202101fe87182a86b02ab58c9f0/master.m3u8?1676410412"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/frjftx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Maquetación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación del entorno de trabajo y programación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/570/271cc4ede11c6d195c635613b7adb414/master.m3u8?1676410408"
+                },
+                {
+                    "id": null,
+                    "title": "Maquetación HTML 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/571/47ba499d89c02af785ce0ec8a7bf4f4f/master.m3u8?1676410413"
+                },
+                {
+                    "id": null,
+                    "title": "Maquetación HTML 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/573/1e142d34dca5d474006ce77065772adf/master.m3u8?1676410414"
+                },
+                {
+                    "id": null,
+                    "title": "Agregando estilos CSS 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/574/9a35d52c7955dbbc8f577eeafeea5a56/master.m3u8?1676410416"
+                },
+                {
+                    "id": null,
+                    "title": "Agregando estilos CSS 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/576/0d2b022abe237c531d05c3d4b5e9d345/master.m3u8?1676410419"
+                },
+                {
+                    "id": null,
+                    "title": "Agregando estilos CSS 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/577/7a28f5048f7e881bdb4ee3619e9a1e32/master.m3u8?1676410417"
+                },
+                {
+                    "id": null,
+                    "title": "Agregando estilos CSS 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/579/084d58aab08b7ea76c33731d288d0d95/master.m3u8?1676410420"
+                },
+                {
+                    "id": null,
+                    "title": "Agregando interacción con JavaScript",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/581/a8c59426a59bff217654894a76a0af05/master.m3u8?1676410416"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kx8mzf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Integración a WordPress",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Instalación de WordPress y plugins",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/584/d3dd1fc46b0c010c002e0d09e62632ca/master.m3u8?1676410418"
+                },
+                {
+                    "id": null,
+                    "title": "Crear la base del template personalizado de WordPress",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/585/b3f745ef9727f352c212432cddb14bf5/master.m3u8?1676410423"
+                },
+                {
+                    "id": null,
+                    "title": "Configurar las páginas y los plugins",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/586/9c62c357f5be4e9f4c0d94db6c79bf8b/master.m3u8?1676410422"
+                },
+                {
+                    "id": null,
+                    "title": "Integrar la maqueta HTML y back office de WordPress 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/587/5b57afc89770e56cb2499f65aeb96dcb/master.m3u8?1676410423"
+                },
+                {
+                    "id": null,
+                    "title": "Integrar la maqueta HTML y back office de WordPress 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/588/cabea44407dca874d3f4fea3316c3b7c/master.m3u8?1676410424"
+                },
+                {
+                    "id": null,
+                    "title": "Integrar la maqueta HTML y back office de WordPress 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/589/f4b113ac4698d5a19c2ed1f00b086526/master.m3u8?1676410420"
+                },
+                {
+                    "id": null,
+                    "title": "Publicar nuestra web en internet y opciones de alojamiento web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/590/10358bf35aeec5c01e8cf59a1e104d90/master.m3u8?1676410424"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rkdoiw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/osuodq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4476,
+        "product_name": "Programming for WordPress: Design a Website",
+        "teacher_name": "Carlos E. Molina Tovar",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 25,
+        "course_total_duration_sec": 19608,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

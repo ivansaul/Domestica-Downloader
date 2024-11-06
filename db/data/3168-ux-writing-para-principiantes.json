@@ -1,0 +1,185 @@
+{
+    "id": "3168",
+    "title": "UX writing para principiantes",
+    "url": "https://www.domestika.org/es/courses/3168-ux-writing-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/487/cd20cdec6a8144987961136f8bf60c21/master.m3u8?1676404921"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/488/2e505c054bb01b31dd5801d4bc5b2858/master.m3u8?1676404922"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4jzfqy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos del UX writing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La estructura de este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/489/af082228709874563b7cc7dc7807f3e3/master.m3u8?1676404922"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo las palabras construyen mejores experiencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/490/19eb61b285742418d680c0c6bacf5caf/master.m3u8?1676404924"
+                },
+                {
+                    "id": null,
+                    "title": "El UX Writer y el equipo de producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/510/8fe452c4912dd9d71f8c59edd60ea750/master.m3u8?1676404938"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ada0f1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Directrices y mejores prácticas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo la gente lee en la web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/511/320e890bc1b5d0cdc96d6448aa39c67c/master.m3u8?1676404934"
+                },
+                {
+                    "id": null,
+                    "title": "Voz y tono",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/512/34b9a1a10c666460c84a650d0c240740/master.m3u8?1676404934"
+                },
+                {
+                    "id": null,
+                    "title": "Accesibilidad e inclusión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/513/b39efa8938d4693dd52085b0a2a1006f/master.m3u8?1676404933"
+                },
+                {
+                    "id": null,
+                    "title": "Edición de UX writing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/516/44830602e8fa181420df4549f31b6347/master.m3u8?1676404936"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oyw0ez.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Escritura para componentes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Onboarding y empty states",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/518/01342657118ae0c8452d10aa54258ea2/master.m3u8?1676404936"
+                },
+                {
+                    "id": null,
+                    "title": "Formularios tooltips y microcopy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/028/7c656679fb7579fa90217f083ac5b01d/master.m3u8?1676411315"
+                },
+                {
+                    "id": null,
+                    "title": "Botones y enlaces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/520/c2fb33b27bbbca070be9f42f91a42345/master.m3u8?1676404936"
+                },
+                {
+                    "id": null,
+                    "title": "Diálogos mensajes de error y éxito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/522/338c3cc83288b5a8edf90365891690bc/master.m3u8?1676404940"
+                },
+                {
+                    "id": null,
+                    "title": "Notificaciones push y correos electrónicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/524/f8fef0fc0b5315562b9ed490a4164c1f/master.m3u8?1676404938"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/21igvg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consejos adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Investigación del UX writing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/525/e6c5ce51ab3a63fafefbf6e7075e0405/master.m3u8?1676404939"
+                },
+                {
+                    "id": null,
+                    "title": "Crear una cartera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/526/6a71b2ddd28e62e14484cede001198be/master.m3u8?1676404939"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wd72mn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/njacyn.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3168,
+        "product_name": "UX Writing for Beginners",
+        "teacher_name": "Pedro Quintino",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 7394,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "id": "3052",
+    "title": "Diseño de identidades visuales con bold lines",
+    "url": "https://www.domestika.org/es/courses/3052-diseno-de-identidades-visuales-con-bold-lines/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/496/d54a67e935dc0d7e98397cb7d41fdb45/master.m3u8?1676408347"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/497/7546ef7274dad350115832521e53ffa0/master.m3u8?1676408343"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4h385v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los logos en la teoría",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo definir un logo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/498/7bb5d0ce592bd9bc24f08f670dda4fbd/master.m3u8?1676408349"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo reconocer un buen logo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/499/a2d9d86b9c97af6c0f9352fe610098f2/master.m3u8?1676408343"
+                },
+                {
+                    "id": null,
+                    "title": "Jugar con la síntesis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/500/a129b3f8fe6ce5bc9ab630ef0797d67d/master.m3u8?1676408346"
+                },
+                {
+                    "id": null,
+                    "title": "Buscar oportunidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/501/5dda6ac78aeca666308046c82097cf10/master.m3u8?1676408349"
+                },
+                {
+                    "id": null,
+                    "title": "El brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/502/9a645a636c3de0367e40b5a8d3e2efa3/master.m3u8?1676408348"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kz7hgh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los logos en la práctica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mood board de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/503/05178935ef7e96313dcc2203ee827fb9/master.m3u8?1676408351"
+                },
+                {
+                    "id": null,
+                    "title": "Lápiz y papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/504/c454809e85b9371896168ff67d1d9c72/master.m3u8?1676408349"
+                },
+                {
+                    "id": null,
+                    "title": "Del boceto al digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/505/28273c80698be47791a2a699863e4d67/master.m3u8?1676408358"
+                },
+                {
+                    "id": null,
+                    "title": "Pensar antes de diseñar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/965/eacc79c9c02ccce12676c884c2200984/master.m3u8?1676412471"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3ec2kd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tipografía color y presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/506/210c0a4a54a3428be74c559a47121d9a/master.m3u8?1676408358"
+                },
+                {
+                    "id": null,
+                    "title": "Color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/507/3846dfe974f1a8b6173a4e127ddf5b42/master.m3u8?1676408357"
+                },
+                {
+                    "id": null,
+                    "title": "El logo en contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/508/a1aa9df0d07e91b01e7be669c30020ea/master.m3u8?1676408367"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/509/62ded2c96805db9b4293587db11f12a5/master.m3u8?1676408367"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación en las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/510/f2b66206348f789e1eba97e9ea893f40/master.m3u8?1676408361"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lqotpc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/to8eoz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3052,
+        "product_name": "Visual Identity Design with Bold Lines",
+        "teacher_name": "Berch Kotogian",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 9553,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

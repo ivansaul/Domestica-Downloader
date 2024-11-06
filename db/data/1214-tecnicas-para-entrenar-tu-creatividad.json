@@ -1,0 +1,169 @@
+{
+    "id": "1214",
+    "title": "Técnicas para entrenar tu creatividad",
+    "url": "https://www.domestika.org/es/courses/1214-tecnicas-para-entrenar-tu-creatividad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/378/deea2931d13ed0c9af4e80293aec5b9c/master.m3u8?1676390508"
+                },
+                {
+                    "id": null,
+                    "title": "Mis referentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/379/d112754da121f11fdcfdd4b773606310/master.m3u8?1676390506"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/380/a9ca34b501aa5ae66b92362209dd87c4/master.m3u8?1676390504"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9a9psd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Explorando",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explorando tú entorno y personas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/381/1bf3824e0cf53009bd3b818cc89ff771/master.m3u8?1676390508"
+                },
+                {
+                    "id": null,
+                    "title": "Bloqueos creativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/382/d8e151a013b1dd031d54ecde88d1cb70/master.m3u8?1676390507"
+                },
+                {
+                    "id": null,
+                    "title": "Yo árbol de referencias y mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/383/fac8ecf1129755e240b7f3fcf1aa46dd/master.m3u8?1676390508"
+                },
+                {
+                    "id": null,
+                    "title": "Entorno búsqueda desinteresada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/384/c9af86700248d09132c965b06b71798b/master.m3u8?1676390513"
+                },
+                {
+                    "id": null,
+                    "title": "Personas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/385/2aef612d4aff84562f244012cce24506/master.m3u8?1676390513"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cf25ma.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ideando",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición de un objetivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/387/1385f1866b14194c53f67904bc19afa0/master.m3u8?1676390513"
+                },
+                {
+                    "id": null,
+                    "title": "Usos alternativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/388/0a735568d26b45dc1b80e076873ff18c/master.m3u8?1676390512"
+                },
+                {
+                    "id": null,
+                    "title": "Relaciones imposibles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/389/239630fb38493917a9b4731f76f78658/master.m3u8?1676390516"
+                },
+                {
+                    "id": null,
+                    "title": "Tramas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/390/218a74bc9638a58bd23e0bef5c6bfa56/master.m3u8?1676390516"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas e inventos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/391/f616594a1b935ceebf1cba673a69046b/master.m3u8?1676390513"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zsq9ex.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cerrando",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Aterrizando la idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/392/80ded86800183456ebfa695f505b640d/master.m3u8?1676390521"
+                },
+                {
+                    "id": null,
+                    "title": "Dándolo a probar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/393/6a48f4eaaa0833065cff75d1d46a0fa9/master.m3u8?1676390515"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n8alcs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4k8ugl.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1214,
+        "product_name": "Techniques for Developing your Creativity",
+        "teacher_name": "Silvia Ferpal",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8466,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

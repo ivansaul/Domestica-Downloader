@@ -1,0 +1,184 @@
+{
+    "id": "2162",
+    "title": "Diseño de presentaciones crea una plantilla profesional",
+    "url": "https://www.domestika.org/es/courses/2162-diseno-de-presentaciones-crea-una-plantilla-profesional/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/172/0c592c2cf6eae871187c58a886a1a13d/master.m3u8?1676394805"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/173/7252b76d24fdb1a4c5b132b0381449e2/master.m3u8?1676394806"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/174/4ea0ad94515a96e46abe8d7b7bcbd1da/master.m3u8?1676394805"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9vm845.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Criterios de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dirección artística",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/175/7982f53012a86298ab65959fd6845ceb/master.m3u8?1676394807"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/176/b6568dad1ad4674b8a8d3c0e24d770fd/master.m3u8?1676394805"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría de la tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/177/4563302dce5585f4c097e9129f72e6d8/master.m3u8?1676394806"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría de la composición y el diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/178/c8643ffe8aaf6d87455af53f8e72dbd9/master.m3u8?1676394806"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vvg3kk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Espacio de trabajo y formato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/181/1ac762a17ea7ef3b80c3af70d094219b/master.m3u8?1676394809"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo trabajar con el texto 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/179/75890ce7bd632f9279eeeb487a624f33/master.m3u8?1676394810"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo trabajar con el texto 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/180/92e0c032fe14f70abc09b959175154bf/master.m3u8?1676394815"
+                },
+                {
+                    "id": null,
+                    "title": "Colores y estilos de forma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/182/0050bf7437cdd034a3deebb69b9da633/master.m3u8?1676394818"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y diseño 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/183/a525ef36ccfca783a023157f9fd71a0b/master.m3u8?1676394817"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y diseño 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/184/42fe1f9999016eb4b515e2b7d6e04555/master.m3u8?1676394813"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y diseño 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/185/9c7ffbe678638e4176eec3078e0f7a66/master.m3u8?1676394821"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y diseño 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/186/2551b6eb1b6258ea96fb29011efec6ec/master.m3u8?1676394812"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo trabajar con imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/187/76b19b50777a60ddc091469f6550c05c/master.m3u8?1676394823"
+                },
+                {
+                    "id": null,
+                    "title": "Iconos y biblioteca de iconos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/188/0f2569061a53e9eee0b78d26a645bc75/master.m3u8?1676394813"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m8eq11.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Guardar y reutilizar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Plantilla diapositivas maestras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/189/23a40e799ae9f632caafc13c98ed74db/master.m3u8?1676394811"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pixq2o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xks7fs.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2162,
+        "product_name": "Presentation Design: Create a Professional Template",
+        "teacher_name": "Katya Kovalenko",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 10257,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

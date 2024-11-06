@@ -1,0 +1,148 @@
+{
+    "id": "374",
+    "title": "Creatividad gastronómica y composición de patterns",
+    "url": "https://www.domestika.org/es/courses/374-creatividad-gastronomica-y-composicion-de-patterns/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/028/2d71117c4672f8f3be12a06623e033a7/master.m3u8?1676385174"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/029/3dff32048813b7c63be43200ea4f2dc4/master.m3u8?1676385175"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jxhd5v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Decidir el mensaje  Proceso de Brainstorming",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/030/9ca31d43120261857eaec46a13620cec/master.m3u8?1676385174"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación y moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/032/b29d505c730cc24117a7217aa150c266/master.m3u8?1676385175"
+                },
+                {
+                    "id": null,
+                    "title": "Esbozos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/033/3f98f0d867f5518db28b9bb065507df4/master.m3u8?1676385178"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tkjokb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear la composición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ingredientes y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/041/02b915ea855dc9654134fa89fda45eb1/master.m3u8?1676385181"
+                },
+                {
+                    "id": null,
+                    "title": "Crear la composición  tips",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/042/adeed551c57d6edd996f792d5243af6d/master.m3u8?1676385183"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación  Disparar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/043/637a47998ceeccd0f90c52b1b92960f1/master.m3u8?1676385179"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r1pmqd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Retoque fotográfico 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/044/a8be9bdb034fd79cced689365aeda79c/master.m3u8?1676385186"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque fotográfico 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/045/9bf833766167ae9c5e5dcc72e2c102ee/master.m3u8?1676385184"
+                },
+                {
+                    "id": null,
+                    "title": "Explora tu creatividad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/046/e988ac302a0085649d54060530d5df47/master.m3u8?1676385178"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/akf5zg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/811dfb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 374,
+        "product_name": "Gastronomic Creativity and Pattern Composition",
+        "teacher_name": "Vega Hernando",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 5032,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

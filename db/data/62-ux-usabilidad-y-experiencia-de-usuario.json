@@ -1,0 +1,147 @@
+{
+    "id": "62",
+    "title": "UX Usabilidad y Experiencia de Usuario",
+    "url": "https://www.domestika.org/es/courses/62-ux-usabilidad-y-experiencia-de-usuario/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/255/f447c728659e25f916c9c21586484489/master.m3u8?1676381043"
+                },
+                {
+                    "id": null,
+                    "title": "Experiencia de usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/251/7dc638f644560e6f5fc7853bbe8270ae/master.m3u8?1676381036"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q03bzn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Descripción del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/252/b7869e917a9faf2136783933451174c4/master.m3u8?1676381038"
+                },
+                {
+                    "id": null,
+                    "title": "La entrevista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/253/1fd311cd07bf0eea2c168428d555800c/master.m3u8?1676381039"
+                },
+                {
+                    "id": null,
+                    "title": "Entrevista Fundación Genes y Gentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/942/5a542e357ac66ad591448c2424da5e20/master.m3u8?1676381359"
+                },
+                {
+                    "id": null,
+                    "title": "El cuestionario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/254/4b2171966202eefdc24b2353b85e2d0d/master.m3u8?1676381041"
+                },
+                {
+                    "id": null,
+                    "title": "La observación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/256/d26ba92823cc91b9c0941fe16521d018/master.m3u8?1676381043"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z8b54q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Análisis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/246/e18a71ae09808af966b64f3b34351404/master.m3u8?1676381037"
+                },
+                {
+                    "id": null,
+                    "title": "Matriz OTI",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/260/c931a468e8ee7c3a6946a305c1dc6d7c/master.m3u8?1676381044"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1az5wp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prototipado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Contenidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/248/045791b26d5a7c9fc06cb946c71ce6d1/master.m3u8?1676381036"
+                },
+                {
+                    "id": null,
+                    "title": "Sketching",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/249/6bc128388ad96c2ecbddea57277c40f9/master.m3u8?1676381037"
+                },
+                {
+                    "id": null,
+                    "title": "Wireframing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/257/3e6ed00e18c4b365b0e4342eebc5bb87/master.m3u8?1676381047"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6ferdl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/tuba0w.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 62,
+        "product_name": "UX: Usability and User Experience",
+        "teacher_name": "Daniel Torres Burriel",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5963,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

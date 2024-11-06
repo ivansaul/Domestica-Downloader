@@ -1,0 +1,210 @@
+{
+    "id": "941",
+    "title": "Introducción al diseño de videojuegos",
+    "url": "https://www.domestika.org/es/courses/941-introduccion-al-diseno-de-videojuegos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/989/749741b8caf05b89815067515db3739d/master.m3u8?1676388483"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/990/81a51eecdac95e33e311677e71add78e/master.m3u8?1676388480"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/992/00ece14084c7f91d5bb0cc62bab77d07/master.m3u8?1676388480"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yx9fhm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estructura de un GDD",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/993/7111bc10f300dad59c8a55af26c78879/master.m3u8?1676388480"
+                },
+                {
+                    "id": null,
+                    "title": "Product Sheet",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/994/4e67b0c6f91d15b5102c1532023f974b/master.m3u8?1676388485"
+                },
+                {
+                    "id": null,
+                    "title": "Organización del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/996/27ad50bdbf3248758b715af6d7f6147c/master.m3u8?1676388481"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gojjrz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Documentos Generales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Géneros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/997/e059594289166f0a1accd3a4d68a9115/master.m3u8?1676388487"
+                },
+                {
+                    "id": null,
+                    "title": "Cámaras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/998/33ad897c4e2b8faf126a06e18c1b45b8/master.m3u8?1676388484"
+                },
+                {
+                    "id": null,
+                    "title": "Controles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/017/999/f602d0c94c13ba21c6157a498744073f/master.m3u8?1676388482"
+                },
+                {
+                    "id": null,
+                    "title": "Guion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/000/1d57bd2afb004cefad697a7cdca14684/master.m3u8?1676388483"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qg9jxd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Documentos Principales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Documento de Personaje Principal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/001/3f1b6a15e18c4217b8e3aea081e2581c/master.m3u8?1676388484"
+                },
+                {
+                    "id": null,
+                    "title": "Documento de Enemigos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/002/070fba94837e259040064e2f29f8b707/master.m3u8?1676388486"
+                },
+                {
+                    "id": null,
+                    "title": "Documento Armas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/003/6745eac59811875661cdd32d4d383827/master.m3u8?1676388485"
+                },
+                {
+                    "id": null,
+                    "title": "Jugabilidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/004/a9d6fe7b32b71dc43580ea52680aa4dd/master.m3u8?1676388485"
+                },
+                {
+                    "id": null,
+                    "title": "Documento de niveles I elementos generales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/005/80a8c1e6ad1427bb59afa4c1ccd8cde6/master.m3u8?1676388487"
+                },
+                {
+                    "id": null,
+                    "title": "Documento de niveles II elementos específicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/006/bc795ecf787105e3e5ca4ff3d6adcb1e/master.m3u8?1676388486"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f4o8ox.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalización del GDD",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "HUD",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/007/2f7fb511c42b46e1484fc922605e2491/master.m3u8?1676388486"
+                },
+                {
+                    "id": null,
+                    "title": "GUI",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/008/d9c0a03a91c1fb0a037c2eb3e4b07032/master.m3u8?1676388487"
+                },
+                {
+                    "id": null,
+                    "title": "Diálogos  Localización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/009/906846b0bc537a24ff2dc7c928fa8dff/master.m3u8?1676388486"
+                },
+                {
+                    "id": null,
+                    "title": "Sonidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/010/43e4bd82a995f0a3c8fbe91f66dc21f5/master.m3u8?1676388489"
+                },
+                {
+                    "id": null,
+                    "title": "Producción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/018/011/31d1866e0e490ed04277a1f0122db427/master.m3u8?1676388488"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r4d127.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/nawfoc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 941,
+        "product_name": "Introduction to Video Game Design",
+        "teacher_name": "Arturo Monedero Alvaro",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 9431,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

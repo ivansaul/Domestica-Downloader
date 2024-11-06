@@ -1,0 +1,158 @@
+{
+    "id": "4788",
+    "title": "Diseño gráfico el arte de la forma y el color",
+    "url": "https://www.domestika.org/es/courses/4788-diseno-grafico-el-arte-de-la-forma-y-el-color/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/887/13758bb43e3a12966b5af95760ddffd4/master.m3u8?1676413642"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/888/2c0a2f8196434a08ba908e589c6fa065/master.m3u8?1676413647"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fo1l7z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo encontrar inspiración en cualquier momento y en cualquier lugar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Color y formas en diseño gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/889/e8ef5df2eefddd062d5cf081836f59fc/master.m3u8?1676413645"
+                },
+                {
+                    "id": null,
+                    "title": "El Método MAMIMU",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/890/0d000f6d8fac827d44d64a61c473d8ca/master.m3u8?1676413643"
+                },
+                {
+                    "id": null,
+                    "title": "Un ejercicio de calentamiento con manzanas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/891/0b61fc69fc0f4da95b255121cc530740/master.m3u8?1676413647"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hy9bo6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la inspiración al diseño paso a paso",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Salgamos en busca de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/892/7b4cf513894f266107fa4212ef422ddf/master.m3u8?1676413644"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo crear y curar un mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/893/4ecf8ebdaaadeae71e6724c545e78d92/master.m3u8?1676413648"
+                },
+                {
+                    "id": null,
+                    "title": "Realización de bocetos y marcas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/894/1608fa866c68dec25e085d36364da450/master.m3u8?1676413647"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando en Adobe Illustrator 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/895/b19369eb3aa5b0d010ed21be23001b2f/master.m3u8?1676413651"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando en Adobe Illustrator 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/896/b3b21422bf26127e7f402e58b2ce3538/master.m3u8?1676413653"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de carteles y publicaciones en redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/897/5f5041586d458f809e036b1836d72a5c/master.m3u8?1676413650"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oqd34u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Formas de amplificar tu trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Marca personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/898/990f771e812a3f86fed2c8862456ec9a/master.m3u8?1676413648"
+                },
+                {
+                    "id": null,
+                    "title": "Colaboración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/899/e27ccb176f7a146e0470b9fca87f8ecb/master.m3u8?1676413649"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/507xtg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ire1ib.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4788,
+        "product_name": "Graphic Design: The Art of Shape and Color",
+        "teacher_name": "June Mineyama-Smithson",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7078,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

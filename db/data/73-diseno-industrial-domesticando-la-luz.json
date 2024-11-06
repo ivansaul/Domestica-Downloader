@@ -1,0 +1,166 @@
+{
+    "id": "73",
+    "title": "Diseño Industrial domesticando la luz",
+    "url": "https://www.domestika.org/es/courses/73-diseno-industrial-domesticando-la-luz/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Antoni Arola",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/497/ab577cac8d59fa6caea6124dd0923cf8/master.m3u8?1676381180"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del estudio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/485/76a1fd9fa8cdc30547ed5433c4253c77/master.m3u8?1676381176"
+                },
+                {
+                    "id": null,
+                    "title": "Referentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/487/c650ba31be587d8f838b0b8c65449867/master.m3u8?1676381178"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uj6gzr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comprender la luz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/486/fe14e9bdd66292d228991a7fe3d7ee5c/master.m3u8?1676381175"
+                },
+                {
+                    "id": null,
+                    "title": "Maneras de iluminar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/488/88fba57839600472cefe9fb542ed52f6/master.m3u8?1676381178"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de fuentes de luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/489/7cae901ee9e499bf18f9181cdc31d09d/master.m3u8?1676381177"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jdv67p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Anteproyecto de la lámpara",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Germinación de la Idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/490/bef5df6990f3e7cfaf27e29c0f8fcf1a/master.m3u8?1676381177"
+                },
+                {
+                    "id": null,
+                    "title": "Tres Ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/491/7ea0090bd5ac6b0ffd4ef00fd8d2a484/master.m3u8?1676381177"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f7q45l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proyecto Flamingo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición de la familia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/492/473cde3886043ae54436a7cbd8922d6e/master.m3u8?1676381178"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/493/2d4d682079492b872b5750cf047c7e8f/master.m3u8?1676381177"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p5mx5p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Una vez acabada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Se presenta el producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/494/d6d57cb83bf15c31598e1315b93a2eac/master.m3u8?1676381177"
+                },
+                {
+                    "id": null,
+                    "title": "Producto acabado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/495/0ef4bfd28e1fea5bc6161fd65ec4be26/master.m3u8?1676381177"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jtlynh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/f5r1f2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 73,
+        "product_name": "Industrial Design: domesticating light",
+        "teacher_name": "Antoni Arola",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5350,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

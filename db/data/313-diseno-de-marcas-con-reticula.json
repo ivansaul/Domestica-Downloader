@@ -1,0 +1,202 @@
+{
+    "id": "313",
+    "title": "Diseño de marcas con retícula",
+    "url": "https://www.domestika.org/es/courses/313-diseno-de-marcas-con-reticula/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/363/fd7300f4833940e6dea984131ad89edf/master.m3u8?1676384130"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/364/7bb437d21707b743a5640b420baabe9e/master.m3u8?1676384128"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eca9dz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué es una marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/365/97aa6544f466193afc4bc5e7408bf910/master.m3u8?1676384128"
+                },
+                {
+                    "id": null,
+                    "title": "Taxonomía de marcas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/366/30f2fc707dbda38a08dc4a4d0baf9493/master.m3u8?1676384129"
+                },
+                {
+                    "id": null,
+                    "title": "Metodología",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/367/5a9dc2dce5bb24298608f2f4513c7078/master.m3u8?1676384129"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/31q0ki.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dimensiones del signo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Nivel semántico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/368/cecbffcb7a9da76262c5c07f5c4662bf/master.m3u8?1676384130"
+                },
+                {
+                    "id": null,
+                    "title": "Nivel sintáctico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/369/e689bc9f3cc7a8b03cbf54cf96d4eeb7/master.m3u8?1676384129"
+                },
+                {
+                    "id": null,
+                    "title": "Nivel pragmático",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/370/e69839b8445195d51a501b72ae5a3a9a/master.m3u8?1676384133"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tv2vx4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Planteamiento de ideas a partir de un brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/371/fdd4ba7f00efaf28ba3ea2703f0581ce/master.m3u8?1676384139"
+                },
+                {
+                    "id": null,
+                    "title": "Panel de ideas moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/372/7eacb47d2913d3c1227cce23057f9804/master.m3u8?1676384132"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/izylrd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Boceto retícula y vectorización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Retícula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/373/2609efa42f76a2236b201b006417f660/master.m3u8?1676384134"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/374/e08b944d1e3a89c23a15f876f78d43f2/master.m3u8?1676384136"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/375/f1e4865fba536422b083ee8d7b715953/master.m3u8?1676384151"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5nwzxd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elección tipográfica color y presentación al cliente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Eligiendo la fuente correcta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/376/77eb3c346981c1515c86c230fe3d4e24/master.m3u8?1676384137"
+                },
+                {
+                    "id": null,
+                    "title": "Color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/377/bab9b2bd2c1f7d9c9d0de208798e0ac1/master.m3u8?1676384141"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación de nuestra marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/378/05ea2894f1d56a360e480259cdf5ad6b/master.m3u8?1676384139"
+                },
+                {
+                    "id": null,
+                    "title": "Bonus Track",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/379/efc56cbf68016a2f7605fa7af8a5ba11/master.m3u8?1676384133"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6imgkw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/wdzwlx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 313,
+        "product_name": "Brand Design with Grids",
+        "teacher_name": "Christian Pacheco Quijano",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 8584,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}
