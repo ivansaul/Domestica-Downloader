@@ -1,0 +1,169 @@
+{
+    "id": "1481",
+    "title": "Dirección de fotografía cinematográfica avanzada",
+    "url": "https://www.domestika.org/es/courses/1481-direccion-de-fotografia-cinematografica-avanzada/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/089/044419bf06b0de12b8c275a3d7708f7e/master.m3u8?1676392765"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/090/c66709cbc9797b19f7a8c0f1cd2abaa5/master.m3u8?1676392769"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/091/06e3f231e0c08ef30835504ede517779/master.m3u8?1676392765"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t4e4of.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales y herramientas técnicas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ópticas esféricas y anamórficas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/092/5db262ace6aa82f816941cc630154124/master.m3u8?1676392767"
+                },
+                {
+                    "id": null,
+                    "title": "Sensitometría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/093/5aba426ba320743a8da82512ea5541f3/master.m3u8?1676392768"
+                },
+                {
+                    "id": null,
+                    "title": "Sensores de cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/094/7d3d0091ca62a1617aab42ca45d010ea/master.m3u8?1676392768"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/095/841d1c83c278b3214e3a8ba06d1dfb45/master.m3u8?1676392767"
+                },
+                {
+                    "id": null,
+                    "title": "Condiciones de la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/096/f7101d861b19d62a5b9a1ca585c05447/master.m3u8?1676392772"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ye14kn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Rodaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Montaje del set",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/097/4cd6aee06cad841d1b671d8c2d69574a/master.m3u8?1676392771"
+                },
+                {
+                    "id": null,
+                    "title": "Rodaje del plano secuencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/098/e1e435981c2ad7e588154bdb5bb57e23/master.m3u8?1676392770"
+                },
+                {
+                    "id": null,
+                    "title": "Rodaje de varios planos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/099/7fc9524fbb38f336493f5822969f465d/master.m3u8?1676392770"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/duayfv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Todo cobra sentido en la post",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Espacios de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/100/90c78b4ef94fe3ae3c7ff4d3623c65be/master.m3u8?1676392770"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo hacer un LUT",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/101/614492ff6d4565875e0984bcedd407fa/master.m3u8?1676392769"
+                },
+                {
+                    "id": null,
+                    "title": "Colorización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/102/b6ba0cc7ec30ab442d3d8f0e661b5242/master.m3u8?1676392772"
+                },
+                {
+                    "id": null,
+                    "title": "Pieza final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/103/9d4758a310c57db087081b8fca9c0467/master.m3u8?1676392774"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qpf22e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/f9ikmy.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1481,
+        "product_name": "Advanced Cinematography Techniques",
+        "teacher_name": "David Curto",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 5896,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

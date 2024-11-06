@@ -1,0 +1,205 @@
+{
+    "id": "2312",
+    "title": "Diseño web con Figma creación de interfaces eficaces",
+    "url": "https://www.domestika.org/es/courses/2312-diseno-web-con-figma-creacion-de-interfaces-eficaces/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/817/9d8f7f4de511f37f9e0c9c33199a041a/master.m3u8?1676398944"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/818/7c5275367bec5b8a757fd28b0dfa14fc/master.m3u8?1676398944"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8mboa0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos del diseño visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Principios de composición y diseño visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/819/2f39bbaa8d8a87fe5a8ea3e94a172025/master.m3u8?1676398946"
+                },
+                {
+                    "id": null,
+                    "title": "Principios de la Gestalt utilizados en el diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/820/86afed4c8de5889275d24c55abdcf3b7/master.m3u8?1676398946"
+                },
+                {
+                    "id": null,
+                    "title": "Jerarquía visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/821/e98073359e51e8be1c72e110307fe6ef/master.m3u8?1676398946"
+                },
+                {
+                    "id": null,
+                    "title": "Affordances en UI",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/822/0e43c644b2a5f455c3a6e18edf524396/master.m3u8?1676398948"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fuqfw2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elementos visuales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a los elementos visuales y comprensión del resumen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/823/f421ad47209e3dcd4274c7e1a4d830de/master.m3u8?1676398949"
+                },
+                {
+                    "id": null,
+                    "title": "Composición básica en Figma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/824/44de11cc48fa1af85b67a544496678b0/master.m3u8?1676398953"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/826/6c15d621f38655acccd748abadd77613/master.m3u8?1676398951"
+                },
+                {
+                    "id": null,
+                    "title": "Crear una paleta de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/827/0ad4d2fabcd2c3fad49c21f9e97a98dd/master.m3u8?1676398954"
+                },
+                {
+                    "id": null,
+                    "title": "Gráficos e iconos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/828/a336ca70c9a463c5d12827c932a6722b/master.m3u8?1676398954"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/829/3dd0f3c166e7f64cd092465dc045665f/master.m3u8?1676398957"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c1bsvv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Poniendolo todo junto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dibujar una estructura alámbrica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/916/1a12bb18a633550861803ecc85028082/master.m3u8?1676398998"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de su guía de estilo visual 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/830/c0cefdc732ba457f383287ee50a435b2/master.m3u8?1676398957"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de su guía de estilo visual 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/835/520cd489f2972b3eb41ac4714a5afc48/master.m3u8?1676398957"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de una maqueta de alta fidelidad 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/836/45d4e10de8aed63baa2f753213794336/master.m3u8?1676398960"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo una maqueta de alta fidelidad 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/837/127c180cf32c582053710f5fde327b6f/master.m3u8?1676398958"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/igkw33.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de prototipos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Interacciones de botones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/838/228de784f4cdddc39cf46f13b5ee5c9d/master.m3u8?1676398958"
+                },
+                {
+                    "id": null,
+                    "title": "Vinculación a páginas y modales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/840/2d62990b79e71176616e5457a4d97a86/master.m3u8?1676398959"
+                },
+                {
+                    "id": null,
+                    "title": "Compartiendo su prototipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/841/acc929ab2569040e514d2dbd5e852628/master.m3u8?1676398959"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j5ay0p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/tjmf3p.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2312,
+        "product_name": "Web Design with Figma: Building Striking Compositions",
+        "teacher_name": "Pablo Stanley",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 9816,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

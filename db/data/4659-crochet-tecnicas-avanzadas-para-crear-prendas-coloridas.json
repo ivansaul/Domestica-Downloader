@@ -1,0 +1,168 @@
+{
+    "id": "4659",
+    "title": "Crochet técnicas avanzadas para crear prendas coloridas",
+    "url": "https://www.domestika.org/es/courses/4659-crochet-tecnicas-avanzadas-para-crear-prendas-coloridas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/867/bd4b4239cb3176c150315ff533a479f3/master.m3u8?1676377065"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/868/bf50420b4974c9c6965bdbd07a63cdae/master.m3u8?1676377084"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bwtozl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación de los materiales utilizados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/869/8d91281cb11d6dd41e4aacc6ac1f6ded/master.m3u8?1676377104"
+                },
+                {
+                    "id": null,
+                    "title": "Leer recetas escritas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/870/7158c304585c4c428b441f464db60146/master.m3u8?1676377122"
+                },
+                {
+                    "id": null,
+                    "title": "Puntos básicos de crochet",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/871/e282e28a86cad6c52e7c9de62ad70876/master.m3u8?1676377146"
+                },
+                {
+                    "id": null,
+                    "title": "cuadrado de ganchillo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/872/64b05ea12fda878eb46a1500835acf19/master.m3u8?1676377180"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas avanzadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/873/7d133888376d535002dc5abec9a6b61a/master.m3u8?1676377184"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sx32vu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Produciendo tus proyectos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollo de blusas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/874/fe9451a593856da75f1193510563c2b1/master.m3u8?1676377214"
+                },
+                {
+                    "id": null,
+                    "title": "Escote blusa y acabados finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/875/8923705619ef723ad3ab676bf9e47a13/master.m3u8?1676377250"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de pantalones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/876/a6cb3ca22201f611ece1d058345762f8/master.m3u8?1676377250"
+                },
+                {
+                    "id": null,
+                    "title": "Gancho perneras y cinturilla y acabados finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/877/9458309ab50763936ef93bbfc0796420/master.m3u8?1676377265"
+                },
+                {
+                    "id": null,
+                    "title": "Adaptar el proyecto para desarrollar un sombrero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/878/89cb6daba13eb861a8485adbf3d54c5b/master.m3u8?1676377284"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2zo8c0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cuidados piezas de autor y looks",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo guardar y lavar tus piezas hechas a mano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/879/d8953409e13134cd4a901d36b1d75666/master.m3u8?1676377299"
+                },
+                {
+                    "id": null,
+                    "title": "Crea un panel de estado de ánimo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/880/07f9272110c55fe15dff1487ea4be9d0/master.m3u8?1676377323"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo combinar piezas en diferentes looks",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/881/52dc406848c2980a05b7f6095125f0ad/master.m3u8?1676377334"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ut44gf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/f51q26.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4659,
+        "product_name": "Crochet: Advanced Techniques to Colorful Garments",
+        "teacher_name": "Marie Castro",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8556,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "id": "50",
+    "title": "Identidad corporativa bi y tridimensional",
+    "url": "https://www.domestika.org/es/courses/50-identidad-corporativa-bi-y-tridimensional/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/915/020093307dbab286c7633163ddb716b3/master.m3u8?1676380902"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/916/092402a6cda009180161be99da68a857/master.m3u8?1676380905"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajos perceptivos parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/923/a805f2b61cb9a910f7c833e795032d4a/master.m3u8?1676380914"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajos perceptivos parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/924/d844cb991b6a5eab2ad799a56b29bfdb/master.m3u8?1676380911"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l8r5zd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fase inicial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño del encargo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/917/116ac99f8395a3cdb2ab92e649b27b6d/master.m3u8?1676380905"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso de abocetar el isotipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/925/99b3937ecb291647f6b6e6ef3144038e/master.m3u8?1676380909"
+                },
+                {
+                    "id": null,
+                    "title": "El imagotipo Introducir el nombre de la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/927/04a66d810b7571a331bac64c87a16f86/master.m3u8?1676380908"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia del negativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/928/6916bbb24d410e58e520b911418d62e8/master.m3u8?1676380908"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7q4vv7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicaciones del imagotipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las primeras aplicaciones parte I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/918/999438ed0ea4991ea27a20ad5c1f80b8/master.m3u8?1676380910"
+                },
+                {
+                    "id": null,
+                    "title": "Las primeras aplicaciones parte II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/919/a69386d76a5d5997d57baba2a09bbb59/master.m3u8?1676380905"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo se presenta al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/920/ba50339f51fcfc4a53373a67f43a0d79/master.m3u8?1676380907"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8p5a1d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manual de Normas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El manual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/921/5a8ddc9218f90840ef34748f01019686/master.m3u8?1676380910"
+                },
+                {
+                    "id": null,
+                    "title": "Escultura sinestésica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/922/754ea0c820c13b6ed038d4342ad4c375/master.m3u8?1676380911"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iuikvd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mxi8l9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 50,
+        "product_name": "2D and 3D Corporate Identity",
+        "teacher_name": "Cruz Novillo & Pepe Cruz",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8919,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

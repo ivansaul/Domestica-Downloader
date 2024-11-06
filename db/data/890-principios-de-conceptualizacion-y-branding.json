@@ -1,0 +1,193 @@
+{
+    "id": "890",
+    "title": "Principios de conceptualización y branding",
+    "url": "https://www.domestika.org/es/courses/890-principios-de-conceptualizacion-y-branding/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/062/85f4f790ea9a4aae45e01fc171d8588c/master.m3u8?1676390347"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/064/fec5ec27f4e456255c43295e0ade7a15/master.m3u8?1676390350"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/093/d9eefde852adfc0df9ad86177c446242/master.m3u8?1676390829"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8e11n3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El branding y la conceptualización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El Branding",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/065/43c1164e4a6714a24bd78162f02a4be2/master.m3u8?1676390349"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia del concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/070/ddbee497e515d86d4b95cbd86388ea53/master.m3u8?1676390350"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas o métodos de conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/071/949f4c5f1973746528924a46fa120513/master.m3u8?1676390349"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gx4c36.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Observación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encargo y brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/072/758eaabd1277b0c5b38e067bb77536a3/master.m3u8?1676390349"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategia y narrativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/073/065294215ada6b3350ff7f2cb7316bbc/master.m3u8?1676390350"
+                },
+                {
+                    "id": null,
+                    "title": "Menos Software más Concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/074/ef2fd7a7857ef5ea90bbfe169c8c90c9/master.m3u8?1676390355"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1ziqmi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Identidad Conceptual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Arquetipos de Jung",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/075/2839b7a2e9c86e4306408b6f9044ca9a/master.m3u8?1676390351"
+                },
+                {
+                    "id": null,
+                    "title": "Voz tono y estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/076/214ff7361693fae18a67f867e3baf060/master.m3u8?1676390353"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xfgtd0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Del concepto al Diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección tipográfica primaria y secundarias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/712/b42fba3c2363a6332ad884cde3c0e9bf/master.m3u8?1676390673"
+                },
+                {
+                    "id": null,
+                    "title": "Logo Suite",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/018/a51691c917fdf05da92a561e30a317a8/master.m3u8?1676390793"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wov0bc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cierre de proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Identidad de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/709/c83877963c708c643dbf73fb76b1c5ff/master.m3u8?1676390671"
+                },
+                {
+                    "id": null,
+                    "title": "Aprobación de cliente y entrega de proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/710/e0f3b21add6e4ada00cc1d79dc2a3695/master.m3u8?1676390672"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qlj45t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/f3gjyg.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 890,
+        "product_name": "Developing a Creative Concept for Branding Projects",
+        "teacher_name": "HUMAN",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 5997,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

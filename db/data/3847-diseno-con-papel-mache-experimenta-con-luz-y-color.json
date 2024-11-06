@@ -1,0 +1,168 @@
+{
+    "id": "3847",
+    "title": "Diseño con papel maché experimenta con luz y color",
+    "url": "https://www.domestika.org/es/courses/3847-diseno-con-papel-mache-experimenta-con-luz-y-color/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/976/ad215e90c747aad1ab99f8ac971b0c5d/master.m3u8?1676408040"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/977/d3000e9e8f9233fb4c05fd4568f34a51/master.m3u8?1676408041"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i7m547.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Experimentos con formas y materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Papel y papel maché",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/978/e4eb238aadd6db4741b45d638c4c3ee6/master.m3u8?1676408041"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/979/c86c0f30227cc25e94f7e1bd876c6a68/master.m3u8?1676408041"
+                },
+                {
+                    "id": null,
+                    "title": "Jugando con luces y volúmenes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/980/2481b5da35d5c614931d8b05ba0264fa/master.m3u8?1676408046"
+                },
+                {
+                    "id": null,
+                    "title": "Jugando con luces y volúmenes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/981/c16eefe73448a4d8f3404858e29d3853/master.m3u8?1676408044"
+                },
+                {
+                    "id": null,
+                    "title": "Experimentar con papel maché",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/982/9870e285d2c5c22a17a2daf56b2464d0/master.m3u8?1676408044"
+                },
+                {
+                    "id": null,
+                    "title": "Color y espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/983/fda262cf714ff6acf21131f9fce8f73b/master.m3u8?1676408043"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1wrlxv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo la estructura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "De la forma a la estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/984/5f836321ddbbe7d57f11cedf85ed7f65/master.m3u8?1676408043"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación del marco 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/985/eaaa0e09d4587f7b041031a34a48783e/master.m3u8?1676408047"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación del marco 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/986/eccd9c042490783dc8cf6696b095870b/master.m3u8?1676408045"
+                },
+                {
+                    "id": null,
+                    "title": "Elaboración del papel maché",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/987/efe2046ba55164d4591f5e6727429320/master.m3u8?1676408044"
+                },
+                {
+                    "id": null,
+                    "title": "Acabado y color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/988/807c770aba7704b4a54b431ac6175d3e/master.m3u8?1676408045"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xt4xv0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Toques finales y consejos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cuelga la estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/989/3b35f768232e72b4f6d32469b9c3f2a5/master.m3u8?1676408044"
+                },
+                {
+                    "id": null,
+                    "title": "Alternativas de formas y colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/990/b648754290ef7459e803d73d7d600d8c/master.m3u8?1676408045"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rbzjd3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mhxcpv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3847,
+        "product_name": "Paper-Mache Design: Explore Light and Color",
+        "teacher_name": "Marco Zavagno",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 6784,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

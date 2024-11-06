@@ -1,0 +1,158 @@
+{
+    "id": "3139",
+    "title": "Introducción al service design mejora la experiencia del usuario",
+    "url": "https://www.domestika.org/es/courses/3139-introduccion-al-service-design-mejora-la-experiencia-del-usuario/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/559/cb485970a842e941aa13efacf2bf66ba/master.m3u8?1676403102"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/560/10997868147c1a4333fe146ab5545532/master.m3u8?1676403102"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x2gjmt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Por qué diseñar servicios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La metodología",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/561/11988f827f25879f202093184710e86a/master.m3u8?1676403102"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos clave del diseño de servicios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/563/75fa79db10fe91e5c31d55ef1145bc64/master.m3u8?1676403101"
+                },
+                {
+                    "id": null,
+                    "title": "Diferencias con otras metodologías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/564/c92dd2cdeec160d46d23193868a7a546/master.m3u8?1676403102"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo diseñar un servicio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/831/89509226826061f887ed42985bf780b9/master.m3u8?1676404161"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l45fwg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Análisis del estado actual del servicio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Evaluar el servicio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/565/3056bfe5a5bd596be3658fcd992534ee/master.m3u8?1676403105"
+                },
+                {
+                    "id": null,
+                    "title": "Entender a los stakeholders",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/566/9482a1df7bfbabf4075d0a38e6ba29cf/master.m3u8?1676403104"
+                },
+                {
+                    "id": null,
+                    "title": "Entender a los usuarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/567/a00bde475a76b7a84b723fac4360bef6/master.m3u8?1676403104"
+                },
+                {
+                    "id": null,
+                    "title": "Diagramar la experiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/568/7f84c7f87d4d8ee34c29194a4d8fad62/master.m3u8?1676403107"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e3b0db.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de un mejor servicio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Idear mejoras en el servicio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/569/7b53b6c2f36fa58232e1e65e377fcfad/master.m3u8?1676403109"
+                },
+                {
+                    "id": null,
+                    "title": "Crear el blueprint de tu idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/570/42df8fa4de3ae4f74f06dc2fb117b11b/master.m3u8?1676403106"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipar mejoras en el servicio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/832/b1dcf1a09ae1bd0ec9e1e8bf7394d7c6/master.m3u8?1676404163"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yufjkv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/31cto2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3139,
+        "product_name": "Introduction to Service Design: Improve User Experience",
+        "teacher_name": "Gabriela Salinas",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4542,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

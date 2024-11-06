@@ -1,0 +1,154 @@
+{
+    "id": "1108",
+    "title": "Color aplicado al diseño de interiores",
+    "url": "https://www.domestika.org/es/courses/1108-color-aplicado-al-diseno-de-interiores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/098/dbe7eefad336c09bf624c3a623b8d6a0/master.m3u8?1676388960"
+                },
+                {
+                    "id": null,
+                    "title": "Tendencias y referentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/486/a751c5b7931b168d1279793bc4fb350c/master.m3u8?1676389651"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/105/ab94b594ff691fafa2b29363b24ced82/master.m3u8?1676388958"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/15s3c9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación oficial hola color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "A veces sí a veces no combinación de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/109/93a7fe03f82671cc86feee4dba5ca7b4/master.m3u8?1676388961"
+                },
+                {
+                    "id": null,
+                    "title": "Para gustos los colores primarios secundarios y terciarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/480/045271257e4581840711a24c153084cd/master.m3u8?1676389641"
+                },
+                {
+                    "id": null,
+                    "title": "La fiebre del color y su psicología",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/483/90698cbd692672c49652203c459ba0ac/master.m3u8?1676389644"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qyogpd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Disfrutando del color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dando forma a las ideas y emociones mood boards",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/114/a1a84104421110dbf96ad890ec13f53c/master.m3u8?1676388961"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia de los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/115/1e92046476c8a33f9a7e40fa250dd812/master.m3u8?1676388962"
+                },
+                {
+                    "id": null,
+                    "title": "Color en 3D y el diseño de interiores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/479/b1199c9d441c053aba7a424884f515d8/master.m3u8?1676389641"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1spxp6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La hora de la creatividad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Para poder crear hay que saber escuchar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/116/9d4eb2cac7a7bead42baf5c358d4598f/master.m3u8?1676388966"
+                },
+                {
+                    "id": null,
+                    "title": "Conocer y conectar con el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/117/1a5b92d628a4c86e31fc5e9687e93e56/master.m3u8?1676388966"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración u0026 mood boards",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/118/facdfb1aac7eb63f6e4680d9b7a6cbdb/master.m3u8?1676388967"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lhx39t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/x6id52.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1108,
+        "product_name": "Color Applied to Interior Design",
+        "teacher_name": "Miriam Alía",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5013,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

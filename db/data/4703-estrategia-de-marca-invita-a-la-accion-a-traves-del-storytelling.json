@@ -1,0 +1,148 @@
+{
+    "id": "4703",
+    "title": "Estrategia de marca invita a la acción a través del storytelling",
+    "url": "https://www.domestika.org/es/courses/4703-estrategia-de-marca-invita-a-la-accion-a-traves-del-storytelling/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/705/c1e5b11c61beef4515570ab01865903e/master.m3u8?1676413528"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/706/1d323f8f2cc3109364fc9a0b6f697dc4/master.m3u8?1676413531"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j9t7wr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Marca The Building Blocks",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conjunto de herramientas los fundamentos de la creación de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/708/253023b7f6250fcecaf7494ca27b1720/master.m3u8?1676413528"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso narración de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/709/b8d3dadc3e58ad6af8aef6cd76812a6a/master.m3u8?1676413528"
+                },
+                {
+                    "id": null,
+                    "title": "Mentalidad qué es una marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/042/34b157e6dff7d38ab6e363e293924d48/master.m3u8?1679654249"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d6wwg4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo el modelo de marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Considerando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/712/6d7451aa483732ed5a5a4299610f5004/master.m3u8?1676413533"
+                },
+                {
+                    "id": null,
+                    "title": "Creando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/714/a09aeed3d464738ee761f79461493c78/master.m3u8?1676413531"
+                },
+                {
+                    "id": null,
+                    "title": "Articulando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/715/36a2c9197afc38e92382ea72c6ce767a/master.m3u8?1676413534"
+                },
+                {
+                    "id": null,
+                    "title": "El modelo de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/716/36f761c30ccbb69e2b0e716d951becf4/master.m3u8?1676413535"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r9bqiq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Después del plano",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación y medición del éxito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/718/f6a6282ccfddeeb3f6c44db85810c83e/master.m3u8?1676413535"
+                },
+                {
+                    "id": null,
+                    "title": "Mensajería de marca y más allá",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/719/88e03988a94a6594668aec558f98332a/master.m3u8?1676413536"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5qf48w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ny2bb8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4703,
+        "product_name": "Brand Strategy: Inspire Action through Storytelling",
+        "teacher_name": "Jessie McGuire",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 6301,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

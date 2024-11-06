@@ -1,0 +1,206 @@
+{
+    "id": "4867",
+    "title": "Joyería en metal pintada a mano con pátinas y pigmentos",
+    "url": "https://www.domestika.org/es/courses/4867-joyeria-en-metal-pintada-a-mano-con-patinas-y-pigmentos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/342/32826dbc7a92ff2116e2e5b4f21dcd51/master.m3u8?1681118858"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/343/aa360b0700e034517d4c9171866f5fbe/master.m3u8?1681118919"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5zaf1h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación del metal",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las herramientas de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/344/da94d09164ea9474c7145403efd899c2/master.m3u8?1681119009"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación del metal para pintar cortar formas simples",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/345/1bb36a6d886227adaf869092c682a8b9/master.m3u8?1681119075"
+                },
+                {
+                    "id": null,
+                    "title": "Calado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/346/c92c967ea24e0a4dc4b58d14159a7129/master.m3u8?1681119257"
+                },
+                {
+                    "id": null,
+                    "title": "Limado de los bordes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/347/13eee670a0077f41dab0d1a8180ca9f0/master.m3u8?1681119322"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eifclr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pátinas y color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pátina casera verde y azul",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/348/4498f603c3fef7059df2393845e0ea1f/master.m3u8?1681119515"
+                },
+                {
+                    "id": null,
+                    "title": "Pátina casera negros y marrones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/349/ca1cd346c71d6fc634e8ae1b6bb1c365/master.m3u8?1681119577"
+                },
+                {
+                    "id": null,
+                    "title": "Pátina casera rojo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/350/842b25232a83d41073769b5ff96cc381/master.m3u8?1681119638"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo trabajar con pátina industrial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/351/f2239636e37b30375f374a2e06b1c8d8/master.m3u8?1681119699"
+                },
+                {
+                    "id": null,
+                    "title": "Barnices y ceras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/352/ad7aec3ddefe6121848aa23c604e0821/master.m3u8?1681119756"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0c30da.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fabricación de la joya",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Búsqueda de inspiración y elección de un diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/354/f3d3431e9350f028512d014d13bebd42/master.m3u8?1681119879"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujo en el metal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/355/f2436a2b9bd66162a4200eb75c899868/master.m3u8?1681119930"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/356/cba741d664686cdf70228aebef2522e1/master.m3u8?1681119980"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación del color con acrílicos acuarelas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/357/6276d683112b93e2ccd00a9106424eb2/master.m3u8?1681120032"
+                },
+                {
+                    "id": null,
+                    "title": "Ensamble final de la pieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/359/ea551ab48efe529eaf44746323ba4d67/master.m3u8?1681120084"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pgo0zk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pulido y últimos retoques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/360/e6cc7f92b8b5c9cf4047f27e5350272e/master.m3u8?1681120151"
+                },
+                {
+                    "id": null,
+                    "title": "Accesorios y embalaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/362/7db839f7f99e37f1d9037d281e94c71f/master.m3u8?1681383980"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos sobre cuidados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/363/59634cb9d8d4efb68a6c958596575857/master.m3u8?1681120254"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo compartir tus proyectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/364/c87d4d5e3e34707c02d7bfc806dac7b7/master.m3u8?1681120301"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s53s9c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/gsso6g.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4867,
+        "product_name": "Hand-Painted Metal Jewelry with Patinas and Pigments",
+        "teacher_name": "Maria Rosua",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 5682,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

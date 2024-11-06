@@ -1,0 +1,221 @@
+{
+    "id": "210",
+    "title": "Dirección de arte y creatividad en movimiento",
+    "url": "https://www.domestika.org/es/courses/210-direccion-de-arte-y-creatividad-en-movimiento/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/828/de17038c552aa9ed18ac7b5f0dcff553/master.m3u8?1676382829"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/829/9a627acaa25efbfe7287274e157d76a2/master.m3u8?1676382840"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/226lep.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El Proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué vamos a hacer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/830/d78cffdd6c4f2a0cbdd6793b1090f0ee/master.m3u8?1676382832"
+                },
+                {
+                    "id": null,
+                    "title": "Los 4 ingredientes indispensables de Flaminguettes para un buen proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/831/4704539b575225bde2b2eb82ab3be9fe/master.m3u8?1676382835"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3qn3sq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crea un bodegón que represente tu comida favorita",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elige tu comida favorita",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/858/8780aa4333b04a0ec73c4b03427d5b29/master.m3u8?1676382843"
+                },
+                {
+                    "id": null,
+                    "title": "Diario de experiencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/881/09b36bb64aade0dc694694fd211e8077/master.m3u8?1676382856"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación teórica y visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/859/c3d5dbba649aa740fdef4a9171a34ff9/master.m3u8?1676382848"
+                },
+                {
+                    "id": null,
+                    "title": "Define tu concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/869/cec088227996ffb755f0faeb2d9004cb/master.m3u8?1676382850"
+                },
+                {
+                    "id": null,
+                    "title": "Elige tus elementos favoritos y resignifícalos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/870/5d22a8f4390e069408c25418839bb494/master.m3u8?1676382851"
+                },
+                {
+                    "id": null,
+                    "title": "Trae un elemento inesperado a tu composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/871/d30ab4cc4671a7d6390e271dbeb58799/master.m3u8?1676382850"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w8f8cn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prepara tu bodegón",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inspiration Board paleta de color y boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/860/8d3ae4dcbbbeb9c46fb8672384795e9e/master.m3u8?1676382848"
+                },
+                {
+                    "id": null,
+                    "title": "Busca tus props y fondos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/862/4b8cc21261ba762594f33b1f90f30028/master.m3u8?1676382851"
+                },
+                {
+                    "id": null,
+                    "title": "Planea el movimiento de tu bodegón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/872/f1fc4e944a3838e83d908b2afaf60895/master.m3u8?1676382858"
+                },
+                {
+                    "id": null,
+                    "title": "Consigue y elige tus materiales y equipo foto  video",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/876/389bc2e664f1b962efd2abd145ff83c7/master.m3u8?1676382852"
+                },
+                {
+                    "id": null,
+                    "title": "Breakdown",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/873/376ac1e12ec1f7031f064d68a26ff5f0/master.m3u8?1676382852"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yxskde.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Haz tu Bodegón en Movimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Monta tu composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/861/d64be8b1664d7020d9f2afa11cb80e83/master.m3u8?1676382847"
+                },
+                {
+                    "id": null,
+                    "title": "Captura el movimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/874/27df640ad5ccc9105146971e7860ed5a/master.m3u8?1676382855"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6k01ss.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Retoques finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Retoque I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/863/24ec336071eaf4f0fd00806104e9c965/master.m3u8?1676382851"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/864/4efcc888a123f79873067b56f2b0646a/master.m3u8?1676382853"
+                },
+                {
+                    "id": null,
+                    "title": "Compuesto I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/875/7247e0c9b2660d66d80d8ea2195dc033/master.m3u8?1676382859"
+                },
+                {
+                    "id": null,
+                    "title": "Compuesto II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/865/34106adaa020646e9a2558d219d3d1e6/master.m3u8?1676382852"
+                },
+                {
+                    "id": null,
+                    "title": "Render",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/958/2475c0549d5fe11ea49caf8e867c5895/master.m3u8?1676382919"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vml5w9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/2s2jzc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 210,
+        "product_name": "Art Direction and Creativity in Movement",
+        "teacher_name": "Flaminguettes",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 22,
+        "course_total_duration_sec": 12612,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

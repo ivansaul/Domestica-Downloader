@@ -1,0 +1,180 @@
+{
+    "id": "1647",
+    "title": "Diseño y prototipado de tu primera silla",
+    "url": "https://www.domestika.org/es/courses/1647-diseno-y-prototipado-de-tu-primera-silla/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/316/2350475647608716012388231f61351f/master.m3u8?1676393893"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/317/c67992f5b8cd5267b3301d9575bae7e2/master.m3u8?1676393893"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/318/5e8ba29e3981eb0e50cbed7413b48fd9/master.m3u8?1676393893"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zxkbne.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La silla el gran icono del mueble",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Historia de la silla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/319/a8e279204163f0ca9441fba411bb8cf4/master.m3u8?1676393893"
+                },
+                {
+                    "id": null,
+                    "title": "Sobre las sillas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/320/cad852b6bc6fc34906ec8f020bb04283/master.m3u8?1676393894"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/321/e617e039af530d19b237e3d5419272cf/master.m3u8?1676393895"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hdgg6u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bocetos y conceptos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bocetado de ideas libres",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/322/3e90767cd1f3ac31cd61cdb80617ffe0/master.m3u8?1676393895"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de la idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/323/bf946fb3988961b666d187c33ab1aa8a/master.m3u8?1676393900"
+                },
+                {
+                    "id": null,
+                    "title": "Dimensionar y  hacer el plano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/324/9c0e4a893848f1a8c82515f8b247bd88/master.m3u8?1676393901"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pio3rq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Maquetas y prototipos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Maqueta a escala 110",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/325/03e96b7e5d7e43e19e318796f8a71e94/master.m3u8?1676393901"
+                },
+                {
+                    "id": null,
+                    "title": "Maqueta a escala real 11 Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/326/0db9e8aafef87fc0b6614fac6a84b726/master.m3u8?1676393903"
+                },
+                {
+                    "id": null,
+                    "title": "Maqueta a escala real 11 Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/327/f8ef756d1223de44c648a775c98e1586/master.m3u8?1676393899"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipo final con artesanos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/328/a10eeb9e6f4fb1d9d8b3c31e3b364e6a/master.m3u8?1676393897"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dm45by.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Muestra tu diseño al mundo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografía de producto y dirección de arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/329/d8af1189a88bb768292d657c11ac94d2/master.m3u8?1676393899"
+                },
+                {
+                    "id": null,
+                    "title": "Presenta tu diseño al mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/330/7b12aaf358da9eb38b22b729684ec0cf/master.m3u8?1676393899"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cdnsa2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hqmkjz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1647,
+        "product_name": "Designing and Prototyping Your First Chair ",
+        "teacher_name": "Muka Design Lab",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7045,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

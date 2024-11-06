@@ -1,0 +1,283 @@
+{
+    "id": "169",
+    "title": "Gráficos vectoriales SVG ilustrar y animar con código",
+    "url": "https://www.domestika.org/es/courses/169-graficos-vectoriales-svg-ilustrar-y-animar-con-codigo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/907/93d2e51271827572e3180179143a896d/master.m3u8?1676382346"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/908/07e2c88c8c168f7c45348cf5f4ff85a3/master.m3u8?1676382353"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vw8s90.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "SVG Básico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Etiquetas y atributos básicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/915/bf292a3ea23a66d348c13312c6fe6ba8/master.m3u8?1676382347"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos en SVG",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/910/ecfb82ef98598607ef16ffeaa91f7d42/master.m3u8?1676382345"
+                },
+                {
+                    "id": null,
+                    "title": "Etiquetas de línea polilínea y polígono",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/911/dfdfc5def6419a31f0733b01292fc7ec/master.m3u8?1676382348"
+                },
+                {
+                    "id": null,
+                    "title": "Etiqueta de trazo path",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/912/2df4617822630be2310098da024159f8/master.m3u8?1676382347"
+                },
+                {
+                    "id": null,
+                    "title": "El atributo viewbox",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/913/b313c394cf04129446895cdc0e76c997/master.m3u8?1676382348"
+                },
+                {
+                    "id": null,
+                    "title": "Etiquetas de texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/914/72179290028960c1520dd9f54e06283f/master.m3u8?1676382348"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mi3vhf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas y optimización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Editores vectoriales y exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/916/fa1a9dcf18d4d6fd9f59e3797b021646/master.m3u8?1676382349"
+                },
+                {
+                    "id": null,
+                    "title": "Organización de SVG",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/917/4ff41661c9299dd4a36f7f1b64ebe9cb/master.m3u8?1676382348"
+                },
+                {
+                    "id": null,
+                    "title": "Optimización de SVG",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/918/9494fe27d88cda3a694b0f43ca6ff93a/master.m3u8?1676382349"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rezbxg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Incorporando SVG a la web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Formas de cargar un SVG en la web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/919/a6c90562da35c47939559652e3444d47/master.m3u8?1676382350"
+                },
+                {
+                    "id": null,
+                    "title": "Sistemas de iconos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/920/188cbb21b551916bbcca868c1ef6c4e3/master.m3u8?1676382350"
+                },
+                {
+                    "id": null,
+                    "title": "SVG responsive",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/921/0ab03e2eaba690811c683e8b42cd0a7d/master.m3u8?1676382350"
+                },
+                {
+                    "id": null,
+                    "title": "Accesibilidad en SVG",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/922/4b78db25b8b82b2bcb722075f59ae254/master.m3u8?1676382351"
+                },
+                {
+                    "id": null,
+                    "title": "Soporte en navegadores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/923/963510cab466d88470f2a5c8f9e5bf4f/master.m3u8?1676382351"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zqut0r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Efectos en SVG",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Transformaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/924/7164cc08f7a25de56e24377686f23363/master.m3u8?1676382353"
+                },
+                {
+                    "id": null,
+                    "title": "Degradados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/925/81c06a1e3a3d42afb8817c2f70eb3649/master.m3u8?1676382354"
+                },
+                {
+                    "id": null,
+                    "title": "Patrones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/926/ab58247c944075d7cd3fc08069bc1248/master.m3u8?1676382352"
+                },
+                {
+                    "id": null,
+                    "title": "Máscaras y clipping paths",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/927/0feaa0f70a02f88ed807f2f8b70c8a60/master.m3u8?1676382353"
+                },
+                {
+                    "id": null,
+                    "title": "Filtros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/928/578d7b78a4659705db53479e3caedf2e/master.m3u8?1676382353"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tkzgto.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Animación en SVG",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de animación en SVG",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/929/c8be85ae7f9cdd241f60173f99e219fd/master.m3u8?1676382353"
+                },
+                {
+                    "id": null,
+                    "title": "Animación con CSS",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/930/9813df79ad8ac89603ea1d4f593cb403/master.m3u8?1676382354"
+                },
+                {
+                    "id": null,
+                    "title": "Animación de secuencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/931/92ca860d2fd0bb171d64521ec42b3812/master.m3u8?1676382353"
+                },
+                {
+                    "id": null,
+                    "title": "Animación de dibujado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/932/25787e83eaf0b1b8548378c65c66c59b/master.m3u8?1676382354"
+                },
+                {
+                    "id": null,
+                    "title": "Animación interactiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/933/d27d3ea42e8847ff9ec860ae5dbcd90c/master.m3u8?1676382355"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/77smfw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Interacción y animación avanzada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Animación con JavaScript",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/934/85531ce72e5ffba95b7e7b9eea482a82/master.m3u8?1676382355"
+                },
+                {
+                    "id": null,
+                    "title": "Librerías de JavaScript para animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/935/ac1bcb325ddbd1ff772caccc19917c54/master.m3u8?1676382355"
+                },
+                {
+                    "id": null,
+                    "title": "Checkbox animado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/936/c81d13b28aab13951e1136c98aaf4e52/master.m3u8?1676382357"
+                },
+                {
+                    "id": null,
+                    "title": "Mutación morphing en SVG",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/937/def0e29ba494e1f347cc935d9db97d13/master.m3u8?1676382357"
+                },
+                {
+                    "id": null,
+                    "title": "Animación a lo largo de un trazo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/938/b0885b819610cb936f6704c6ce5112a9/master.m3u8?1676382357"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/003/939/7981e659167cfc3f75baa541ebbb5c5d/master.m3u8?1676382359"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/40ggap.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rrdt98.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 169,
+        "product_name": "SVG Vectorial Graphics: Illustrate and Animate with Code",
+        "teacher_name": "Javier Usobiaga Ferrer",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 32,
+        "course_total_duration_sec": 7344,
+        "total_units": 7,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "4122",
+    "title": "Técnicas decorativas y color aplicado a la resina",
+    "url": "https://www.domestika.org/es/courses/4122-tecnicas-decorativas-y-color-aplicado-a-la-resina/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/659/d6705ee8621ee1f3b38b07e2f9e52f3e/master.m3u8?1676409840"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/660/cd4536e364ae68fdea6f94b557302fc3/master.m3u8?1676409845"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8izmsd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los materiales y el espacio de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/661/1ce114c2b0354f1ab29a50906a3b8082/master.m3u8?1676409842"
+                },
+                {
+                    "id": null,
+                    "title": "Ficha técnica seguridad y manejo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/662/48b8495f104e6e812b1176c320165ad9/master.m3u8?1676409844"
+                },
+                {
+                    "id": null,
+                    "title": "La teoría del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/663/821c7e85cda1b7f31d43e567c36cb188/master.m3u8?1676409846"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración para un muestrario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/664/6b0d04e07a454a6869711da91b9d3f96/master.m3u8?1676409844"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z1pkub.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Experimentar con pigmentos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pigmentos líquidos azules",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/665/213e75a781c6b929853d2b5b37aad981/master.m3u8?1676409863"
+                },
+                {
+                    "id": null,
+                    "title": "Pigmentos de pasta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/666/513e90671343240a74dd2f249d0c6499/master.m3u8?1676409849"
+                },
+                {
+                    "id": null,
+                    "title": "Efecto marmoleado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/667/c745c1abe09f12c3a9fb581c227d0b3a/master.m3u8?1676409848"
+                },
+                {
+                    "id": null,
+                    "title": "Pigmentos metálicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/668/9c09661b5b4fa8cb549f136f05073037/master.m3u8?1676409847"
+                },
+                {
+                    "id": null,
+                    "title": "Las fórmulas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/669/64a5738af83bcac5948ef3e3b9c4d8bc/master.m3u8?1676409847"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wnh5xj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acabado y presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El desmolde y los acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/670/0f2e46b186fe0693769d411493760a41/master.m3u8?1676409852"
+                },
+                {
+                    "id": null,
+                    "title": "Presentar el muestrario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/671/684f0d5a7e95bb94f1ea42b8f4c6739c/master.m3u8?1676409849"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ekecsv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/dcbl17.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4122,
+        "product_name": "Epoxy Resin: Explore Decorative Techniques and Color",
+        "teacher_name": "Gresia Re",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5058,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

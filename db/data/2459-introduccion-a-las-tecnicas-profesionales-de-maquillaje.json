@@ -1,0 +1,154 @@
+{
+    "id": "2459",
+    "title": "Introducción a las técnicas profesionales de maquillaje",
+    "url": "https://www.domestika.org/es/courses/2459-introduccion-a-las-tecnicas-profesionales-de-maquillaje/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/482/edc171648b6196a70c0237751f936d00/master.m3u8?1676398767"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/483/71ac9af1602a28e260a21d442d3402ac/master.m3u8?1676398770"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h71pqd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales y preparación de la piel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales abrir la caja",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/490/af333bcd4394a8ed5089b282a49cdd07/master.m3u8?1676398780"
+                },
+                {
+                    "id": null,
+                    "title": "entendiendo la sesión informativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/492/3b1d092fe5893ff23a93c3b9786aaa63/master.m3u8?1676398776"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de la piel limpieza y cuidado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/493/6b0422e9b62f1510ca9c443c8da8cf26/master.m3u8?1676398781"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jesvg0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "colorear la cara",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cobertura cómo elegir la base y el corrector",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/495/ad2df491d0ef3a152afef243831a3218/master.m3u8?1676398783"
+                },
+                {
+                    "id": null,
+                    "title": "volver a colorear la piel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/496/2401935a0ecb1ccfb2a12312209b648e/master.m3u8?1676398783"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de ojos ahumado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/497/405975c6ca209d5bdb53fe69eb19f1e7/master.m3u8?1676398784"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas para el ojo simetría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/498/490c290a788d828749247dda8cc9631f/master.m3u8?1676398781"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de boca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/499/59e9c2a9b9ccb4ff0d64eccf3c1f1884/master.m3u8?1676398781"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/44jfp4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción de looks finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "mira glamour",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/500/59331a8355a329cd5239bddfd7cb378a/master.m3u8?1676398787"
+                },
+                {
+                    "id": null,
+                    "title": "mira el color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/501/e31ae879a0d15f41ff557a8757e3cc9d/master.m3u8?1676398787"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/25s5bl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4fkj06.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2459,
+        "product_name": "Introduction to Professional Makeup Techniques",
+        "teacher_name": "Vanessa Rozan",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 11127,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt",
+            "tr"
+        ],
+        "original_language": "pt"
+    }
+}

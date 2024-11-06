@@ -1,0 +1,174 @@
+{
+    "id": "246",
+    "title": "Introducción a la psicología del color la narrativa cromática",
+    "url": "https://www.domestika.org/es/courses/246-introduccion-a-la-psicologia-del-color-la-narrativa-cromatica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/563/a60060eaa77d1e15d65ffe687d93d1a7/master.m3u8?1676383292"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/564/194c1564a17ec893c76ab69713b7bad9/master.m3u8?1676383295"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nd8vho.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bases del color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/565/ab32bd6b5faa0b67f7edae5c4f76ee63/master.m3u8?1676383296"
+                },
+                {
+                    "id": null,
+                    "title": "El no color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/604/9c6b6ddb0f6855b58c96f23383e7f9be/master.m3u8?1676383313"
+                },
+                {
+                    "id": null,
+                    "title": "Colores primarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/567/7d8e7531bab8f0f113108bc974fd3f30/master.m3u8?1676383294"
+                },
+                {
+                    "id": null,
+                    "title": "Colores secundarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/568/c0d9ccfefa408584ca55bdabf78e746d/master.m3u8?1676383295"
+                },
+                {
+                    "id": null,
+                    "title": "Otros colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/569/e4cc8f2fd1f461f6aa23f3ec1579372f/master.m3u8?1676383295"
+                },
+                {
+                    "id": null,
+                    "title": "Los acordes cromáticos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/570/3ea520b2602483d43f4b03605911445e/master.m3u8?1676383298"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rhredw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tipos de paletas sentido y narración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Monocromías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/572/cff124a4dab95805f4e3a481eb8a00d0/master.m3u8?1676383296"
+                },
+                {
+                    "id": null,
+                    "title": "Paletas análogas y complementarias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/573/e489d64ee4315a85ff1093570054243f/master.m3u8?1676383298"
+                },
+                {
+                    "id": null,
+                    "title": "Paletas tríadicas y tetraédicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/574/25925579a17ae31201ee2654e7c8b328/master.m3u8?1676383299"
+                },
+                {
+                    "id": null,
+                    "title": "Asociación y transición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/575/cb0908e51f54e59074aa084bbb549af5/master.m3u8?1676383298"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mr2h5y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicación en la narración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/576/e3d86173562c09205d5106f6ee2ea862/master.m3u8?1676383300"
+                },
+                {
+                    "id": null,
+                    "title": "Las bases Los personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/579/cb721e95a8c7704ea41f4dcda3b18a77/master.m3u8?1676383302"
+                },
+                {
+                    "id": null,
+                    "title": "Los detalles El clima del fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/578/41c0e27a9d3010ec9531a1b949c2c5d1/master.m3u8?1676383305"
+                },
+                {
+                    "id": null,
+                    "title": "La luz la sombra y el clima",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/580/3b5eb898b0a9ac0df90cedfef6c894e4/master.m3u8?1676383302"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9y89py.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/o93bus.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 246,
+        "product_name": "Introduction to Colour Psychology: Chromatic Narrative",
+        "teacher_name": "Sole Otero",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 6478,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "id": "3859",
+    "title": "Diseño digital de moda con Cinema 4D y CLO 3D",
+    "url": "https://www.domestika.org/es/courses/3859-diseno-digital-de-moda-con-cinema-4d-y-clo-3d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/973/84c96d3b42511c77ad077fa83897fd5b/master.m3u8?1676407562"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/974/78f8f220dfe1391fe4cc4222ba1180ab/master.m3u8?1676407563"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/45ja3l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mood board y lluvia de ideas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de un mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/978/38b0d95936b24685a1d787a7f8d0cb18/master.m3u8?1676407572"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del primer borrador en Procreate 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/979/f19fc58ba4a0a3afcdf7b24fb73a4ad0/master.m3u8?1676407568"
+                },
+                {
+                    "id": null,
+                    "title": "Creando el primer borrador en Procreate 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/980/5c367ed68a511569cfb70957ee3081fe/master.m3u8?1676407568"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a CLO 3D 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/982/d939f1283974b9c0be0af5d7b819a854/master.m3u8?1676407569"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a CLO 3D 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/983/63f2c90c417288e898b001336ce964cb/master.m3u8?1676547128"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kdeqil.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Costura digital CLO 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estructura del bolso en CLO 3D 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/993/35cf074dacd26ed1df28db6a95b21340/master.m3u8?1676407576"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura del bolso en CLO 3D 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/995/5c9c77be4aae0c877687d86c97d41671/master.m3u8?1676407576"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles y UV en CLO 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/002/dd09d852e0c35571c556d6cb2a67afbd/master.m3u8?1676407582"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de exportación para Cinema 4D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/003/2e0f6a9574448736460a3879cdd39113/master.m3u8?1676407585"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vmd29q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Material digital y luz Cinema 4D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importar a Cinema 4D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/013/d9a338c73549c57913d7f7bc8da6d2bb/master.m3u8?1676407590"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura e iluminación de la escena 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/014/3293e82142c3df8813e0c84a58515da8/master.m3u8?1676407590"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura e iluminación de la escena 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/015/4a2faa789e8c909b50c6bd57ed78aafe/master.m3u8?1676407590"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizado en Redshift 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/016/cd88ae0ccf8ec40ba263600e90a3b576/master.m3u8?1676407594"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizado en Redshift 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/017/2619c4ac8fcaf12c71efc6fe58d17428/master.m3u8?1676407593"
+                },
+                {
+                    "id": null,
+                    "title": "Configurar renders y renderizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/018/7e8fb4413982b9debddb5eabb68c6d1a/master.m3u8?1676407591"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/llu6cb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Photoshop",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Editar imágenes en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/019/e3af8073341d68a37044755708da17fb/master.m3u8?1676407589"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación para las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/020/0352299c0bba1ef60388489bb0d177e9/master.m3u8?1676407591"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/70rlj6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4s9p1q.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3859,
+        "product_name": "Digital Fashion Design with Cinema 4D and CLO 3D",
+        "teacher_name": "Max Salzborn",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 15303,
+        "total_units": 5,
+        "subtitles_language": [
+            "de",
+            "es",
+            "en",
+            "pt",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "de"
+        ],
+        "original_language": "de"
+    }
+}

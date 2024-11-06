@@ -1,0 +1,158 @@
+{
+    "id": "3713",
+    "title": "Diseño editorial con InDesign traslada tus historias al papel",
+    "url": "https://www.domestika.org/es/courses/3713-diseno-editorial-con-indesign-traslada-tus-historias-al-papel/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/404/be3182fe58bce0471f022dfd68c2f236/master.m3u8?1676406812"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/405/e20abb51be58147bfa9e7df3e41c9f90/master.m3u8?1676406814"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/avtoz8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conociendo la cuadrícula y definiendo ideas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Contar historias a través del diseño editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/406/3135361eb3927efd550bf7a1b0827ed0/master.m3u8?1676406817"
+                },
+                {
+                    "id": null,
+                    "title": "InDesign la cuadrícula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/407/a21630047a0bb9868f903dc5df4732f6/master.m3u8?1676406816"
+                },
+                {
+                    "id": null,
+                    "title": "La investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/408/8dd9bfc01b9b8a8ba36cc60a4301a6ad/master.m3u8?1676406816"
+                },
+                {
+                    "id": null,
+                    "title": "El concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/409/06bcbaf166861c6fb49c7014890da17c/master.m3u8?1676406816"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/by9m9x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear y completar el diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Maquetas con papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/410/262f556adad4c1b46100fcd753a75341/master.m3u8?1676406818"
+                },
+                {
+                    "id": null,
+                    "title": "InDesign configurar la cuadrícula",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/411/32619d279b850b53d0d66138b249d9e8/master.m3u8?1676406821"
+                },
+                {
+                    "id": null,
+                    "title": "La tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/412/5554656cdc356a2b4831520b4d131781/master.m3u8?1676406819"
+                },
+                {
+                    "id": null,
+                    "title": "Completar con imágenes y texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/413/367adcb389915bc78522cefe62e59aff/master.m3u8?1676406820"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño de la portada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/414/56c82b397b8f649041df6c42a76d11b6/master.m3u8?1676406822"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j95yhv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación e impresión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparar el documento para imprimir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/415/568a8acb6cdb984633dc4be4331d7c06/master.m3u8?1676406820"
+                },
+                {
+                    "id": null,
+                    "title": "Métodos de impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/416/e5cc52d1a0fad7d33a1a9cf6407c67ed/master.m3u8?1676406822"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aljnhw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xon4bv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3713,
+        "product_name": "Editorial Design with InDesign: Turning stories in pages",
+        "teacher_name": "BOB Design",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8264,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

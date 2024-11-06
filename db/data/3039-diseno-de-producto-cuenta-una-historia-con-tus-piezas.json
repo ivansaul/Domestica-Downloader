@@ -1,0 +1,153 @@
+{
+    "id": "3039",
+    "title": "Diseño de producto cuenta una historia con tus piezas",
+    "url": "https://www.domestika.org/es/courses/3039-diseno-de-producto-cuenta-una-historia-con-tus-piezas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introduccion",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/613/59554a59776f1ce357e21e9525ff50f4/master.m3u8?1676403123"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/614/b0b7cca9791f8a2b8c68819883ed5dbf/master.m3u8?1676403121"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mtd86g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Historia y objeto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La importancia de las historias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/615/4af55b2a7cddb1467aaa177d278cee4a/master.m3u8?1676403121"
+                },
+                {
+                    "id": null,
+                    "title": "El objeto narrativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/616/e97d403b698c98cd71e822a375aedda0/master.m3u8?1676403125"
+                },
+                {
+                    "id": null,
+                    "title": "Ocio creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/619/9d231582498248e2016b7f16ae5ea115/master.m3u8?1676403127"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jubovj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mapas mentales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/621/81b0f08f6bb76745cf38d4fc71acabbb/master.m3u8?1676403127"
+                },
+                {
+                    "id": null,
+                    "title": "Mood boards y selección de la tipología de objeto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/622/90d8dcd9c5c981748fad6f58ce34699c/master.m3u8?1676403130"
+                },
+                {
+                    "id": null,
+                    "title": "Materialidad y color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/624/05de87fb42103537964f1860d9d8b437/master.m3u8?1676403129"
+                },
+                {
+                    "id": null,
+                    "title": "Sketches",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/625/58bfdd4bbf16fdc4757d917082e7a3cc/master.m3u8?1676403129"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fcn0ym.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñar es tomar decisiones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dimensiones y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/626/ade90cfcf77a3d7820db4dbe4c3a9963/master.m3u8?1676403129"
+                },
+                {
+                    "id": null,
+                    "title": "Maquetación y materialización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/628/4a76ae7022c2d9dad99f41250d49d8d2/master.m3u8?1676403129"
+                },
+                {
+                    "id": null,
+                    "title": "Comunicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/629/df0e5954d0c22784e24e94652eac7803/master.m3u8?1676403128"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pwql45.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7l2exb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3039,
+        "product_name": "Product Design: Create Pieces with a Story",
+        "teacher_name": "Fango (Francisco Jaramillo)",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7789,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

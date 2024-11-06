@@ -1,0 +1,168 @@
+{
+    "id": "3113",
+    "title": "Diseño gráfico a partir de geometrías simples",
+    "url": "https://www.domestika.org/es/courses/3113-diseno-grafico-a-partir-de-geometrias-simples/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/984/2286c391eb36eedac95bbcc95fbb8e1f/master.m3u8?1676411882"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/987/52a4af8047168be13e3576333163bd14/master.m3u8?1676411883"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b94ryl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Afinar el mensaje y su lenguaje visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Simbología",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/988/e3a322ca5989272c4b0ef0e5e5f8fc26/master.m3u8?1676411883"
+                },
+                {
+                    "id": null,
+                    "title": "Iconicidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/989/c5d3bc09a760c7ff24053633dad44ee6/master.m3u8?1676411884"
+                },
+                {
+                    "id": null,
+                    "title": "Geometría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/992/6858936e7eb1d418e55c20cd6622727d/master.m3u8?1676411886"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x83qmm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ensayar preparación del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/998/9edf75695ffaec002e4238a4444d75cb/master.m3u8?1676411890"
+                },
+                {
+                    "id": null,
+                    "title": "La historia que contaremos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/001/8690927ad0df3d4b8a536ed501ddd9b3/master.m3u8?1676411889"
+                },
+                {
+                    "id": null,
+                    "title": "El universo visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/002/ae88ae33a07e6195b2adffb07beffda3/master.m3u8?1676411894"
+                },
+                {
+                    "id": null,
+                    "title": "La composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/003/216950383f4d982540caeead979d2323/master.m3u8?1676411890"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k96n2y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Rockear el diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El sistema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/004/a995a0fb0955f38237210c9d1c468e28/master.m3u8?1676411894"
+                },
+                {
+                    "id": null,
+                    "title": "Las constantes y variables",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/005/f2b875456b668ee857d680127ff404d7/master.m3u8?1676411892"
+                },
+                {
+                    "id": null,
+                    "title": "Los colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/006/72771e6ddc7639b0890e17dc8e001b7c/master.m3u8?1676411892"
+                },
+                {
+                    "id": null,
+                    "title": "La tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/007/9f23377b903b408fe4b804a91107258e/master.m3u8?1676411893"
+                },
+                {
+                    "id": null,
+                    "title": "La visualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/010/e9c55b8cba71efbdfec1ad3bfb7aca81/master.m3u8?1676411898"
+                },
+                {
+                    "id": null,
+                    "title": "La presentación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/012/fcaa8b10ec805e33bc8038319e4aea2e/master.m3u8?1676411899"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gobbr6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/23hs2j.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3113,
+        "product_name": "Graphic Design with Geometric Shapes",
+        "teacher_name": "Esteban Ibarra",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7156,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}
