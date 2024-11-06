@@ -1,0 +1,143 @@
+{
+    "id": "2885",
+    "title": "Marketing para videojuegos con cero presupuesto",
+    "url": "https://www.domestika.org/es/courses/2885-marketing-para-videojuegos-con-cero-presupuesto/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/038/d6cfd1f9a27467cd19d5f12af5707e65/master.m3u8?1676402319"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/039/64ce260acf385e1c242ca811a942f423/master.m3u8?1676402319"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6qjm6e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elementos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definir tu audiencia y tus objetivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/040/b84a7d13c9fde6e720da544f9f1c1074/master.m3u8?1676402320"
+                },
+                {
+                    "id": null,
+                    "title": "Identidad y marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/041/42ea8f3ce0c1e7424058e7328529893c/master.m3u8?1676402320"
+                },
+                {
+                    "id": null,
+                    "title": "Redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/042/15676746b7b83aa74d2158171d479a7a/master.m3u8?1676402321"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1dmao0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acercamiento y contacto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Principales canales sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/043/08ad99e01f198302f4aaaa410e160447/master.m3u8?1676402321"
+                },
+                {
+                    "id": null,
+                    "title": "Eventos y conferencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/044/81705f5535d58af5da1baab254e00db1/master.m3u8?1676402321"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo contactar a la prensa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/045/69644893b02fa93ced91d5d2dc5de4fd/master.m3u8?1676402322"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3dd8d2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejecutar el plan de medios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo crear una descripción para tu videojuego en las plataformas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/046/3d3bc4c745ef76c3c072b46fd731eadc/master.m3u8?1676402324"
+                },
+                {
+                    "id": null,
+                    "title": "Calendario de marketing y desarrollo de tu videojuego",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/842/a31fb0aa76cac7ed1c0355dffc58c0db/master.m3u8?1676405078"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xf30ml.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/t4teyp.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2885,
+        "product_name": "Marketing for Video Games with Zero Budget",
+        "teacher_name": "Steve Durán",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 10,
+        "course_total_duration_sec": 3883,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

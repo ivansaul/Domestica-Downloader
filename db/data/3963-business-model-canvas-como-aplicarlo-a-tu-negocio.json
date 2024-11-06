@@ -1,0 +1,158 @@
+{
+    "id": "3963",
+    "title": "Business model canvas cómo aplicarlo a tu negocio",
+    "url": "https://www.domestika.org/es/courses/3963-business-model-canvas-como-aplicarlo-a-tu-negocio/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/604/0b4fb0d2f69cad2530facba29fff3134/master.m3u8?1676408421"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/706/c2d80da3c55314845bbd933aace3e956/master.m3u8?1676410483"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/laab9t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la idea creativa al valor",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelos de negocios y business model canvas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/605/a51eea9ac6642feea4f11d736ab330a4/master.m3u8?1676408423"
+                },
+                {
+                    "id": null,
+                    "title": "La propuesta de valor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/606/224056d1fbe45ff15934ee16ba72916d/master.m3u8?1676408426"
+                },
+                {
+                    "id": null,
+                    "title": "Segmentos de clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/607/c23c09e262728bb1f1cae52c3fc601da/master.m3u8?1676408422"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h4bgpv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comunicar distribuir y ganar con la idea creativa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los canales de comunicación y distribución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/608/774a8f2d6ef8f366d4c9b113aabbfd98/master.m3u8?1676408424"
+                },
+                {
+                    "id": null,
+                    "title": "La relación con los clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/609/e48469f2eb4c08ade817b737dc0c8a27/master.m3u8?1676408424"
+                },
+                {
+                    "id": null,
+                    "title": "Los flujos de ingresos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/610/0861b305c7ca71478303888aca081b10/master.m3u8?1676408424"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ppn50i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lo que se necesita para convertir la idea en un negocio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los recursos clave",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/611/a1f63bceab9ec43e256c98f242cce0b0/master.m3u8?1676408424"
+                },
+                {
+                    "id": null,
+                    "title": "Las actividades clave",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/612/41d1597a0ddf15efef971ba28e7d5c52/master.m3u8?1676408425"
+                },
+                {
+                    "id": null,
+                    "title": "Los socios clave",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/613/2c9f9d09bd8d526b2f5139719c907e7d/master.m3u8?1676408425"
+                },
+                {
+                    "id": null,
+                    "title": "La estructura de costos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/614/c0f3ab96bc3b7b10523092712e1acca1/master.m3u8?1676408425"
+                },
+                {
+                    "id": null,
+                    "title": "Últimos consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/615/dcedebdc2618bfc9a1b308da187589c5/master.m3u8?1676408427"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/taf9jj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/lo9sxs.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3963,
+        "product_name": "Business Model Canvas: Build Your Brand",
+        "teacher_name": "Sabrina Bertazzo",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4847,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

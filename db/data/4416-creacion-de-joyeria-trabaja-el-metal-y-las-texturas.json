@@ -1,0 +1,163 @@
+{
+    "id": "4416",
+    "title": "Creación de joyería trabaja el metal y las texturas",
+    "url": "https://www.domestika.org/es/courses/4416-creacion-de-joyeria-trabaja-el-metal-y-las-texturas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/579/11cd5f931dfb2a233790d58a486b5ff7/master.m3u8?1676413457"
+                },
+                {
+                    "id": null,
+                    "title": "Mis fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/580/954602894ddd36ec721c9705e9ee56c9/master.m3u8?1676413466"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8j2046.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Algunos básicos de joyería",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La profesión de joyero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/581/558d41862d2c523b6ddda23b96cf96a1/master.m3u8?1676413459"
+                },
+                {
+                    "id": null,
+                    "title": "Las principales herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/582/6889a2f08e194db53a041b7fcfa379b5/master.m3u8?1676413462"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/583/79e16ed1621d52d37309e7483202e493/master.m3u8?1676413464"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/584/4f3dd8f2e75dcbfb5a36c54f37f178ab/master.m3u8?1676413461"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lxc9ru.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El colgante",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El mood board 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/585/705237319e5c4a65e8b7ce354cc41319/master.m3u8?1676413459"
+                },
+                {
+                    "id": null,
+                    "title": "El mood board 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/586/a3984e4ef6f6d581fa17422ea0604121/master.m3u8?1676413462"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicando textura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/587/c5a24f9d658e969230957db7e17426d7/master.m3u8?1676413462"
+                },
+                {
+                    "id": null,
+                    "title": "Transferencia y corte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/588/23bd0cf940e95d07cbf96a6ab267dd16/master.m3u8?1676413463"
+                },
+                {
+                    "id": null,
+                    "title": "Transferencia y corte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/589/d8a967d24b0a6f04f2fffa4fa25c14ca/master.m3u8?1678192383"
+                },
+                {
+                    "id": null,
+                    "title": "Dando forma a un anillo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/590/dc2e333ac4a65d3d746e4cfd91297758/master.m3u8?1676413466"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tzuuxm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fabricación de herramientas y reciclaje de metales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Haz tus propias herramientas para texturizar metal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/591/77c9b73cd29fa93f41d803fe7758ae0a/master.m3u8?1676413466"
+                },
+                {
+                    "id": null,
+                    "title": "Reciclar metales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/592/292babc9a75da2be7a22387d98e80789/master.m3u8?1676472011"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mxav0v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/77gv3i.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4416,
+        "product_name": "Jewelry Making: Working with Textures in Metal",
+        "teacher_name": "Karl Mazlo",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 10469,
+        "total_units": 4,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

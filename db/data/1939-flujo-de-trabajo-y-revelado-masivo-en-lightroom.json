@@ -1,0 +1,163 @@
+{
+    "id": "1939",
+    "title": "Flujo de trabajo y revelado masivo en Lightroom",
+    "url": "https://www.domestika.org/es/courses/1939-flujo-de-trabajo-y-revelado-masivo-en-lightroom/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/621/7df21660d8b947d8b143afe688105dbc/master.m3u8?1676394043"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/622/7cdbc841501732a46b625eda3214a7a3/master.m3u8?1676394041"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/623/8db3a2ab2ea3cb5cca502b52851575fa/master.m3u8?1676394038"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uxdl7u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación y organización de archivos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revelado masivo y catalogación fotográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/624/436669daa5aa8e7284898d1d196bc94f/master.m3u8?1676394039"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a Adobe Bridge",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/625/2bfbf8200e86346204cf79df132f30b9/master.m3u8?1676394041"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a Adobe Lightroom",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/627/4acc84513589e1c2fd4de9a06b2c8672/master.m3u8?1676394044"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/930awo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición catalogación y revelado en lote",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección del registro fotográfico del evento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/628/12bc99bf75f302d5a21709f0fa5dd632/master.m3u8?1676394048"
+                },
+                {
+                    "id": null,
+                    "title": "Selección fotográfica documental",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/629/0cd692dc2372bfcd6b9b02599cd187d2/master.m3u8?1676394048"
+                },
+                {
+                    "id": null,
+                    "title": "Importación y creación del catálogo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/630/488202907c80524245a3abe485b90e3e/master.m3u8?1676394044"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado del registro fotográfico del evento 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/631/29842c3a0a6b205a7b7fad25c6153195/master.m3u8?1676394045"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado del registro fotográfico del evento 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/632/12be24953ea7568b56cf82b95fe9ef7f/master.m3u8?1676394048"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado de la serie documental",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/633/dbd7a4bf768c84dfddb20e66af81ffac/master.m3u8?1676394048"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5uvbwu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exportar enviar y publicar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Soportes de publicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/634/39a50d6f9f32a6e9792d669abd9c1478/master.m3u8?1676394044"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación masiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/635/46e02a2553f6cd4cc8035ef5a4dc7615/master.m3u8?1676394048"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dkkuvq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6188sd.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1939,
+        "product_name": " Workflow and Bulk Editing in Lightroom",
+        "teacher_name": "Diego Figueroa González",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 10635,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

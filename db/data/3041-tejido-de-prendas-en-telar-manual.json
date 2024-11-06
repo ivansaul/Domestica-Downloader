@@ -1,0 +1,190 @@
+{
+    "id": "3041",
+    "title": "Tejido de prendas en telar manual",
+    "url": "https://www.domestika.org/es/courses/3041-tejido-de-prendas-en-telar-manual/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/056/da8999480b297a6993f02620ae9af347/master.m3u8?1676401225"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/057/d81c65f6c56db6f3afda395a3436e27c/master.m3u8?1676401224"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mjr7nt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prácticas de tejido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al tejido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/058/ef992f298199434dd189e12dfe9396ac/master.m3u8?1676401226"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos básicos de tejido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/059/c7f59e4d0f38c9f6315c7dee6d107d33/master.m3u8?1676401230"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/060/7c7ad007e16575541d02ae644c095249/master.m3u8?1676401225"
+                },
+                {
+                    "id": null,
+                    "title": "Experimentando con diferentes materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/061/90eb1ddb2fc8388cf9c19d78fa7a6407/master.m3u8?1676401227"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/46tarv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación para la prenda tejida",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/062/92f4285f73401340779bba0680997410/master.m3u8?1676401227"
+                },
+                {
+                    "id": null,
+                    "title": "Color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/063/893bb2a2a2e0fa6c64c0b2728a63c799/master.m3u8?1676401232"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al patrón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/064/a5b3af29c11e5a1ca97486ef8c95faa5/master.m3u8?1676401235"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i61cdq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tejer una prenda",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/065/f549e467166f6ba77d1a19729f71c38e/master.m3u8?1676401243"
+                },
+                {
+                    "id": null,
+                    "title": "Tejiendo el frente y la espalda 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/066/987be690f93884da15412adf735a5ba3/master.m3u8?1676401240"
+                },
+                {
+                    "id": null,
+                    "title": "Tejiendo el frente y la espalda 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/067/ec20fb6fc18f2f375b0a5b59208705b5/master.m3u8?1676401242"
+                },
+                {
+                    "id": null,
+                    "title": "Tejiendo el frente y la espalda 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/068/4ef08c89eaaf57984e12d9a369808b8d/master.m3u8?1676401234"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/069/a3fb3bbc2f56a753a2a6bb5db2a0564d/master.m3u8?1676401242"
+                },
+                {
+                    "id": null,
+                    "title": "Montaje y embellecimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/070/862bf4025456715422961f84b247de07/master.m3u8?1676401247"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ejpwgf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasos adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Accesorios y aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/071/464d7516f45fa6ac0908c6e041306e4a/master.m3u8?1676401232"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos de cuidado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/072/cbdecc3bfe46da01ceb6ad62f86eec3d/master.m3u8?1676401233"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/16v89h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/kes3qz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3041,
+        "product_name": "Handwoven Garments with a Weaving Loom",
+        "teacher_name": "Kristína Šipulová",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 8594,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

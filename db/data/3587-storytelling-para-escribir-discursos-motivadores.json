@@ -1,0 +1,158 @@
+{
+    "id": "3587",
+    "title": "Storytelling para escribir discursos motivadores",
+    "url": "https://www.domestika.org/es/courses/3587-storytelling-para-escribir-discursos-motivadores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/514/2104f626eb89ab972744d3e2f26f19ee/master.m3u8?1676406377"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/515/b8b1e4dad6002977abe857c6062a1581/master.m3u8?1676406375"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d0kk7a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El esqueleto de los discursos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un discurso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/516/b84cbc052dc11ec250b8540695b97d09/master.m3u8?1676406373"
+                },
+                {
+                    "id": null,
+                    "title": "El esqueleto Qué hace un buen discurso 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/517/e5dc5525e8f6a43ef98433a7bd895323/master.m3u8?1676406378"
+                },
+                {
+                    "id": null,
+                    "title": "El esqueleto Qué hace un buen discurso 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/518/7cb36d72786dba2f27414cab73dd3680/master.m3u8?1676406379"
+                },
+                {
+                    "id": null,
+                    "title": "Lo escencial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/519/e7a3fa1f93c2cf315c3c0a9aaafd9c53/master.m3u8?1715100367"
+                },
+                {
+                    "id": null,
+                    "title": "Antes de que escribas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/520/e09e89230120ae915b4f08c551261f71/master.m3u8?1676406384"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4328l3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El escenario es tuyo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mapeando tu discurso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/521/b3cf6197ee06d1cc9312bca1f006bf80/master.m3u8?1676406381"
+                },
+                {
+                    "id": null,
+                    "title": "Alquimia escribir tu discurso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/522/d0e0f907a2c10a843a68922ff980d791/master.m3u8?1676406394"
+                },
+                {
+                    "id": null,
+                    "title": "Las posibilidades en tu discurso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/523/c9c66256e1d66912f65c414f7d493210/master.m3u8?1676406381"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6e1x43.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Después de escribir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escribir es reescribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/524/5c1515217d2b065ddde92b496f34bda8/master.m3u8?1676406382"
+                },
+                {
+                    "id": null,
+                    "title": "Dar un buen discurso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/525/fa6991f325099c0029c36cd191cd4791/master.m3u8?1676406383"
+                },
+                {
+                    "id": null,
+                    "title": "Discursos de escritura fantasma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/526/c883a2025b089e0df76bac3a71fe17bc/master.m3u8?1676406384"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mh15sr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/u49jyv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3587,
+        "product_name": "Speech Writing: Find the Storyteller in You",
+        "teacher_name": "Adebola Rayo",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 9525,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

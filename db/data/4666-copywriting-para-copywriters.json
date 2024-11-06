@@ -1,0 +1,153 @@
+{
+    "id": "4666",
+    "title": "Copywriting para copywriters",
+    "url": "https://www.domestika.org/es/courses/4666-copywriting-para-copywriters/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/442/05ebf1ccb4a04b20de2fc2eeb2683393/master.m3u8?1688048110"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/443/19656b33dc9c50183d978cf52a6a3d14/master.m3u8?1686666059"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yw9sbf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Identidad verbal 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/444/0dce344ab6ac5377c9f5f636a39312c9/master.m3u8?1715175205"
+                },
+                {
+                    "id": null,
+                    "title": "Identidad verbal 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/445/46bbf3704c97cb46b952b1a9676b461f/master.m3u8?1686666100"
+                },
+                {
+                    "id": null,
+                    "title": "Jerarquía verbal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/446/ff601b2244f6f85cdf137a45708c04af/master.m3u8?1686666124"
+                },
+                {
+                    "id": null,
+                    "title": "Briefing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/447/75c23c0e15438019cef8d894421bfeae/master.m3u8?1686666137"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s8ezb0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Nos sentamos al teclado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Insights",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/448/78494398fd34889a446914f4946bd85a/master.m3u8?1686666154"
+                },
+                {
+                    "id": null,
+                    "title": "Texto y contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/449/5c3eeec527d18cc18f85cb0838422cc2/master.m3u8?1686666169"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/450/434dc4089d53ab2ff02d25c48034e768/master.m3u8?1686666179"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p3b27z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Feedback cliente vs entorno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/451/cb0a9f0d4afd89211d1b9f3cfec0e896/master.m3u8?1715100124"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión y descartes de copies",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/452/40f49f676a09ed98da3837d9d8fa5105/master.m3u8?1686666223"
+                },
+                {
+                    "id": null,
+                    "title": "La entrega final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/453/832b2dbb30aebc18d67d81551b015da6/master.m3u8?1686666236"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/botbzh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/fs5ebw.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4666,
+        "product_name": "Copywriting for Copywriters",
+        "teacher_name": "PutosModernos",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6087,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

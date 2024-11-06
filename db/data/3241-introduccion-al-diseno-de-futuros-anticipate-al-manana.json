@@ -1,0 +1,148 @@
+{
+    "id": "3241",
+    "title": "Introducción al diseño de futuros anticípate al mañana",
+    "url": "https://www.domestika.org/es/courses/3241-introduccion-al-diseno-de-futuros-anticipate-al-manana/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/021/61e5aa9e81b969c4257ed1549336b24a/master.m3u8?1676401764"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/023/678df62dc12c1450af51089c1c251a5b/master.m3u8?1676401764"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k96p97.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo pensar el futuro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el futuro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/025/3681c5498e260a0a56bb0a5aa0d00e6d/master.m3u8?1676401768"
+                },
+                {
+                    "id": null,
+                    "title": "Eligiendo un tema focal para empezar a explorar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/026/aefd100bcebc6d287b5aea4ce100f5e4/master.m3u8?1676401765"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de señales de cambio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/027/8f1dad400970e919b4f441de074dc915/master.m3u8?1676401768"
+                },
+                {
+                    "id": null,
+                    "title": "Escaneando el mundo y buscando tus propias señales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/028/b476f647c8ebc665c7c54fb78d5041d6/master.m3u8?1676401768"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yyi6a7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Anticipando posibles futuros",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Rueda de futuros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/054/59eb899b36676f19c45c443134e54885/master.m3u8?1676401778"
+                },
+                {
+                    "id": null,
+                    "title": "Y si",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/055/c929a1ff3ac41b7d972633c6edcb619b/master.m3u8?1676401777"
+                },
+                {
+                    "id": null,
+                    "title": "Imaginarios de futuro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/056/351e01af498aab4d85116da56bcafe25/master.m3u8?1676401782"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iochny.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Compromiso con el futuro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Backcasting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/057/323144346520a34de2107d623db75de6/master.m3u8?1676401777"
+                },
+                {
+                    "id": null,
+                    "title": "Monitorización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/058/923e176001738013d5306322ccd4332d/master.m3u8?1676401780"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7ur8o2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/t3v0fr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3241,
+        "product_name": "Introduction to Future Design: Anticipate Tomorrow",
+        "teacher_name": "Stef Silva",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 4710,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

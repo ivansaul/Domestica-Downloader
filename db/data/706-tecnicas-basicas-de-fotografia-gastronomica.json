@@ -1,0 +1,202 @@
+{
+    "id": "706",
+    "title": "Técnicas básicas de fotografía gastronómica",
+    "url": "https://www.domestika.org/es/courses/706-tecnicas-basicas-de-fotografia-gastronomica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/647/d9d8dc313d3c9cf3734830468913fb70/master.m3u8?1676386568"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/681/aeba67b9890e95267d205f8e82728d68/master.m3u8?1676386577"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wonuta.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la producción fotográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/648/67a7dc5f996fb44a5d26feec0a8a1249/master.m3u8?1676386570"
+                },
+                {
+                    "id": null,
+                    "title": "Brief fotográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/649/5c6d5e432e0f8b4bf908ff1a9669f37c/master.m3u8?1676386570"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1vrhb0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Equipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cámara y lentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/650/3a1656857d46968543398578d9b8f86c/master.m3u8?1676386572"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación artificial flash de estudio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/651/6b7215faa3836404f1ed4a06e601454f/master.m3u8?1676386570"
+                },
+                {
+                    "id": null,
+                    "title": "Ángulos de iluminación y modificadores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/652/4b5bf56bdc9133a822d2c58e4240c918/master.m3u8?1676386573"
+                },
+                {
+                    "id": null,
+                    "title": "Escenarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/653/098510424c5eea55e390efbb1fddef29/master.m3u8?1676386573"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qaebrm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Montaje e iluminación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Nuestro set",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/654/84ea54bb791ee76ef8264ef1a3ec9296/master.m3u8?1676386574"
+                },
+                {
+                    "id": null,
+                    "title": "Medición de luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/655/44ed2af705d2534b37aaefc42334f575/master.m3u8?1676386574"
+                },
+                {
+                    "id": null,
+                    "title": "Calidad de luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/673/000424e27eca931f1d2dae0611daa5dd/master.m3u8?1676386574"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wwszly.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Shooting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/656/3e10826664a019cfd44882b79be64674/master.m3u8?1676386574"
+                },
+                {
+                    "id": null,
+                    "title": "Cambio de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/657/b550347abfa2fd091cf3396a5e575faf/master.m3u8?1676386574"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s1fyac.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ajustes de sistema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/658/7223cff6d9f35ceaa36db55066320244/master.m3u8?1676386573"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/659/395ed807386b0043995d20d0e9342dc1/master.m3u8?1676386576"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/660/92f977b005260e015f8e48f473492934/master.m3u8?1676386580"
+                },
+                {
+                    "id": null,
+                    "title": "Salida de archivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/661/1497ea2940c7c4497ed3555fb4a58c19/master.m3u8?1676386576"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wc4dha.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/q9ex95.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 706,
+        "product_name": "Food Photography Basic Techniques",
+        "teacher_name": "Ernesto López (Alkimia)",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 7246,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

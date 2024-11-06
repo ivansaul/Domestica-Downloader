@@ -1,0 +1,153 @@
+{
+    "id": "2027",
+    "title": "Retrato fotográfico artístico explora el lenguaje corporal",
+    "url": "https://www.domestika.org/es/courses/2027-retrato-fotografico-artistico-explora-el-lenguaje-corporal/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/730/11f15b597f4e9820608a522d4550e0e8/master.m3u8?1676398902"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/731/2c782af2b71fdee0e049af3e9aca641f/master.m3u8?1676398905"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1p5n8l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El intercambio reverbera en la creación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Equipaje look y conexión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/732/7b77da15507ac4e41fdce9e8fe9e88f7/master.m3u8?1676398908"
+                },
+                {
+                    "id": null,
+                    "title": "Procesos creativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/733/7f72be3119deaac1ac37145937e21cf1/master.m3u8?1676398906"
+                },
+                {
+                    "id": null,
+                    "title": "Preproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/734/f7f9da19828f2e8b854f8a277e979b98/master.m3u8?1676398908"
+                },
+                {
+                    "id": null,
+                    "title": "el alquiler",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/735/b5b8de4bffb2a640606e5aa1c40a496a/master.m3u8?1676414268"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uwo90s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Poniendo ideas en acción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La luz como dispositivo creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/770/e3c7b0ec569ebca011393a458e722acb/master.m3u8?1676398921"
+                },
+                {
+                    "id": null,
+                    "title": "pensando en la composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/771/4776e95a3ee6291caa37a0bb361f99d0/master.m3u8?1676398922"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección desde la conexión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/772/7b271fe96125f69dcfd75e190dc2b89e/master.m3u8?1676398923"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ck7n47.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la importación a la publicación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "estableciendo una narrativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/773/3500b31791ef4ff7bfba04b62b4e67a2/master.m3u8?1676398923"
+                },
+                {
+                    "id": null,
+                    "title": "Edición y ajustes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/774/f801ff9026096452b2704d02c284225d/master.m3u8?1676398923"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación y difusión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/775/2415921ed49c8cb07091ce84ef834c94/master.m3u8?1676398926"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/51flxm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8myfko.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2027,
+        "product_name": "Artistic Portrait Photography: Exploring Body Language",
+        "teacher_name": "Rony Hernandes",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5423,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

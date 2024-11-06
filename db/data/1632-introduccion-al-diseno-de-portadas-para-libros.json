@@ -1,0 +1,195 @@
+{
+    "id": "1632",
+    "title": "Introducción al diseño de portadas para libros",
+    "url": "https://www.domestika.org/es/courses/1632-introduccion-al-diseno-de-portadas-para-libros/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/504/e9d38ab10c67a97a2e8a402f1b477968/master.m3u8?1676392978"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/505/eeab047f4ee9088ac43390cc44193e2b/master.m3u8?1676392976"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/506/ab425d40b50b60becbcc8dc7d2f2fef0/master.m3u8?1676392979"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/22nlvi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El mundo de las portadas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una portada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/507/72426ea796f38710031f7a6d8f5f9edb/master.m3u8?1676392981"
+                },
+                {
+                    "id": null,
+                    "title": "Los acabados de las portadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/508/98a467af7604d0342fa4223743bda5a0/master.m3u8?1676392979"
+                },
+                {
+                    "id": null,
+                    "title": "Radiografía del mundo editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/509/fdc45644b9e61a6a2c544e0fca053645/master.m3u8?1676392980"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zhjl73.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Por dónde empezamos Diseñando la portada de tu libro favorito",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Evaluación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/511/536258f46fe6a1bddd29a7dcd38fb1b6/master.m3u8?1676392980"
+                },
+                {
+                    "id": null,
+                    "title": "La investigación gráfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/512/4e7e5e9da1e10737e5f86bfd4a3a0908/master.m3u8?1676392981"
+                },
+                {
+                    "id": null,
+                    "title": "El libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/546/5988f8bd340cbc4bb6bed4b279a9f9df/master.m3u8?1676393004"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xirn87.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra Diseñando la portada de tu libro favorito",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conceptualización de las imágenes y primeros bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/513/3ad564caf82c38b1744fff784b2e1b1b/master.m3u8?1676392986"
+                },
+                {
+                    "id": null,
+                    "title": "El color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/514/d22fb9b546a07c1bfbe331be5f034393/master.m3u8?1676392994"
+                },
+                {
+                    "id": null,
+                    "title": "Elección tipográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/515/0d8b82732602e4aba5c7a48849a9b755/master.m3u8?1676392988"
+                },
+                {
+                    "id": null,
+                    "title": "Elección tipográfica 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/516/e222de69fe99bde857910f54ceadabca/master.m3u8?1676392987"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de la imagen de portada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/517/6e21ee2552f54cc41397eb5cff664e63/master.m3u8?1676392985"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de la imagen de portada 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/518/8a03eabe604e360d78e4b4c88f8e6c09/master.m3u8?1676392998"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/89qmja.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cerrando el libro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Terminando la cubierta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/519/0cc744e7d92acf053f36a6fdf7ef5fe7/master.m3u8?1676392991"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de mockup o dummy digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/520/751ff247c177503f96a4bd89ee60e1c5/master.m3u8?1676392989"
+                },
+                {
+                    "id": null,
+                    "title": "El sistema de diseño La colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/521/4fc20bc9f394583114599e16eb66239d/master.m3u8?1676392987"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6a92u6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6swlid.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1632,
+        "product_name": "Introduction to Book Cover Design",
+        "teacher_name": "Daniel Bolívar",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 9368,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

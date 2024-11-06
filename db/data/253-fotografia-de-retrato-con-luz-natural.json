@@ -1,0 +1,153 @@
+{
+    "id": "253",
+    "title": "Fotografía de retrato con luz natural",
+    "url": "https://www.domestika.org/es/courses/253-fotografia-de-retrato-con-luz-natural/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/719/c7d8667d6bfa7f8585e251273677cf9d/master.m3u8?1676383371"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/720/ca600f25c1a5465b6fb5617a75657d72/master.m3u8?1676383372"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/saw37y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Nos preparamos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/721/41ecc731c0d5c9e66776ad8c0bf39345/master.m3u8?1676383367"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir e improvisar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/722/4e13cde5b623d7ab985f36031d13664d/master.m3u8?1676383374"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación del fotógrafo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/723/a2d91b306de9875e1296f385eba2fef0/master.m3u8?1676383374"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ckfgxq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hacemos las fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Organización espaciotemporal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/725/f7d147522a1f696d562934510b1557f5/master.m3u8?1676383373"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografiar entrevistas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/726/80a3a65e9780669057f070ab0584f80e/master.m3u8?1676383376"
+                },
+                {
+                    "id": null,
+                    "title": "Localizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/727/7824ce4f65c659c020a18ac01d630595/master.m3u8?1676383380"
+                },
+                {
+                    "id": null,
+                    "title": "El posado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/728/647fedef3027e3cf523e84fff612f6ab/master.m3u8?1676383376"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ca9tgy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Llegó el momento de retocar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Organizar fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/729/dfa77a4b55782c5cd9b5d08d5a19c5d3/master.m3u8?1676383373"
+                },
+                {
+                    "id": null,
+                    "title": "Tratamiento de las fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/732/4e178d3e160ee331cdbf104feb93189d/master.m3u8?1676383375"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de fotos para publicar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/730/c9d27c285ff7470a12eaccc9ef87d534/master.m3u8?1676383375"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/18rqjh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8d598y.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 253,
+        "product_name": "Portrait Photography with Natural Light",
+        "teacher_name": "Lupe de la Vallina",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7952,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "id": "2178",
+    "title": "Creación de cuentos infantiles",
+    "url": "https://www.domestika.org/es/courses/2178-creacion-de-cuentos-infantiles/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/096/43fe6a34abf6c806037376e51daef0fb/master.m3u8?1676395315"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/097/1640978bffb708324682a1795808fa17/master.m3u8?1676395317"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jfkzz6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Si no lo sabes invéntalo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El camino es siempre mejor que la posada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/098/2392ef950c098fb2943c03232bc8bd6a/master.m3u8?1676395322"
+                },
+                {
+                    "id": null,
+                    "title": "Un escritor tres caminos Primero relatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/099/b542f644753ad04178168dbfa847c657/master.m3u8?1676395318"
+                },
+                {
+                    "id": null,
+                    "title": "Un escritor tres caminos Segundo creación pura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/100/dd84d0139ebd6423f32c10ea46a6ec93/master.m3u8?1676395318"
+                },
+                {
+                    "id": null,
+                    "title": "Un escritor tres caminos Tercero narrativas del cotidiano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/101/f7cb7d39e49cab5b9f86e3537ce31a54/master.m3u8?1676395323"
+                },
+                {
+                    "id": null,
+                    "title": "Bebés lectores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/102/bd66a43de19929be7398776774895559/master.m3u8?1676395321"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d90t6e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pescadores de lo cotidiano",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El esqueleto de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/103/eeea5de5883eea9c83ef22ec1153ec6d/master.m3u8?1676395323"
+                },
+                {
+                    "id": null,
+                    "title": "Construir nuestra historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/104/449ca2a1c207450d16221db30ba92467/master.m3u8?1676395321"
+                },
+                {
+                    "id": null,
+                    "title": "El chico que hablaba otro idioma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/105/eb660629ecc0370ea35bebe737f3e27a/master.m3u8?1676395324"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aj2a99.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Posthistoria",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Vestir el esqueleto y presentarlo al mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/106/471aa61578234cf64e8dc2b52214e8a0/master.m3u8?1676395325"
+                },
+                {
+                    "id": null,
+                    "title": "Compartir nuestras creaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/107/cfc0ec6694303a54edc45c4d2f350dfa/master.m3u8?1676395323"
+                },
+                {
+                    "id": null,
+                    "title": "La elección del título",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/108/16aea6a34eb1c3cb91cc1be25b70e7cd/master.m3u8?1676395323"
+                },
+                {
+                    "id": null,
+                    "title": "Acertar en el objetivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/109/d32c485817ef51cedea951e7ac134330/master.m3u8?1676395323"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9r97vq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/kdii3a.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2178,
+        "product_name": "Creating Children's Stories",
+        "teacher_name": "Ilan Brenman",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7158,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt",
+            "tr"
+        ],
+        "original_language": "pt"
+    }
+}
