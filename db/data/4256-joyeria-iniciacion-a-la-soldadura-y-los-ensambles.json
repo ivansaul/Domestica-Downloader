@@ -1,0 +1,148 @@
+{
+    "id": "4256",
+    "title": "Joyería iniciación a la soldadura y los ensambles",
+    "url": "https://www.domestika.org/es/courses/4256-joyeria-iniciacion-a-la-soldadura-y-los-ensambles/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/574/68cb799cf1971f563546fd43b2bb78d9/master.m3u8?1676409799"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/575/4e3bda6189ecd6e253233b2cc02e779c/master.m3u8?1676409801"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3uaig4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasos iniciales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear un tablero de ideas y los bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/576/7197ae90f6684735b33101272b18d86e/master.m3u8?1676409801"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a la soldadura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/577/ced0dedfe84f820a9ce880d17652e044/master.m3u8?1676409801"
+                },
+                {
+                    "id": null,
+                    "title": "Los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/578/7c6c58c03aa1b5c7fb1eafd587196ce4/master.m3u8?1676409802"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5sjsuf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las técnicas embutido y soldadura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recocido y embutido del metal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/579/1d076315e0cdcdd9cbdc2ad4fee3c845/master.m3u8?1676409811"
+                },
+                {
+                    "id": null,
+                    "title": "Soldar y crear",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/580/e7ac097b7c533aa4c261ee385a342f5a/master.m3u8?1676409808"
+                },
+                {
+                    "id": null,
+                    "title": "Ensambles y armado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/581/2a680b2d9b1bfcb4efbd6d22936aa887/master.m3u8?1676409812"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qjhwxt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acabados finales para tus piezas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Decapado y limpieza de tus piezas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/582/95651d87a5b152c8c93172250eabb2dc/master.m3u8?1676409803"
+                },
+                {
+                    "id": null,
+                    "title": "Baños galvánicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/583/687006f23162ba6ff06b348f0820fd2d/master.m3u8?1676409803"
+                },
+                {
+                    "id": null,
+                    "title": "Pátinas y otros acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/584/58ff69984b2b8bd0640d0e29923d92d4/master.m3u8?1676409804"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sbjas0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/amtttn.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4256,
+        "product_name": "Welding and Joining for Metal Jewelry Design",
+        "teacher_name": "VATTEA",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 5650,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

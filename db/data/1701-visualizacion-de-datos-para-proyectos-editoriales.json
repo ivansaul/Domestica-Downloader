@@ -1,0 +1,183 @@
+{
+    "id": "1701",
+    "title": "Visualización de datos para proyectos editoriales",
+    "url": "https://www.domestika.org/es/courses/1701-visualizacion-de-datos-para-proyectos-editoriales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/890/586b0a32db464bb4af70d1a9b4c09ec3/master.m3u8?1676394662"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/891/5f56f0b4ee1b5e6a896624c78c5e1a09/master.m3u8?1676394662"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/892/56070e0484c7990393463a078c099dd3/master.m3u8?1676394664"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0wgjor.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Antes de empezar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la visualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/893/c8210f38330044282277c7fe2710e3d3/master.m3u8?1676394670"
+                },
+                {
+                    "id": null,
+                    "title": "Verifiquemos ingredientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/894/19445b97f0458649659a30e5128237c4/master.m3u8?1676394665"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestras herramientas visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/895/9869a508cd6a2d2861ca0e714c35e7c1/master.m3u8?1676394668"
+                },
+                {
+                    "id": null,
+                    "title": "Qué nos dicen nuestros datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/896/ce8384dc82726843c3cb21aed3a88e13/master.m3u8?1676394666"
+                },
+                {
+                    "id": null,
+                    "title": "Vocabulario visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/897/f81f7b9dbbfa436ce2e2f3274c323f66/master.m3u8?1676394668"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mzg732.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Visualización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entendiendo datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/898/69e6fcf47d1c35d5fc2c9362836a86c4/master.m3u8?1676394672"
+                },
+                {
+                    "id": null,
+                    "title": "Hora de bocetar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/899/303b45985dfe746b19491386620540c2/master.m3u8?1676394667"
+                },
+                {
+                    "id": null,
+                    "title": "Plato fuerte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/900/6a4d7b1920d7bdd81fd975ef5b06abcd/master.m3u8?1676394672"
+                },
+                {
+                    "id": null,
+                    "title": "Plato fuerte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/901/6383733fec4c8bdcb4ee38c5486ca2c6/master.m3u8?1676394674"
+                },
+                {
+                    "id": null,
+                    "title": "Plato fuerte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/902/19ba0de7298f1aae0d3b8053f077e05b/master.m3u8?1676394670"
+                },
+                {
+                    "id": null,
+                    "title": "Juntando ingredientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/903/831401c04f02973944890eb8b0ca3dc9/master.m3u8?1676394671"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6euf19.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Detalles finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entendiendo tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/904/99ddf27b56ce9deec625a00d9f3b46bc/master.m3u8?1676394670"
+                },
+                {
+                    "id": null,
+                    "title": "Pruebas de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/905/8a963b4794a7aebe9fe19c3c5069d1cd/master.m3u8?1676394670"
+                },
+                {
+                    "id": null,
+                    "title": "Enséñame tu Dataviz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/030/907/6ffff2112490f3c160c49a0cf2174abe/master.m3u8?1676394671"
+                },
+                {
+                    "id": null,
+                    "title": "Toque final texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/574/416976896db03e31fbea0c081c49256f/master.m3u8?1676395029"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mpdl99.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/b98zrk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1701,
+        "product_name": "Data Visualization for Editorial Projects",
+        "teacher_name": "Diana Estefanía Rubio",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 7347,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

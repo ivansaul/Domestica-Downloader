@@ -1,0 +1,172 @@
+{
+    "id": "34",
+    "title": "Diseño web Be Responsive",
+    "url": "https://www.domestika.org/es/courses/34-diseno-web-be-responsive/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción al Diseño Web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "FA Design y el diseño web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/609/8df68e9bc3308bea569027aabb11f079/master.m3u8?1676380732"
+                },
+                {
+                    "id": null,
+                    "title": "Bases del diseño web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/583/62297d7356903ed555e7bc501b714834/master.m3u8?1676380725"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/584/864f46a4d7d48e3760789e5e9de20a34/master.m3u8?1676380727"
+                },
+                {
+                    "id": null,
+                    "title": "Responsive Web Design",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/585/a804181cd05c8593608987e19f6168f9/master.m3u8?1676380728"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b1o5na.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Arquitectura de la información",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Organizar el contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/586/15a569685823fd18889bd23d91f23487/master.m3u8?1676380727"
+                },
+                {
+                    "id": null,
+                    "title": "Wireframing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/587/483059ee3208ce8347faf7e53b074df2/master.m3u8?1676380730"
+                },
+                {
+                    "id": null,
+                    "title": "La retícula Grid system",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/588/94d42ad8ce0a255eab7594848b1c25ac/master.m3u8?1676380728"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pnvwoc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Concepto y diseño visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Concepto gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/589/78eb0112e975a04185a05287bd023bd6/master.m3u8?1676380729"
+                },
+                {
+                    "id": null,
+                    "title": "Construir la web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/590/8398c8d445a56f3cba8b79acb8634980/master.m3u8?1676380730"
+                },
+                {
+                    "id": null,
+                    "title": "Definir los elementos gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/591/5b9910a6bbcdea4a49112753d5971dda/master.m3u8?1676380732"
+                },
+                {
+                    "id": null,
+                    "title": "Variaciones fondos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/664/88ab6ff75b07b80904aed83b2b963323/master.m3u8?1676380770"
+                },
+                {
+                    "id": null,
+                    "title": "Definir instancias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/592/a9d8075d4c92077b76b2fea53ac24169/master.m3u8?1676380731"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñar el resto de pantallas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/593/86ba76ef7240f374e05bc81ea3a4ac97/master.m3u8?1676380732"
+                },
+                {
+                    "id": null,
+                    "title": "Definir las funciones Responsive",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/594/bf15ade1e7bde9b933aeec0fd7ae775a/master.m3u8?1676380733"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6i2xuk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparar los archivos para el programador",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El programador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/596/3bef5fa627915bf07c91db4942d27d75/master.m3u8?1676380732"
+                },
+                {
+                    "id": null,
+                    "title": "Limpiar y organizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/597/860d027a6c18056c189400ca3fe3a8e6/master.m3u8?1676380735"
+                },
+                {
+                    "id": null,
+                    "title": "Promocionar tu web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/598/c0532fdb86729b2f0f424ab784d6ea9e/master.m3u8?1676380735"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zpv2wi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hoeg2f.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 34,
+        "product_name": "Web Design: Be Responsive!",
+        "teacher_name": "Francisco Aveledo",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 6599,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

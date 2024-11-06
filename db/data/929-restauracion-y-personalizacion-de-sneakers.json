@@ -1,0 +1,163 @@
+{
+    "id": "929",
+    "title": "Restauración y personalización de sneakers",
+    "url": "https://www.domestika.org/es/courses/929-restauracion-y-personalizacion-de-sneakers/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/828/729e74f3555d052932ff16605acf5522/master.m3u8?1676389820"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/829/e5769c9c80f97704ca1203d70ce2297d/master.m3u8?1676389823"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/830/dd0593ee4ab93edff049bdff57c050cf/master.m3u8?1676389818"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/at72qd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materiales y primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conoce los materiales de los sneakers",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/820/a98cd74533bdcd292e8963620bc7b598/master.m3u8?1676389813"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales para limpiar restaurar y customizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/819/12dd4ea80b1bf4703f718b77b1338cb2/master.m3u8?1676389814"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza de sneakers paso a paso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/821/9232094eae1ae1f980e02416dad7541b/master.m3u8?1676389823"
+                },
+                {
+                    "id": null,
+                    "title": "Limpieza parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/817/b835d7e9278f7ca66dedde43f89facaa/master.m3u8?1676389813"
+                },
+                {
+                    "id": null,
+                    "title": "Restauración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/818/785aca0e0181d58bbc81b4ca36d93f54/master.m3u8?1676389816"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8vwj9j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Realizando el diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inspiración y boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/822/d6e817d458f6292d66979232e5dcd642/master.m3u8?1676389822"
+                },
+                {
+                    "id": null,
+                    "title": "Preparemos el stencil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/823/09311a9c3d5f34ae54dc1422fdad8e66/master.m3u8?1676389816"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zfzdvb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vamos a customizar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Vamos a pintar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/824/7ef4b7b9551c6d849d71f15a5a54d86a/master.m3u8?1676389823"
+                },
+                {
+                    "id": null,
+                    "title": "Vamos a pintar parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/825/54a1809d678087b23ae2bd19c1be8be2/master.m3u8?1676389821"
+                },
+                {
+                    "id": null,
+                    "title": "Stencil y detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/826/be853dd8d3b1d55900fd7d77d3de5ba1/master.m3u8?1676389825"
+                },
+                {
+                    "id": null,
+                    "title": "Formas de presentar tus sneakers",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/827/155734347c1b02a04e7a37d54f77652c/master.m3u8?1676389820"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2fykjb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ifkmd7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 929,
+        "product_name": "Sneaker Restoration and Customization",
+        "teacher_name": "Juan Pablo Bello (MYSNKRS Customs)",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8574,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

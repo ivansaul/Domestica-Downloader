@@ -1,0 +1,163 @@
+{
+    "id": "3992",
+    "title": "Diseño de mobiliario moderno personalizado",
+    "url": "https://www.domestika.org/es/courses/3992-diseno-de-mobiliario-moderno-personalizado/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/612/d531047c3076c0faebf51a3643aa705c/master.m3u8?1676409034"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/613/fe4a2b6254cbca580f174891455b111b/master.m3u8?1676409033"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y7j6hg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptualizando la pieza",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proceso y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/653/88049889f6bac23b79e0599124b2a9fb/master.m3u8?1676409059"
+                },
+                {
+                    "id": null,
+                    "title": "Consulta de diseño in situ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/659/6a3eb92777f02c10aae12f5346acc2e1/master.m3u8?1676409062"
+                },
+                {
+                    "id": null,
+                    "title": "Dimensiones y obstáculos de la habitación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/663/c5a359b306a15a08a2f0709129875495/master.m3u8?1676409064"
+                },
+                {
+                    "id": null,
+                    "title": "Bosquejo empático",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/666/43877cd46c1f69cd334f559da0fe7776/master.m3u8?1676409076"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos funcionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/667/52e3b20b71ab738b422c6f1ad3ebac33/master.m3u8?1676409071"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bo486x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proceso de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear vistas en perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/724/b746f0cfdcd60fbf2c669d3ac02ddee3/master.m3u8?1676409108"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto 3D de AutoCAD",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/725/5867f53c2ae01a9872dac30a11f57a8d/master.m3u8?1676409101"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar modificaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/726/cc3cb0f989b2d8324d57b66ffb9baf1f/master.m3u8?1676409101"
+                },
+                {
+                    "id": null,
+                    "title": "Renderizados 3D de AutoCAD",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/727/7d5264603df0949a2f1393ce2246caa5/master.m3u8?1676409099"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iognj9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo un producto y una marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollo de dibujos de producción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/742/47e88cf40f316999de54d643df8a84c8/master.m3u8?1676409108"
+                },
+                {
+                    "id": null,
+                    "title": "Subcontratación de producción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/744/8d821dcd53944a53f7063d3267b81bdc/master.m3u8?1676409109"
+                },
+                {
+                    "id": null,
+                    "title": "Demanda creciente de su trabajo personalizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/746/e38c83f41a6c97bd385b8f2dcf46d690/master.m3u8?1676409111"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sp6l44.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/una6sv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3992,
+        "product_name": "Modern furniture design inspired by customer",
+        "teacher_name": "Paul Jeffrey",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7873,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

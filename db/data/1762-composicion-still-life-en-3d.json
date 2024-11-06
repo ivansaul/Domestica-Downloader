@@ -1,0 +1,178 @@
+{
+    "id": "1762",
+    "title": "Composición still life en 3D",
+    "url": "https://www.domestika.org/es/courses/1762-composicion-still-life-en-3d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/504/2bec07dcaac5e5692c05ab807709cb6a/master.m3u8?1676393492"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/505/e6de15ed4d34b849af48d36feffe82ff/master.m3u8?1676393496"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/506/5e75dfa325ed8091b61d60ffad7548c9/master.m3u8?1676393495"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c8trah.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fundamentos básicos de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/507/d9eb6c6139df8365f5b1ea018f41185c/master.m3u8?1676393496"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board y referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/508/fc632cf3da62a2eae0f5acf244378d85/master.m3u8?1676393496"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/509/657e5078b4e7aaaf24a9f88f4eb65b70/master.m3u8?1676393500"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vticuc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado lighting y creación de materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Repaso de herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/510/c12b0c6117d5f71581ac079a01b3e2ee/master.m3u8?1676393504"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de ítems mantel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/511/d8e5ee85e78d968d67abbe2aa0a9198b/master.m3u8?1676393505"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de ítems globo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/512/4a5e3e2ffa8dd3e9a1a9e843a77abb53/master.m3u8?1676393504"
+                },
+                {
+                    "id": null,
+                    "title": "Lighting básico de tres luces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/513/d50aabbc0d25dedf4076c34a7100acb3/master.m3u8?1676393504"
+                },
+                {
+                    "id": null,
+                    "title": "Lighting final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/514/07bdd8879b8e467cdf05a6db8cf9f043/master.m3u8?1676393503"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de materiales en Octane 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/515/3793e5e21d0673599d843a2224d5e887/master.m3u8?1676393507"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de materiales en Octane 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/516/dcdbb0c14ab8cc7d0b4b29e860a535f9/master.m3u8?1676393511"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de materiales en Octane 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/517/a30c1f4f410644e73a14bade5be58c80/master.m3u8?1676393508"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5hzo9x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Render",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Seteos de render",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/518/e898ef9c01f281260239001c703679a3/master.m3u8?1676393506"
+                },
+                {
+                    "id": null,
+                    "title": "Composición de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/519/41a5cc1901623a7e75ac1614906ea8af/master.m3u8?1676393506"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/520/d2928f1520d516b4343d8a54da350107/master.m3u8?1676393504"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6wnnf5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/bp0jaa.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1762,
+        "product_name": "Still-Life Composition in 3D",
+        "teacher_name": "Pablo Schiavo",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 9511,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

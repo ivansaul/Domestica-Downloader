@@ -1,0 +1,158 @@
+{
+    "id": "3836",
+    "title": "Ilustración y lettering para portadas de libros",
+    "url": "https://www.domestika.org/es/courses/3836-ilustracion-y-lettering-para-portadas-de-libros/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/359/a7855e1c0726eaa61b4f36993389b140/master.m3u8?1676408839"
+                },
+                {
+                    "id": null,
+                    "title": "Mis fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/360/3ff6f17896273f1a4752f71d58dd859f/master.m3u8?1676408839"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/67d711.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigación preliminar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Leer y comprender el texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/347/33fbc4765db614c5bd78311eac6962ab/master.m3u8?1676408828"
+                },
+                {
+                    "id": null,
+                    "title": "Estudio de mercado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/348/b37d6046bc160e8f58bf08eb506202e0/master.m3u8?1676408824"
+                },
+                {
+                    "id": null,
+                    "title": "Portadas anteriores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/349/f607ff416c4338ea8a7391032b3fbb0a/master.m3u8?1676408823"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación iconográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/350/c949345e8b52b6caa966adfdd6a8ff6b/master.m3u8?1676408833"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ls2elr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La creación de la portada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Imagina diferentes composiciones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/351/d70b4e1350908bf7b6972e12e4cf865b/master.m3u8?1676408844"
+                },
+                {
+                    "id": null,
+                    "title": "Imagina diferentes composiciones 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/352/09a5c4d902a62e59f0d2cb2d1a8131f3/master.m3u8?1676408841"
+                },
+                {
+                    "id": null,
+                    "title": "Las letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/353/0b04a51f14af4528b59177ec5052e9dd/master.m3u8?1676408828"
+                },
+                {
+                    "id": null,
+                    "title": "La paleta de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/354/e847e9e8cfa6dafb0a7633a578a04daf/master.m3u8?1676408828"
+                },
+                {
+                    "id": null,
+                    "title": "Finalizar composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/355/274e0a3a942ee5c4d40e0b4cc3a50003/master.m3u8?1676408842"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/msy51l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Entregar la tapa al cliente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La presentación de la portada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/356/5aefd59f563844323ebf15e6a3682d75/master.m3u8?1676408831"
+                },
+                {
+                    "id": null,
+                    "title": "El vocabulario del libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/357/194398614d0f174ccffdaad43684c993/master.m3u8?1676408838"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ehdslu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cijdeo.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3836,
+        "product_name": "Illustration and Lettering: Create a Book Cover",
+        "teacher_name": "Manon Bucciarelli",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6923,
+        "total_units": 4,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

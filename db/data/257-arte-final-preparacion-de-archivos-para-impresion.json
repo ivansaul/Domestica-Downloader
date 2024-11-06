@@ -1,0 +1,198 @@
+{
+    "id": "257",
+    "title": "Arte final preparación de archivos para impresión",
+    "url": "https://www.domestika.org/es/courses/257-arte-final-preparacion-de-archivos-para-impresion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/024/0073956619c01c7d64c6d8fba2ec7695/master.m3u8?1676383574"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es el arte final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/025/2e8c67d834e9a39a8e7eff1b551a12e4/master.m3u8?1676383580"
+                },
+                {
+                    "id": null,
+                    "title": "Perfiles de trabajo  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/026/e52c39665ead36e0ead9d74604fa15a5/master.m3u8?1676383578"
+                },
+                {
+                    "id": null,
+                    "title": "Perfiles de trabajo  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/027/088a0acd919c5d771e1389140c5a41b5/master.m3u8?1676383581"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mc13db.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Idea vs Salida",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Medios de impresión  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/020/cce71eb84657b07cac0fbbc4979940c0/master.m3u8?1676383581"
+                },
+                {
+                    "id": null,
+                    "title": "Medios de impresión  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/021/a68739f11094bd2a94b29735811befed/master.m3u8?1676383575"
+                },
+                {
+                    "id": null,
+                    "title": "Idea y realidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/022/f6be3e91b423f52f64a10419ca356e4c/master.m3u8?1676383572"
+                },
+                {
+                    "id": null,
+                    "title": "Qué necesito saber",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/023/66f320bdea1e826436de70628c895bee/master.m3u8?1676383575"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/chjipj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Formas de impresión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Salida a plotter  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/009/478da74c3a837e2094dafd44b6d928c1/master.m3u8?1676383568"
+                },
+                {
+                    "id": null,
+                    "title": "Salida a plotter  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/010/8f4f0d58d7e6facc8361ed45af5ad003/master.m3u8?1676383573"
+                },
+                {
+                    "id": null,
+                    "title": "Salida a offset convencional  Parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/011/6f4983d377fd1c8b7f37c157a1ed8936/master.m3u8?1676383571"
+                },
+                {
+                    "id": null,
+                    "title": "Salida a offset convencional  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/012/6736218851caadd1697052b0e908e215/master.m3u8?1676383572"
+                },
+                {
+                    "id": null,
+                    "title": "Salida a offset convencional  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/013/24faeb45a8983ae7d42e2cc0e22a5938/master.m3u8?1676383577"
+                },
+                {
+                    "id": null,
+                    "title": "Salida a offset digital  Parte 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/015/d25fc4c5b7ced6bf2823b72ec34974d3/master.m3u8?1676383575"
+                },
+                {
+                    "id": null,
+                    "title": "Salida a offset digital  Parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/016/151d184b0740c9458c3cc980f8a55840/master.m3u8?1676383580"
+                },
+                {
+                    "id": null,
+                    "title": "Salida a offset digital  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/017/bb8a2123620dae6f80fb014b3bba8c6a/master.m3u8?1676383574"
+                },
+                {
+                    "id": null,
+                    "title": "Salida a offset digital  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/018/02d20d54f83c710f88e5000d82a1651e/master.m3u8?1676383574"
+                },
+                {
+                    "id": null,
+                    "title": "El arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/019/c0228412537c418b1131af9d399bfa7e/master.m3u8?1676383583"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wg0ozd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De visita al taller",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recomendaciones finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/006/c12156745bdeb03ea1ac3016e1c44cab/master.m3u8?1676383566"
+                },
+                {
+                    "id": null,
+                    "title": "Visita al taller de offset convencional y plotter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/007/85a709798b4d4c098fa6ff3fa6170d7a/master.m3u8?1676383566"
+                },
+                {
+                    "id": null,
+                    "title": "Visita al taller de offset digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/008/f64de3ea0d8906ffc7754b48b0fc656a/master.m3u8?1676383567"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/87zpjz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vi4zrc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 257,
+        "product_name": "Final Art: Preparation of Files for Printing",
+        "teacher_name": "Chack Robles",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 13211,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

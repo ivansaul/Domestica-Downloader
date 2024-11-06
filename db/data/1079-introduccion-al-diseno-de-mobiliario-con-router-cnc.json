@@ -1,0 +1,186 @@
+{
+    "id": "1079",
+    "title": "Introducción al diseño de mobiliario con router CNC",
+    "url": "https://www.domestika.org/es/courses/1079-introduccion-al-diseno-de-mobiliario-con-router-cnc/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/805/27e95a99a91a14776dc41e3096489f6f/master.m3u8?1676389277"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/806/d7bd111a3feecbc43c11fedbb7299bcf/master.m3u8?1676389278"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/807/b1187f6fedfb94989e6498b4d403f1d0/master.m3u8?1676389276"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/djdu5m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Principios de CNC y Materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fabricación digital CNC Qué son y cómo funcionan",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/808/e38559c9fc55bc6dad3dd43a640e7782/master.m3u8?1676389277"
+                },
+                {
+                    "id": null,
+                    "title": "La madera un material renovable tableros base madera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/809/074a5b0e056da42111f591b1409093b4/master.m3u8?1676389279"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wjba1t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Principios de dibujo CAD tipos de corte más comunes y ensambles  para router CNC",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de corte en CNC",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/810/34bc8e4c09d593c40aec02e766af3863/master.m3u8?1676389278"
+                },
+                {
+                    "id": null,
+                    "title": "El problema de las esquinas internas y radios para salvar el ensamble",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/811/ffc622f1790e145e934ff2e3f6b47921/master.m3u8?1676389284"
+                },
+                {
+                    "id": null,
+                    "title": "Medición de material y cómo afecta a los ensambles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/812/f8f535a166679f3cd58f149d95ead567/master.m3u8?1676389280"
+                },
+                {
+                    "id": null,
+                    "title": "Algunos ensambles básicos Caja y espiga",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/813/46b18a63452101fcbb1b86ced62de606/master.m3u8?1676389279"
+                },
+                {
+                    "id": null,
+                    "title": "Ensambles para CNC caja y espiga pasante con cuña",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/814/68a23c8cf9b8a0ea61c02f5f488d566c/master.m3u8?1676389280"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n2u57i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Banquito Tijuana dibujo en computadora",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Decisiones de diseño y primeros trazos del banquito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/815/26a9796ef84caae337a7faf1b90b6f6d/master.m3u8?1676389285"
+                },
+                {
+                    "id": null,
+                    "title": "Ensambles desbastes y detalles del dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/816/9cc7786f76af606e4f4e192298d9bcd6/master.m3u8?1676389284"
+                },
+                {
+                    "id": null,
+                    "title": "Personalizar el banco y acomodo de las piezas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/817/47e1d8221253a9a7a9f306c0a698f211/master.m3u8?1676389284"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ldgao7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción del banquito",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Archivos para corte  CNC",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/818/6ca14ccf995479008e384dd78cfe648a/master.m3u8?1676389282"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión y ajuste de detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/819/46f62a9536128e82419395cd96f62d05/master.m3u8?1676389282"
+                },
+                {
+                    "id": null,
+                    "title": "Acabado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/820/935956185f8a9bc61a3dbc8ccf095073/master.m3u8?1676389281"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q4ebhj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/eu2u38.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1079,
+        "product_name": "Introduction to CNC Router Furniture Design",
+        "teacher_name": "Daniel Romero / Tuux",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 7694,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

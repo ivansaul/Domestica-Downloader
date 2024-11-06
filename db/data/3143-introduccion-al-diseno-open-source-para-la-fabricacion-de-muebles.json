@@ -1,0 +1,148 @@
+{
+    "id": "3143",
+    "title": "Introducción al diseño open source para la fabricación de muebles",
+    "url": "https://www.domestika.org/es/courses/3143-introduccion-al-diseno-open-source-para-la-fabricacion-de-muebles/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/206/673edc38e72b1265fa9b80ca0d539e36/master.m3u8?1676402410"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/207/db2a4f56fce12d089e69a6932e4b5a3f/master.m3u8?1676402409"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mbpet2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Principios y ventajas del diseño abierto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fabricación digital y diseño abierto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/208/564edb1c34571f0bd557ee51ee494e7a/master.m3u8?1676402414"
+                },
+                {
+                    "id": null,
+                    "title": "Comprensión del usuario para la elección de muebles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/209/7d48151f90708c31cfc49b7229622960/master.m3u8?1676402412"
+                },
+                {
+                    "id": null,
+                    "title": "Elección de material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/210/209274f0b922b38ae1afaceefee9f8d2/master.m3u8?1676402413"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/descpf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño para CNC",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Básico para CNC",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/211/e628677a9c30b77fd408fbe6f77b3c02/master.m3u8?1676402415"
+                },
+                {
+                    "id": null,
+                    "title": "Entalla cortes y capas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/212/56f6af20e3b7565c058411e45527d691/master.m3u8?1676402416"
+                },
+                {
+                    "id": null,
+                    "title": "Entalla cortes y capas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/214/c8745b3e99c58373ede5f072414e44cb/master.m3u8?1676402416"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando el archivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/215/021df2ac8c083027ea1c63f21409a0e3/master.m3u8?1676402417"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f708t5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Materializando el proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conoce a los productores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/216/20b0e9fac09224f41041d94f8f9e9b88/master.m3u8?1676402417"
+                },
+                {
+                    "id": null,
+                    "title": "Colabora con el mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/217/0f253936b20ff7d23bcd74eacdce47cc/master.m3u8?1676402416"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zzcaea.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mpo5vk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3143,
+        "product_name": "Furniture Manufacturing for Beginners: Open Source Design",
+        "teacher_name": "STUDIO DLUX - Denis Fujii",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 6560,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "id": "4354",
+    "title": "Creación de un ecommerce desde cero con Figma",
+    "url": "https://www.domestika.org/es/courses/4354-creacion-de-un-ecommerce-desde-cero-con-figma/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/183/d11b805e863e7102423ae87529d00286/master.m3u8?1676411416"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/184/27d49462144712d0e15a9025d0e17a38/master.m3u8?1676411417"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yn9ofn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación para un proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La importancia de la información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/185/f8378a940eba7e28640bf926e5ba7d7b/master.m3u8?1676411421"
+                },
+                {
+                    "id": null,
+                    "title": "Auditoría de contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/186/dc0cb8d9136714b2949786093f07f9c0/master.m3u8?1676411419"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de un mapa del sitio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/187/974ab2398ef7b81070cfa6214dacd981/master.m3u8?1676411420"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xaxvz6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fase UX y dirección de arte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/188/4493fcd15a6020d5fe503d15ef9926ff/master.m3u8?1676411428"
+                },
+                {
+                    "id": null,
+                    "title": "Una estructura metálica sólida 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/189/605495e6689ea9c9f50e11b98534a95b/master.m3u8?1676411423"
+                },
+                {
+                    "id": null,
+                    "title": "Una estructura metálica sólida 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/190/1e8fe0a316be03c853c4a8f2a1aedc4a/master.m3u8?1676411424"
+                },
+                {
+                    "id": null,
+                    "title": "Explorando la dirección de arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/191/fbffaed8607fcade1d546a1ff5b2a6b5/master.m3u8?1676411428"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bekqpc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definición de elementos de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elegir el diseño correcto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/192/436515f132f8b43ef9993f95b18ad805/master.m3u8?1676411426"
+                },
+                {
+                    "id": null,
+                    "title": "Transmitir el mensaje con tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/193/1b1931c72bd0a9b708bd64ff516bf97d/master.m3u8?1676411424"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustraciones personalizadas a medida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/194/162980606a07a6098a003ebcf2226680/master.m3u8?1676411426"
+                },
+                {
+                    "id": null,
+                    "title": "Impulsar el contenido de la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/195/efefb66217a02d405171bf675c67e013/master.m3u8?1676411426"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7r1j20.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño receptivo y entrega para el desarrollo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición de los componentes en Figma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/196/2f22d5a1fe5d8a5e4cb9bfeff70b99ab/master.m3u8?1676411426"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de la guía de estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/198/daa33eed0628a092a5bc96b47a720e1b/master.m3u8?1676411429"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando las páginas para resoluciones responsivas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/342/4b726298953ddb55c393fc4fecadefe3/master.m3u8?1676411504"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/up62qi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación y boost final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear una presentación adecuada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/199/ac3d4ff30ae0cab1bf5cc4e7de9d7952/master.m3u8?1676411426"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de una maqueta animada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/200/e9e9e69bfcbc15d8d3efd692854b9dba/master.m3u8?1676411425"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z85q9q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/54v414.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4354,
+        "product_name": "Ecommerce Design from Scratch with Figma",
+        "teacher_name": "Creative Nights",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 14204,
+        "total_units": 6,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

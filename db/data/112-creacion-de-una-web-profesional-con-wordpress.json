@@ -1,0 +1,282 @@
+{
+    "id": "112",
+    "title": "Creación de una web profesional con WordPress",
+    "url": "https://www.domestika.org/es/courses/112-creacion-de-una-web-profesional-con-wordpress/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/863/6c502779f0eb6325e111edc80057c8ee/master.m3u8?1684830250"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/547/e84dc7115fa5dc6788108ee1f79b3051/master.m3u8?1676386157"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/012/548/cabadbf3a7f3982668018dbb01eedb14/master.m3u8?1676386157"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h1c8b3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a WordPress",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es y para qué sirve WordPress",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/864/afdfa84eeeb33f94a1663f049a0e04c3/master.m3u8?1684830171"
+                },
+                {
+                    "id": null,
+                    "title": "Documentación y canales de ayuda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/866/49241d24ff3582f35e476358d64a68ec/master.m3u8?1684830297"
+                },
+                {
+                    "id": null,
+                    "title": "Software necesario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/869/091743b36b41a54c571b04ab7a8fd9d1/master.m3u8?1684830610"
+                },
+                {
+                    "id": null,
+                    "title": "Instalación de WordPress local",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/871/2e17c2f3e29153d5ea2f5b7cdb64b47e/master.m3u8?1684830765"
+                },
+                {
+                    "id": null,
+                    "title": "El panel de administración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/873/02ec3f6d41805c32a2b4dde54e0527a8/master.m3u8?1684830973"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes básicos generales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/875/efa2b76025709c9ea1b0cbe0003d936c/master.m3u8?1684831373"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yjs6tg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Gestión y creación de contenido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Posts páginas y entradas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/876/bec4f5fd0f646288892127709d53a22e/master.m3u8?1684831965"
+                },
+                {
+                    "id": null,
+                    "title": "Medios e Imagenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/878/aa6e6a7a0c0c1700afa55c12b4e63925/master.m3u8?1684832223"
+                },
+                {
+                    "id": null,
+                    "title": "El editor de bloques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/879/f7c61c654847520dc7158c1f977a2c71/master.m3u8?1684832420"
+                },
+                {
+                    "id": null,
+                    "title": "Temas búsqueda e instalación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/880/5bd5791f63c341efed509df32e005561/master.m3u8?1684833909"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de landing page",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/882/b28f93ec590363d989221c813988add0/master.m3u8?1684834011"
+                },
+                {
+                    "id": null,
+                    "title": "Plugins búsqueda e instalación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/883/490ef70b531038f517c3668b02e9e4a7/master.m3u8?1684834065"
+                },
+                {
+                    "id": null,
+                    "title": "Widgets",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/885/31cb46e29fde8fa70826e2998f886dc7/master.m3u8?1684834114"
+                },
+                {
+                    "id": null,
+                    "title": "Menús de navegación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/886/a8748a54755f504473d7b0afe01e417c/master.m3u8?1684834177"
+                },
+                {
+                    "id": null,
+                    "title": "Gestión de usuarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/887/f535053eacc2f9e8e1389a807b2daa10/master.m3u8?1684834218"
+                },
+                {
+                    "id": null,
+                    "title": "Salud del sitio y actualizaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/888/8b386fd0dddad3cd7b2a220146fcb6fe/master.m3u8?1684835950"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vumf1c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Características avanzadas con plugins",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bloques y más bloques",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/889/3bbfb9e38742cf99226f74d157fbe6f6/master.m3u8?1684845456"
+                },
+                {
+                    "id": null,
+                    "title": "Jetpack el mega plugin",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/900/263ad18b4d0f31baf0e2289a35b780ae/master.m3u8?1684845543"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/910/b88b8793f076666ff7ed904c10ad80e3/master.m3u8?1684845573"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de contenido personalizados 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/913/c1016e738cd49a0bd3060323acd7a6b0/master.m3u8?1684845779"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de contenido personalizados 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/918/21c1b4274f1713d19375e485962e041f/master.m3u8?1684845798"
+                },
+                {
+                    "id": null,
+                    "title": "SEO",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/919/a0e2906271f54c3a5dabfd1ee0873b65/master.m3u8?1684845820"
+                },
+                {
+                    "id": null,
+                    "title": "Seguridad monitorización y spam",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/923/aa15cf904c70327c39657ba7fb3c3f76/master.m3u8?1684846982"
+                },
+                {
+                    "id": null,
+                    "title": "Plugins de caché",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/924/fb368bc7433c9b00ae4a14149dcb683e/master.m3u8?1684847012"
+                },
+                {
+                    "id": null,
+                    "title": "Traducción de temas y plugins",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/928/60d39e05efda490c349ced0dab9eb94e/master.m3u8?1684847243"
+                },
+                {
+                    "id": null,
+                    "title": "Formularios y newsletters 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/930/340757fdff5c67bf9058eefbde8b7fe6/master.m3u8?1684849974"
+                },
+                {
+                    "id": null,
+                    "title": "Formularios y newsletters 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/933/80d8ffdb83ea639403507fb2e6044a31/master.m3u8?1684850250"
+                },
+                {
+                    "id": null,
+                    "title": "Cookies",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/936/0171046ee9a31b0a1551f1b246a4fcb7/master.m3u8?1684850993"
+                },
+                {
+                    "id": null,
+                    "title": "Capacidades para usuarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/935/98252b0dd38c7ca98b9d835506f8f928/master.m3u8?1684851038"
+                },
+                {
+                    "id": null,
+                    "title": "Imágenes al cambiar de tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/937/26b67c46eb8c2ee3f963566702043ba2/master.m3u8?1684851592"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o684d0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Subir la web a producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de hosting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/938/0b516cfc4f379ef89244a81986ae6402/master.m3u8?1684851980"
+                },
+                {
+                    "id": null,
+                    "title": "Subida a producción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/939/86c60f4b5186dc309a691d4914fef826/master.m3u8?1684852248"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bl7uhi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/6muztg.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 112,
+        "product_name": "Creation of a Professional Website with WordPress",
+        "teacher_name": "Ignacio Cruz Moreno",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 35,
+        "course_total_duration_sec": 20034,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "id": "4254",
+    "title": "Diseño de páginas web innovadoras y creativas",
+    "url": "https://www.domestika.org/es/courses/4254-diseno-de-paginas-web-innovadoras-y-creativas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/204/fe3cd9ba23cfdbeb331b46d5413c2bfb/master.m3u8?1676413830"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/205/ffba9137dfe5d12f93833425970b622b/master.m3u8?1676413835"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h96lms.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigación y contexto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recibir el brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/206/68b603be0d4a0121740bbd0c78ac3a0c/master.m3u8?1676413834"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación y mapa de navegación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/207/ec21ad3d6122195c643c0ca0f116c3d7/master.m3u8?1676413832"
+                },
+                {
+                    "id": null,
+                    "title": "Referentes e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/208/b7d7258a29f03893410555c35b4e0f3e/master.m3u8?1676413832"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u93e1w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estructura y wireframes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Content strategy e information architecture",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/209/3c56d4c8406b7d3dcbe7bcd995de1513/master.m3u8?1676413833"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de wireframes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/210/bfc96b6ce326b0d743589f60141d3af5/master.m3u8?1676413837"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de wireframes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/211/ca7647e9d4a388217665dad433570ee3/master.m3u8?1676413835"
+                },
+                {
+                    "id": null,
+                    "title": "Recomendaciones sobre wireframes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/212/d41a9148a0779b82a2666120736f3542/master.m3u8?1676413834"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fid39q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dirección de arte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Layouts y grids",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/213/60ab993055b8b987a42327a81ec3b039/master.m3u8?1676413839"
+                },
+                {
+                    "id": null,
+                    "title": "La tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/214/7fe4276953a3758ff4a650c26f9889bd/master.m3u8?1676413837"
+                },
+                {
+                    "id": null,
+                    "title": "El color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/215/dfcd82deb7210c79b8c406790d10f9ca/master.m3u8?1676413841"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0e63xd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La interacción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Motion design",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/216/fa95af579621564620f4bf7c800c4eab/master.m3u8?1676413838"
+                },
+                {
+                    "id": null,
+                    "title": "Interacciones y microinteracciones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/217/5a6c1b7d3bdde9ebb4ed21638a9fa964/master.m3u8?1676413839"
+                },
+                {
+                    "id": null,
+                    "title": "Interacciones y microinteracciones 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/218/32232302c29543087de40fbae6ddf0a0/master.m3u8?1676413840"
+                },
+                {
+                    "id": null,
+                    "title": "Gestures y detalles gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/219/f75976d96463bed1a5c85c49333c0bd5/master.m3u8?1676413840"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gn35kt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Después de diseñar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/220/4c00e0fdd4515e1faf46eafdb5b28e1d/master.m3u8?1676413840"
+                },
+                {
+                    "id": null,
+                    "title": "Recibir feedback",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/221/cc4460c64d5ee3309af93c35a58f3ad0/master.m3u8?1676413838"
+                },
+                {
+                    "id": null,
+                    "title": "Crear una guía de estilos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/222/47188d141c6dba70b0cc8db4eb9fdf15/master.m3u8?1676413843"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0qzp3y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hpmgm7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4254,
+        "product_name": "Creating Innovative Web Designs",
+        "teacher_name": "Contra Studio",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 9813,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

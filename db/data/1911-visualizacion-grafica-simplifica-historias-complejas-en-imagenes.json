@@ -1,0 +1,180 @@
+{
+    "id": "1911",
+    "title": "Visualización gráfica simplifica historias complejas en imágenes",
+    "url": "https://www.domestika.org/es/courses/1911-visualizacion-grafica-simplifica-historias-complejas-en-imagenes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/492/2ae47d2da9f045f7cbfb752c54bc447f/master.m3u8?1676392466"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/494/4d5a33a3c99d327927144022057cfb3b/master.m3u8?1676392468"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/495/2a74a51a46936e95f51f52e805bbf1d6/master.m3u8?1676392468"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6ypwye.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Principios básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo percibimos la información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/496/ee9d587bc28cb7809778ae0b7c17c5eb/master.m3u8?1676392469"
+                },
+                {
+                    "id": null,
+                    "title": "Por qué necesitamos contenido visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/497/769064131c2f80f6184081b150f3eaea/master.m3u8?1676392469"
+                },
+                {
+                    "id": null,
+                    "title": "Principios de jerarquía visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/498/3526ca4d0363e57f4e744dc31c77e556/master.m3u8?1676392473"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i1fjkd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tipos de visuales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Imágenes cuantitativas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/499/997e5ad881a1e9efaebb7310e114d414/master.m3u8?1676392473"
+                },
+                {
+                    "id": null,
+                    "title": "Visuales cualitativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/500/a2e5001ea7303b352de3e4a21269638d/master.m3u8?1676392475"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo decidir cuál usar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/501/c5fee8d8b7c1ff8bcd2d55b07ce3d61d/master.m3u8?1676392473"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zfdrna.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proceso creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dibujar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/502/b686301808900172e514d8b3bfaca53e/master.m3u8?1676392478"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/503/b5ad3d00ef28bd8d975b98fb05e3ed9b/master.m3u8?1676392476"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/504/b28ac7a03e72cd7c562d3372d2a5ea5a/master.m3u8?1676392479"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/505/b2c0bbb902e6dfb1fbd9cb91325b29b0/master.m3u8?1676392478"
+                },
+                {
+                    "id": null,
+                    "title": "Refinando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/506/db1731bb643213d3d6497f767e78d994/master.m3u8?1676392481"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/duld93.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El resultado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dónde usar visualizaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/507/ebcd38b7d711a416fa79192cd9098833/master.m3u8?1676392478"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v3p78v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/70kfzk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1911,
+        "product_name": "Graphic Visualization: Telling Complex Stories through Simple Images",
+        "teacher_name": "Katya Kovalenko",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 5016,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

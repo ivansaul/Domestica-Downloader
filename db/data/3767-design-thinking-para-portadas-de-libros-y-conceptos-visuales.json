@@ -1,0 +1,168 @@
+{
+    "id": "3767",
+    "title": "Design thinking para portadas de libros y conceptos visuales",
+    "url": "https://www.domestika.org/es/courses/3767-design-thinking-para-portadas-de-libros-y-conceptos-visuales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/320/1455938154ca1226e5828db862a67f20/master.m3u8?1676405770"
+                },
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/101/0a6cffb5b2cfc36ea4aa293a5f6a6d3a/master.m3u8?1676413150"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kt40sh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proceso de diseño del libro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Descripción general del diseño de libros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/321/cb2aa2c5bf3269bd910c5198cbc06f35/master.m3u8?1676405770"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo empezar la lectura y su caja de herramientas de diseño de libros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/322/799ac1a35e634bb02dd84b51cf6b270f/master.m3u8?1676405771"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board Investigación de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/323/dc87344df1ff26fdae7765df17230c29/master.m3u8?1676405769"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir un proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/324/d3aa79ec51bcbc8f8c2abe89a03f027b/master.m3u8?1676405769"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n78nst.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear el diseño de la portada de su libro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lectura y toma de notas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/325/d58cf4862e4f4a87bcce889f104c98c9/master.m3u8?1676405773"
+                },
+                {
+                    "id": null,
+                    "title": "Concepción y esbozo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/326/e974f7d61bf5b6bbdd1bc5515a80c48f/master.m3u8?1676405772"
+                },
+                {
+                    "id": null,
+                    "title": "Investigar explorar y refinar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/327/0a7b05c1e5fbb02654bda3767061ce83/master.m3u8?1676405775"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño con InDesign y Adobe Creative Suite 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/328/c3cc42d40fcb01bb210710f84be5636b/master.m3u8?1676405774"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño con InDesign y Adobe Creative Suite 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/329/9ce0fa8e7a415ecaa469a6db15271b36/master.m3u8?1676405776"
+                },
+                {
+                    "id": null,
+                    "title": "Edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/330/523a5962debc079ce3eea2696da930b1/master.m3u8?1676405777"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0ibogt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Toques finales para la portada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ampliando su diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/331/7f2b68881948b33efec02143f97771cb/master.m3u8?1676405775"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del diseño de la portada de su libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/332/1e18cf546438b1310b3c9714aef2cff3/master.m3u8?1676405776"
+                },
+                {
+                    "id": null,
+                    "title": "Tomando retroalimentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/333/b91767e9597205dbac8f26e8e146af06/master.m3u8?1676405775"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ait2wz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8p3zza.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3767,
+        "product_name": "Design Thinking for Book Covers and Visual Concepts",
+        "teacher_name": "Catherine Casalino",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 10087,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

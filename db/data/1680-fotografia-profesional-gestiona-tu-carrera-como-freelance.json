@@ -1,0 +1,163 @@
+{
+    "id": "1680",
+    "title": "Fotografía profesional gestiona tu carrera como freelance",
+    "url": "https://www.domestika.org/es/courses/1680-fotografia-profesional-gestiona-tu-carrera-como-freelance/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/354/4bf9941ad3e14a8a84a843ad98ef573d/master.m3u8?1676391397"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/355/d10b58dd9a79ef5727c4492bc625b85b/master.m3u8?1676391394"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/356/54138be243e9b672c55d6f0e51f9a22e/master.m3u8?1676391393"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hksl8o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Autogestión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Autonomía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/357/cb40ff3a1ad4ca0f3a8e87e797282f2c/master.m3u8?1676391400"
+                },
+                {
+                    "id": null,
+                    "title": "Organización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/358/0d7ef12c62af890f5384733aa3095297/master.m3u8?1676391397"
+                },
+                {
+                    "id": null,
+                    "title": "Marketing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/359/5c6b46f32d878a0f89f13995605b50ee/master.m3u8?1676391400"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xqavy3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación profesional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/360/7f582fa197f6fe7752ec1f73064cb672/master.m3u8?1676391401"
+                },
+                {
+                    "id": null,
+                    "title": "Divulgación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/361/ac1c7dcaa8c9f99d325b6eaff98eda23/master.m3u8?1676391403"
+                },
+                {
+                    "id": null,
+                    "title": "Texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/362/dc4124608f6c3e66c9f4c4cbcfefb072/master.m3u8?1676391400"
+                },
+                {
+                    "id": null,
+                    "title": "Documentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/363/803e62ff1ea439996f02fe8e3e110fc4/master.m3u8?1676391399"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oinpwe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Posibles direcciones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Imágenes plásticas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/364/028502a65aeb26cdb2f3b144aa359a4e/master.m3u8?1676391401"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos sólidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/365/0c1e7eb7bb31c88cab7d5a69097f547f/master.m3u8?1676391400"
+                },
+                {
+                    "id": null,
+                    "title": "Cliente directo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/366/48871562d3620f75ec0adb951a62bd84/master.m3u8?1676391401"
+                },
+                {
+                    "id": null,
+                    "title": "Espacios alternativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/024/390/c7d4d993cf4240f0af830b2f3b9f3993/master.m3u8?1676391406"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ukn0rt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ci5zh7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1680,
+        "product_name": "Professional Photography: Managing Your Freelance Career",
+        "teacher_name": "Danny Bittencourt",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 9719,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

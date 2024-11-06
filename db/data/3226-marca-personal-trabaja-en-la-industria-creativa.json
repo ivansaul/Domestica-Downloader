@@ -1,0 +1,163 @@
+{
+    "id": "3226",
+    "title": "Marca personal trabaja en la industria creativa",
+    "url": "https://www.domestika.org/es/courses/3226-marca-personal-trabaja-en-la-industria-creativa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/349/f5bad8414bbf34035ac0db681d3d80f5/master.m3u8?1676403010"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/350/74fa79b1c27cd82df775b095b4b62316/master.m3u8?1676403010"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c9zb0j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Autoconocimiento honesto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La metodología de Work",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/351/10fa02e4553cb9b9882bbde300213ade/master.m3u8?1678442987"
+                },
+                {
+                    "id": null,
+                    "title": "Tres tiempos pasado presente y futuro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/353/d00e4f9686a2ba71077b74a02ffa295c/master.m3u8?1676403011"
+                },
+                {
+                    "id": null,
+                    "title": "El círculo de oro de Simon Sinek",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/354/d6befc7f205cc67a92676f09efc07588/master.m3u8?1676403013"
+                },
+                {
+                    "id": null,
+                    "title": "RIP o cómo te gustaría que te recuerden",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/355/724e01052d49479f743de2daf92d0b65/master.m3u8?1676403012"
+                },
+                {
+                    "id": null,
+                    "title": "Gráfico de autoevaluación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/356/fe71935449cb41125cc1a3b851e7670a/master.m3u8?1676403015"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zjza57.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Personas empresas y relaciones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Persona mapa de empatía y dolores y ganancias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/357/13230e75f682ff1cf618b6b20425d091/master.m3u8?1676403014"
+                },
+                {
+                    "id": null,
+                    "title": "Match profesional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/358/b97a7f909ed51d6079159332ac36926a/master.m3u8?1676403013"
+                },
+                {
+                    "id": null,
+                    "title": "Mapa de relaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/359/52db1e0daa331cc1abc333af8ddd05b7/master.m3u8?1676403014"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4e5jfz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Claves para tu CV porfolio y entrevistas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Narrativa personal y propuesta de valor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/360/45a547564e404ede5e4b2746068cb35c/master.m3u8?1676403015"
+                },
+                {
+                    "id": null,
+                    "title": "Narrativa personal para la creación  de tu CV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/361/f4ed1fa2c9ba6e3fb722af25a5fda997/master.m3u8?1676403014"
+                },
+                {
+                    "id": null,
+                    "title": "Narrativa personal para la creación de tu porfolio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/362/e9a30a0739267631483051fefcb82b64/master.m3u8?1676403016"
+                },
+                {
+                    "id": null,
+                    "title": "Narrativa personal durante una entrevista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/363/3ef0448f6c6163ff2e5fa72b55247cec/master.m3u8?1676403015"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/izwpal.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/04xn7b.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3226,
+        "product_name": "Personal Branding: Work in the Creative Industry",
+        "teacher_name": "Work! Trabajo & Diseño",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 4160,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

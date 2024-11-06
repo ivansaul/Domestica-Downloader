@@ -1,0 +1,169 @@
+{
+    "id": "208",
+    "title": "Iniciación al diseño de interiores",
+    "url": "https://www.domestika.org/es/courses/208-iniciacion-al-diseno-de-interiores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre nosotros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/901/e0a4a747b522bcd2177152bdd8e18952/master.m3u8?1676382873"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/902/542c57bd703a1c05d7b38b0dc885b9d8/master.m3u8?1676382868"
+                },
+                {
+                    "id": null,
+                    "title": "El proyecto Valencia Lounge Hostel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/903/04350f9d17127b1a845f6b32e3149857/master.m3u8?1676382867"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3iny1l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El briefing",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conozcamos al clienteempresa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/904/c4c150aeea0833a424094e42262634ec/master.m3u8?1676382874"
+                },
+                {
+                    "id": null,
+                    "title": "Conozcamos el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/905/0305784ec955d468ec925b9cf57db6e5/master.m3u8?1676382868"
+                },
+                {
+                    "id": null,
+                    "title": "Nuevos estilos de vida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/128/e80f6dc81ced59b9b510886e75d09d27/master.m3u8?1676393809"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xcgu93.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La inspiración y el mood board",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El estilo de vida como clasificarlo y ordenarlo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/906/382714ff75ccd4f18b29b86e35653d6c/master.m3u8?1676382869"
+                },
+                {
+                    "id": null,
+                    "title": "Los materiales Búsqueda y organización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/907/016c3b87a96668250df7c8be3388611e/master.m3u8?1676382869"
+                },
+                {
+                    "id": null,
+                    "title": "Los colores cómo gestionarlos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/908/d057ce518a5ba0107b15d3fd6bd2bce6/master.m3u8?1676382873"
+                },
+                {
+                    "id": null,
+                    "title": "Nuevos materiales y paletas de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/129/f9acf6407671af7ce3dad03eebf9ca34/master.m3u8?1676393809"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mditl1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El desarrollo del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La historia del proyecto que hemos pensado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/909/8a2f2484e356a824e6b5a4162fee9915/master.m3u8?1676382872"
+                },
+                {
+                    "id": null,
+                    "title": "El concepto y justificación de materiales colores y texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/910/3d75c1b4f0e5e674885ee9709d6c6f7c/master.m3u8?1676382871"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo creativo de las ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/913/8a11bcbbe96b9e755a89d4597c654557/master.m3u8?1676382874"
+                },
+                {
+                    "id": null,
+                    "title": "Ejecución de nuestras ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/942/f6e04273babb944686684102f774ef83/master.m3u8?1676382901"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del proyecto y presupuesto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/130/7f625f3f6621b98ad28da82585fd7873/master.m3u8?1676393810"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/srj79x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/op3nfx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 208,
+        "product_name": "Introduction to Interior Design",
+        "teacher_name": "Masquespacio",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 5975,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

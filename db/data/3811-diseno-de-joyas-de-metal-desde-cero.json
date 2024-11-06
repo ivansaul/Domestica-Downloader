@@ -1,0 +1,163 @@
+{
+    "id": "3811",
+    "title": "Diseño de joyas de metal desde cero",
+    "url": "https://www.domestika.org/es/courses/3811-diseno-de-joyas-de-metal-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/851/23921b7bab200f3a5f813f4b53965cde/master.m3u8?1676407504"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/032/5fe7d829d5ea4649cd004394307ed829/master.m3u8?1676411313"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5pnjr9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El proceso de creación de joyas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/852/e090565b06fae4530c20e57b887d605e/master.m3u8?1676407503"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y posibilidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/853/b5ab973c5761b7d2414b8e96f0a1f90d/master.m3u8?1676407506"
+                },
+                {
+                    "id": null,
+                    "title": "Instrumentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/854/b9d136e00b4d6eeb8f959412360f03e7/master.m3u8?1676407507"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w6aept.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción de piezas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/855/d1cc2702a9751066da093387c822ed19/master.m3u8?1676407513"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/856/27bdc3c44bbef09f79c9e3bc0f4929e4/master.m3u8?1676407509"
+                },
+                {
+                    "id": null,
+                    "title": "El modelado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/857/15033b43b590ffacd308d271953934da/master.m3u8?1676407519"
+                },
+                {
+                    "id": null,
+                    "title": "Texturado y envío a fundición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/858/2789bb8b2a48b801496b844390f38923/master.m3u8?1676407508"
+                },
+                {
+                    "id": null,
+                    "title": "El final 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/859/98fc81a579bbb7880816578d03121381/master.m3u8?1676407513"
+                },
+                {
+                    "id": null,
+                    "title": "El final 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/860/3cc54c991febb72cf7e09b1925afd73e/master.m3u8?1676407510"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d6xp68.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Otras posibilidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/861/e378c87ef1a524808d02b7523b39a9d2/master.m3u8?1676407511"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo fotografiar las piezas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/862/3dec642f36205da0a29d4d228e984d29/master.m3u8?1676407511"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo organizar una colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/863/68dd26e00f1dfeb9bdd6075e5117eb74/master.m3u8?1676407511"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0bvjih.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mi5bph.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3811,
+        "product_name": "Making Custom Metal Jewelry for Beginners",
+        "teacher_name": "Rafaela Delbon",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 5190,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

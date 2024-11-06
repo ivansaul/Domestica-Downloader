@@ -1,0 +1,196 @@
+{
+    "id": "1581",
+    "title": "Principios de diseño para presentaciones",
+    "url": "https://www.domestika.org/es/courses/1581-principios-de-diseno-para-presentaciones/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lo que haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/500/886bb8db5bebcbd1d7decf8092ef8f80/master.m3u8?1676390562"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/515/ff9633a203385a8b9d0c99cb25cf97c7/master.m3u8?1676390574"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/523/a13cc0cc1bf43d0c3c8330f73d676530/master.m3u8?1676390577"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/621ngf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentaciones Qué hay de ellos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué hacer y qué no hacer en presentaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/502/0ecdde6cc492d9e49df1ea31883003c6/master.m3u8?1676390566"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de presentaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/503/e7b21f088a39ecefd1abfa0392ee79b0/master.m3u8?1676390565"
+                },
+                {
+                    "id": null,
+                    "title": "De dónde vienen las presentaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/516/0347f6de3d877cc4562581329436a977/master.m3u8?1676390569"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4cba8v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Contenido y narrativa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estructura de contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/505/d724e01ef99348f107de4c461a46d771/master.m3u8?1676390566"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir tu presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/517/5ab118c21cfb4f449b10c85a695d0608/master.m3u8?1676390575"
+                },
+                {
+                    "id": null,
+                    "title": "Storyboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/518/02e6785b4ecd63ca29730fb7d40810b6/master.m3u8?1676390578"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ajs53n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creemos nuestra presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/524/ab28b8512b69bc04e01b9f536ffcc97f/master.m3u8?1676390576"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/508/38c8a0a85a31960b8e3fa8ef32048564/master.m3u8?1676390574"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/578/d91462c89f9f6d9cc238ae7551d9ba97/master.m3u8?1676391019"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de diapositivas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/509/787a4a4897ca641e2439bcdb898351e4/master.m3u8?1676390574"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de diapositivas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/579/f3cee124571b66822d31665f60449966/master.m3u8?1676391023"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de diapositivas 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/580/498c8d35b4fa61b568fdd63774ad3b9b/master.m3u8?1676391024"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos y transiciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/513/45ec2900f6ff989cbbf102fdb5b6b3b9/master.m3u8?1676390569"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eplai3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sácalo allí",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/520/fcc067862f62ca8ae6c002e2434af576/master.m3u8?1676390571"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación en vivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/521/43f59dce0cb7149c75578958f8703b42/master.m3u8?1676390573"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5oxpd2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mamp6t.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1581,
+        "product_name": "Principles of Presentation Design",
+        "teacher_name": "Katya Kovalenko",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 7937,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

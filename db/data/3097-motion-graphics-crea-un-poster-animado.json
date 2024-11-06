@@ -1,0 +1,163 @@
+{
+    "id": "3097",
+    "title": "Motion graphics crea un póster animado",
+    "url": "https://www.domestika.org/es/courses/3097-motion-graphics-crea-un-poster-animado/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/003/8b8daea712f7cd395a0ff78e8f00f124/master.m3u8?1676403801"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestras fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/004/5ffa5db258b962d046416076db2712ff/master.m3u8?1676403805"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qjr0to.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigación y concepto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Identidad visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/005/b59d4a3d5009fc289c4c72830687dd11/master.m3u8?1676403800"
+                },
+                {
+                    "id": null,
+                    "title": "El brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/006/6dbaccd8013afb572ea03c1d0222b65a/master.m3u8?1676403804"
+                },
+                {
+                    "id": null,
+                    "title": "Recopilar inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/007/7363843288655c52c2da8809a8638176/master.m3u8?1676403807"
+                },
+                {
+                    "id": null,
+                    "title": "Síntesis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/008/eb2b9d23e11a7ece8f10d5a5847e806a/master.m3u8?1676403802"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/31x541.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de posters",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Experimentación y desarrollo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/010/04a94b9c6bf9674c21ecb617ea3a3921/master.m3u8?1676403805"
+                },
+                {
+                    "id": null,
+                    "title": "Creación 2D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/011/c824438cdb85ee325a068f73b134bc8a/master.m3u8?1676403805"
+                },
+                {
+                    "id": null,
+                    "title": "Animación del cartel 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/012/f1ef530079bb1ed5264c3ff1b19038ae/master.m3u8?1676403809"
+                },
+                {
+                    "id": null,
+                    "title": "Animación de carteles 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/013/17026626024c42f6bc31a887e8acd9f2/master.m3u8?1676403808"
+                },
+                {
+                    "id": null,
+                    "title": "Animación de carteles 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/014/433712ca08e18bcc83a107b7ca58c196/master.m3u8?1676403809"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar tu creación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/015/35a33fc9a13e473e1654a67339849290/master.m3u8?1676403805"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l8uaqj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mejora del cartel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proyección 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/016/cbc372a58f8b9d06fcc51cda521fc0c0/master.m3u8?1676403805"
+                },
+                {
+                    "id": null,
+                    "title": "Publicar tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/017/5385c184b6e20ef0aede19e2986cd69e/master.m3u8?1676403807"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jhda63.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/o8680l.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3097,
+        "product_name": "Motion Graphics: Create an Animated Poster",
+        "teacher_name": "Plus Mûrs",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6388,
+        "total_units": 4,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

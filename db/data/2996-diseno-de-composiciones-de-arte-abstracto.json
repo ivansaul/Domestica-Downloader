@@ -1,0 +1,164 @@
+{
+    "id": "2996",
+    "title": "Diseño de composiciones de arte abstracto",
+    "url": "https://www.domestika.org/es/courses/2996-diseno-de-composiciones-de-arte-abstracto/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/462/890182a53324ed53aa15a65d16100819/master.m3u8?1676405835"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/463/1dd2bfe17dcb6baad0360b52f6ea975d/master.m3u8?1676405839"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s9fuuu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Todo empieza con lo que ya tienes a tu alrededor",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Composición en el arte y diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/464/9efaf6f03c04224facfdb8bc2cd0cdc4/master.m3u8?1676405837"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios de percepción scouting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/465/230eb913081555d56e216a05ddff3691/master.m3u8?1676405837"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/466/29c9a35e07f94464e9b2fbc2ab1af830/master.m3u8?1676405845"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetaje inicial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/467/09f218858d304d15f2717a2517f6e630/master.m3u8?1676405852"
+                },
+                {
+                    "id": null,
+                    "title": "Del caos al orden",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/468/f202391a304415ebf64f7f3d54c38c51/master.m3u8?1676405842"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5ryo2h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Juegos de composición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/469/75631e6a84b123d6df3dfde0dda89cc5/master.m3u8?1676405844"
+                },
+                {
+                    "id": null,
+                    "title": "El color digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/470/a43822af821d4e560a934d24e2008d74/master.m3u8?1676405845"
+                },
+                {
+                    "id": null,
+                    "title": "Los trazos y las pinturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/471/c0d76f569a21fb5dbd00f3b91f8104e0/master.m3u8?1676405844"
+                },
+                {
+                    "id": null,
+                    "title": "Técnica de pintura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/472/70cff662a97dafcaef586e8f6f129fce/master.m3u8?1676405849"
+                },
+                {
+                    "id": null,
+                    "title": "Detallado final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/473/463cfe0014b7b84902ed6592a5bc810c/master.m3u8?1676405842"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ctmv0o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Contenido para web y medios sociales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El detrás de cámaras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/474/84f94bc2117a486818850d25551a41ca/master.m3u8?1676405842"
+                },
+                {
+                    "id": null,
+                    "title": "Producto final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/475/f6cd54739632dffc7e623e28036afbfa/master.m3u8?1676405844"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n0i1s6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/far33q.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2996,
+        "product_name": "Composition Design for Abstract Art",
+        "teacher_name": "Hola Lou",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6632,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

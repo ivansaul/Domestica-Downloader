@@ -1,0 +1,158 @@
+{
+    "id": "3958",
+    "title": "Diseño para redes sociales gana visibilidad online",
+    "url": "https://www.domestika.org/es/courses/3958-diseno-para-redes-sociales-gana-visibilidad-online/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/783/f6fa18d97c36270641b27cbfd936a09b/master.m3u8?1676406519"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/784/2c5516a8d463498938d772f41a7cc601/master.m3u8?1676406516"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c0ownf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de las redes sociales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fundamentos de diseño para redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/785/f1c092e0d6fa04fda01d49e1c2bae1eb/master.m3u8?1676406515"
+                },
+                {
+                    "id": null,
+                    "title": "Aprovechar al máximo las herramientas disponibles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/786/eff9b142e70a04c48103b95d073af61c/master.m3u8?1676406516"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es un playbook de redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/787/ed1f8382f8b485d792dbf7fcab0ed30a/master.m3u8?1676406517"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gbwglm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construir tu playbook de redes sociales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explorando el brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/788/78ec45366f4e2efcf016917311b5f0eb/master.m3u8?1676406521"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/789/c397501f244b2b874a7db9addb023567/master.m3u8?1676406519"
+                },
+                {
+                    "id": null,
+                    "title": "Color gráficos y tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/790/b504d11ba67cf66193daaf8bdb977028/master.m3u8?1676406519"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía y videografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/791/80305dad30146214368251c5efdab8ae/master.m3u8?1676406519"
+                },
+                {
+                    "id": null,
+                    "title": "Mockups explorando el diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/792/7f58f4b64104252794a159cc0f95119a/master.m3u8?1676406522"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización del kit de herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/793/e36329b588124cc67520938fd0926514/master.m3u8?1676406522"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/td3le6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consejos adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lanzando tus propias ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/794/9f1196a8e774c48ef3c4e4db76d7a42a/master.m3u8?1676406522"
+                },
+                {
+                    "id": null,
+                    "title": "Colaboraciones significativas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/795/a3fc097ee5534ce10b516726b1087352/master.m3u8?1676406522"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wyt3go.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cmwsbg.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3958,
+        "product_name": "Social Media Design: How to Stand Out Online",
+        "teacher_name": "Jennifer Hayashi",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5810,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

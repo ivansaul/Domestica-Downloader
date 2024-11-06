@@ -1,0 +1,153 @@
+{
+    "id": "1488",
+    "title": "Diseño de joyas en madera y plata",
+    "url": "https://www.domestika.org/es/courses/1488-diseno-de-joyas-en-madera-y-plata/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/037/3c7797d871cafd722dc6223f7eff4a46/master.m3u8?1676396441"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/038/6a756f043e003f65c04d779cdecc3f98/master.m3u8?1676396455"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/13nqqb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas de creación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/039/55b8b2977fef70a7564b8d717b1b5a4f/master.m3u8?1676396443"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/040/97480bbd5eefd5b74823171e68ac0766/master.m3u8?1676396445"
+                },
+                {
+                    "id": null,
+                    "title": "Madera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/041/9dd1a917d923b351b45bb63cc39f7bff/master.m3u8?1676396440"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/042/f3737654445078e4c802fc30207b5db9/master.m3u8?1676396444"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n62wft.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Madera corte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/043/e78d901d5847e9c46eec0b41ab3424a7/master.m3u8?1676396441"
+                },
+                {
+                    "id": null,
+                    "title": "Madera formas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/044/ad9c0453f0e9188cacd73453e5aba456/master.m3u8?1676396444"
+                },
+                {
+                    "id": null,
+                    "title": "Metal anillo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/045/ad076eecd7e607f1282de996246113ad/master.m3u8?1676396447"
+                },
+                {
+                    "id": null,
+                    "title": "Juntando las piezas y consejos de conservación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/046/e5b32fd2b40987f4e1fa44d852132c41/master.m3u8?1676396445"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hh4utd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación de ventas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografía y edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/047/92c41c43ce693c04961f79441e916666/master.m3u8?1676396449"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación en redes sociales y venta de piezas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/048/1cbbb02f42dc0c5336c6f683f2778611/master.m3u8?1676396446"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ieka5g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1lz90a.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1488,
+        "product_name": "Jewelry Design with Wood and Silver",
+        "teacher_name": "Arvoredo Studio",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5855,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

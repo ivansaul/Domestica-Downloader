@@ -1,0 +1,164 @@
+{
+    "id": "1759",
+    "title": "Diseño de iluminación para espacios interiores",
+    "url": "https://www.domestika.org/es/courses/1759-diseno-de-iluminacion-para-espacios-interiores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/394/4e22e2bc80df062bf2addee701db0fff/master.m3u8?1676393445"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/395/6c47763bacdb261b1ac197462407af37/master.m3u8?1676393443"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/396/a0a5ae64dcdc0e944700896528efcf40/master.m3u8?1676393440"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bnujp5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La luz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/397/e45f07c624d9be8bb3e76a72902de539/master.m3u8?1676393444"
+                },
+                {
+                    "id": null,
+                    "title": "El sujeto observador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/398/48b91ca5670cd909a02a0449715d21ae/master.m3u8?1676393443"
+                },
+                {
+                    "id": null,
+                    "title": "La luz los materiales los objetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/399/74030995bbd5317105a6a3e358178352/master.m3u8?1676393444"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6naxp6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptualización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/400/37f3be9ce50a3632f4125a8180126589/master.m3u8?1676393445"
+                },
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/401/2614820ace4335add39b2eead612e98d/master.m3u8?1676393446"
+                },
+                {
+                    "id": null,
+                    "title": "Capas y jerarquías",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/402/b3eadc73f25ce81d18b244f8147b3efc/master.m3u8?1676393444"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rb559z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Técnica y documentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fuentes de luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/403/c14831142a2d7214cfce3311517f132d/master.m3u8?1676393448"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo elegir una fuente de luz 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/404/5b9b9ae3c2f4db4f512e5feaa5cb606d/master.m3u8?1676393450"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo elegir una fuente de luz 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/405/fb45ef8ec9be36de06ceb1a014e48faa/master.m3u8?1676393447"
+                },
+                {
+                    "id": null,
+                    "title": "Representación de las fuentes de luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/406/5e0dc566663cd1dd4a48dece0dcc1617/master.m3u8?1676393447"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujando la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/407/0ca08d379b696e238a6247518e207c97/master.m3u8?1676393452"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mhujjd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/h683mb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1759,
+        "product_name": "Lighting Design for Interior Spaces",
+        "teacher_name": "Mónica Vega",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8730,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

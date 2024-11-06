@@ -1,0 +1,178 @@
+{
+    "id": "2709",
+    "title": "Diseño de producto combina bocetos 2D y prototipos 3D",
+    "url": "https://www.domestika.org/es/courses/2709-diseno-de-producto-combina-bocetos-2d-y-prototipos-3d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/404/d47cc8d5cac42442f45ff123f2f94824/master.m3u8?1676404882"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/405/24af36d0ca94d94b3added7d95b79af2/master.m3u8?1676404881"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1mly29.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Kit de herramientas de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Colección de materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/406/931c93be9f663404ee83ef4d41527d63/master.m3u8?1676404886"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas digitales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/407/62dba3f262796ea5f2e9e27cb43cd58a/master.m3u8?1676404882"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/408/3087e4261c0f7aa833a03f8860b65f2e/master.m3u8?1676404887"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f7bwwa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hora de hacer prototipos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pensando con planos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/409/ee1d4ffe2ecf352d8d5b654b01cd1843/master.m3u8?1678441075"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipos con cartón y foamcore 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/410/e770564040c15a294777fec8d7e15905/master.m3u8?1677594182"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipos con cartón y foamcore 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/411/d6b73f4d1b1abec3bf7294e01b42d3ab/master.m3u8?1676404890"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipado con espuma blanca 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/412/f99cb9e6716e1e48d2e596ee2ea0324e/master.m3u8?1676404899"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipos con Espuma Blanca 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/413/14b765dc9b12ad12a024174b88bd94bd/master.m3u8?1676404889"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipos Frankenstein 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/414/afb302f631398112ad6513a4c30b5d19/master.m3u8?1676404892"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipos Frankenstein 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/415/227d8bb5abecc401329ca2c3da511321/master.m3u8?1676404886"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jvsibd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Representación digital de croquis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografías subyacentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/416/444d249837e39f2bb17d4b68766415b9/master.m3u8?1676404894"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos de bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/417/48ed6e7897fbb4c1a11c21f3639f911a/master.m3u8?1676404891"
+                },
+                {
+                    "id": null,
+                    "title": "Agregando realidad 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/418/4b7f2c041b4249f67427356a319ee5d8/master.m3u8?1676404890"
+                },
+                {
+                    "id": null,
+                    "title": "Agregando realidad 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/419/cc538980989ff89b2b55fdfbe473cc6a/master.m3u8?1676404892"
+                },
+                {
+                    "id": null,
+                    "title": "Exploración CMF",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/420/b7e0f8e328358bfe0dff49e7705d6579/master.m3u8?1676404888"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qgumtv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/o0nf5s.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2709,
+        "product_name": "Product Design: From 3D Prototyping to 2D Sketching",
+        "teacher_name": "Reid Schlegel",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 15496,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

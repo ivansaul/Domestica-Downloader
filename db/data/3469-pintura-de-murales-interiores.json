@@ -1,0 +1,159 @@
+{
+    "id": "3469",
+    "title": "Pintura de murales interiores",
+    "url": "https://www.domestika.org/es/courses/3469-pintura-de-murales-interiores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/289/1e7a466d52b8661670cf667da461ecd1/master.m3u8?1676413881"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/290/fb167348634f4b1254d47076353d353e/master.m3u8?1676413882"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m94wus.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conocer más sobre los murales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de murales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/291/a60f5d42b397a75c19babbe87c4227e4/master.m3u8?1716388803"
+                },
+                {
+                    "id": null,
+                    "title": "Los murales y su impacto en el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/292/2c76537d5c896f60afd9034c7854024c/master.m3u8?1676413885"
+                },
+                {
+                    "id": null,
+                    "title": "Los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/293/8ac2fd0c2bb6d02a9531aaa3fb958e55/master.m3u8?1676413885"
+                },
+                {
+                    "id": null,
+                    "title": "Lo que hay que saber sobre un muro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/294/8d8ccd31fbb30a17301a15e64bafa7a6/master.m3u8?1676413886"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ixqa8r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño y ejercicios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ejercicios para empezar a pintar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/295/f5828c8ec029cbb9ac02dd9a7c1bb0d2/master.m3u8?1676413887"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño y espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/296/7d3ba3f0c947229489654874dde17963/master.m3u8?1676413885"
+                },
+                {
+                    "id": null,
+                    "title": "Manos a la pared",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/297/5729e2a609e4c9d16ee6b8e3f39a9d01/master.m3u8?1676413890"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u0u50u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pintar el mural",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dibujar en el muro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/298/3a1f3bd035e46904174d5ec1101bf3d0/master.m3u8?1676413888"
+                },
+                {
+                    "id": null,
+                    "title": "Planos de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/299/e1670554c1215f9817d77d0be4cc1ce4/master.m3u8?1676413898"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/300/071e8099d4c4a9e7abe17ba88b7a1c75/master.m3u8?1676413891"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/301/449bf496079c693a04ed6f78da52358a/master.m3u8?1676413889"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r9m3p9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/98jcup.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3469,
+        "product_name": "Interior Mural Painting",
+        "teacher_name": "Trini Guzmán (holaleon)",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8698,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

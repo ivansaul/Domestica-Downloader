@@ -1,0 +1,153 @@
+{
+    "id": "3033",
+    "title": "Branding tipográfico crea logotipos memorables desde cero",
+    "url": "https://www.domestika.org/es/courses/3033-branding-tipografico-crea-logotipos-memorables-desde-cero/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/603/14a4878b9aa52852eae6cbb811782479/master.m3u8?1676402623"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/605/f0aa58b3a92934cdb434214ffcec14e1/master.m3u8?1676402625"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/os3yc7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La marca se encuentra con la tipografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El poder de la tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/613/0065168250ecf01065f93768671a4238/master.m3u8?1676402632"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategia básica de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/615/69f5d4657e002f5559f8fb59e236837c/master.m3u8?1676402629"
+                },
+                {
+                    "id": null,
+                    "title": "Qué son las marcas conmovedoras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/805/65afc9ac009f54d241514b94798bbf16/master.m3u8?1676404150"
+                },
+                {
+                    "id": null,
+                    "title": "Entender las letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/806/446b5e08a70f60bf800243b87469eaa1/master.m3u8?1676404150"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ed113h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dando vida a la marca con alma",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Esbozar ideas tipográficas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/618/31915bc3b3997cc54d74c4e1d8ba1233/master.m3u8?1676402634"
+                },
+                {
+                    "id": null,
+                    "title": "Refinando el borrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/620/82f0d6f9a9cea2422f6b84a0c915a921/master.m3u8?1676402632"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorización de logotipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/621/b24a7748bd96a82f48f93c26d855bb5f/master.m3u8?1676402635"
+                },
+                {
+                    "id": null,
+                    "title": "Emparejamiento tipográfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/623/04006d21dfede7ef86dccea3d1372cbe/master.m3u8?1676402638"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0ohn3o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Montaje de un kit de herramientas de marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Montaje del juego de herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/624/137d371a57d92ecc5720e06eb7b8d419/master.m3u8?1676402637"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/625/0dad0a902324efb2e113a0e76e17f576/master.m3u8?1676402637"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8y0syv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/co8zvs.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3033,
+        "product_name": "Typographic Branding: Create Memorable Logos from Scratch",
+        "teacher_name": "Carlos Mignot",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7668,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

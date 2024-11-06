@@ -1,0 +1,173 @@
+{
+    "id": "4302",
+    "title": "Técnicas de composición y luz en fotografía de bodegones",
+    "url": "https://www.domestika.org/es/courses/4302-tecnicas-de-composicion-y-luz-en-fotografia-de-bodegones/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/473/03deeeaa68f0e435abe74bffc94af13a/master.m3u8?1676409724"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/474/36d3cea384ac23539e2157a197faf7aa/master.m3u8?1676409726"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vzrq0e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación para fotografiar bodegones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/475/87a0dad3e967faab28e3df3f147cb3ca/master.m3u8?1676409726"
+                },
+                {
+                    "id": null,
+                    "title": "Metabolizar la idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/476/0e202a427e9d5fc1486970b6a36d164e/master.m3u8?1676409733"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando accesorios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/477/9c4af7281df1e3097c07e7defb4f678b/master.m3u8?1676409727"
+                },
+                {
+                    "id": null,
+                    "title": "Algunos ejemplos de ajustes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/478/7d1544dc330793369710dcf1cf44f118/master.m3u8?1676409736"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cbpfql.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La sesión de fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación del primer plano bodegón de flores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/479/126d395bf273b0f24891573e022cf9a6/master.m3u8?1676409729"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación del primer plano bodegón de flores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/480/b16d2c12626e35de22ba5fbba521270c/master.m3u8?1676409729"
+                },
+                {
+                    "id": null,
+                    "title": "Primer plano bodegón de flores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/481/aa2f065d38523937510d86396b65f7f4/master.m3u8?1676409733"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación e iluminación del segundo plano bodegón accesorio de moda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/482/86caa077cb8d1f9b3ca0be87f9318b7b/master.m3u8?1676409730"
+                },
+                {
+                    "id": null,
+                    "title": "Segunda toma complemento de moda bodegón",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/483/19fb7b06f5db314d27d28098caa1b2fa/master.m3u8?1676409734"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación e iluminación del tercer plano bodegones de objetos transparentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/484/4ed9e4bb0adf857d99a691aa9a64179d/master.m3u8?1676409746"
+                },
+                {
+                    "id": null,
+                    "title": "Tercer plano bodegones objetos transparentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/485/bacd1b54e6e26b87f5927fd32c2bf6df/master.m3u8?1676409733"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sqyj2i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición y postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La selección de tiros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/486/2e1ef085d703b2a54e82eadba0e3dc43/master.m3u8?1676409735"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción en Photoshop 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/487/f2b084ce6ba8c77bac2b774195c2f414/master.m3u8?1676409734"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción en Photoshop 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/488/88b56cfb2f9aa9b2203a5f093cd85870/master.m3u8?1676409735"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oltenw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/81rgzw.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4302,
+        "product_name": "Still Life Photography: Lighting and Composition",
+        "teacher_name": "MASSIMO BIANCHI",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 7562,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

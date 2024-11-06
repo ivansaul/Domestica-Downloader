@@ -1,0 +1,163 @@
+{
+    "id": "3069",
+    "title": "Visualización eficaz de datos transforma la información en arte",
+    "url": "https://www.domestika.org/es/courses/3069-visualizacion-eficaz-de-datos-transforma-la-informacion-en-arte/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/427/517af041e4f0ccd98c21daecba65d175/master.m3u8?1676401979"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/428/f6cef14d4f0f9c993b845f6a9a17a641/master.m3u8?1676401978"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r33nly.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Datos y sujeto emocional",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El tema de su visualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/429/3ac28c4c029b0864d8a5d61108a1fb6c/master.m3u8?1676401980"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/430/63fd619a7c74b0f3f3e691b662a96db0/master.m3u8?1676401982"
+                },
+                {
+                    "id": null,
+                    "title": "Recolectando los datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/431/6bf915f7b0af7d22177aa1f097a1247b/master.m3u8?1676401984"
+                },
+                {
+                    "id": null,
+                    "title": "Los datos para su visualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/432/0c7c71927755fbf675f81ec0a8492f9e/master.m3u8?1676401981"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/54jxlt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear un cartel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bocetos y trama",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/433/3e4838dc3182f78297043eea0248b6ad/master.m3u8?1676401984"
+                },
+                {
+                    "id": null,
+                    "title": "Método y colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/434/c0830107600b544dc10ae31fd83f30e9/master.m3u8?1676401984"
+                },
+                {
+                    "id": null,
+                    "title": "Flujo de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/435/9d16f7db4277fa7ce9c71989bd88c89f/master.m3u8?1676401982"
+                },
+                {
+                    "id": null,
+                    "title": "Incorporación de los elementos en su diseño 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/436/29145f0b5069466fba74250fc983b469/master.m3u8?1676401990"
+                },
+                {
+                    "id": null,
+                    "title": "Incorporación de los elementos en su diseño 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/437/355bf473ed0343c3ca39ce2c30372d44/master.m3u8?1676401986"
+                },
+                {
+                    "id": null,
+                    "title": "Título y explicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/438/660f4774e08a1ff47f508752028ced3f/master.m3u8?1676401982"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ppegzf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Terminar y compartir su trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Comentarios y ediciones finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/439/89137e72cea06fcb5a4d623bf29cd85a/master.m3u8?1676401984"
+                },
+                {
+                    "id": null,
+                    "title": "Compartiendo tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/440/94436945f68b12f5300e0cc9c957e411/master.m3u8?1676401984"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g1unao.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rlg71v.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3069,
+        "product_name": "Effective Data Visualization: Transform Information into Art",
+        "teacher_name": "Sonja Kuijpers",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6225,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

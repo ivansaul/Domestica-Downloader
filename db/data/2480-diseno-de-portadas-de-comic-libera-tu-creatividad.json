@@ -1,0 +1,153 @@
+{
+    "id": "2480",
+    "title": "Diseño de portadas de cómic libera tu creatividad",
+    "url": "https://www.domestika.org/es/courses/2480-diseno-de-portadas-de-comic-libera-tu-creatividad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Quién soy y cómo llegué a ser",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/000/d1b02e6283169f46fbd78eb7a5f52749/master.m3u8?1676402306"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/001/8b28ce6d28f495a9bc093b90e3fb558b/master.m3u8?1676402302"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0uby2d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo prepararse para resolver un problema",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definiendo el problema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/003/f7ea6fb06dfc7cbd3baddddf3a14a15c/master.m3u8?1676402304"
+                },
+                {
+                    "id": null,
+                    "title": "Analizando el problema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/004/025f309a552be86121a688896498fd06/master.m3u8?1676402303"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y metodología",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/005/6dfb757ee14f21936fbab59c6c5052ea/master.m3u8?1676402304"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/psqfmj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando una solución",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La asignación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/006/b9e419d8a85d02519d2b318686bf6319/master.m3u8?1676402307"
+                },
+                {
+                    "id": null,
+                    "title": "Creando tu concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/012/42a38cce2999a184e476b87d43b0d51c/master.m3u8?1676402309"
+                },
+                {
+                    "id": null,
+                    "title": "Creando un Prototipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/013/ee50e52161614c333a82b68591663d6c/master.m3u8?1676402308"
+                },
+                {
+                    "id": null,
+                    "title": "Photoshop e InDesign",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/015/20bcd73ee0bf92b597e5ebc5b1b4918a/master.m3u8?1676402308"
+                },
+                {
+                    "id": null,
+                    "title": "Escogiendo el prototipo final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/016/0b5450903ae7ce1de66cfc30f4f0489a/master.m3u8?1676402307"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8e80an.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasos finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear un tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/018/2ab26670473e754bbd3bea0f35af9e6c/master.m3u8?1676402310"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de una carpeta de trabajos y búsqueda de empleo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/019/83b49157913b62790606b83003b40e57/master.m3u8?1676402312"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1fwikj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/spndcy.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2480,
+        "product_name": "Comic Book Cover Design: Unleash Your Super Designer",
+        "teacher_name": "Chip Kidd",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6204,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

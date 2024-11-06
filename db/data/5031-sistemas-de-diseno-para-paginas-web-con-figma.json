@@ -1,0 +1,216 @@
+{
+    "id": "5031",
+    "title": "Sistemas de diseño para páginas web con Figma",
+    "url": "https://www.domestika.org/es/courses/5031-sistemas-de-diseno-para-paginas-web-con-figma/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/583/59e5fdc1ccceb57c6cd77fe1df0c8483/master.m3u8?1678713223"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/584/cb2a9af43424d6edb54ec0891bcbbf66/master.m3u8?1678713235"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zbt4db.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sistemas de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a los sistemas de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/585/52fbeeb3f94e180d76752f7a0e59ce86/master.m3u8?1678713611"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo los sistemas de diseño pueden ayudarlo a acelerar su flujo de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/586/41f609693935b8f33c89ef4bbcdb7b0b/master.m3u8?1678713624"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al proyecto y enfoque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/587/40af690a7af063323470d03a28da8e26/master.m3u8?1678713637"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6cs2o0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proceso de diseño web y de sistemas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración del archivo Figma y comienzo de las primeras exploraciones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/588/2ccd69388d9e621224f49dec5a44c7e9/master.m3u8?1678713856"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración del archivo Figma y comienzo de las primeras exploraciones 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/589/4cfca04954789e535616b6d3b374d8ca/master.m3u8?1678713874"
+                },
+                {
+                    "id": null,
+                    "title": "Expansión del sistema de exploraciones y diseño 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/590/63d20ef9121a5177b6ac2b0becaff798/master.m3u8?1678714044"
+                },
+                {
+                    "id": null,
+                    "title": "Expansión del sistema de exploraciones y diseño 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/591/5a0e8d08848edfd11e6cdd51d136a210/master.m3u8?1678714061"
+                },
+                {
+                    "id": null,
+                    "title": "Organización de las páginas del sistema de diseño 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/592/85c71863f5b597802a2ed64d74ffa0d2/master.m3u8?1678714246"
+                },
+                {
+                    "id": null,
+                    "title": "Organización de las páginas del sistema de diseño 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/593/55317b834e61e5f63e7e101b7c2dc1f4/master.m3u8?1678714273"
+                },
+                {
+                    "id": null,
+                    "title": "Exploración de variantes al crear componentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/594/71fcb60cc692b6af6c8b61a423b8b53c/master.m3u8?1678714367"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dmdkhq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Refinar el sitio web y el sistema de diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Refinar el sistema de diseño con una página ensamblada 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/595/fe9bc3b4ea3a954471404002977490ac/master.m3u8?1678714627"
+                },
+                {
+                    "id": null,
+                    "title": "Refinar el sistema de diseño con una página ensamblada 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/596/60fcf4c308711c17bf6d7d666f541133/master.m3u8?1678714644"
+                },
+                {
+                    "id": null,
+                    "title": "Refinar el sistema de diseño con una página ensamblada 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/597/daec9106ce173c26d6a99095543274d3/master.m3u8?1678714671"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de nuevas páginas con el sistema de diseño completo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/598/2c6d7fc50e61275e89865a805b0f50c1/master.m3u8?1678715017"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de nuevas páginas con el sistema de diseño completo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/599/d428b4d695ad5ee5fd4229601f34504a/master.m3u8?1678715033"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de nuevas páginas con el sistema de diseño completo 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/600/9e7a1a057c5a9149166fcd8b3f591bf3/master.m3u8?1678715058"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo abordar la creación de documentación para el sistema de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/601/bfa2538ef816e167b684d24dddc59ac0/master.m3u8?1678715296"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/syyyu0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalizar e ir más allá de la web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Limpieza y uso de un diseño automático",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/602/4e458b13706ce110396727532babedc5/master.m3u8?1678715476"
+                },
+                {
+                    "id": null,
+                    "title": "Utilización del diseño en otros elementos de la marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/603/46334763a27f707ee84bf3a62efa1c4b/master.m3u8?1678715491"
+                },
+                {
+                    "id": null,
+                    "title": "Pensamientos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/605/db5a321d2136e70205224c726412d673/master.m3u8?1678715504"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wncdjn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/zktxoc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5031,
+        "product_name": "Design Systems for Websites using Figma",
+        "teacher_name": "Filip Felbar",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 22,
+        "course_total_duration_sec": 18326,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "id": "398",
+    "title": "Metodología del diseño configurativo",
+    "url": "https://www.domestika.org/es/courses/398-metodologia-del-diseno-configurativo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/815/41222134e568a456223b723758b57c34/master.m3u8?1676385091"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/816/2729416ff19f0b3b63b190ea78cee062/master.m3u8?1676385093"
+                },
+                {
+                    "id": null,
+                    "title": "Antes del método",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/817/d414c6b1f14a61fa6a92ecb5ea6e7f17/master.m3u8?1676385094"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qd3gms.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicando Configuración  Factores Configurativos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Objetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/818/e8901baedbc7fdcd58769b0e722d2e22/master.m3u8?1676385094"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo el diseño configurativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/820/69143c4ac42ce9ad52d02c5d67723f08/master.m3u8?1676385092"
+                },
+                {
+                    "id": null,
+                    "title": "Logrando configuración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/821/92336cdfb6ac275911e712e1805c60e7/master.m3u8?1676385095"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1ly2na.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Limitantes Configurativas  Generando ideas a partir de planteamientos sencillos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modulación y deconstrucción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/822/f017e9f0f199cb26d449dbe89f35e7cc/master.m3u8?1676385095"
+                },
+                {
+                    "id": null,
+                    "title": "Limitantes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/823/4845a4837f6d224d684b93dddc9aca2b/master.m3u8?1676385096"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/la2jrg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Objetos Configurables Logrando multiutilidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Interacción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/824/86cbb113dbac6fb1738c06fd2be296c3/master.m3u8?1676385097"
+                },
+                {
+                    "id": null,
+                    "title": "Funcionalidad Utilidad y Multiutilidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/825/a3ed634d31c9b78eee91729d91a173a6/master.m3u8?1676385099"
+                },
+                {
+                    "id": null,
+                    "title": "Interpretación y autoría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/826/d0b21947f086193db31d81aafc503c67/master.m3u8?1676385097"
+                },
+                {
+                    "id": null,
+                    "title": "Conclusiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/827/7a9705a041f13c144f280a1f2cd93ec6/master.m3u8?1676385098"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g2bthf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qw7y3y.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 398,
+        "product_name": "Methodology of Form-giving Design",
+        "teacher_name": "Adolfo Navarro",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5459,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

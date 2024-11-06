@@ -1,0 +1,227 @@
+{
+    "id": "109",
+    "title": "Diseño de una publicación interactiva con InDesign y Bütton",
+    "url": "https://www.domestika.org/es/courses/109-diseno-de-una-publicacion-interactiva-con-indesign-y-button/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/085/443cb632e32cb233f057b13d206cb83d/master.m3u8?1676398564"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/017/68387db02cd4b94dde72f1d6a696f597/master.m3u8?1676398532"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p50mug.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dejar de pensar en papel y pensar en digital",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Una nueva forma de leer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/018/8888e92f6da7d71028d63c58e0a97345/master.m3u8?1676398520"
+                },
+                {
+                    "id": null,
+                    "title": "Pros y contras de una publicación digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/019/7bcc8dad485b8ad889350e5e16ad2d75/master.m3u8?1676398521"
+                },
+                {
+                    "id": null,
+                    "title": "UI y UX",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/020/4a490436c5a0cc449c96afdf32b450b0/master.m3u8?1676398524"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía para dispositivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/021/b94876d661ccad441e8d33ada8342e6a/master.m3u8?1676398523"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a9xv2m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué herramientas vamos a utilizar y por qué",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/022/13b3ab6b757c42de8574c47c026e3dbc/master.m3u8?1676398528"
+                },
+                {
+                    "id": null,
+                    "title": "El flujo de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/023/38454a02a235259139f1c81702460eab/master.m3u8?1676398523"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/37mrdj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las herramientas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué vamos a hacer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/024/708508bc43b2dd91826dfbdb2d015cbc/master.m3u8?1676398538"
+                },
+                {
+                    "id": null,
+                    "title": "Los iconos de acción e interacción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/025/5d3b84715b1d40f3bfec34499f77230d/master.m3u8?1676398536"
+                },
+                {
+                    "id": null,
+                    "title": "Documento nuevo y primeras herramientas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/026/9eaa7a3ddc318d44cca28dcd79aa5c2e/master.m3u8?1676398538"
+                },
+                {
+                    "id": null,
+                    "title": "Documento nuevo y primeras herramientas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/027/7e062a2e03c6f9c7a8bd8f974b36a535/master.m3u8?1676398530"
+                },
+                {
+                    "id": null,
+                    "title": "Animaciones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/028/233d5c9f823b364e6f79899f93f1862e/master.m3u8?1676398534"
+                },
+                {
+                    "id": null,
+                    "title": "Animaciones 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/029/86de3af3f189c380bc6d47eb242f125f/master.m3u8?1676398531"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zz1x16.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Más herramientas para avanzar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acciones especiales o de toque 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/030/6c49c9c499ffd4d179030c84d3bae786/master.m3u8?1676398533"
+                },
+                {
+                    "id": null,
+                    "title": "Acciones especiales o de toque 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/031/c4bd9f9597345d9d28e1c9087a439d02/master.m3u8?1676398531"
+                },
+                {
+                    "id": null,
+                    "title": "Pase de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/032/e6abb624cc9c57674fc2e2af6603257b/master.m3u8?1676398535"
+                },
+                {
+                    "id": null,
+                    "title": "Hora de añadir sonido 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/033/83219ba4104240460762d8366a750eb3/master.m3u8?1676398537"
+                },
+                {
+                    "id": null,
+                    "title": "Hora de añadir sonido 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/034/0bb6d85ddd2555e859823d02692042ad/master.m3u8?1676398534"
+                },
+                {
+                    "id": null,
+                    "title": "Extras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/035/1ec79fbf57d6941cd9f3674bb81adc9b/master.m3u8?1676398538"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4cwc9o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Exporta tu proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/036/9d0f6452da2bc1f8ca4c170bdd343e44/master.m3u8?1676398541"
+                },
+                {
+                    "id": null,
+                    "title": "Single App o quiosco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/037/2a0e73dd14d33bdfdab8e83fca05f310/master.m3u8?1676398536"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yj6e5l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/x2linb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 109,
+        "product_name": "Design an Interactive Publication with InDesign and Bütton",
+        "teacher_name": "Sergio Ortiz",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 22,
+        "course_total_duration_sec": 17169,
+        "total_units": 6,
+        "subtitles_language": [
+            "en",
+            "pt",
+            "es",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

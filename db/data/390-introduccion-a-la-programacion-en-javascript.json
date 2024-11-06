@@ -1,0 +1,255 @@
+{
+    "id": "390",
+    "title": "Introducción a la programación en JavaScript",
+    "url": "https://www.domestika.org/es/courses/390-introduccion-a-la-programacion-en-javascript/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/089/e236dd82bdc9fb3bfdce41275d3a04d6/master.m3u8?1676384827"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/090/9924091c275da63aa872c56eeec22c1a/master.m3u8?1676384827"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ey9xxi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empezando con JavaScript",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Para qué sirve JavaScript",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/091/086459f23b0c783d265a3073702f09c7/master.m3u8?1676384828"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración del editor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/092/c6a02af25b0fb4326c23d3494f069dcd/master.m3u8?1676384827"
+                },
+                {
+                    "id": null,
+                    "title": "Incorporando JS a nuestra web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/093/4251c08196d0665029e0f3be509b327e/master.m3u8?1676384828"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos y sintaxis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/094/1b65e4043fcbb4c8825cf87b4de5476a/master.m3u8?1676384830"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5h1fbt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeras interacciones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Variables numerales literales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/095/5bfa88633d62b530e36b1109d7228fa5/master.m3u8?1676384829"
+                },
+                {
+                    "id": null,
+                    "title": "Operadores funciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/096/b6dcac8444e0bf7d7651f2b8d1ddabbd/master.m3u8?1676384832"
+                },
+                {
+                    "id": null,
+                    "title": "Event listeners",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/097/cab14a3229e96649223eb387b80d2926/master.m3u8?1676384833"
+                },
+                {
+                    "id": null,
+                    "title": "Alterar el contenido del DOM",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/098/2796c31402c63317da3d773b991400b1/master.m3u8?1676384831"
+                },
+                {
+                    "id": null,
+                    "title": "Condicionales y booleanos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/099/3b2c23f01556729485978c30206f5d75/master.m3u8?1676384832"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p70lc7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Una baraja de cartas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Operaciones con arrays",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/100/141233eeac4bca64ef3f7fd07113ece2/master.m3u8?1676384830"
+                },
+                {
+                    "id": null,
+                    "title": "Loops",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/101/d80cbda421670998a53ef5f9e28982c9/master.m3u8?1676384833"
+                },
+                {
+                    "id": null,
+                    "title": "Eventos en loop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/102/85b0a1dd485f52300a954b337309ad9b/master.m3u8?1676384832"
+                },
+                {
+                    "id": null,
+                    "title": "Los objetos en JavaScript El azar o Mathrandom",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/103/62645cd5727495a8414e5caf37239830/master.m3u8?1676384833"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uhhgqu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Un juego de Memory",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Interacción básica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/104/8a69b2459d33157fd58f2fd5f061dab9/master.m3u8?1676384834"
+                },
+                {
+                    "id": null,
+                    "title": "Comunicación entre funciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/105/ee3cb487cc7a9a57b6d39a63331336cb/master.m3u8?1676384832"
+                },
+                {
+                    "id": null,
+                    "title": "Organización de archivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/106/a0ea8f0503caac0847e2719c864591de/master.m3u8?1676384831"
+                },
+                {
+                    "id": null,
+                    "title": "Gestionando el feedback",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/107/6d9e20e06767e12a19ce034b1c2a979c/master.m3u8?1676384833"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ld20v6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sube de nivel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cronómetro y contador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/108/b6ab663f54a1e686085018477bcb7845/master.m3u8?1676384835"
+                },
+                {
+                    "id": null,
+                    "title": "Niveles de juego",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/446/e2b9b5987247ec52b2220480da04ae94/master.m3u8?1676385348"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos de sonido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/110/a14fbb8fbc4c43632d81304292b4f384/master.m3u8?1676384833"
+                },
+                {
+                    "id": null,
+                    "title": "Completando la interfaz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/111/f63020e4e58e4a73341566b9b00a21c6/master.m3u8?1676384837"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2l2xz3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Librerías y recursos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Librerías de JavaScript",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/112/4ebb11267a078b4d0ef360523c6681a2/master.m3u8?1676384835"
+                },
+                {
+                    "id": null,
+                    "title": "Recursos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/113/05f78b164869483dd7055bf5c56591f1/master.m3u8?1676384834"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jnmi7z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/znkro0.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 390,
+        "product_name": "Introduction to JavaScript Programming",
+        "teacher_name": "Javier Usobiaga Ferrer",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 25,
+        "course_total_duration_sec": 10977,
+        "total_units": 7,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}
