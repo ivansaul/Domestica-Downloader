@@ -1,0 +1,147 @@
+{
+    "id": "2923",
+    "title": "Currículums para creativos crea tu CV y carta de presentación",
+    "url": "https://www.domestika.org/es/courses/2923-curriculums-para-creativos-crea-tu-cv-y-carta-de-presentacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/826/a0467df680f60c9725b0eb1408eb290f/master.m3u8?1715324323"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/827/c84448b2501e45613fa5eb2da5017648/master.m3u8?1715324630"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w3o15s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empezando",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El proceso de reclutamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/828/43c4aea725532fff961a1095ff3d31ec/master.m3u8?1676403713"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar su hogar profesional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/829/193c7a6169a5525d51ba25e9c7ee7914/master.m3u8?1676403718"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar su Ikigai y USP",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/830/4d1b227263064045649ed2b19bd17e44/master.m3u8?1676403716"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/23ew7t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Elaborando el CV Perfecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Anatomía de un CV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/831/d6a7f57917dded26e76379e0fd0e0267/master.m3u8?1676403714"
+                },
+                {
+                    "id": null,
+                    "title": "Acerca de mí y experiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/832/a5077a6600b3b83e6c265561fb8d1591/master.m3u8?1676403717"
+                },
+                {
+                    "id": null,
+                    "title": "Educación habilidades y pasatiempos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/833/3ecb72470559a276e234b6d5509c3c4b/master.m3u8?1676403716"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo hacer una buena carta de presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/834/c05f12a06a990bb6b84cdd979b4124ad/master.m3u8?1676403717"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1ruln6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Entender el sector",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Salir por ahí red de contactos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/835/72774f24808d0ec7e179ca19b51f10e4/master.m3u8?1676403722"
+                },
+                {
+                    "id": null,
+                    "title": "Dejar una impresión duradera entrevista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/836/1178f6c51e321455255fa1bce9ec6908/master.m3u8?1676403721"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/njf115.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9t80a0.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2923,
+        "product_name": "Resumes for Creatives: Craft Your CV and Cover Letter",
+        "teacher_name": "Nikky Lyle",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 8592,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

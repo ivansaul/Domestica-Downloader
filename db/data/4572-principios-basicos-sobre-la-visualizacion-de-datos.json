@@ -1,0 +1,210 @@
+{
+    "id": "4572",
+    "title": "Principios básicos sobre la visualización de datos",
+    "url": "https://www.domestika.org/es/courses/4572-principios-basicos-sobre-la-visualizacion-de-datos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/503/eea0bebbdd24e173805acdb8a2a7c3ce/master.m3u8?1676413409"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/504/a9d1e1edb88bf0caa8502a5fec8393b6/master.m3u8?1676413411"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o4tnan.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La visualización de datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La importancia de los datos en nuestras vidas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/505/dcb4844e8e092de1f09f455789e00b70/master.m3u8?1676413410"
+                },
+                {
+                    "id": null,
+                    "title": "Consideraciones antes de empezar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/506/23ea1c38c3e1cd1198baaa20a7aa1980/master.m3u8?1676413411"
+                },
+                {
+                    "id": null,
+                    "title": "Datos y variables",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/507/7957732071d234949db02b7a05c0d42f/master.m3u8?1676413409"
+                },
+                {
+                    "id": null,
+                    "title": "Los errores más comunes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/508/42ca3359aab5025ae7a187cf659b09e8/master.m3u8?1676413410"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aolq08.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de gráficos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/509/2ef943342ab29874a89314f975faa9af/master.m3u8?1676413411"
+                },
+                {
+                    "id": null,
+                    "title": "Los 3 gráficos que más vas a usar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/510/ece735977fb9d16e23b7835844ea640c/master.m3u8?1676413412"
+                },
+                {
+                    "id": null,
+                    "title": "Los 3 gráficos que más vas a usar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/511/7894a0cea530a240a0aa0af6af0fe356/master.m3u8?1676413416"
+                },
+                {
+                    "id": null,
+                    "title": "Gráficos visualmente impactantes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/512/174639f0b4ab399e3ccf36bc48b9b40f/master.m3u8?1676413416"
+                },
+                {
+                    "id": null,
+                    "title": "Gráficos visualmente impactantes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/513/bafa69b0957a82422d8490aabfa6460b/master.m3u8?1676413415"
+                },
+                {
+                    "id": null,
+                    "title": "Visualizaciones con mapas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/514/35896ac8490bee870653617e2e03768b/master.m3u8?1676413416"
+                },
+                {
+                    "id": null,
+                    "title": "Diagramas y otros gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/515/c9356a1c6dddddf6950b5d2e15b44947/master.m3u8?1676413416"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ajewn7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñar los datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los gráficos bien diseñados funcionan mejor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/516/d0881c96440eeb04c3ddcf52a9ea14b7/master.m3u8?1676413416"
+                },
+                {
+                    "id": null,
+                    "title": "El lenguaje visual de los gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/517/cc18ca324826fdd38e69303549b17288/master.m3u8?1676413415"
+                },
+                {
+                    "id": null,
+                    "title": "El color y la tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/518/df48217134cd4ec8f2912668101815a0/master.m3u8?1676413422"
+                },
+                {
+                    "id": null,
+                    "title": "La composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/519/d5415b97aa2b24cc9067102da09996b9/master.m3u8?1676413421"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n7na4e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Visualización de datos de principio a fin",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/520/848c3065b27da64604c53d0141f8f958/master.m3u8?1676413420"
+                },
+                {
+                    "id": null,
+                    "title": "Data sketches",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/521/fae6b55192332ff44adaacebce5b62ba/master.m3u8?1676413426"
+                },
+                {
+                    "id": null,
+                    "title": "Creación y diseño de gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/522/0cd82e8d8e8f9ad815f50ae7cafcaa0b/master.m3u8?1676413426"
+                },
+                {
+                    "id": null,
+                    "title": "Adaptación a distintos formatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/523/729a0d59a5e51f0bc9906c11f2dfdb7f/master.m3u8?1676413422"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kgygxt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/sh54k7.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4572,
+        "product_name": "Fundamentals of Data Visualization",
+        "teacher_name": "Gemma Busquets",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 21,
+        "course_total_duration_sec": 12182,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

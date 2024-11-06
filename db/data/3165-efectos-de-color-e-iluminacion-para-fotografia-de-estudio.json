@@ -1,0 +1,158 @@
+{
+    "id": "3165",
+    "title": "Efectos de color e iluminación para fotografía de estudio",
+    "url": "https://www.domestika.org/es/courses/3165-efectos-de-color-e-iluminacion-para-fotografia-de-estudio/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/967/8ffffc0368b46484b4040ee50f84807e/master.m3u8?1676401733"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/968/1ab61896c83e4f4e37122c59ff7fde67/master.m3u8?1676401735"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f6n1vj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Teoría e inspiración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a materiales y equipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/969/f8d67e5678f48649bb2b7d8af39b68a1/master.m3u8?1676401737"
+                },
+                {
+                    "id": null,
+                    "title": "Fundición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/972/75243dee2c0b733f2c1674cd1d19c538/master.m3u8?1676401737"
+                },
+                {
+                    "id": null,
+                    "title": "Analizando el color y la iluminación en mi propio trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/472/fa5b70ca2044c23e6eb543f5fa5e67fb/master.m3u8?1676402563"
+                },
+                {
+                    "id": null,
+                    "title": "Investigar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/473/b1b0526ad0b22c6c76d08a105f06ee5f/master.m3u8?1676402563"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9vdpim.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sesión de estudio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración de estudio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/973/899daffff8f995780290524fbf162c01/master.m3u8?1676401736"
+                },
+                {
+                    "id": null,
+                    "title": "Controlar el color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/974/09fa42f6be76270ddef0828b31bff72a/master.m3u8?1676401740"
+                },
+                {
+                    "id": null,
+                    "title": "Control de la luz halo silueta y reflejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/975/e8825bbb70164e1c00a5ef0a5d8dab39/master.m3u8?1676401742"
+                },
+                {
+                    "id": null,
+                    "title": "Luz texturizada juego de sombras y reflejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/976/2aebb8b3640c550c00363a31ac3530cd/master.m3u8?1676401744"
+                },
+                {
+                    "id": null,
+                    "title": "Trucos ligeros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/977/20418e799872561374cc68b0d0b6dc87/master.m3u8?1676401739"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n5xvbr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Después de la sesión",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Lightroom y redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/978/0cfe12b74132780bb67fa31c6f9733b5/master.m3u8?1676401741"
+                },
+                {
+                    "id": null,
+                    "title": "Palabras finales de aliento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/979/b14c72c29b3699831a8fa3d5ada19561/master.m3u8?1676401739"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nskl5m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mkyvrn.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3165,
+        "product_name": "Color and Lighting Effects for Studio Photography",
+        "teacher_name": "Eivind Hansen",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8837,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

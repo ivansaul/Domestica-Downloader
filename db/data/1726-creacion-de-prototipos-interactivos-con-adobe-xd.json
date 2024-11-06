@@ -1,0 +1,190 @@
+{
+    "id": "1726",
+    "title": "Creación de prototipos interactivos con Adobe XD",
+    "url": "https://www.domestika.org/es/courses/1726-creacion-de-prototipos-interactivos-con-adobe-xd/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/938/eed086b873c3051615db54a64a6aff21/master.m3u8?1676393717"
+                },
+                {
+                    "id": null,
+                    "title": "Mis influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/939/2487a521ef3db74db09099d6591f1062/master.m3u8?1676393719"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/940/aacf41e70f3d397f83bd92cb023feb18/master.m3u8?1676393716"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oj287j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bienvenido al mundo del producto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un producto digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/941/424cda59b1054b2e98d2bac25ed3c899/master.m3u8?1676393719"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es un prototipo Para qué sirve que esté animado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/942/f5c4294837194031be82ec5dea87276f/master.m3u8?1676393718"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es Adobe XD Cuáles son mis herramientas favoritas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/943/c7d96a4ca3ed7689dabce2cfebf2f03c/master.m3u8?1676393720"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3ogvc8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De problema a prototipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Problema y objetivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/944/fd11609945a1593f095b237539de06e7/master.m3u8?1676393723"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación y referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/945/77b9368caa3d43d4e6d8af83999dcfa4/master.m3u8?1676393725"
+                },
+                {
+                    "id": null,
+                    "title": "Solución UI sobre papel y de papel a digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/946/4aaf40136f0907f6c3d428bca8b97f2e/master.m3u8?1676393726"
+                },
+                {
+                    "id": null,
+                    "title": "Exploración y solución UI final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/947/50cb25b7233ef409d2e5255198f8159d/master.m3u8?1676393729"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3zd9tq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Animando el prototipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Comencemos a prototipar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/948/47cae6ec2ef36d3b288f2d6b307bea27/master.m3u8?1676393726"
+                },
+                {
+                    "id": null,
+                    "title": "Animemos nuestro prototipo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/949/4bbabab1f8fcc417505ec39a067d11a5/master.m3u8?1676393726"
+                },
+                {
+                    "id": null,
+                    "title": "Animemos nuestro prototipo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/950/6eb69c72ba64c559d2cd174f7c32c4bc/master.m3u8?1676393727"
+                },
+                {
+                    "id": null,
+                    "title": "Probemos en el mirror",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/951/abcbce0f7af2e855db5ba3b8e72e64a2/master.m3u8?1676393724"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/le1r3v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prueba iteración y construcción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Exporta y comparte tu prototipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/952/b90fe360394d36e233895b24b4441d66/master.m3u8?1676393724"
+                },
+                {
+                    "id": null,
+                    "title": "Prueba de prototipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/953/e96360cea018ff3232b3aa7d2b040908/master.m3u8?1676393726"
+                },
+                {
+                    "id": null,
+                    "title": "Sigue construyendo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/954/2c2563a7cb5d86512c8bbb80116e6537/master.m3u8?1676393726"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8iq9ny.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/m3ue31.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1726,
+        "product_name": "Interactive Prototyping with Adobe XD",
+        "teacher_name": "José Galeano",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 9389,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

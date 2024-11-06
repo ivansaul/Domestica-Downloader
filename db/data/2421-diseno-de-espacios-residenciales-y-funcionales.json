@@ -1,0 +1,148 @@
+{
+    "id": "2421",
+    "title": "Diseño de espacios residenciales y funcionales",
+    "url": "https://www.domestika.org/es/courses/2421-diseno-de-espacios-residenciales-y-funcionales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/599/24311aa4f83c94b31b42574ea2f0cff4/master.m3u8?1676399384"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/600/ad01a3598db22090338b5b2b4cd6d2c4/master.m3u8?1676399389"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f8cj3b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas para un diseño personalizado y funcional",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el diseño personalizado y funcional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/601/05d37869dbb076bec9151db8d1cba896/master.m3u8?1676399390"
+                },
+                {
+                    "id": null,
+                    "title": "Conocer al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/602/87fdb568806155aeef97a17e04d6661f/master.m3u8?1676399386"
+                },
+                {
+                    "id": null,
+                    "title": "Conocer el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/603/64e67afcf71239653cd454b0e8863118/master.m3u8?1676399388"
+                },
+                {
+                    "id": null,
+                    "title": "Aterrizar la investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/604/302708c776f9d4ada35a591bcc41dd7f/master.m3u8?1676399390"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vpc2dy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definamos el estilo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referentes y estilos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/605/4fdcba0ca3e1d46f1fe60daeec8816d6/master.m3u8?1676399392"
+                },
+                {
+                    "id": null,
+                    "title": "Layout o planta de distribución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/606/327db782d4d9d36b386c3f48907cb487/master.m3u8?1676399397"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas materiales elección de muebles y accesorios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/607/9e58e118b62663adb41b931e5d0fa47a/master.m3u8?1676399396"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/swqdyy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo la lámina de presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Construcción de la lámina de entrega al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/608/f65f9d7a9052b34990fec8f646f9bc38/master.m3u8?1676399397"
+                },
+                {
+                    "id": null,
+                    "title": "Aplica lo aprendido a otros proyectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/610/af40559217c95d9fe98c0904e50691be/master.m3u8?1676399391"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/trilg0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/quwl2c.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2421,
+        "product_name": "Design of Functional Residential Spaces",
+        "teacher_name": "FVM",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 7730,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "id": "1116",
+    "title": "Branding para principiantes",
+    "url": "https://www.domestika.org/es/courses/1116-branding-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/639/901e56361214761cbbfa49d08a6ef8f0/master.m3u8?1676394046"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/640/609b0ecf188ea625ba03c6699197779b/master.m3u8?1676394050"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/641/7cdb18d6d37f69b3b2584a38b07405b4/master.m3u8?1676394046"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eh5smc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigación y descubrimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cuál es nuestra visión del branding",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/642/38e8398de08652fcce7d60181df29484/master.m3u8?1676394048"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo a tu cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/643/9fab962d9a637ed55368218b73b0051d/master.m3u8?1676394048"
+                },
+                {
+                    "id": null,
+                    "title": "Conociendo a sus clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/644/55b39916df8bb4ac566b09ae047d1d4d/master.m3u8?1676394051"
+                },
+                {
+                    "id": null,
+                    "title": "Momento de presentar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/645/b626a6076b26f775c5dcf43d2acd84c4/master.m3u8?1676394051"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/75un59.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Concepto creación  y ejecución de piezas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando conceptos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/646/d5c2ff8c07c475b6a1726ab83281a145/master.m3u8?1676394052"
+                },
+                {
+                    "id": null,
+                    "title": "Armando rutas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/647/a4f842fac502659bbac57d668cf4719f/master.m3u8?1676394055"
+                },
+                {
+                    "id": null,
+                    "title": "Profundización de la ruta elegida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/648/6b0cbfc24da09caf7dbd168f63dccc65/master.m3u8?1676394052"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nvwu8s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ecosistema digital",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Evolución al ecosistema digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/649/f9836907a077ef77e7e5d6bf3b774d8a/master.m3u8?1676394051"
+                },
+                {
+                    "id": null,
+                    "title": "El Beat la marca en movimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/650/f12ff6ae08476687dad0fe9023111444/master.m3u8?1676394054"
+                },
+                {
+                    "id": null,
+                    "title": "Plataformas interactivas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/651/40433c5c93dd991eefbb12dc532c4f69/master.m3u8?1676394052"
+                },
+                {
+                    "id": null,
+                    "title": "Aprendizajes y monitoreo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/652/a11e2904e630ce4ece1df104c90c758e/master.m3u8?1676394052"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t6emi1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vendiendo tus ideas y el futuro del branding",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Aprende a vender tus ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/653/fd85533c5773adf537c9199d8db5dd89/master.m3u8?1676394054"
+                },
+                {
+                    "id": null,
+                    "title": "El futuro del branding",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/654/3d11a077484d23f72793fbb142e23cf2/master.m3u8?1676394053"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yrhp16.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/217s9j.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1116,
+        "product_name": "Branding for beginners",
+        "teacher_name": "Partners Perú",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 7981,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

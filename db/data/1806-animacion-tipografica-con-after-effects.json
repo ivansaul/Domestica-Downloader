@@ -1,0 +1,178 @@
+{
+    "id": "1806",
+    "title": "Animación tipográfica con After Effects",
+    "url": "https://www.domestika.org/es/courses/1806-animacion-tipografica-con-after-effects/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/592/661e132f9c7a56b5e7e04660621fb88c/master.m3u8?1676395038"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/593/f5fd3c24562ccc9496548db738d2f792/master.m3u8?1676395037"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/594/9597b4632be65b926406fdcde176f842/master.m3u8?1676395038"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qzrrn8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Animación de texto en After Effects",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipografía en diseño de movimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/595/bbb8139bcc94e987a7e321d97fe5f907/master.m3u8?1676395041"
+                },
+                {
+                    "id": null,
+                    "title": "Text Animators",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/596/515a984fdc31b3ab4f4058ec11d2c59b/master.m3u8?1676395041"
+                },
+                {
+                    "id": null,
+                    "title": "Texto en una ruta y un cilindro CC",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/597/cd0eef85a82e4ce259936af909e6c962/master.m3u8?1676395044"
+                },
+                {
+                    "id": null,
+                    "title": "Animación de texto como capas de forma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/598/60419794499c5e92b047bc46f77bc66f/master.m3u8?1676395046"
+                },
+                {
+                    "id": null,
+                    "title": "Efecto de error de texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/599/54bcf75e82907a20d9391b64af4c68c5/master.m3u8?1676395044"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mieu0y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producir un video tipográfico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Composición con animadores de texto 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/600/04a1c838a789d0de758e785aac58fd68/master.m3u8?1676395046"
+                },
+                {
+                    "id": null,
+                    "title": "Composición con animadores de texto 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/601/b48625589892617342ebbdef6b95a769/master.m3u8?1676395044"
+                },
+                {
+                    "id": null,
+                    "title": "Composiciones tipográficas con Glitch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/602/68c3fe0c464a68b167767524a2838a7e/master.m3u8?1676395050"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía en un entorno 3D falso 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/603/61b7efa1eac0d22e6e829b96f09a5872/master.m3u8?1676395046"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía en un entorno 3D falso 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/604/ee65a1c7d1d7e24a130aa38d9a68885f/master.m3u8?1676395045"
+                },
+                {
+                    "id": null,
+                    "title": "RGB líquido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/605/e75c6b5630df8c4802d6459f1a7a60d0/master.m3u8?1676395048"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5hio4b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Montaje y finalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Montaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/606/57f78898ee6f28848f6b85d02611ecaa/master.m3u8?1676395048"
+                },
+                {
+                    "id": null,
+                    "title": "Textura y acabado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/607/b3849ecf0dae29e4e3fc9edfb96362b2/master.m3u8?1676395048"
+                },
+                {
+                    "id": null,
+                    "title": "Exportando nuestro video",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/608/29e627de01fe9b153f45936f1789d3b9/master.m3u8?1676395047"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2t99rw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/d63hlq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1806,
+        "product_name": "Typography Animation with After Effects",
+        "teacher_name": "Érico Santana",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 11666,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

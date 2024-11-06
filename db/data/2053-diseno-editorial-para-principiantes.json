@@ -1,0 +1,190 @@
+{
+    "id": "2053",
+    "title": "Diseño editorial para principiantes",
+    "url": "https://www.domestika.org/es/courses/2053-diseno-editorial-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Hola Es un placer conocerte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre nosotros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/503/969eb5e131e822325e9ebceb2711b5f7/master.m3u8?1676396119"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/505/1d5583cbf05c36d6795f7c63f505565f/master.m3u8?1676396121"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2iv8sp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Prepárate para explorar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Aspecto general",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/508/9a4a8259861a4d0d909caccc2b2ec491/master.m3u8?1676396128"
+                },
+                {
+                    "id": null,
+                    "title": "Contenido fotográfico e ilustrativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/509/f34514a364f2190ea8a86e8dc454124e/master.m3u8?1676396125"
+                },
+                {
+                    "id": null,
+                    "title": "Encuentra tu propósito en el brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/510/2083fabcf7a2a2cdc48a1139397832e8/master.m3u8?1676396123"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/540/2b5fc3b39d80c52abde754a643915735/master.m3u8?1676396146"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cbs6i2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construir la base para tu proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/515/dac35f90742d20a3467e2aa00784714c/master.m3u8?1676396129"
+                },
+                {
+                    "id": null,
+                    "title": "Colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/516/377b367a95c6de33e40360386c701e16/master.m3u8?1676396128"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de tu revista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/520/c2d83cd625d0cbdbb02f9ac5803c2b80/master.m3u8?1676396130"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7ovrhk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empecemos a crear",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/524/b87da1b9eb1ee17468af7c8936d17049/master.m3u8?1676396133"
+                },
+                {
+                    "id": null,
+                    "title": "Jerarquía tipográfica y estilos de párrafo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/525/a53fa5925acbfab7094198faf827ecae/master.m3u8?1676396136"
+                },
+                {
+                    "id": null,
+                    "title": "Adición de folios y pequeños elementos de estructura de página",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/526/baf725af1f423a017f77e7decda57dd4/master.m3u8?1676396134"
+                },
+                {
+                    "id": null,
+                    "title": "Disposición de las secciones principales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/527/72e41ea0f827346d8d140abc67101ebe/master.m3u8?1676396141"
+                },
+                {
+                    "id": null,
+                    "title": "Insertar imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/528/31436939e9f1df308ddef94439964872/master.m3u8?1676396137"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gf1vhk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Visión e identidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear la portada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/531/2f241a281936451b9ca99d2f28d01f9d/master.m3u8?1676396140"
+                },
+                {
+                    "id": null,
+                    "title": "Color y toques finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/532/dd91c9cc806c88fa1cadc8e220d04ad6/master.m3u8?1676396144"
+                },
+                {
+                    "id": null,
+                    "title": "Dar a conocer tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/534/a5a9ae587ff6a56c9a2d562bd4c37318/master.m3u8?1676396141"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r20jt7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/t6htfs.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2053,
+        "product_name": "Editorial Design 101",
+        "teacher_name": "Friendhood Studio",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 7853,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "id": "1313",
+    "title": "Introducción al dibujo arquitectónico a mano alzada",
+    "url": "https://www.domestika.org/es/courses/1313-introduccion-al-dibujo-arquitectonico-a-mano-alzada/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/095/8b40c012a697100464a58bc1387dd69c/master.m3u8?1699861745"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/115/19d29b72d203f44a6c28b165f0df1602/master.m3u8?1699861743"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/134/5c725973861c55f36d1e7fdedd95939a/master.m3u8?1699861743"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tns030.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujando arquitectura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el dibujo arquitectónico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/142/8bc7f3fcd9ce6ca471d0a5271d1ad54a/master.m3u8?1676392237"
+                },
+                {
+                    "id": null,
+                    "title": "Para qué usamos el dibujo arquitectónico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/143/12b8d80a90c40a7a218efd81a0409973/master.m3u8?1699861743"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/144/772f56f4111467d5e66d441c2e3eddc3/master.m3u8?1699861745"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yvfux2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Por qué es importante representar gráficamente un espacio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La observación y la espacialidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/242/2ff18405c7a3cec2c74cff12c339c5db/master.m3u8?1676392296"
+                },
+                {
+                    "id": null,
+                    "title": "Planta arquitectónica ver la arquitectura desde arriba",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/243/9ee40bcc913d8af5b1293429d8c177b2/master.m3u8?1699861743"
+                },
+                {
+                    "id": null,
+                    "title": "Corte arquitectónico ver a través de las paredes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/244/f7ad6e2a71c1e4f52730a97d2b2674d3/master.m3u8?1676392300"
+                },
+                {
+                    "id": null,
+                    "title": "Fachada arquitectónica el rostro de la arquitectura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/245/2c825ad5eaae7c05666850bb6413acba/master.m3u8?1699861743"
+                },
+                {
+                    "id": null,
+                    "title": "Perspectiva arquitectónica qué es eso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/246/672985778b0628786e99d9cdb65be8c6/master.m3u8?1699861743"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/93d1xl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Un espacio a mi medida",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mi propio espacio 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/247/eddc067deea2158cc4028fdbe1d46ccd/master.m3u8?1699861743"
+                },
+                {
+                    "id": null,
+                    "title": "Mi propio espacio 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/248/8c2557fc11e9ac34322f06ab392a6652/master.m3u8?1699861743"
+                },
+                {
+                    "id": null,
+                    "title": "Ambientando ando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/249/1398bfcbf4bf468c9411711849c716f7/master.m3u8?1699861743"
+                },
+                {
+                    "id": null,
+                    "title": "Textura y color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/250/09286eded329a712fa87a67225b7783a/master.m3u8?1699861743"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dtlk7k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/p2z73y.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1313,
+        "product_name": "Introduction to Freehand Architectural Design",
+        "teacher_name": "Héctor López",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7299,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

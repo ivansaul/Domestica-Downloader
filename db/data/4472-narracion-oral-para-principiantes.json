@@ -1,0 +1,168 @@
+{
+    "id": "4472",
+    "title": "Narración oral para principiantes",
+    "url": "https://www.domestika.org/es/courses/4472-narracion-oral-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/229/ba0ed5b293e30205920e8d9bdb9ca4a0/master.m3u8?1676410201"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/230/147cfa3ac592b017f5d35bd21b39730d/master.m3u8?1678813405"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vwodfr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Con qué cuento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué contar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/231/6924d0192ca208d3daf9a1e24f85e58b/master.m3u8?1676410203"
+                },
+                {
+                    "id": null,
+                    "title": "Los elementos de un cuento contado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/232/9efc1f5f9ecf860c92c57b8c0a05c824/master.m3u8?1676410201"
+                },
+                {
+                    "id": null,
+                    "title": "El texto y la estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/233/c64911e3a9c1a723c3267f2d1ed8baf4/master.m3u8?1676410202"
+                },
+                {
+                    "id": null,
+                    "title": "La corporalidad y los matices",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/234/08e34972d16ca78c44fcebe1cfc16f39/master.m3u8?1676410206"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5q7zaf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo adaptar una historia a la oralidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primer paso elegir la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/235/76fe4f6bb01f2ce103f2c0039fd587a9/master.m3u8?1676410202"
+                },
+                {
+                    "id": null,
+                    "title": "Proyectar la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/236/4c7e34b35dc7c2ef3e8afe56c11aa0b3/master.m3u8?1676410204"
+                },
+                {
+                    "id": null,
+                    "title": "Adaptar la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/237/9562448d9601e08c500beb6b507f68b4/master.m3u8?1676410205"
+                },
+                {
+                    "id": null,
+                    "title": "Identificar núcleos y desarrollar catálisis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/238/eb05013f148491b6e67301a85f201533/master.m3u8?1676410207"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d0zcsm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Contar el cuento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre el ensayo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/239/0b0c9588d82da2c90b6df8c2bf6d59b7/master.m3u8?1676410209"
+                },
+                {
+                    "id": null,
+                    "title": "Espacios y públicos de cuento 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/240/5ba231ae8275baad4eb55a4a849285af/master.m3u8?1676410210"
+                },
+                {
+                    "id": null,
+                    "title": "Espacios y públicos de cuento 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/241/1cb671744622a734a05afaa7e192d48e/master.m3u8?1676410209"
+                },
+                {
+                    "id": null,
+                    "title": "Lo que buscamos al narrar un cuento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/242/58efef99a4d93e3c4518b912436a7150/master.m3u8?1676410208"
+                },
+                {
+                    "id": null,
+                    "title": "Contar nuestro cuento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/243/491e97bb7bb09f0a4ce99953ea7951a6/master.m3u8?1676410211"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zmcqzi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/wblk6z.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4472,
+        "product_name": "Oral Storytelling for Beginners",
+        "teacher_name": "Andrés Montero",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8615,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

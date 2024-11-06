@@ -1,0 +1,158 @@
+{
+    "id": "4825",
+    "title": "Presentaciones impresionantes en PowerPoint",
+    "url": "https://www.domestika.org/es/courses/4825-presentaciones-impresionantes-en-powerpoint/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/883/183f318e2269d5c3a57f0af35f405ef3/master.m3u8?1679411530"
+                },
+                {
+                    "id": null,
+                    "title": "Fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/884/a6d97f4c77fff6b5da24e1bf270f5fb5/master.m3u8?1679411544"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/41r3c9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo PowerPoint se convirtió en el instrumento del poder",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El arte de la persuasión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/885/29a0052b8155bd8ebbaf23084b3f8aec/master.m3u8?1679411573"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos de estética",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/886/0d62d350e8512935fb4565ef237b9a48/master.m3u8?1679411591"
+                },
+                {
+                    "id": null,
+                    "title": "Pensamiento cinestésico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/887/c9e421fc9c2b1e77cc4f401ea9aa2c14/master.m3u8?1679411603"
+                },
+                {
+                    "id": null,
+                    "title": "Collage y metáforas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/888/5f2c7800507427d6e0a7f25ec60ff8f2/master.m3u8?1679411613"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q5ea29.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo crear una presentación eficaz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Objetivo y estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/889/e6f2f44f06df5b6491073e7ca284c1d3/master.m3u8?1679411633"
+                },
+                {
+                    "id": null,
+                    "title": "Tu sistema de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/890/efc196e8fe031e89d7feb6f284dbe5b8/master.m3u8?1679411649"
+                },
+                {
+                    "id": null,
+                    "title": "La diapositiva maestra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/891/2b8bc1a2863ff243fcffa572aecaaccb/master.m3u8?1679411909"
+                },
+                {
+                    "id": null,
+                    "title": "Imágenes e iconografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/892/d08536cfcb2899ad7e5a3ef1434e2f3a/master.m3u8?1679411942"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w093g5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo diseñar un discurso memorable",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La importancia del envasado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/893/7c440902f7b1a7fdd90b91a5f44247c8/master.m3u8?1679411961"
+                },
+                {
+                    "id": null,
+                    "title": "Dos and donts",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/894/4a9455a4be6ae8a8b863798be28f7dec/master.m3u8?1679411974"
+                },
+                {
+                    "id": null,
+                    "title": "Las reglas de una presentación eficaz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/895/a5ea6aec507fd1cb122120c243f24b51/master.m3u8?1679411991"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9jo2th.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9p7bdr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4825,
+        "product_name": "Make a Killer PowerPoint Presentation",
+        "teacher_name": "Marcello Pirovano",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7487,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "id": "3125",
+    "title": "Fotografía editorial de moda con luz natural",
+    "url": "https://www.domestika.org/es/courses/3125-fotografia-editorial-de-moda-con-luz-natural/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/223/074a1519a837f2d530e4fd2c94331137/master.m3u8?1676408179"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/224/55f894fa3b35484c5f87740a64519b81/master.m3u8?1676408180"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/i8jc1s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La fotografía de moda lo técnico y lo estético",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la fotografía de moda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/225/cd45c055199c81c7dcf1245efb754e42/master.m3u8?1676408180"
+                },
+                {
+                    "id": null,
+                    "title": "Uso de la cámara y composición fotográfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/226/63d60446cceeddeb9427242c896c9cb4/master.m3u8?1676408183"
+                },
+                {
+                    "id": null,
+                    "title": "La luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/228/439ff734f64f566d84d92915be6bb373/master.m3u8?1676408181"
+                },
+                {
+                    "id": null,
+                    "title": "Creación del concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/229/84fcb65e725fa82c8ad0e9f5f2831504/master.m3u8?1676408182"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d3dg8r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación y ejecución de la sesión de fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preproducción de la sesión de fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/230/7e5a911d50e600f83407093dd96e38c1/master.m3u8?1676408182"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía con luz natural en exteriores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/232/73120378f3d58ba8b3eb2d00525baf43/master.m3u8?1676408185"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía con luz natural en interiores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/244/921e7293dc2cc56a160c31c716945f42/master.m3u8?1676408187"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9gupmg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción y toques finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La selección 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/235/aa198ca76552f2899d2d6b2e81027d46/master.m3u8?1676408186"
+                },
+                {
+                    "id": null,
+                    "title": "La selección 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/238/449e75cfc543fa057a6869d78810f1a2/master.m3u8?1676408188"
+                },
+                {
+                    "id": null,
+                    "title": "El retoque básico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/249/b40bd4f202b3a6de36c9a05e84a97985/master.m3u8?1676408195"
+                },
+                {
+                    "id": null,
+                    "title": "Lightroom presets de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/239/e048ec5442f42a65c8ed811e00f7f64a/master.m3u8?1676408196"
+                },
+                {
+                    "id": null,
+                    "title": "Las imágenes finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/240/1fbb0bf386a022470661e28191e50e7b/master.m3u8?1676408187"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo presentar tu trabajo de manera profesional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/241/8b25bb2f8101cf0a44bc8bad9bbc02cd/master.m3u8?1676408187"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qqfkfx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/itg55b.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3125,
+        "product_name": "Editorial Fashion Photography with Natural Light",
+        "teacher_name": "Angela Garcia",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7421,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

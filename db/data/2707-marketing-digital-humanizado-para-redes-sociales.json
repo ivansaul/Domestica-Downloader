@@ -1,0 +1,153 @@
+{
+    "id": "2707",
+    "title": "Marketing digital humanizado para redes sociales",
+    "url": "https://www.domestika.org/es/courses/2707-marketing-digital-humanizado-para-redes-sociales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/811/85d487f59aaaa6d9ec70c9769f0b8f41/master.m3u8?1676404625"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/812/544af70467ff1bcaab3ca8bd694c3fee/master.m3u8?1676404632"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6i5dus.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ingredientes para una perfecta estrategia de marketing humanizado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al marketing digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/813/6fcf9d8635b7d677e4983391ca249e93/master.m3u8?1676404625"
+                },
+                {
+                    "id": null,
+                    "title": "Bienvenidos a la cocina redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/814/5af857e346da9bff82f91dbac2c3b55e/master.m3u8?1676404625"
+                },
+                {
+                    "id": null,
+                    "title": "Ingredientes para una estrategia de marketing digital humanizada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/815/39aebd09b2031c8b9dbeec66513af3b5/master.m3u8?1676404627"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fuzms2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modo de preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Manos a la obra los pilares de tu proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/825/81a93d31384464271c7baa0a2f5206cc/master.m3u8?1676404631"
+                },
+                {
+                    "id": null,
+                    "title": "Tiempo del relleno la personalidad de tu marca o proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/829/80785c98fcf7966c6b5090ce235929d4/master.m3u8?1676404631"
+                },
+                {
+                    "id": null,
+                    "title": "Cobertura segmento de mercado y nichos para tu proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/831/82fbf59dabba23e14c03c028ba8ebbbc/master.m3u8?1676404633"
+                },
+                {
+                    "id": null,
+                    "title": "Decorar el pastel tu estrategia de forma visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/833/b750959204b737a8e7e95d218703be94/master.m3u8?1676404635"
+                },
+                {
+                    "id": null,
+                    "title": "Sirviendo el pastel cómo aplicar la estrategia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/834/2c5554bd4580d8e7f716b0ef26224385/master.m3u8?1676404636"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bp0b03.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La guinda del pastel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proceso de mejora continua",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/846/25967a0a740707859ccba4a41bc3dfed/master.m3u8?1676404641"
+                },
+                {
+                    "id": null,
+                    "title": "Termómetros de sabor herramientas útiles para analizar y medir resultados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/848/aca8d2936b255c0e0621f0f191acae4f/master.m3u8?1676404640"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z6knf4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xnc3i8.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2707,
+        "product_name": "Human-Centered Digital Marketing for Social Media",
+        "teacher_name": "Robson Rodriguez",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5194,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

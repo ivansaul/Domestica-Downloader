@@ -1,0 +1,154 @@
+{
+    "id": "4532",
+    "title": "Creación y lanzamiento de una marca",
+    "url": "https://www.domestika.org/es/courses/4532-creacion-y-lanzamiento-de-una-marca/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/362/eb939a62fb7169f12e0ac4beb8223ac9/master.m3u8?1707411777"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/363/c271f6723bd1268a07f57eec991a1e08/master.m3u8?1707411883"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e57uv5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos del desarrollo de marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El valor de la investigación para su idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/364/d1246b21ea218d25f4073830943c19cc/master.m3u8?1707411947"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo interactúa tu audiencia con tu marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/365/9e98abf693078daa2102bd3850ca99e8/master.m3u8?1707411999"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo una estrategia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/366/b7e847329a7de1b9efe82477ce2ca312/master.m3u8?1707412134"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f1yb5n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando una marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Construyendo una Identidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/367/7be25d3c44e3ed470b62d8e50fc22730/master.m3u8?1707412201"
+                },
+                {
+                    "id": null,
+                    "title": "Tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/368/3b42bf285ee25bdb39b6d160cfc730cb/master.m3u8?1707412256"
+                },
+                {
+                    "id": null,
+                    "title": "Color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/369/76dc0bde9cbb533e19042158d2438e9e/master.m3u8?1707412298"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección artística",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/370/04bfce111e81ac330cbd1e3e997d73d4/master.m3u8?1707412365"
+                },
+                {
+                    "id": null,
+                    "title": "Tono",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/371/b7ff23e7deb312c949c8d2d41ac9a162/master.m3u8?1707412439"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xo24yk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Directrices de la marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de las pautas de su marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/372/a18a2f583e74fdf2a5ae0f531e4dc745/master.m3u8?1707412503"
+                },
+                {
+                    "id": null,
+                    "title": "Maquetas finalizadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/373/0b22e18e84e06506aabdc2cb8372ea57/master.m3u8?1707412554"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bm4xux.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xlgun1.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4532,
+        "product_name": "Building and Launching a brand",
+        "teacher_name": "Adam Katz",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6263,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "id": "2041",
+    "title": "Diseño de producto pon precio a tus creaciones",
+    "url": "https://www.domestika.org/es/courses/2041-diseno-de-producto-pon-precio-a-tus-creaciones/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/208/5da8a3c77dc06a3a3550faa6f9cc843e/master.m3u8?1676401311"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/209/915606d8415afe9448af951e2b1b8312/master.m3u8?1676401311"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/adzhyl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cadena de valor",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cadena de valor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/210/f36185af5706353867b95f308f7b4db7/master.m3u8?1676401310"
+                },
+                {
+                    "id": null,
+                    "title": "Matriz de productos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/211/03b3444cec2c73a6645a972dc298694c/master.m3u8?1676401312"
+                },
+                {
+                    "id": null,
+                    "title": "Evaluación comparativa de productos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/212/1de94ef86154f8f171d4b88aa1f4572d/master.m3u8?1676401313"
+                },
+                {
+                    "id": null,
+                    "title": "Calendario de desarrollo de nuevos productos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/213/07697a482dc07c4951ea3683fc996062/master.m3u8?1676401309"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dhnoku.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Inversión y operación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Categorías de egresos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/214/6dea5a29401fec6fa1d64d1f46e14435/master.m3u8?1676401311"
+                },
+                {
+                    "id": null,
+                    "title": "Inversión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/215/a6830757e4dee57c02bb610198ece3f7/master.m3u8?1676401315"
+                },
+                {
+                    "id": null,
+                    "title": "Gastos operativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/216/c8b9f7dfc0ed8c2ada1a499de09e01d2/master.m3u8?1676401311"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zzs1xj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Costos del producto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Costos de desarrollo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/217/28d203befade0089d69883fa9d3ffc3f/master.m3u8?1676401313"
+                },
+                {
+                    "id": null,
+                    "title": "Lotes de producción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/218/3d040c7f527f835def1ebcbc42d41d84/master.m3u8?1676401316"
+                },
+                {
+                    "id": null,
+                    "title": "Costos de fabricación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/219/5e8629ced9d4d88ccf314a02023e126d/master.m3u8?1676401315"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p42qc7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vender el producto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escenarios de venta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/220/a1f0598a75fed091cd40dfd904845c17/master.m3u8?1676401326"
+                },
+                {
+                    "id": null,
+                    "title": "Flujo de dinero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/221/4e9b7d683d3e95915c9d83b5c8639fc0/master.m3u8?1676401317"
+                },
+                {
+                    "id": null,
+                    "title": "Lista de precios y condiciones de venta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/222/5350f86fcc36600f86f6d0392d65b914/master.m3u8?1676401318"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/np1knq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/dglyon.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2041,
+        "product_name": "Product Design: Put a Price on Your Creations",
+        "teacher_name": "Emiliano Godoy",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8756,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

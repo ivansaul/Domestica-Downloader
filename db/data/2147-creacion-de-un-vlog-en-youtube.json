@@ -1,0 +1,168 @@
+{
+    "id": "2147",
+    "title": "Creación de un vlog en YouTube",
+    "url": "https://www.domestika.org/es/courses/2147-creacion-de-un-vlog-en-youtube/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/033/154b18f7da1770cace44ad015cac4aa3/master.m3u8?1676395868"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/300/7665b16db74318680b358ea0f33f0d57/master.m3u8?1676397642"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9i0182.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comencemos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un vlog",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/034/08679404d6c785aeb2cb5dd9e926fbfe/master.m3u8?1676395885"
+                },
+                {
+                    "id": null,
+                    "title": "Identifica tus puntos de interés",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/035/3f77a2c2a047a267adf556d83b41530c/master.m3u8?1676395874"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/036/9485383736fdfafffbe29b8582ac2d26/master.m3u8?1676395875"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ypwp9y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Exterior",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/037/d375516ce9a22f5b69e00185b2cae254/master.m3u8?1676395877"
+                },
+                {
+                    "id": null,
+                    "title": "Espacio no controlado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/038/cd4124f4eeab1a225a5ea52cb81e21de/master.m3u8?1676395877"
+                },
+                {
+                    "id": null,
+                    "title": "Espacio controlado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/039/a80b168dd8230ceadcfefb9756bcadb4/master.m3u8?1676395876"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/460cga.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición del vlog",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primera edición 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/280/1f009334461d155e1e9fec5cacec623a/master.m3u8?1676396002"
+                },
+                {
+                    "id": null,
+                    "title": "Primera edición 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/040/6935683c92bd76cce6068a7a87ecb8f1/master.m3u8?1676395877"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de música y efectos de sonido 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/041/43254d415f50cb898ca6de50385605b0/master.m3u8?1676395883"
+                },
+                {
+                    "id": null,
+                    "title": "Selección de música y efectos de sonido 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/042/ae253716cdb88a673f67b806fab575a2/master.m3u8?1676395877"
+                },
+                {
+                    "id": null,
+                    "title": "Textos y sobreimpresos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/043/85c0079cd5e2e210801c58f179b005b3/master.m3u8?1676395877"
+                },
+                {
+                    "id": null,
+                    "title": "Textos y sobreimpresos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/044/d0158045a28936d5e3f069741ec3db1d/master.m3u8?1676395879"
+                },
+                {
+                    "id": null,
+                    "title": "Subir el video a YouTube",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/045/0d0f4435c0fc6191a79454954d754d2e/master.m3u8?1676395885"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a9unjt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/b0bjqg.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2147,
+        "product_name": "YouTube Vlog Creation",
+        "teacher_name": "Merakio",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 13218,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

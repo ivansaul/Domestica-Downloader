@@ -1,0 +1,185 @@
+{
+    "id": "4681",
+    "title": "Google Sheets para proyectos creativos y negocios",
+    "url": "https://www.domestika.org/es/courses/4681-google-sheets-para-proyectos-creativos-y-negocios/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/836/ab14b9c30d891b74ac0e0ed714fbe26b/master.m3u8?1676410565"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/837/5ca4c5d28079ce0589c2aed22cb5cb92/master.m3u8?1676410566"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u9h893.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a las hojas de cálculo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El libro de trabajo terminado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/838/05b03da2c314c26690b47f5e8d5746de/master.m3u8?1676410568"
+                },
+                {
+                    "id": null,
+                    "title": "Las fórmulas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/839/06e3a044d673044c02b4f5e0ed9aab8a/master.m3u8?1676410566"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y20djm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación del libro de trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear el tablero los pedidos y la función de filtro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/840/d349bc1cf129474d207cbc4cc4aea04b/master.m3u8?1676410571"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar tareas al tablero fechas y la función IF",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/841/940650abab3ddabb8d1ea97021935c97/master.m3u8?1676410570"
+                },
+                {
+                    "id": null,
+                    "title": "Formateo del tablero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/842/39d5a1e8fbabcfbd2e0e171ada68b422/master.m3u8?1676410568"
+                },
+                {
+                    "id": null,
+                    "title": "BUSCARV y cómo funciona",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/843/d399796b318796187a2005c4027504ac/master.m3u8?1676410568"
+                },
+                {
+                    "id": null,
+                    "title": "fórmulas en la factura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/844/53d890b1b53bd4dfe8b907d7db0114f0/master.m3u8?1676410570"
+                },
+                {
+                    "id": null,
+                    "title": "Dar formato a la factura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/845/e60deb7eed4757842fb19f290fc3c14e/master.m3u8?1676410569"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/je27vo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El analisis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Medición del rendimiento tareas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/846/0b4c8a69dc630922880c9e63d42cb9f8/master.m3u8?1676410571"
+                },
+                {
+                    "id": null,
+                    "title": "Medición del rendimiento pedidos con tablas dinámicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/847/3b879c0389c6028938305c0c0ef68e5e/master.m3u8?1676410571"
+                },
+                {
+                    "id": null,
+                    "title": "Medición del rendimiento fórmulas de fecha",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/848/727a85c0ebebf9a51ecc9a5394186de4/master.m3u8?1676410572"
+                },
+                {
+                    "id": null,
+                    "title": "Medición del rendimiento creación de gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/849/17f68373958ffb6efbf4daeab62c8255/master.m3u8?1676410571"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2us7jg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consejos y trucos adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/850/768eeab0c3b684f63916f4900dcaf3f6/master.m3u8?1676410572"
+                },
+                {
+                    "id": null,
+                    "title": "Obtener ayuda con las fórmulas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/060/851/d7b4ae7f5f1d40a796c02f8209d9d517/master.m3u8?1676410572"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kxfmdj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/or7ipl.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4681,
+        "product_name": "Google Sheets for Creative Projects and Small Business",
+        "teacher_name": "Pete Raho",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 6974,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

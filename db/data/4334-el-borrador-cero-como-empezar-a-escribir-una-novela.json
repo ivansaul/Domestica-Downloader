@@ -1,0 +1,163 @@
+{
+    "id": "4334",
+    "title": "El borrador cero cómo empezar a escribir una novela",
+    "url": "https://www.domestika.org/es/courses/4334-el-borrador-cero-como-empezar-a-escribir-una-novela/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/782/1910b10ddac6479670e6a2ee035428b3/master.m3u8?1676411766"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/783/433501be4ac66e61b3c2488ec788aef6/master.m3u8?1676411767"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xaigeh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La estructura de la historia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/784/d9624070ad7846957966d90d28ae2950/master.m3u8?1676411769"
+                },
+                {
+                    "id": null,
+                    "title": "El encuadernador de libros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/785/e437df8a0ef73cee4e4f6edce51ff5b8/master.m3u8?1676411769"
+                },
+                {
+                    "id": null,
+                    "title": "La estructura de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/786/c7ac68e0279b6731d09cf4d320b017af/master.m3u8?1676411771"
+                },
+                {
+                    "id": null,
+                    "title": "Los elementos de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/787/400841c3131baf6ea1ec59572cf76d70/master.m3u8?1676411769"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo y prueba de la idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/788/36a8d08afe58203bfc5031435bf07cfb/master.m3u8?1676411770"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gjcvk1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo la idea en una novela",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las ocho secuencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/789/cc81d0b8818c4a66d57a0ea39185d5da/master.m3u8?1676411773"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de las escenas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/790/6582689594d1e6567662d9ada338b118/master.m3u8?1676411771"
+                },
+                {
+                    "id": null,
+                    "title": "Acerca del trazado flexible",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/791/98876d4ca23442592a30eb119516cadf/master.m3u8?1676411773"
+                },
+                {
+                    "id": null,
+                    "title": "Escribiendo el Borrador Cero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/792/40ee2d3033b260b36d54908d46d4c4a6/master.m3u8?1676411773"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ag9qty.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué haces ahora",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La persistencia vence al talento siempre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/793/6946e773a6501c8acdebfa05f4078aad/master.m3u8?1676411772"
+                },
+                {
+                    "id": null,
+                    "title": "Lidiar con las dudas sobre uno mismo y otros asesinos de la creatividad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/794/102bb34120362a178e7f22513cea5364/master.m3u8?1676411777"
+                },
+                {
+                    "id": null,
+                    "title": "Responsabilidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/795/62f8e4da092adc37ae05482a3ba34e91/master.m3u8?1676411775"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/klbdjz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1rczwh.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4334,
+        "product_name": "The Zero Draft: How to Start Writing a Novel",
+        "teacher_name": "Shaunta Grimes",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7051,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

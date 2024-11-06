@@ -1,0 +1,159 @@
+{
+    "id": "5548",
+    "title": "Domina Adobe Express con integración de IA",
+    "url": "https://www.domestika.org/es/courses/5548-domina-adobe-express-con-integracion-de-ia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción a Adobe Express y la IA en el diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/832/e6bddb9ef4a2a9340b728514a7b3706d/master.m3u8?1721731926"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/833/342d9f2b5b6b31514e4e558178179e2f/master.m3u8?1721731982"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2tsxau.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos de la IA en la creación de contenidos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explorando Adobe Express y los conceptos básicos de IA en AE",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/834/5104a683e0af817527112a4d610005ea/master.m3u8?1721732189"
+                },
+                {
+                    "id": null,
+                    "title": "Creación con IA texto a imagen y relleno generativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/835/c9d8cfd864c95c57188977b5ca5e92bb/master.m3u8?1721732229"
+                },
+                {
+                    "id": null,
+                    "title": "Mejorar los diseños con relleno generativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/836/114f846192880851addff783037c1e60/master.m3u8?1721732259"
+                },
+                {
+                    "id": null,
+                    "title": "Ventajas de video y audio en AE con IA",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/837/e34e6890c9d3685689720e81cbf76715/master.m3u8?1721732297"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fi0p40.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cree contenido llamativo con herramientas basadas en IA",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición del proyecto idea brief conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/838/338f4bfba84e65b38a5565325c995f9c/master.m3u8?1721732357"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de proyectos creación de contenido llamativo con relleno generativo para imágenes y vídeos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/839/fd65a8d28d0233bd1bae91c6053adc2e/master.m3u8?1721732409"
+                },
+                {
+                    "id": null,
+                    "title": "Movimiento y vídeo uso de AE para mejorar la animación y el vídeo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/840/e6ffa2c83decbb3c62f04aef71941daf/master.m3u8?1721732639"
+                },
+                {
+                    "id": null,
+                    "title": "Plantillas Crear y modificar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/841/b419ffef15835d029e13bf9ce1c61437/master.m3u8?1721732685"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r82o4s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasos finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación de contenidos para el lanzamiento y coherencia con AE",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/842/605d6ecfa8dc7d406991453cbf7d019a/master.m3u8?1721732917"
+                },
+                {
+                    "id": null,
+                    "title": "Explorar complementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/843/831ace22d75c7fb540df4c31432cb5a6/master.m3u8?1721732949"
+                },
+                {
+                    "id": null,
+                    "title": "Aprovechar la IA para las empresas y las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/844/033051397f0ec30b8744dd04cb3152fe/master.m3u8?1721733105"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/une0tr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/87np10.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5548,
+        "product_name": "Master Adobe Express and AI Integration",
+        "teacher_name": "Andrea Marquez",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7606,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}

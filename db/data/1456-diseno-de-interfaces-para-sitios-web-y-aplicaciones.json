@@ -1,0 +1,188 @@
+{
+    "id": "1456",
+    "title": "Diseño de interfaces para sitios web y aplicaciones",
+    "url": "https://www.domestika.org/es/courses/1456-diseno-de-interfaces-para-sitios-web-y-aplicaciones/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/384/5d87a057f0c45dd1afc7855b4950006b/master.m3u8?1676392377"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/385/0cc5c9062a86cc00a3a5deb30d2b07b1/master.m3u8?1676392380"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/386/a2f411d5ca9198e0db4aa1d963eaa3da/master.m3u8?1676392377"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6m1rtb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño gráfico vs Diseño de productos digitales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El rol del diseñador en un sitio web o App",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/387/d39577b510a3157ddcf9e07959b55e7a/master.m3u8?1676392380"
+                },
+                {
+                    "id": null,
+                    "title": "Qué significan los términos UI y UX",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/388/2fe9c7c8d686b4440b0cafa33eb8a80b/master.m3u8?1676392378"
+                },
+                {
+                    "id": null,
+                    "title": "Principios del diseño gráfico aplicados a productos digitales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/389/69c390e0b1d160d9f4a7ed1c9b5d95c1/master.m3u8?1676392383"
+                },
+                {
+                    "id": null,
+                    "title": "Sistematización del diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/390/3651fbc7be9fe829e2402b714e064f74/master.m3u8?1676392380"
+                },
+                {
+                    "id": null,
+                    "title": "Patrones de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/391/daf2c53c32889ee10213222d1c05c2bd/master.m3u8?1676392382"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicaciones de diseño UI",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/392/cba386de8c6c245c8e0be77af59ed1c7/master.m3u8?1676392383"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/193jxi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando un sistema digital",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proceso de creación de productos digitales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/393/9c991b152e0a37bae055f05f436c5773/master.m3u8?1676392386"
+                },
+                {
+                    "id": null,
+                    "title": "Brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/394/a5c72ff2ee0e7caca7b5ed7bf5e4f195/master.m3u8?1676392386"
+                },
+                {
+                    "id": null,
+                    "title": "Mapa de sitio  Flujo de usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/395/51292cd9f282f7af11760b0477b2e21f/master.m3u8?1676392386"
+                },
+                {
+                    "id": null,
+                    "title": "Wireframes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/396/484aad0477f53bbf94ed096c15f2df2e/master.m3u8?1676392391"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de alta fidelidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/397/f5cf00727c379813eaafef9cfea8f0a5/master.m3u8?1676392390"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de alta fidelidad 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/398/395efa5cf5d44c6f360f071921935d27/master.m3u8?1676392390"
+                },
+                {
+                    "id": null,
+                    "title": "Prototipado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/399/73db1d0d8d93903879ecf0b923d10c15/master.m3u8?1676392394"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/trh1uv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Después de diseñar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los entregables del diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/403/e407b6098b03aeb25c35913700a795da/master.m3u8?1676392390"
+                },
+                {
+                    "id": null,
+                    "title": "Entregando nuestro proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/401/6276135a5cfeb178919412c9f96dc998/master.m3u8?1676392406"
+                },
+                {
+                    "id": null,
+                    "title": "Entregando nuestro proyecto 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/026/402/faf7a14428c78fd4189f655a683ef24e/master.m3u8?1676392390"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3hs61v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rmhsep.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1456,
+        "product_name": "Interface Design for Websites and Apps",
+        "teacher_name": "Francisco Aguilera G.",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 13863,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

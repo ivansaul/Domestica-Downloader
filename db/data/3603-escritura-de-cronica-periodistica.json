@@ -1,0 +1,180 @@
+{
+    "id": "3603",
+    "title": "Escritura de crónica periodística",
+    "url": "https://www.domestika.org/es/courses/3603-escritura-de-cronica-periodistica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/396/74b31146f3cec3e1f18927f062fd65fd/master.m3u8?1676413941"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/397/96e19e45b3b1437941283e41eb35925d/master.m3u8?1676413945"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gkvap7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué es una crónica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Muchos tipos de crónica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/398/6faf181ea2a9bad7e3f60e2cbfffa425/master.m3u8?1676413945"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo reconocer una historia periodística para una crónica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/399/b9924b6dd318cc2395099c446ed42ac8/master.m3u8?1676413945"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/597mar.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La investigación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Investigación periodística",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/401/95b96b4272be2bc631a13a76e848f38d/master.m3u8?1676413947"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo planear y hacer una entrevista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/402/96f4aa312f5db1786085ac6ab7e6cdbe/master.m3u8?1676413944"
+                },
+                {
+                    "id": null,
+                    "title": "De las entrevistas al concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/403/85631cf41a1a1f2df078797b97af14fb/master.m3u8?1676413945"
+                },
+                {
+                    "id": null,
+                    "title": "Antes de empezar a escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/404/964f4c9e3c06c831c16178fe4eb0cb32/master.m3u8?1676413946"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f9cr5w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La hora de escribir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Decisiones estéticas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/405/a5b855366575f91869ba396c0a885009/master.m3u8?1676413946"
+                },
+                {
+                    "id": null,
+                    "title": "Personajes y detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/406/7fa95d4f9aac1da8c0486bcab60fd83f/master.m3u8?1676413944"
+                },
+                {
+                    "id": null,
+                    "title": "El comienzo del texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/407/e608d4f70485f687659ada7aa6e21067/master.m3u8?1676413946"
+                },
+                {
+                    "id": null,
+                    "title": "Diálogos y escenas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/408/028f5fbd21a0fa71cfed400565032650/master.m3u8?1676413949"
+                },
+                {
+                    "id": null,
+                    "title": "El tiempo de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/409/70ce48b83584067e621b6372cc22378b/master.m3u8?1676413949"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0xwtjz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La edición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Análisis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/410/c7972a32f5d8e201f29b0b4599f09bb4/master.m3u8?1676413949"
+                },
+                {
+                    "id": null,
+                    "title": "Enviar el texto a un editor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/411/900653db72d0ad654d5b0cb996514f0c/master.m3u8?1676413949"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ejqd0f.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1su1ok.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3603,
+        "product_name": "Journalistic Chronicle Writing",
+        "teacher_name": "Javier Sinay",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 6513,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

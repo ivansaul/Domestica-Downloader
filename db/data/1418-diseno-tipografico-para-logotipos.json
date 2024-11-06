@@ -1,0 +1,180 @@
+{
+    "id": "1418",
+    "title": "Diseño tipográfico para logotipos",
+    "url": "https://www.domestika.org/es/courses/1418-diseno-tipografico-para-logotipos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/656/36cc649e5401361027f1829dd23e0141/master.m3u8?1676391060"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/657/3ebf9e6db34e49ab772346454c9434df/master.m3u8?1676391056"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/658/434381c95fcf4c8dd41d1c9094e03862/master.m3u8?1676391055"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v2sz27.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lo esencial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Con la tipo basta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/659/ac95557a13c3ae3cc7af006d3340a59f/master.m3u8?1676391057"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos básicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/660/dd82a76b93a56b4db0dad156eefdaa55/master.m3u8?1676391066"
+                },
+                {
+                    "id": null,
+                    "title": "El ojo manda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/661/c433b2b9817448a7d909845e24dc7052/master.m3u8?1676391058"
+                },
+                {
+                    "id": null,
+                    "title": "A darle al lápiz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/662/e7b0e88e99484e1bf0c5e8f7cfd84c6f/master.m3u8?1676391061"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/g3h98g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definir el camino",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Un problema bien planteado es la mitad de la solución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/663/633cf84b94bb882ed654633641842862/master.m3u8?1676391058"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/664/dee5b106201a39399bb830c68197ea5c/master.m3u8?1676391059"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vt3mhm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lápiz y vector",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bosquejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/665/3db8ffd3ab0d9e46a8d0fcd6ae7176c9/master.m3u8?1676391058"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/666/5a0cd09373384f85850303a32f40b768/master.m3u8?1676391068"
+                },
+                {
+                    "id": null,
+                    "title": "El boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/667/0387418b082042b5ecdfb242099de24c/master.m3u8?1676391061"
+                },
+                {
+                    "id": null,
+                    "title": "Del papel al vector",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/668/9610af6d3a5d52676ea67a967c38dba1/master.m3u8?1676391063"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e00ko4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La entrega",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La letra se manifiesta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/669/8a53882172a69e5434a7c6b2508a27c1/master.m3u8?1676391060"
+                },
+                {
+                    "id": null,
+                    "title": "Un logo funcional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/023/670/59be050ff8bd8e355262059a9cf0c795/master.m3u8?1676391059"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9ll1ya.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/59fsmp.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1418,
+        "product_name": "Typographic Design for Logos",
+        "teacher_name": "Elias Mule",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7065,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

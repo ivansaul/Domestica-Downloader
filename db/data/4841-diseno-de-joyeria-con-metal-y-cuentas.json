@@ -1,0 +1,163 @@
+{
+    "id": "4841",
+    "title": "Diseño de joyería con metal y cuentas",
+    "url": "https://www.domestika.org/es/courses/4841-diseno-de-joyeria-con-metal-y-cuentas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/756/c914da4f4c53b7fefc7f5c87c7384b41/master.m3u8?1684743046"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/757/e21a7b05c567b86b14daee09d75d57ae/master.m3u8?1684743182"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kqkxp6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comprender y prepararse para crear joyas con cuentas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/758/b5fae03192e21c716dd7654137c04d29/master.m3u8?1684743274"
+                },
+                {
+                    "id": null,
+                    "title": "Colección Siluetas Bocetos y Diseños",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/759/e2e105bc125f2bfb497d3ceba0ce0d88/master.m3u8?1684743337"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios básicos de abalorios 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/760/1d0457e9f81d47986e5562572099468d/master.m3u8?1684743413"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios básicos de abalorios 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/761/ecbc28d6b61a29f9cd2d83563cd17b8d/master.m3u8?1684743712"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios básicos de abalorios 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/762/3fa46bc1541d414016fc1c6327a7bab9/master.m3u8?1684743648"
+                },
+                {
+                    "id": null,
+                    "title": "Color en joyería con cuentas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/763/4ace60effb5ababc7bead439b4980283/master.m3u8?1684749421"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fdiqfu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando la pieza",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estructuras de alambre para soldar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/764/09b0a4184c3b6a1b4845b9eceb8a2ceb/master.m3u8?1684743964"
+                },
+                {
+                    "id": null,
+                    "title": "Decapado y pulido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/765/8352237c272fb8b9951eed61e6d62b49/master.m3u8?1684743980"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar cuentas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/766/eb3f67c4277bd69af49d8794ce53085d/master.m3u8?1684744074"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar cuentas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/767/3957321fd1ac07e04428d95cc90ffdcf/master.m3u8?1684744127"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zmoyrq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos retoques",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Montaje de la pieza algunos acabados elementos extras y diferentes piezas de joyería",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/768/d1cc2709437bf0b6a7b82a37b4f2a8fd/master.m3u8?1684744164"
+                },
+                {
+                    "id": null,
+                    "title": "Mantenimiento cuidado y reparación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/069/769/0ebcd27ed732bcb33d956261170c25dc/master.m3u8?1684744230"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h3ixdm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/bdl12g.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4841,
+        "product_name": "Jewelry Making with Beadwork and Metal",
+        "teacher_name": "Cora Carroll",
+        "category_id": 20,
+        "category_name": "Fashion",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7623,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

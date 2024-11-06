@@ -1,0 +1,163 @@
+{
+    "id": "319",
+    "title": "Introducción a la iluminación fotográfica con flash de mano",
+    "url": "https://www.domestika.org/es/courses/319-introduccion-a-la-iluminacion-fotografica-con-flash-de-mano/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/588/e9c65d72da5ade1013cc47f86f8a726e/master.m3u8?1676384616"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/589/c703fc2b3d1b440d540e3456cdabab58/master.m3u8?1676384620"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ub9wqs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Filosofía y materiales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación low cost",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/591/d730eaa9e6f3821fe700f7321be7e13b/master.m3u8?1676384618"
+                },
+                {
+                    "id": null,
+                    "title": "Calidad de luz portátil y creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/592/e3385736a4a03a15c10d29b62a7c9564/master.m3u8?1676384618"
+                },
+                {
+                    "id": null,
+                    "title": "Qué flash de mano escoger",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/593/a22673c3df6fbccf65ec45d90baba9f3/master.m3u8?1676384621"
+                },
+                {
+                    "id": null,
+                    "title": "Modificadores y accesorios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/594/c944198d79442d7b6383b184660b4605/master.m3u8?1676384626"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3fztbu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Teoría y Práctica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "En un estudio portátil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/595/5deff47e9640aa384902ac1a3132e87d/master.m3u8?1676384622"
+                },
+                {
+                    "id": null,
+                    "title": "En una localización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/596/2f05dff95984b19cedef44a4fc4db447/master.m3u8?1676384624"
+                },
+                {
+                    "id": null,
+                    "title": "En exteriores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/597/d70b19675e5a64167bb97a185e9b8d74/master.m3u8?1676384625"
+                },
+                {
+                    "id": null,
+                    "title": "Creatividad al máximo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/598/8270144022048d9f70193cf603ca2b4a/master.m3u8?1676384623"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/32n728.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Revelado y retoque",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Flujo de Trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/599/8e50a03c796709c22df5915072f1d854/master.m3u8?1676384627"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado en Lightroom",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/600/9c9d2f7ffee142fd7c3fe08baa3a8b2c/master.m3u8?1676384628"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque en Photoshop I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/601/a02bbf0bc778c9308923f97e8e952173/master.m3u8?1676384630"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque en Photoshop II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/602/3b0c86c3640bc979ab5bee5d1ab709f7/master.m3u8?1676384625"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fd4aqc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/i2ww3g.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 319,
+        "product_name": "Introduction to Photographic Lighting with Hand Flash",
+        "teacher_name": "Antonio Garci",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7732,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

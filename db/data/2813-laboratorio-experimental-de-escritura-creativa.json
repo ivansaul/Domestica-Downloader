@@ -1,0 +1,153 @@
+{
+    "id": "2813",
+    "title": "Laboratorio experimental de escritura creativa",
+    "url": "https://www.domestika.org/es/courses/2813-laboratorio-experimental-de-escritura-creativa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/630/0ef03fa3faad3d69ecef6a3c50b28a44/master.m3u8?1676405926"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/631/587da6117a530be6e882041d43af7627/master.m3u8?1676405925"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xurl54.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El mundo de las palabras y las minas de diamantes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La escritura creativa y los géneros literarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/632/946dfd741c3dff0e63936aa8dc6d5c36/master.m3u8?1676405926"
+                },
+                {
+                    "id": null,
+                    "title": "Por qué experimentar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/633/56a4c923e76c9518627e0bee59639e1d/master.m3u8?1676405927"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y materialidad de la escritura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/634/08131ac7dbd73fb9cf2a4cbd2410f43e/master.m3u8?1676405927"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9k5h0x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El diamante perfecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Caja de herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/635/ecab327f8456ef884c7c84260939db83/master.m3u8?1676405927"
+                },
+                {
+                    "id": null,
+                    "title": "La narrativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/636/03a69600384a9fa5e2ed0bdc61b0b508/master.m3u8?1676405929"
+                },
+                {
+                    "id": null,
+                    "title": "La poesía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/637/755e008de3ad7ebe114756e150b84e49/master.m3u8?1676405928"
+                },
+                {
+                    "id": null,
+                    "title": "El ensayo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/638/3afa5b886eaabacfa6a8acc6610c289b/master.m3u8?1676405929"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4aemfp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tallar y pulir el diamante para joyería",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Llenar tus hojas en blanco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/639/6fb104c249dd7caea22687ae496c01a1/master.m3u8?1676405931"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión y edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/640/7f7a21237dd5c91abc445675c09df121/master.m3u8?1676405931"
+                },
+                {
+                    "id": null,
+                    "title": "Por dónde seguir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/641/b920629b17002e01c85aa60a5b07b31a/master.m3u8?1676405932"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vqkyiq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8ld29f.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2813,
+        "product_name": "Creative Writing Lab: Experiment with Words",
+        "teacher_name": "Karen Villeda",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 4840,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "id": "5480",
+    "title": "Introduction to Cocktails and Mixology",
+    "url": "https://www.domestika.org/es/courses/5480-introduction-to-cocktails-and-mixology/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/963/a8ac3acd352a7b889fc9305f636066b7/master.m3u8?1716996643"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/964/8abecd7c08726b0429bd06b8fb6acc9a/master.m3u8?1717000088"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vayc7s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos de la mixología",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas del oficio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/965/acc8e44b8b6a3de01cf81823c9423d99/master.m3u8?1717000905"
+                },
+                {
+                    "id": null,
+                    "title": "Ingredientes y licores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/966/c2f670f4e1b277efb95d478c347e8772/master.m3u8?1717002267"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas y terminología",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/967/0ed20ef596b1fe754d16e08068196354/master.m3u8?1715343643"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xbiejq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cócteles clásicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Explorando cócteles clásicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/968/cfdf605c1667e4fa926bfd74855586fc/master.m3u8?1715605195"
+                },
+                {
+                    "id": null,
+                    "title": "Se trata de equilibrio lo amargo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/969/82d66ec38613bc61063a85a9e67cb1a0/master.m3u8?1715343673"
+                },
+                {
+                    "id": null,
+                    "title": "El arte de lo antiguo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/970/98af9185b1642941d9636abc1301c75d/master.m3u8?1715343749"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bajmxr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Técnicas y sabores avanzados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Infusiones y Jarabes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/971/c0abbb31819f9623320ba83a7ce44363/master.m3u8?1715343773"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas avanzadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/972/400939b9d01ee51b5d9085f3ceefa026/master.m3u8?1715343794"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de un cóctelmenú",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/973/4a31809e5d91fc2f37aab2b54330d4cc/master.m3u8?1715343810"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bx296r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/lr0i82.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5480,
+        "product_name": "Introduction to Cocktails and Mixology",
+        "teacher_name": "Jordan Hughes",
+        "category_id": 21,
+        "category_name": "Culinary",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 6821,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}

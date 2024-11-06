@@ -1,0 +1,163 @@
+{
+    "id": "2202",
+    "title": "Escritura de guiones para libros ilustrados",
+    "url": "https://www.domestika.org/es/courses/2202-escritura-de-guiones-para-libros-ilustrados/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/665/a78acf6b94ed46730d7777085d73aefb/master.m3u8?1676399427"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/666/d748fecb7d6313c5956aec0e26d433fe/master.m3u8?1676399425"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gjunnq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigación preliminar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escribir un libro ilustrado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/667/153353ec75a94444975a6a1613e43605/master.m3u8?1676399431"
+                },
+                {
+                    "id": null,
+                    "title": "Públicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/668/f98cc1f7fea20f9ded8f56f3d660c6a5/master.m3u8?1676399423"
+                },
+                {
+                    "id": null,
+                    "title": "La idea madre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/669/3f5800a44835407de0a6642c2f011f67/master.m3u8?1676399424"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/670/dcae7641819e288ac4e85c3254c1eeca/master.m3u8?1676399430"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q2mygl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comienza a trabajar el proyecto final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escribir un primer borrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/671/42132882628d9a2f9f7b0b6eea821474/master.m3u8?1676399433"
+                },
+                {
+                    "id": null,
+                    "title": "Escribiendo las escenas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/672/24a7c2565038435a36939c2de0a74cdc/master.m3u8?1676399428"
+                },
+                {
+                    "id": null,
+                    "title": "Storyboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/673/ac87dc4501134a13b73c7f1cf37c7ead/master.m3u8?1676399431"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando la ilustración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/674/fd5ec2b4996e907c3172d3de6dd92464/master.m3u8?1676399429"
+                },
+                {
+                    "id": null,
+                    "title": "Versión definitiva y maqueta final 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/675/13522457265e0d867162ebd8a51bf91c/master.m3u8?1676399431"
+                },
+                {
+                    "id": null,
+                    "title": "Versión definitiva y maqueta final 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/676/b27973d9ac4b02b68191b6e9da1eb57f/master.m3u8?1676399428"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ksak9z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo presentar tu proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/677/2883f5537d7d402e511b955ba8a41da5/master.m3u8?1676399430"
+                },
+                {
+                    "id": null,
+                    "title": "Apropiación cultural y derechos de propiedad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/678/595d242537d07efb88b7da6fbf2d8563/master.m3u8?1676399429"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1z2umm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rttsik.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2202,
+        "product_name": "Script Writing for Illustrated Books",
+        "teacher_name": "Ana Pavez",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 12670,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

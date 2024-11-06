@@ -1,0 +1,163 @@
+{
+    "id": "484",
+    "title": "Concepción y producción de un proyecto editorial",
+    "url": "https://www.domestika.org/es/courses/484-concepcion-y-produccion-de-un-proyecto-editorial/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/427/7d5c0e3d2ff1eae79bd85ba146db7d65/master.m3u8?1676384938"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/428/23fb3b000093a97f4c725e077a07840f/master.m3u8?1676384938"
+                },
+                {
+                    "id": null,
+                    "title": "El mundo de la literatura infantil y juvenil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/429/b9d4bb0e4cada4cae25b281f5c08e54e/master.m3u8?1676384941"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9osp9g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preproducción Editorial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El mundo de las ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/430/a2e95d101c3a0f5a623f0787ab9abb65/master.m3u8?1676384943"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/431/0f7c07569b19ac875a4a6f715709508f/master.m3u8?1676384942"
+                },
+                {
+                    "id": null,
+                    "title": "Aterrizar una idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/432/885589c881f3b82b1612489214e62907/master.m3u8?1676384943"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/53awz1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción Editorial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Planeación  Establecimiento de cronogramas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/433/517ae4755d670d3d712701a4bdc5b8df/master.m3u8?1676384938"
+                },
+                {
+                    "id": null,
+                    "title": "Aspectos legales y financieros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/434/d0997ca1a6922f091794122e78ae17d1/master.m3u8?1676384940"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo hacer un machote editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/435/a792a11d117f0cce82bd02c21060ec35/master.m3u8?1676384946"
+                },
+                {
+                    "id": null,
+                    "title": "Dirección editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/436/6344dc146562ff03fa466fd83cf706d8/master.m3u8?1676384940"
+                },
+                {
+                    "id": null,
+                    "title": "Impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/442/54c1dc3fb0b28b24a3ffcc4877313991/master.m3u8?1676384943"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sr0e2y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Post producción Editorial Prensa  Distribución  Promoción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La vida de un libro después de la imprenta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/443/59ce828b3917bfe659cad7432a4f4d99/master.m3u8?1676384947"
+                },
+                {
+                    "id": null,
+                    "title": "Lanzamientos  eventos con el libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/444/090c8d07bd293f150ef6de12c03ac90d/master.m3u8?1676384942"
+                },
+                {
+                    "id": null,
+                    "title": "Prensa y comunicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/445/6981c9f2499a055a63dc5b4e308c8fa2/master.m3u8?1676384944"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fe554u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8v3dr3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 484,
+        "product_name": "Design and Production of an Editorial Project",
+        "teacher_name": "John Naranjo",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7042,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

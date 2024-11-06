@@ -1,0 +1,173 @@
+{
+    "id": "4724",
+    "title": "Diseño arquitectónico creativo y modelado en Revit",
+    "url": "https://www.domestika.org/es/courses/4724-diseno-arquitectonico-creativo-y-modelado-en-revit/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre nosotros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/228/b11e9dd4da83fe1df00cf0af4eaf243b/master.m3u8?1676411441"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/229/02bcdf58d5a8ba7c9a3cc4d579836ca4/master.m3u8?1676411441"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rro3ld.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación para el proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Condiciones de construcción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/230/7e7efb133f67a724343d3677b504e29d/master.m3u8?1676411441"
+                },
+                {
+                    "id": null,
+                    "title": "Opciones de análisis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/231/a9f487e2b3e0409b2d1e7920ac1913c9/master.m3u8?1676411443"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/etluyq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proceso de modelado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Extrusiones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/757/718fe9ecbff53427dc66e0bac2af2fae/master.m3u8?1676412947"
+                },
+                {
+                    "id": null,
+                    "title": "Extrusiones 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/758/04cb4a42b9afe64be193d44db2ee4ba9/master.m3u8?1676412948"
+                },
+                {
+                    "id": null,
+                    "title": "Muros cortina y sistemas cortina 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/759/1df9450904aa5d735d1fb647c29e6a92/master.m3u8?1676412951"
+                },
+                {
+                    "id": null,
+                    "title": "Muros cortina y sistemas cortina 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/760/32d45970978ce55b9a425346db72b11f/master.m3u8?1676412954"
+                },
+                {
+                    "id": null,
+                    "title": "Familias cargables paramétricas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/761/38d38ecfab1434dd56faf7fda76cffd4/master.m3u8?1676412951"
+                },
+                {
+                    "id": null,
+                    "title": "Familias cargables paramétricas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/762/4b9059f8d94d1511282c5e83153db74c/master.m3u8?1676412951"
+                },
+                {
+                    "id": null,
+                    "title": "Masa 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/763/d396deca18904202fea4bd318cf23d29/master.m3u8?1676412954"
+                },
+                {
+                    "id": null,
+                    "title": "Masa 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/764/ad57906b999483732a9ea540de832ead/master.m3u8?1676412957"
+                },
+                {
+                    "id": null,
+                    "title": "Componentes adaptables",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/765/accba93c788c09c9bb379779cd7e4041/master.m3u8?1676412957"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/to9de1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proceso de postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Toques finales y materialidad 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/820/1eff7b8e5475590defaf69349edcb453/master.m3u8?1676364127"
+                },
+                {
+                    "id": null,
+                    "title": "Toques finales y materialidad 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/066/821/c686d545b2e9f74aca5ad905f00a462e/master.m3u8?1676364141"
+                },
+                {
+                    "id": null,
+                    "title": "Contexto e imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/243/f5a9c9ea18dadfda35f852ee964f1199/master.m3u8?1676411448"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yt3mdb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ruto6l.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4724,
+        "product_name": "Creative Architectural Design & Modeling in Revit",
+        "teacher_name": "BIM it",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 11522,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "de",
+            "pt",
+            "it",
+            "fr",
+            "nl",
+            "pl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

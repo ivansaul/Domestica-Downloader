@@ -1,0 +1,168 @@
+{
+    "id": "2777",
+    "title": "Diseño de experiencias brand commerce",
+    "url": "https://www.domestika.org/es/courses/2777-diseno-de-experiencias-brand-commerce/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Inspiraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/220/bfc0b16578b410ab44da4178b15fe09d/master.m3u8?1676400238"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/929/09013d88fe5ab9d049ed405d1f9cb906/master.m3u8?1676401110"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2t9uv1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definición del contenido y target de una marca comercial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué hablamos de experiencia en el comercio de marcas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/221/3e465fb3544b0fd53b1e24df1e94578c/master.m3u8?1676400235"
+                },
+                {
+                    "id": null,
+                    "title": "Mapeo de contenidos del brief a la definición del contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/303/26e8d414e2d767d2715b614b82daca65/master.m3u8?1676400276"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategia de contenido definición del target",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/304/0d55b92d3ff79125f7b5314e75ebac75/master.m3u8?1676400274"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board y presentación para el equipo de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/305/31d138d165fcc2ef87af38dffc309866/master.m3u8?1676400274"
+                },
+                {
+                    "id": null,
+                    "title": "Estructuración del contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/325/cd53b4c8c8a08eb595d4b358a70911e9/master.m3u8?1676400284"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k19by2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Realización del diseño de una marca comercial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Nuestro proceso de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/222/0d7c68fe73bea08a6ac1cfae032905cb/master.m3u8?1676400235"
+                },
+                {
+                    "id": null,
+                    "title": "Centrarse en el diseño de páginas y elementos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/223/92d615856b5dcb897f66f5e8aafa837b/master.m3u8?1676400234"
+                },
+                {
+                    "id": null,
+                    "title": "Centrarse en el diseño de páginas y elementos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/224/c27dc1187047f5447527251b4c025fa8/master.m3u8?1676400238"
+                },
+                {
+                    "id": null,
+                    "title": "Arquitectura informacional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/306/a0591693a5facdf91efdc25819d97c39/master.m3u8?1676400274"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño modular y el sistema de rejilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/307/5c9ea9e7c03ee278a3788ad0f58914d9/master.m3u8?1676400276"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fmd6y5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Refinar y presentar el trabajo al cliente",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Realización de algunos elementos en movimiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/225/a4d49a1bb397e548b354eaca850194f9/master.m3u8?1676400240"
+                },
+                {
+                    "id": null,
+                    "title": "Organizar material para el trabajo en equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/309/26e4dfe3fd4e924c173ef9726fdc6d5d/master.m3u8?1676400275"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación y reel del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/041/310/f1dc611ec06477b1b3fa0725c8813076/master.m3u8?1676400276"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kkxyk7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/oxy7my.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2777,
+        "product_name": "Designing an E-commerce Brand Experience",
+        "teacher_name": "Adoratorio Studio",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9039,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

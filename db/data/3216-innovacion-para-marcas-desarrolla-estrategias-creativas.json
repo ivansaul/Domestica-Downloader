@@ -1,0 +1,148 @@
+{
+    "id": "3216",
+    "title": "Innovación para marcas desarrolla estrategias creativas",
+    "url": "https://www.domestika.org/es/courses/3216-innovacion-para-marcas-desarrolla-estrategias-creativas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/918/a4e4173ad430c176afb572f83fd49f5d/master.m3u8?1676402260"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/919/4da7ba46506b2ccaafc15a11e8918d6d/master.m3u8?1676402259"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qfqgq2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estrategia innovación y diseño de futuros",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Teoría y modelos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/920/c939134a8ae0a696dee3521fba67cac8/master.m3u8?1676402265"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación estratégica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/921/4fa017a5b6e86818954a9c1ca3a26c2b/master.m3u8?1676402263"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de escenarios y Backcasting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/922/58d908e77ea44cfe1d2af1905f134028/master.m3u8?1676402263"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/361tdr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño de servicios y experiencias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Exploración del problema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/923/787f519f1bde8f5ea22d86dbd42be80e/master.m3u8?1676402265"
+                },
+                {
+                    "id": null,
+                    "title": "Descubrir oportunidades",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/924/b1785d1d000e171e8c32906329a24647/master.m3u8?1676402265"
+                },
+                {
+                    "id": null,
+                    "title": "Una propuesta de valor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/925/f082bc42209bfbc6ef7a7fd9d3d8ccda/master.m3u8?1676402270"
+                },
+                {
+                    "id": null,
+                    "title": "Servicios y experiencias de valor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/926/2b3616eb5ed98cf3d7b62991b454bbd6/master.m3u8?1676402269"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jdqk8d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Identidad de marca y lanzamiento al mercado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definir una marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/927/c913889f37f48656a5ccbd4e01c23bc6/master.m3u8?1676402270"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategia de comunicación y lanzamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/928/66dabae678ae13f183b1d607684c2169/master.m3u8?1676402269"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jc2vs1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ixk3p9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3216,
+        "product_name": "Brand Innovation: Develop Creative Strategies",
+        "teacher_name": "Leticia Alameda",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 8043,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

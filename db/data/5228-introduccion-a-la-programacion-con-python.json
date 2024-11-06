@@ -1,0 +1,174 @@
+{
+    "id": "5228",
+    "title": "Introducción a la programación con Python",
+    "url": "https://www.domestika.org/es/courses/5228-introduccion-a-la-programacion-con-python/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/988/00f5dd8dd5e11ed03bd102c1f092def0/master.m3u8?1714721949"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/989/55387cb1c36851063647e5b6cb935323/master.m3u8?1714722185"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k4ff0l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué programamos Y por qué con Python",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/990/ee04d063d43591ff97b214bd84f7b1e4/master.m3u8?1720775239"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo trabajar con Python Instalación o trabajo en la nube",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/991/0f5be484ec3f452284aea1315447333d/master.m3u8?1689277782"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gdxjlx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a Python",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear un programa con Python",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/992/ff5d4030c86e8716fa84186807b0e6f9/master.m3u8?1720775486"
+                },
+                {
+                    "id": null,
+                    "title": "Valores variables y expresiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/993/7fdbe29246ea3b72ff7594f2091be650/master.m3u8?1689286902"
+                },
+                {
+                    "id": null,
+                    "title": "Recibir datos del usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/994/831a8cbdfe9791e35e1617f43da68ed9/master.m3u8?1689287045"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yhwbqa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de programas dinámicos e interactivos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Condicionales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/995/613a30b39b768b2c00648cfaee7c868b/master.m3u8?1707395406"
+                },
+                {
+                    "id": null,
+                    "title": "Condicionales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/002/f229c819c3ed43f9911b4e1f9a44ecbf/master.m3u8?1707395544"
+                },
+                {
+                    "id": null,
+                    "title": "Ciclos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/996/0bf9493c60c474f539a00e6a43cc43b9/master.m3u8?1689289270"
+                },
+                {
+                    "id": null,
+                    "title": "Funciones para reutilizar código 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/997/f9f9862604762ce8a52f927e1a0cc0d0/master.m3u8?1689289438"
+                },
+                {
+                    "id": null,
+                    "title": "Funciones para reutilizar código 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/011/fccfb134f3747d500383fbef9e505537/master.m3u8?1689332033"
+                },
+                {
+                    "id": null,
+                    "title": "Funciones para reutilizar código 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/021/d3c9424c5e8d3f3f5d85cf3664eeacf6/master.m3u8?1689335564"
+                },
+                {
+                    "id": null,
+                    "title": "Estructuras de datos listas y tuplas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/998/08f0e040d7f19e330188a279f070e40b/master.m3u8?1689289537"
+                },
+                {
+                    "id": null,
+                    "title": "Estructuras de datos listas y tuplas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/022/f8a24be70fa08d00506bad0ab9ea8157/master.m3u8?1707395840"
+                },
+                {
+                    "id": null,
+                    "title": "Estructuras de datos diccionarios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/999/4cccbc4598fef3b4dda44aa367a0d73c/master.m3u8?1689289603"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mwrpr2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/sjbxfq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5228,
+        "product_name": "Introduction to Python Programming",
+        "teacher_name": "Rodrigo Montemayor",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 12546,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

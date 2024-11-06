@@ -1,0 +1,178 @@
+{
+    "id": "3273",
+    "title": "Diseño mobilefirst con Figma concepto diseño y prototipado",
+    "url": "https://www.domestika.org/es/courses/3273-diseno-mobile-first-con-figma-concepto-diseno-y-prototipado/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/898/a5bda2a9bcb5d82f7f84cbc1d17407ca/master.m3u8?1676412425"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/899/bdec5d6769ffd5b383479c268b52e7bb/master.m3u8?1676412430"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pncdu0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Entender y prepararse para el mundo mobile",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Evolución del diseño de desktop a mobile 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/903/e0247e0de41712d474a5ddfbf97a4562/master.m3u8?1676412440"
+                },
+                {
+                    "id": null,
+                    "title": "Evolución del diseño de desktop a mobile 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/908/ac48666305d05e72a73cb62a4139b3c4/master.m3u8?1676412431"
+                },
+                {
+                    "id": null,
+                    "title": "Flujos de trabajo y primer diagnóstico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/909/339e8473e8cad5e67dc7b8db5082ba35/master.m3u8?1676412437"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/910/af406c1e764e4343ac92b7f63db31fe2/master.m3u8?1676412435"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2ufwje.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño UXUI de una onepage de alto impacto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Arquitectura de la información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/913/a362d55f199224bccd2a54b9a7749439/master.m3u8?1676412435"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño UX 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/919/4c814ace500777120e5d91ec5aac4d2d/master.m3u8?1676412443"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño UX 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/922/5b74e5ce5a272b3397e6d560ad5ad37a/master.m3u8?1676412442"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño UI 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/923/6fac2fc4e2e34daea96477e73ff59723/master.m3u8?1676412448"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño UI 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/924/cd281247fce9ba7af6e5e9a0f4af2854/master.m3u8?1676412449"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño IxD 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/925/afd1bbd6c6004aef586507e8190b0872/master.m3u8?1676412448"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño IxD 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/926/ca93a9d06f845cb7a944e5755abfc7b3/master.m3u8?1676412445"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de componentes y armado de UI Kit 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/927/9a9a0eea4672a20e83c9a9686a1946ea/master.m3u8?1676412449"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de componentes y armado de UI Kit 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/928/a19d3128ea84db34933a91510607e7fc/master.m3u8?1676412447"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/29vnik.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Del diseño al desarrollo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Documento funcional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/929/278607bc09950b08f7318a0ea755044b/master.m3u8?1676412447"
+                },
+                {
+                    "id": null,
+                    "title": "Feedback al equipo de desarrollo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/930/c7f0b0e9f2d584bb408f3e347ab1d177/master.m3u8?1676412447"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d88ftn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/euhtgo.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3273,
+        "product_name": "Mobile-First Design with Figma: Concept, Design, and Prototyping",
+        "teacher_name": "Lucas Nikitczuk",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 12411,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

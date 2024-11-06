@@ -1,0 +1,171 @@
+{
+    "id": "5514",
+    "title": "Herramientas de IA para tu negocio digital",
+    "url": "https://www.domestika.org/es/courses/5514-herramientas-de-ia-para-tu-negocio-digital/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introduction",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/792/95f423b0446371ce1a419fd3805f5ced/master.m3u8?1725958850"
+                },
+                {
+                    "id": null,
+                    "title": "Negocios e Inteligencia Artificial IA",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/793/7895a3d139a861922fe582b63d636393/master.m3u8?1724149254"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xkx5fv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Identifica tu nicho y valida tu idea de negocio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Define tu nicho",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/794/09bc75fa350035380e9844444fccda13/master.m3u8?1721317954"
+                },
+                {
+                    "id": null,
+                    "title": "Valida tu idea de negocio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/795/70b4d443518e59b8ed1ff1fd11fcde91/master.m3u8?1721317980"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4hqomf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Marco de planificación empresarial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Visión y misión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/796/cdff4508b18f0ec237417509fe22cae2/master.m3u8?1721318017"
+                },
+                {
+                    "id": null,
+                    "title": "Flujos de ingresos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/797/eb8c6fcaf3e4b75afafd86b76803d4b6/master.m3u8?1721318063"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pcwniq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Identidad de marca y presencia en línea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Identidad de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/798/ed70f7e7f696aea791b52b3a012ed1f4/master.m3u8?1721318111"
+                },
+                {
+                    "id": null,
+                    "title": "Presencia en línea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/799/b3148286cea49a8afd2cb61da1142630/master.m3u8?1721318145"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategia de contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/800/0c121fc367f8a551edba1d02b97ee42d/master.m3u8?1721318223"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategia de marketing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/801/65bb0465447e6420dcb77c7f808e07a9/master.m3u8?1721318258"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8mlaqe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Herramientas y técnicas para el éxito digital",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Canva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/803/6492e6c613625af239f9c889b48f4658/master.m3u8?1721318357"
+                },
+                {
+                    "id": null,
+                    "title": "CapCut",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/804/850c4952baeba03855bc5b7adf707ddd/master.m3u8?1721318389"
+                },
+                {
+                    "id": null,
+                    "title": "invideo AI",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/074/933/f05d373a2c65bb3bbaff2c46a7f0e8eb/master.m3u8?1727082677"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1u9ikt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/jzwhsj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 5514,
+        "product_name": "AI Tools for Your Digital Business",
+        "teacher_name": "Konstantinos Synodinos",
+        "category_id": 9,
+        "category_name": "Web & App Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7398,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}

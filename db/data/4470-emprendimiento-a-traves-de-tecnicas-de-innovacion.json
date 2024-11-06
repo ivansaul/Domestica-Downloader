@@ -1,0 +1,158 @@
+{
+    "id": "4470",
+    "title": "Emprendimiento a través de técnicas de innovación",
+    "url": "https://www.domestika.org/es/courses/4470-emprendimiento-a-traves-de-tecnicas-de-innovacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/130/614a51ad0aa16186662139b1bc5c7003/master.m3u8?1676410745"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/131/ece5d897eaa6810b7b3ba42145f22e31/master.m3u8?1676410744"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/35axua.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creatividad propósito y valores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La creatividad nuestra principal herramienta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/132/707a2a26f1bfb50a3e9dbc5e83543f7e/master.m3u8?1676410745"
+                },
+                {
+                    "id": null,
+                    "title": "El propósito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/133/364d9ea327a45cd274cdb403783b0921/master.m3u8?1676410748"
+                },
+                {
+                    "id": null,
+                    "title": "Los valores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/134/b0ba1401337fe2dfb8f647351c212060/master.m3u8?1676410745"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1fmze9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cultura y liderazgo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La importancia de tener una cultura fuerte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/135/ad5c836a0667d5bd04bbe1c9f8012371/master.m3u8?1676410746"
+                },
+                {
+                    "id": null,
+                    "title": "La gestión de las relaciones en torno a tu negocio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/136/aa96399cd3a8be41006b1e69c3ff9ad6/master.m3u8?1676410746"
+                },
+                {
+                    "id": null,
+                    "title": "El liderazgo en tu empresa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/137/ee9b48c5efb788c4c2b32292f7b9e733/master.m3u8?1676410747"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yucgjp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Definir y desarrollar tu idea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escuchar al mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/138/1e4406ba04abffd459414c385695c91f/master.m3u8?1676410750"
+                },
+                {
+                    "id": null,
+                    "title": "Definir el camino de la idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/139/dc08a65457e646d6f230aa0a45734fba/master.m3u8?1676410749"
+                },
+                {
+                    "id": null,
+                    "title": "Encuentra tu propuesta de valor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/140/61deb2dea7fd30db06f488be3e24b850/master.m3u8?1676410762"
+                },
+                {
+                    "id": null,
+                    "title": "Activar el plan de acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/142/f848e2b7a6f5d41c6f320848a15e7bda/master.m3u8?1676410749"
+                },
+                {
+                    "id": null,
+                    "title": "Discurso y presentación coherentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/061/143/f211dca377d9f0254cc9578b341ad441/master.m3u8?1676410749"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/udx48p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/5vqn9p.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4470,
+        "product_name": "Becoming an Entrepreneur Through Innovation",
+        "teacher_name": "Spinoff",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5084,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

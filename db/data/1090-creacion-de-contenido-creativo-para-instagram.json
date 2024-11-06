@@ -1,0 +1,163 @@
+{
+    "id": "1090",
+    "title": "Creación de contenido creativo para Instagram",
+    "url": "https://www.domestika.org/es/courses/1090-creacion-de-contenido-creativo-para-instagram/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/780/dd9e29259b129689363e7bfe4f3de4f8/master.m3u8?1676389793"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/781/0f2a831c2435cdb4be1f0848a641a161/master.m3u8?1676389797"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/782/3308e56ef7156a9f725e8d5760227066/master.m3u8?1676389792"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/upckxp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La teoría antes de la práctica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Teoría de la comunicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/783/3d796c3ce4493f683e05ebf29c5fc89a/master.m3u8?1676389800"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría de la publicidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/784/39ecc4de07b5467e2c3a5f110a7d0c91/master.m3u8?1676389794"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría del humor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/785/4a5ad934ab1dceedef200f3154601d56/master.m3u8?1676389798"
+                },
+                {
+                    "id": null,
+                    "title": "Hagamos un chiste visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/786/93f9aea6c60d178f16d956aa3f842c5c/master.m3u8?1676389795"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s9dzu1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tú como marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Define tu marca personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/787/8566b1c486d633b2419dc3032ac594b6/master.m3u8?1676389794"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrolla tu voz Manifiesto de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/788/b5bc9f0285331991853c51043c3c9220/master.m3u8?1676389794"
+                },
+                {
+                    "id": null,
+                    "title": "Leitmotif",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/789/42efb5e787da805d2bd07d2c907b1b03/master.m3u8?1676389798"
+                },
+                {
+                    "id": null,
+                    "title": "Proyectos para aplicar la teoría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/790/5b8fe016862fac67dccaf7d338d4ced2/master.m3u8?1676389797"
+                },
+                {
+                    "id": null,
+                    "title": "Proyectos para conseguir más seguidores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/791/de856d4f8161c889eae82094dd2d93e3/master.m3u8?1676389805"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ch6svy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tú eres tu propio Community Manager",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo operar tu cuenta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/792/8d2299b77137f73c1938f3bfd6b97feb/master.m3u8?1676389801"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo mantener a tu audiencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/793/e1cb806132e44c8f098033dbf84f5f41/master.m3u8?1676389804"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3sawrw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/bj9a8p.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1090,
+        "product_name": "Creative Content Development for Instagram",
+        "teacher_name": "Marco Colín",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 9405,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "id": "2581",
+    "title": "Diseño de porfolios digitales para creativos",
+    "url": "https://www.domestika.org/es/courses/2581-diseno-de-porfolios-digitales-para-creativos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/101/e80d0e227c9badb6d40ef03eb5a7dc84/master.m3u8?1676398058"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/102/c489e6093680d2331ff51623aa4722b2/master.m3u8?1676398057"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/444fg6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fundamentos para construir una cartera sólida",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La etapa de planificación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/103/a111bb22047a10750d5b75d0904f0f0a/master.m3u8?1676398061"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrolle su marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/104/1f2f147cadfcf5fa4c9a20c1cd35facb/master.m3u8?1676398059"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/608pe0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Armado de la mayor parte de su cartera",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Principios básicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/105/053fe0d0fd3f04b0fda72dc28e9da62d/master.m3u8?1676398058"
+                },
+                {
+                    "id": null,
+                    "title": "Curación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/106/cef080312072e4edc9ecc0e383f7fe75/master.m3u8?1676398059"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/107/68f5e2f0e03071741e8607554586ec7b/master.m3u8?1676398060"
+                },
+                {
+                    "id": null,
+                    "title": "Cadencia de cartera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/108/cd4848dc538d9ad8d42ed7666ad143df/master.m3u8?1676398060"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lk5bon.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vamos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Vamos a vivir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/109/36bcf6c5f0ec3255f258794f592fc218/master.m3u8?1676398058"
+                },
+                {
+                    "id": null,
+                    "title": "Reflexiones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/110/33d986573d9da702f15551396dfad24c/master.m3u8?1676398059"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3u0fgh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ue7kah.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2581,
+        "product_name": "Digital Portfolio Design for Creatives",
+        "teacher_name": "Mark Brooks",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 10,
+        "course_total_duration_sec": 4077,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

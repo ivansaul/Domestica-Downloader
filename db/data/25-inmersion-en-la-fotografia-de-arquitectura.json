@@ -1,0 +1,220 @@
+{
+    "id": "25",
+    "title": "Inmersión en la fotografía de arquitectura",
+    "url": "https://www.domestika.org/es/courses/25-inmersion-en-la-fotografia-de-arquitectura/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Conceptos básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Quién soy qué hago y qué te puedo enseñar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/218/1934f7faa9d6760523f1af80ba986b33/master.m3u8?1676382500"
+                },
+                {
+                    "id": null,
+                    "title": "Mis influencias y referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/219/a38d25df1c1cb281d60821794a9bcdcf/master.m3u8?1676382507"
+                },
+                {
+                    "id": null,
+                    "title": "Breve introducción histórica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/220/553e3b215ac431e53e4a1880fb14d844/master.m3u8?1676382503"
+                },
+                {
+                    "id": null,
+                    "title": "Fundamentos narrativos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/221/acbadb2ed0931dfdf710328b21419421/master.m3u8?1676382507"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r40nqa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Planificando nuestro trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de cámara para trabajar en arquitectura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/222/40fffe951a35a685b72a8b7a0f32f353/master.m3u8?1676382509"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo es el espacio a fotografiar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/223/8689677433c8ef34d724ffa5b37de8ba/master.m3u8?1676382504"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo son las circunstancias en las que vamos a trabajar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/224/83691a0458e82530f34333b3b2d2ef82/master.m3u8?1676382511"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura narrativa de mi reportaje Recorrido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/225/40fe3490073a6ac7ab4054d28d0a5294/master.m3u8?1676382505"
+                },
+                {
+                    "id": null,
+                    "title": "Estructura narrativa de mi reportaje Planteamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/226/a8c883cb323f05de6ee6ec71610311ab/master.m3u8?1676382517"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c2p0ry.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tipos de fotografías",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografías de contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/227/d1bb16ac131a36f431d3e8cfd3d8e2a0/master.m3u8?1676382508"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografías compuestas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/228/d140a00f15288b540d18bd773e5c2673/master.m3u8?1676382507"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografías de interior",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/229/30bde79bbd131f8c49cc41ec82df0679/master.m3u8?1676382507"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografías con acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/230/57013713a0cd7299459b39728b0aafe7/master.m3u8?1676382508"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografías de detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/231/46e77a8889f6e47011c1ce76f4193a36/master.m3u8?1676382513"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografías nocturnas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/232/78058fdd2ce76e982d9c5254f4e197ff/master.m3u8?1676382507"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zrzob0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción Disparando nuestras fotografías",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "En acción siguiendo el cronograma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/233/aa2ce316d2e1cf8b1793d9d156a8281c/master.m3u8?1676382509"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l29kxk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción revelado y etiquetado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El viaje de vuelta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/234/c0768e56b09fb60fd7900dd62b7682c4/master.m3u8?1676382510"
+                },
+                {
+                    "id": null,
+                    "title": "Organización en el estudio teoría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/235/2d32f6f4ee6ac6cb192c845544f11930/master.m3u8?1676382511"
+                },
+                {
+                    "id": null,
+                    "title": "Organización en el estudio práctica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/236/05d1d9c5c23620b337711b81a9346f84/master.m3u8?1676382513"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado y procesado de nuestras fotos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/237/9d862e6786fbf8b8f5386c9c027c8d22/master.m3u8?1676382517"
+                },
+                {
+                    "id": null,
+                    "title": "Revelado y procesado de nuestras fotos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/238/142ccb1f0fbbcce98463e44a7e287a64/master.m3u8?1676382520"
+                },
+                {
+                    "id": null,
+                    "title": "Catalogación etiquetado y entrega 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/239/27312cd31559ee08a39af08a6a2fd3c5/master.m3u8?1676382516"
+                },
+                {
+                    "id": null,
+                    "title": "Catalogación etiquetado y entrega 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/240/2fa82768a0e2bb13f0e3dc89227886ef/master.m3u8?1676382517"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jjpizw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8945ia.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 25,
+        "product_name": "Immersion in Architectural Photography",
+        "teacher_name": "Jesús Granada",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 23,
+        "course_total_duration_sec": 15726,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "id": "3921",
+    "title": "Postproducción cinematográfica",
+    "url": "https://www.domestika.org/es/courses/3921-postproduccion-cinematografica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/642/cc55848357b49e8d3c3e6bf4d9b95ff2/master.m3u8?1678728117"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/643/5b8b11187ff41296bec17ad914ac9930/master.m3u8?1678728156"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b818wt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los primeros pasos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/644/431876029d66254bc72e1cdd200253a1/master.m3u8?1678728183"
+                },
+                {
+                    "id": null,
+                    "title": "Conformación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/645/8e2f968d61917fe9ef3ad679b0846dd6/master.m3u8?1678728222"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión y consolidación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/646/78918529bef2123e4773cbddcbf05035/master.m3u8?1678728284"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/83p0jc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "VFX y composición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Intervención de un plano 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/647/35c97805b7668a42daab9c018f7cb422/master.m3u8?1678729337"
+                },
+                {
+                    "id": null,
+                    "title": "Intervención de un plano 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/648/2d36b624cb2c11270eb4d6152f39c4c4/master.m3u8?1678729356"
+                },
+                {
+                    "id": null,
+                    "title": "CG y elementos gráficos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/649/024c935327ebb8e79a412e005dda1099/master.m3u8?1678729374"
+                },
+                {
+                    "id": null,
+                    "title": "Títulos créditos y sonido 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/650/8406a06ebc5fe882a2bf5acccdfd3eb7/master.m3u8?1678729397"
+                },
+                {
+                    "id": null,
+                    "title": "Títulos créditos y sonido 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/651/973781468a345a68f64c204ca6e48a6d/master.m3u8?1678729421"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/s31hs3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Corrección de color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ajustes principales del color 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/652/8890d8bcb3dd686866585c88216eb9d4/master.m3u8?1678729616"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes principales del color 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/653/2450e92dd2541fe555cd0f859a369948/master.m3u8?1678729665"
+                },
+                {
+                    "id": null,
+                    "title": "Correcciones secundarias 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/654/7cf011908893ac580b369cf7fca62833/master.m3u8?1678729689"
+                },
+                {
+                    "id": null,
+                    "title": "Correcciones secundarias 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/655/936bf61cfd5cc166f44ed516174fef79/master.m3u8?1678729707"
+                },
+                {
+                    "id": null,
+                    "title": "Toques finales y masterización 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/656/2635518b7957efb1831e0fc7fe95d519/master.m3u8?1678729734"
+                },
+                {
+                    "id": null,
+                    "title": "Toques finales y masterización 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/067/657/7e6d3d562ca635fdfd16ccec00f9dd0a/master.m3u8?1678729773"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/l2st6e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9jvxx3.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3921,
+        "product_name": "Film Post-Production",
+        "teacher_name": "Ismael Cabrera Echeverría",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 11076,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

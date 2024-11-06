@@ -1,0 +1,168 @@
+{
+    "id": "3866",
+    "title": "Introducción a la fotografía gastronómica con luz natural",
+    "url": "https://www.domestika.org/es/courses/3866-introduccion-a-la-fotografia-gastronomica-con-luz-natural/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/343/b9e896dc8961d60382ef6a52c86cb2c1/master.m3u8?1676406782"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/344/0b1e8e9b685cb20af55ae633d9e53428/master.m3u8?1676994109"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/23zadb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos de la fotografía y la preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fundamentos de la cámara para la fotografía de alimentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/345/99b3cd58b0d8a435087c9e09f15155d7/master.m3u8?1676406786"
+                },
+                {
+                    "id": null,
+                    "title": "Comprender la luz natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/347/2ed6de5ebd441e1bcad02cc40a7da8f2/master.m3u8?1676406793"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos de diseño de alimentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/350/f54fa7dfa9227fb2ecd78f78436aea06/master.m3u8?1676406788"
+                },
+                {
+                    "id": null,
+                    "title": "La composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/324/40e7cd15e556e5db39a7a532cac24785/master.m3u8?1676409633"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board y bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/325/6c4693a065ea1929b7fa2ba41d3c415d/master.m3u8?1676409619"
+                },
+                {
+                    "id": null,
+                    "title": "Equipos y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/326/27e918eafa899063f1cf51c7dc774c86/master.m3u8?1676409616"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pniryk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotografiar y luz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación conocimiento en acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/351/5cc188fa4d92e0adcb224fa7fabf4575/master.m3u8?1676406785"
+                },
+                {
+                    "id": null,
+                    "title": "Tomar la foto luz diurna indirecta 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/352/c16a60bb7329bc81aede8c0ace4b4f2c/master.m3u8?1676406790"
+                },
+                {
+                    "id": null,
+                    "title": "Tomando la foto luz diurna indirecta 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/353/27f61e02d334734f766b006fdbd9fdcf/master.m3u8?1676406791"
+                },
+                {
+                    "id": null,
+                    "title": "Tomar la foto luz solar directa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/354/787d18b92c7f873dc73e07d7f9cbc5f6/master.m3u8?1676406795"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ohhowt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Retoques y consejos adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Retoque de las imágenes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/355/8ff66c5dce6a752abb97c979e4344519/master.m3u8?1676406790"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque de las imágenes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/356/4c73959d11ace89a6719c2c8bb16ec5b/master.m3u8?1676406791"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos para compartir tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/357/eba49a8200600dec193ff72ba84c23d7/master.m3u8?1676406793"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3lwvwy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4bdv1m.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3866,
+        "product_name": "Introduction to Food Photography with Natural Light",
+        "teacher_name": "Adrian Mueller",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 11602,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

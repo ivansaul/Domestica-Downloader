@@ -1,0 +1,163 @@
+{
+    "id": "3742",
+    "title": "Passion project haz realidad tu proyecto creativo",
+    "url": "https://www.domestika.org/es/courses/3742-passion-project-haz-realidad-tu-proyecto-creativo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/211/c725d1d474672c7b66227091e943ae44/master.m3u8?1676405233"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/212/8bfa1c568f40e03a6e3085c310df320a/master.m3u8?1676405233"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kaepn2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conocer el terreno",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un passion project",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/213/b5b6dc83900630466effd4bd1c2728f7/master.m3u8?1676405235"
+                },
+                {
+                    "id": null,
+                    "title": "Ejemplos inspiradores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/214/fce18ee00cdc2e5998d0954868ce5cfc/master.m3u8?1676405240"
+                },
+                {
+                    "id": null,
+                    "title": "Mis casosejemplos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/215/68fe387649c2bb67c21c92e6ea8e5cce/master.m3u8?1676405236"
+                },
+                {
+                    "id": null,
+                    "title": "La idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/216/206ed13abdff485ef889f67fb66da9ea/master.m3u8?1676405237"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/71r5di.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollar tu passion project",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Naming y propuesta de valor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/219/b77da350be420f70e3a6bfb8f827d228/master.m3u8?1676405238"
+                },
+                {
+                    "id": null,
+                    "title": "Objetivos y métricas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/220/f9146533e21e8eb24722e055ea7717de/master.m3u8?1676405238"
+                },
+                {
+                    "id": null,
+                    "title": "Público y canales de difusión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/221/bfd40096ff169d894e6c3c406760b4db/master.m3u8?1676405238"
+                },
+                {
+                    "id": null,
+                    "title": "Plan de acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/222/0b9457997d7b78e392d155a48f1815ab/master.m3u8?1676405239"
+                },
+                {
+                    "id": null,
+                    "title": "Por dónde empiezo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/076/94883347e2bbd39425f18e2cab0ee0b8/master.m3u8?1676408095"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5vjfd3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Caja de herramientas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Algunas herramientas útiles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/223/c00bd03dd7b93762ebdab0759b797624/master.m3u8?1676405238"
+                },
+                {
+                    "id": null,
+                    "title": "Hecho es mejor que perfecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/224/4ec33add23aaf4726c1ca129863c4859/master.m3u8?1676405239"
+                },
+                {
+                    "id": null,
+                    "title": "La comunidad creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/225/23a718fd669a8ff9a0468a2064ccaa9a/master.m3u8?1676405238"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1wnuj2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/a6vyt1.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3742,
+        "product_name": "Passion Project: Make Your Creative Ideas a Reality",
+        "teacher_name": "Carla Bonomini",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7489,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

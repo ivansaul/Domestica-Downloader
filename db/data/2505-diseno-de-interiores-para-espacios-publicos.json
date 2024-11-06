@@ -1,0 +1,168 @@
+{
+    "id": "2505",
+    "title": "Diseño de interiores para espacios públicos",
+    "url": "https://www.domestika.org/es/courses/2505-diseno-de-interiores-para-espacios-publicos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/745/7950bfa0429e53562e895d4e0bb52b42/master.m3u8?1676398912"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/769/cc6d1c61ccbeb5f78c7a3c42341004aa/master.m3u8?1676398919"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kepubb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Análisis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El concepto y la experiencia de usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/746/c36fce01423e7e0241c9f0614ae080b5/master.m3u8?1676398915"
+                },
+                {
+                    "id": null,
+                    "title": "El cliente y el usuario final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/747/c2809d8891f2d97fef99ded156eb62a5/master.m3u8?1676398912"
+                },
+                {
+                    "id": null,
+                    "title": "El briefing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/748/f23997e0b64a7408e17df798d486147b/master.m3u8?1676398913"
+                },
+                {
+                    "id": null,
+                    "title": "El lugar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/749/78e2ae87e8e7e720d4cb4302b6282831/master.m3u8?1676398914"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board interpretando la información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/750/3087ebe9e4e0f88189cf76832aebb7b4/master.m3u8?1676398913"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8ydus2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aproximación al proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Look and feel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/760/cacd2564ee4f6982935209ad3d1c7523/master.m3u8?1676398916"
+                },
+                {
+                    "id": null,
+                    "title": "Storytelling",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/761/b8360376a4a3b657ee473a147ab43b16/master.m3u8?1676398916"
+                },
+                {
+                    "id": null,
+                    "title": "Diseñando la experiencia de usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/762/6d65803257d43b0e0df5ad149958920f/master.m3u8?1676398917"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/763/d133847122f842a3339162a9a2aa18a3/master.m3u8?1676398918"
+                },
+                {
+                    "id": null,
+                    "title": "Zonificación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/764/485073806257c48ac3041de64ac1da10/master.m3u8?1676398918"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos que hacen la experiencia de usuario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/765/1f9569711531cedb9d5c9caa7bd1eb25/master.m3u8?1676398919"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/f3ilwe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/766/86e8eddc4c7fba486e5ff12b3b32b787/master.m3u8?1676398919"
+                },
+                {
+                    "id": null,
+                    "title": "Otros proyectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/767/1739fb40efeec37bf041c202a50346b8/master.m3u8?1676398919"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tryhia.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/uk24fu.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2505,
+        "product_name": "Interior Design for Public Spaces",
+        "teacher_name": "Juan Luis Medina",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 4813,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

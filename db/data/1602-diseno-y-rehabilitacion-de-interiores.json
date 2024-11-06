@@ -1,0 +1,195 @@
+{
+    "id": "1602",
+    "title": "Diseño y rehabilitación de interiores",
+    "url": "https://www.domestika.org/es/courses/1602-diseno-y-rehabilitacion-de-interiores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/437/8296adaad1f57738a52edd0b8066cc16/master.m3u8?1676393463"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/438/afb844d0e527afaa6700b7e8e2c4785a/master.m3u8?1676393466"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/439/5c21eed03f8eecdb37c0a94a20cc4f8a/master.m3u8?1676393467"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ddcsj8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las bases del proyecto de rehabilitación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bases teóricas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/440/b4481e0dca39e0ee63c67cbebc649f39/master.m3u8?1676393467"
+                },
+                {
+                    "id": null,
+                    "title": "Bases técnicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/441/34e2d2f857a29da5620bc54d7c80731b/master.m3u8?1676393471"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/442/b609701aa2922a97439b922aae88d720/master.m3u8?1676393471"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a la iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/443/76fe2edbf306304350e26b962fa01bc6/master.m3u8?1676393470"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6kh5vi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Análisis de la información inicial",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conocer al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/444/1f3900259d3bcdb59f01afd1d44aab63/master.m3u8?1676393471"
+                },
+                {
+                    "id": null,
+                    "title": "Conocer el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/445/f15a77ee6f8672bf6f2fb01181bde660/master.m3u8?1676393471"
+                },
+                {
+                    "id": null,
+                    "title": "Definir la idea de proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/446/2f76ce19a788f15e903875ecde9a23d6/master.m3u8?1676393471"
+                },
+                {
+                    "id": null,
+                    "title": "Soportes y metodologías de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/447/c0829b5e081d846ceb56b5d5a6d261b2/master.m3u8?1676393473"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vzcown.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Distribuir el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/448/faaac5df8b53ca6ed955da478910e672/master.m3u8?1676393473"
+                },
+                {
+                    "id": null,
+                    "title": "Materialidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/449/68e48ea2c559b9ec598337a7a83984cd/master.m3u8?1676393474"
+                },
+                {
+                    "id": null,
+                    "title": "Capacidad de adaptación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/450/f41b96ae5b4a12284ab26420a5823673/master.m3u8?1676393474"
+                },
+                {
+                    "id": null,
+                    "title": "Documentos para la obra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/451/b434a972df3b80d7d7d56b14cf7705fd/master.m3u8?1676393474"
+                },
+                {
+                    "id": null,
+                    "title": "Mediciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/452/f00ce899c1576744f8962e1e6170fd36/master.m3u8?1676393474"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pg3wvx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La obra y la difusión del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La obra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/453/6223005ba8124f05ff9c0e05c8992b52/master.m3u8?1676393475"
+                },
+                {
+                    "id": null,
+                    "title": "Difusión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/454/26f72ca77e90efcb8d9bc92e1203c7e4/master.m3u8?1676393474"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hn66tf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7d0mmp.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1602,
+        "product_name": "Design and Renovation of Interiors ",
+        "teacher_name": "Allaround Lab",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 4308,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

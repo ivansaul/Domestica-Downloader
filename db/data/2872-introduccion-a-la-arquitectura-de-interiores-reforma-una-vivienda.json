@@ -1,0 +1,163 @@
+{
+    "id": "2872",
+    "title": "Introducción a la arquitectura de interiores reforma una vivienda",
+    "url": "https://www.domestika.org/es/courses/2872-introduccion-a-la-arquitectura-de-interiores-reforma-una-vivienda/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/143/af0e4ed4e6d9f842b0322088e214f94f/master.m3u8?1676404756"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/144/b44de86f01bac53f142a3698605ffab8/master.m3u8?1676404760"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fovfuz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La fase cero del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la arquitectura de interiores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/145/d98cb556da8391c020daf43b373671cc/master.m3u8?1676404758"
+                },
+                {
+                    "id": null,
+                    "title": "Entender el brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/146/b69718d0b6a1d6196cc6e4a43f2854af/master.m3u8?1676404757"
+                },
+                {
+                    "id": null,
+                    "title": "Referencias y contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/149/2b9d57097149d50471e378b698773306/master.m3u8?1676404758"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rsjbxj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo desarrollamos un proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entender el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/150/704df3fafbb5f18d833376047780a4e9/master.m3u8?1676404758"
+                },
+                {
+                    "id": null,
+                    "title": "Definir el concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/151/368ca84b62caa67108a3317eb66b2fd8/master.m3u8?1676404761"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales texturas y colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/153/95acab03581c4d9a5ab85e2bfed30ba6/master.m3u8?1676404759"
+                },
+                {
+                    "id": null,
+                    "title": "El mobiliario a medida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/154/8f422c82fc797169f153616c0af8a6a0/master.m3u8?1676404761"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del proyecto al cliente 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/156/35b76bd2337e7907fab8cab8cdbd66ee/master.m3u8?1676404762"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del proyecto al cliente 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/157/896072b4ad744f30942d1cf42a28747a/master.m3u8?1676404764"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del proyecto al cliente 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/159/0d6cec202977a8a8f131ba366831141e/master.m3u8?1676404766"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mjh3cb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consejos y recomendaciones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los toques finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/160/0539eaff0883a4342fb55123fe64b264/master.m3u8?1676404762"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo comunicar tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/162/09597c2a1b5c427a08f866392ff0a325/master.m3u8?1676404762"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bk7mtc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/jp45bj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2872,
+        "product_name": "Introduction to Interior Architecture: Renovate a House",
+        "teacher_name": "Colombo and Serboli Architecture",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 7903,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

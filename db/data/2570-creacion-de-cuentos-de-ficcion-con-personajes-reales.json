@@ -1,0 +1,158 @@
+{
+    "id": "2570",
+    "title": "Creación de cuentos de ficción con personajes reales",
+    "url": "https://www.domestika.org/es/courses/2570-creacion-de-cuentos-de-ficcion-con-personajes-reales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/343/ca0d1dd648aad95523aabf01ccbce5bf/master.m3u8?1676399772"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/344/75d50154ad808efaafc93f1055281ae8/master.m3u8?1676399770"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dznwge.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pensar el cuento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El género cuento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/345/3d48fcccc046d0c0ab7205d0fe599928/master.m3u8?1676399771"
+                },
+                {
+                    "id": null,
+                    "title": "Tres tipos de cuento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/346/a31e0524a013b2c7a21750c5fb931174/master.m3u8?1676399773"
+                },
+                {
+                    "id": null,
+                    "title": "Eso podría ser un cuento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/367/b3dec45e81a925862ab88b5cddaf8eb0/master.m3u8?1676399785"
+                },
+                {
+                    "id": null,
+                    "title": "Primeras ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/368/a3fd839740bdc7289f847c2d2c72d100/master.m3u8?1676399785"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cltupn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El personaje en acción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Objetivo y motivación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/369/dc845b41e883e34025584ccb851ede38/master.m3u8?1676399788"
+                },
+                {
+                    "id": null,
+                    "title": "Conflicto y estructura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/370/9ca867a5ee2114e2373e3ceae1678ac7/master.m3u8?1676399786"
+                },
+                {
+                    "id": null,
+                    "title": "Modos de empezar a contar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/371/95714b64d5c019b1ad115012488b092d/master.m3u8?1676399787"
+                },
+                {
+                    "id": null,
+                    "title": "Hasta que un día",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/372/fcd89655388faa0a363e4e165d9efcec/master.m3u8?1676399788"
+                },
+                {
+                    "id": null,
+                    "title": "Modos de finalizar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/600/76de3b242f332b06cfba6b9d352e410c/master.m3u8?1676400969"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zd13cn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejercitar la escritura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estilo y experimentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/375/cba7b20516d63be31f78400247152656/master.m3u8?1676399787"
+                },
+                {
+                    "id": null,
+                    "title": "Hábitos y crítica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/376/9023da11c4e87da6bbb7e8232c358445/master.m3u8?1676399792"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/88c4k1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/u69zh5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2570,
+        "product_name": "Creation of Fictional Stories with Real Characters",
+        "teacher_name": "Penélope Córdova",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6387,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

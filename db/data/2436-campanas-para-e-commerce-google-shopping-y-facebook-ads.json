@@ -1,0 +1,175 @@
+{
+    "id": "2436",
+    "title": "Campañas para ecommerce Google Shopping y Facebook Ads",
+    "url": "https://www.domestika.org/es/courses/2436-campanas-para-e-commerce-google-shopping-y-facebook-ads/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/439/a79b9d3ce86c01bce2364da010c59028/master.m3u8?1676397175"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/440/698b2808dc5f8752edfbcc5f3886fc93/master.m3u8?1676397177"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8wayrq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Tener una ecommerce",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Anuncios para ecommerce",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/441/cabf5bf6b3e17086c190fe7f2874acdb/master.m3u8?1676397178"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es un feed atributos obligatorios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/442/79dfa13a2510060dac4409973e8cdb95/master.m3u8?1676397178"
+                },
+                {
+                    "id": null,
+                    "title": "Atributos opcionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/443/c9f2d5fc21cad174ccfc5f11770f0fe2/master.m3u8?1676397178"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pxogu2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Merchant Center y Google Ads",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Google Merchant Center y subida de catálogo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/447/033fceed0aa38df121e18cf27bd6d3f7/master.m3u8?1676397182"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de campañas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/448/3f86547dd94be5365b4d9873ee6dba8d/master.m3u8?1676397180"
+                },
+                {
+                    "id": null,
+                    "title": "Agrupaciones de catálogo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/449/9159626d851ebca8aa961a70d6b813a2/master.m3u8?1676397180"
+                },
+                {
+                    "id": null,
+                    "title": "Standard Shopping vs Smart Shopping",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/450/238d6de263289eb97d86c2e3fb93ed57/master.m3u8?1676397183"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3yq5op.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Configuración y creación de campañas en Facebook",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Subida de catálogo en Business Manager",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/451/d67686981fc3acfe768fb2e341775244/master.m3u8?1676397180"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de conjuntos de productos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/452/ce5f539f0359d8360423610ead5a3b3e/master.m3u8?1676397180"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de campañas en Facebook e Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/453/7379e7a9f3225e3d6edcbb69d287d6c4/master.m3u8?1676397183"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/idnxvo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Métricas y visualización de datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Métricas y optimizaciones Google Ads",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/454/a8cc58f9a68e892c2f37ae6f8c23f2d0/master.m3u8?1676397184"
+                },
+                {
+                    "id": null,
+                    "title": "Métricas y optimizaciones Facebook e Instagram Ads",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/455/84be2966223836b84acc6cc068604737/master.m3u8?1676397189"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a0l5l3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/t4spj6.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2436,
+        "product_name": "Campaigns for E-commerce: Google Shopping and Facebook Ads ",
+        "teacher_name": "Mai Molina",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8549,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

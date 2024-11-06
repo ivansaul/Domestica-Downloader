@@ -1,0 +1,148 @@
+{
+    "id": "2526",
+    "title": "Introducción al networking crea una red de contactos profesional",
+    "url": "https://www.domestika.org/es/courses/2526-introduccion-al-networking-crea-una-red-de-contactos-profesional/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/264/89dbf95b2a89b61ab982ae5ad775fa80/master.m3u8?1676396576"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/265/0c898a548290b70a2cc7f4356ef16f73/master.m3u8?1676396576"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/96vuwg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La importancia de las conexiones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Red de contactos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/266/74eaf274a32c5d3f08c71bdc2bfd02da/master.m3u8?1676396573"
+                },
+                {
+                    "id": null,
+                    "title": "Networking y comunidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/267/90f16cac5fc63ae83921346e3bcc74a4/master.m3u8?1676396578"
+                },
+                {
+                    "id": null,
+                    "title": "Definir el proyecto y la plataforma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/268/e16970af5d0eba60c1d0d8490421d652/master.m3u8?1676396581"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0maed8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Agentes involucrados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Planificar el contenido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/269/9f4478dc7a36854ce6c8cb36796e1fb3/master.m3u8?1676396580"
+                },
+                {
+                    "id": null,
+                    "title": "Personas clave para el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/270/706b99d2c47d1f05ffb69225c97f43ea/master.m3u8?1676396584"
+                },
+                {
+                    "id": null,
+                    "title": "Pitch",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/272/3e540feeb4f801a2afd6a35b953c06a3/master.m3u8?1676396581"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8ka0av.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Gestión de la comunidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Plan de acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/273/28b87dbd40c516a74d67827ed889a4fb/master.m3u8?1676396594"
+                },
+                {
+                    "id": null,
+                    "title": "Gestión del crecimiento de la comunidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/274/b558eeb8eb5e34cf490863aac63d3609/master.m3u8?1676396583"
+                },
+                {
+                    "id": null,
+                    "title": "Convertir contactos en clientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/034/275/b724faf4de2fd00e4a7e2590f84abe3a/master.m3u8?1676396583"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uq5m1u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/w04ke1.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2526,
+        "product_name": "Introduction to Networking: Build Professional Relationships",
+        "teacher_name": "Paloma Avila Pino",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 8704,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

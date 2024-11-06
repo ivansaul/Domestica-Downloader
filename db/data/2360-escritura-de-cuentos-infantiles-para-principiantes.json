@@ -1,0 +1,173 @@
+{
+    "id": "2360",
+    "title": "Escritura de cuentos infantiles para principiantes",
+    "url": "https://www.domestika.org/es/courses/2360-escritura-de-cuentos-infantiles-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/677/22913b8241448711f41cd0bb311cb7eb/master.m3u8?1676398340"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/678/7454edbda8dc8595a5ab004833578f95/master.m3u8?1676398342"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0yfp6d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos para escribir tu texto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "De dónde provienen las ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/679/109f1a936affd83b4b36d39c625b06a2/master.m3u8?1676398341"
+                },
+                {
+                    "id": null,
+                    "title": "Recursos sofisticados para escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/680/d69eeb13294aa1df697d830d93cba7c2/master.m3u8?1676398340"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo entender al lector",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/681/b10d14f690335fcb0f808f00b430536b/master.m3u8?1676398342"
+                },
+                {
+                    "id": null,
+                    "title": "Juegos para despertar tu imaginación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/682/0fb474d843b9292ac2b90660b3ba7430/master.m3u8?1676398343"
+                },
+                {
+                    "id": null,
+                    "title": "El boceto como punto de partida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/683/67e66725610c1ff4a95a52bed3ae3fa8/master.m3u8?1676398341"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7bbz8y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Con las manos en el lápiz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El orden de las cosas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/684/4c97e6f9bd6db6ddbfae93ca2ebe3184/master.m3u8?1676398340"
+                },
+                {
+                    "id": null,
+                    "title": "Los personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/685/0580e3641b1637d772cbc3ba640de191/master.m3u8?1676398340"
+                },
+                {
+                    "id": null,
+                    "title": "Escenario de todos los tamaños",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/686/85077bb321d15ac62d741ab76df6fa93/master.m3u8?1676398342"
+                },
+                {
+                    "id": null,
+                    "title": "La historia 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/687/3b6d0275d5540b5f047bd5a2ccaecdfd/master.m3u8?1676398343"
+                },
+                {
+                    "id": null,
+                    "title": "La historia 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/688/d2c63b366345d043bab13e0ad4b636f4/master.m3u8?1676398346"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zsbw6w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Reescritura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El arte de pulir una historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/689/afacdef05aa5a040c167be76071b14ac/master.m3u8?1676398351"
+                },
+                {
+                    "id": null,
+                    "title": "Un título un comienzo y un final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/690/6233b10a244de355ef4e0340a66e106d/master.m3u8?1676398346"
+                },
+                {
+                    "id": null,
+                    "title": "Las palabras precisas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/691/dca830bef887dea4c2add0c36aa37383/master.m3u8?1676398346"
+                },
+                {
+                    "id": null,
+                    "title": "Qué hago con mi cuento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/692/e6432da552b38140a6d35f24150422dd/master.m3u8?1676398347"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ri2qfz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/gjsroc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2360,
+        "product_name": "Writing Children's Stories for Beginners",
+        "teacher_name": "Fanuel Hanán Díaz",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 10645,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "id": "631",
+    "title": "Representación gráfica de proyectos arquitectónicos",
+    "url": "https://www.domestika.org/es/courses/631-representacion-grafica-de-proyectos-arquitectonicos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/310/d77bca503c5adc7e5701c60270b5b20e/master.m3u8?1676386432"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/311/c81629945b051864651aa08a24dc8eae/master.m3u8?1676386434"
+                },
+                {
+                    "id": null,
+                    "title": "De qué va el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/312/759720945594c6fcacb712798e3cb8b1/master.m3u8?1676386433"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jekbk5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Importación de planos 2D a SketchUp",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/313/0d956c61940976ceff55ea5c3c4e3668/master.m3u8?1676386433"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado base muros y losas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/314/1607cd28281d8b3d8cb929fb66c10f11/master.m3u8?1676386438"
+                },
+                {
+                    "id": null,
+                    "title": "Ventanas puertas y escaleras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/315/454fff494bbe457971deb4022da79426/master.m3u8?1676386434"
+                },
+                {
+                    "id": null,
+                    "title": "Cocina y mobiliario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/316/0cd85b5c44fbe3c263618db9d55a567f/master.m3u8?1676386436"
+                },
+                {
+                    "id": null,
+                    "title": "Conjunto y contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/317/1366ad92a5b59470cf28ed34c5d92016/master.m3u8?1676386436"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bgdtdk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Rendering básico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/318/db92abeb8a6e62d0fd2c375745dad36d/master.m3u8?1676386438"
+                },
+                {
+                    "id": null,
+                    "title": "Composición de escenas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/319/c6cd8f19b5d6f27130db3d8bdef867bb/master.m3u8?1676386439"
+                },
+                {
+                    "id": null,
+                    "title": "Generación de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/320/f0a6d93038936bc10e6419f794c220bb/master.m3u8?1676386439"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ldoczp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación del collage en Photoshop",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fondos y texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/321/a141da879ff178357792620602b1264b/master.m3u8?1676386441"
+                },
+                {
+                    "id": null,
+                    "title": "Escalas humanas y vegetación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/322/2f287aeb267fbfc6e92f30a1fbb18add/master.m3u8?1676386443"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/323/e6c5107669056f17fe58a38fdd6699bb/master.m3u8?1676386442"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nesode.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Otros estilos de representación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Otras representaciones gráficas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/324/78d98e47560f00a6d997e19881d2fcc2/master.m3u8?1676386444"
+                },
+                {
+                    "id": null,
+                    "title": "Recomendaciones con el cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/325/b737aedce97289e88d6c5e8229e2fdd1/master.m3u8?1676386440"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nokctd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/l8shsj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 631,
+        "product_name": "Architectural Visualization Using Digital Collage",
+        "teacher_name": "PALMA",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 6408,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

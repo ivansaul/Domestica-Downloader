@@ -1,0 +1,170 @@
+{
+    "id": "4704",
+    "title": "Campaña de crowdfunding para proyectos artísticos personales",
+    "url": "https://www.domestika.org/es/courses/4704-campana-de-crowdfunding-para-proyectos-artisticos-personales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/211/8008d8808d03d5e85c6a1d7429da0407/master.m3u8?1707737889"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/216/e5990742b368ac1972ea9cbd1498fac1/master.m3u8?1707738582"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d1p9cn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Comenzando con una idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/333/16b5945924ddc9499bfc5921c2a4b413/master.m3u8?1724052578"
+                },
+                {
+                    "id": null,
+                    "title": "Mercadotecnia creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/334/083feee879f0f34c927e5637afd0bb8e/master.m3u8?1690849856"
+                },
+                {
+                    "id": null,
+                    "title": "Seleccionar una plataforma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/214/64fc5c2443f96a04c4e5696457fb2759/master.m3u8?1707738367"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0nppkz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Haciendo el proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Redactar un esquema de Kickstarter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/337/6ef6e43a01ecd4b9f7d73560980f1463/master.m3u8?1690849914"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir la copia de la campaña",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/338/559275ff52492afdaedc96a53938c322/master.m3u8?1724052994"
+                },
+                {
+                    "id": null,
+                    "title": "Esbozando tus ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/212/b18461c61dde02d957a50834c5705eec/master.m3u8?1707738138"
+                },
+                {
+                    "id": null,
+                    "title": "Conceptos básicos de la fotografía de productos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/215/2a1bef569c73aa14c52c97b98605d309/master.m3u8?1707738490"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ry7f2o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lanzamiento de la campaña",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Marketing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/340/269027da5dfe5a733b2877e33b935bf4/master.m3u8?1690849970"
+                },
+                {
+                    "id": null,
+                    "title": "Listo para el lanzamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/341/e877322a536a9b30e362798ea5c8eb80/master.m3u8?1690849988"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/di1fzs.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué esperar cuando finalice la campaña",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recibir fondos y enviar encuestas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/343/5f1bdd98347925efe363d0ea4ed4cb5d/master.m3u8?1690850029"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar pedidos anticipados a su sitio web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/073/213/b3a07bb2d0fb5191cc6ed5f35bfe1cd3/master.m3u8?1707738294"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/asvq86.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/13bnz6.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4704,
+        "product_name": "Crowdfunding Campaign for a Personal Art Project",
+        "teacher_name": "Karen Alleluia",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6342,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "id": "2368",
+    "title": "Retoque fotográfico de belleza para principiantes",
+    "url": "https://www.domestika.org/es/courses/2368-retoque-fotografico-de-belleza-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/307/f8cdca190d0cb2380e1718ce8c339cb9/master.m3u8?1676395441"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/309/8f1c8b1687cb779bec6352a0cf061a5e/master.m3u8?1676395449"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/310/d330d3bf8e78d86440db4d330aa4c5e3/master.m3u8?1676395437"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gh33q6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Configuración y preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo configurar Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/311/4c9a99917692a2974bbd5aaa7ed46694/master.m3u8?1676395437"
+                },
+                {
+                    "id": null,
+                    "title": "Archivos RAW",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/312/e591d89d8614cd29ff86a1c1d858e692/master.m3u8?1676395440"
+                },
+                {
+                    "id": null,
+                    "title": "Flujo de trabajo y archivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/313/5df2a7e307fb9dbf5c1dda700ed8b4f0/master.m3u8?1676395446"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tn3t4o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Retrato de belleza",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo abordar una imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/323/13f44290723a1835ffa4a0291cc9b212/master.m3u8?1676395447"
+                },
+                {
+                    "id": null,
+                    "title": "Tratamiento de imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/317/4fb6068efcf8f0ba00bba57b9e1aef79/master.m3u8?1676395444"
+                },
+                {
+                    "id": null,
+                    "title": "Retoque de belleza natural iluminación suave sobreexponer y subexponer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/320/264252153dbdc8cf9cc656964a096771/master.m3u8?1676395455"
+                },
+                {
+                    "id": null,
+                    "title": "Equilibrio de color luz y sombras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/321/33b44f5c313e6ca0633f6ab6ea1681c5/master.m3u8?1676395449"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m9lic3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Retoque de imágenes de naturaleza muerta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo abordar una imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/326/750c97200f19d0b63e1f9c6a2a81c3de/master.m3u8?1676395451"
+                },
+                {
+                    "id": null,
+                    "title": "Enmascaramiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/328/0f5c80807889bfc25066a64a69c23b8d/master.m3u8?1676395454"
+                },
+                {
+                    "id": null,
+                    "title": "Tratamiento de imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/330/2f3ea06bf929b38ac8f02e3ec40a13a3/master.m3u8?1676395460"
+                },
+                {
+                    "id": null,
+                    "title": "Limpiar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/332/fa00cb18356815603f1fb998a251108a/master.m3u8?1676395475"
+                },
+                {
+                    "id": null,
+                    "title": "Equilibrio de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/333/2e06878e71080be142ef433e5749add8/master.m3u8?1676395458"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/06c62d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de un GIF y consejos profesionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Entendiendo un GIF",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/334/e69b88fec3dcc862445e945ca1628cc0/master.m3u8?1676395458"
+                },
+                {
+                    "id": null,
+                    "title": "GIF más allá del primer paso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/335/7ad91740046daf312a126f75e7354dc7/master.m3u8?1676395480"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos finales tras las bambalinas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/336/add619d3b956bcdeaa96c1aa2705b60f/master.m3u8?1676395472"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0o48eh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hy3m04.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2368,
+        "product_name": "Beauty Retouching for Beginners",
+        "teacher_name": "Xi Chen",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 18,
+        "course_total_duration_sec": 10414,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

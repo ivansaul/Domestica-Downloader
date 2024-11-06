@@ -1,0 +1,158 @@
+{
+    "id": "3782",
+    "title": "Diseño de logos dibujados a mano",
+    "url": "https://www.domestika.org/es/courses/3782-diseno-de-logos-dibujados-a-mano/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/628/904423b08e6a5a9de6fbe8275811f613/master.m3u8?1676405926"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/629/55aa36b62aa4100f11848560b63bf75a/master.m3u8?1676405927"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/blmsfy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Nociones básicas e investigación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño de logotipo ilustrativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/643/79047907725dc42c56ff5e418fbad668/master.m3u8?1676405931"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicio de calentamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/644/45927e717e73aab65c0f9249b0a09bf6/master.m3u8?1676405935"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer las preguntas correctas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/645/3a2f670508e49f92b05c3d65f5f8116b/master.m3u8?1676405931"
+                },
+                {
+                    "id": null,
+                    "title": "Mapeo de palabras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/646/46a0b0115d1aabef91587d1b72755dfe/master.m3u8?1676405932"
+                },
+                {
+                    "id": null,
+                    "title": "Tablero de humor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/647/854ed54ac997c4f1b517ef2ea1a87f0e/master.m3u8?1676405932"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ju8k4f.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación del logotipo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bocetos sueltos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/666/5f12612c9fa1b97c17c08f5750a3e113/master.m3u8?1676405947"
+                },
+                {
+                    "id": null,
+                    "title": "Refinando ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/667/a2af31c36b45fb6209f59f679eb409f8/master.m3u8?1676405944"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorizando el boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/668/c7ef4eff2dce4c58f97b68309d087ab7/master.m3u8?1676405941"
+                },
+                {
+                    "id": null,
+                    "title": "Color y tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/669/0f0d2173f0e2010882e87b6d3d641e55/master.m3u8?1676405947"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8zc01v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Mostrando el trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ilustraciones y maquetas de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/671/67c15f5f8ee08c02012f173deb63b7e3/master.m3u8?1676405944"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/672/a29792f9072d8f13b54ad6bb527ff801/master.m3u8?1676405944"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p9xfzo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/i9p657.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3782,
+        "product_name": "Hand-drawn logo design",
+        "teacher_name": "Aron Leah",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 6113,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

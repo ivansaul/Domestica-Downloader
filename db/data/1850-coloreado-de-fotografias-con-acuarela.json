@@ -1,0 +1,173 @@
+{
+    "id": "1850",
+    "title": "Coloreado de fotografías con acuarela",
+    "url": "https://www.domestika.org/es/courses/1850-coloreado-de-fotografias-con-acuarela/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Quién soy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/155/297c69570a27eee6e67f9b090230f11d/master.m3u8?1676394798"
+                },
+                {
+                    "id": null,
+                    "title": "Qué me inspira",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/156/9e423fd56793457c7f5ed993ad21dead/master.m3u8?1676394800"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/157/3a0784c44e96c71548dcb75a8ca51e2e/master.m3u8?1676394800"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gqi63l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Coloración manual en la historia de la fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/158/d8ea0c12c9bef9cbefec5c300c427de9/master.m3u8?1676394801"
+                },
+                {
+                    "id": null,
+                    "title": "El color como elemento narrativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/159/8fc2c99e375c47b636da9881ac956ba1/master.m3u8?1676394801"
+                },
+                {
+                    "id": null,
+                    "title": "Elegir tus imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/160/a981f7502b3ccf020105758320d80f63/master.m3u8?1676394800"
+                },
+                {
+                    "id": null,
+                    "title": "Preparar imágenes para imprimir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/161/366f49ba18cdc7ca3c9cbfa2dcf3f4ab/master.m3u8?1676394801"
+                },
+                {
+                    "id": null,
+                    "title": "Documentos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/162/92f6de45f07ac95e0cdbac05928f9b45/master.m3u8?1676394801"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/163/a9af44199ae92a443d82cfcb0a539d29/master.m3u8?1676394802"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ewhzd0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparando tu mesa de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/164/6b28701e1336666d69ee09ae65ded383/master.m3u8?1676394803"
+                },
+                {
+                    "id": null,
+                    "title": "Retrato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/165/09b5fe510f75f426907fa59c985ef426/master.m3u8?1676394810"
+                },
+                {
+                    "id": null,
+                    "title": "Paisaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/166/e319853c4218e88478a04d45f9dee001/master.m3u8?1676394805"
+                },
+                {
+                    "id": null,
+                    "title": "Experimental",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/167/141408132111bc6f0ba3db47dfcae733/master.m3u8?1676394807"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cahfs1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Archivar y compartir tu producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Digitalización y reproducibilidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/168/af944d36e1cba8835e84c7013eb16330/master.m3u8?1676394805"
+                },
+                {
+                    "id": null,
+                    "title": "Almacenamiento fisico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/169/2137d757a3b2fb4a6a790c4f52f8dd1b/master.m3u8?1676394804"
+                },
+                {
+                    "id": null,
+                    "title": "Promocionando tu arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/170/515b5143883b4eb8f82cda361839005b/master.m3u8?1676394804"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e5uzat.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/2knja6.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1850,
+        "product_name": "Coloring Photos with Watercolor",
+        "teacher_name": "carine wallauer",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 4473,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "id": "3249",
+    "title": "Creación de portadas de libros rediseña un clásico",
+    "url": "https://www.domestika.org/es/courses/3249-creacion-de-portadas-de-libros-redisena-un-clasico/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/253/5fcf66425de97ed66b104bfb455fa888/master.m3u8?1676404358"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/254/f3f85c7831507bdeabcd08cc6ddfa507/master.m3u8?1676404359"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/52mdnv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pensando en la portada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Siglo XX y el futuro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/256/9e24ff96a45c4ae411ed4beba7d8531d/master.m3u8?1676404359"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es una cubierta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/257/88906d4c0f5537d4b28a1fdbd4a09e0c/master.m3u8?1676404359"
+                },
+                {
+                    "id": null,
+                    "title": "Principales enfoques gráficos y medios de expresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/258/27f6b070797faac3e080816d58389c29/master.m3u8?1676404360"
+                },
+                {
+                    "id": null,
+                    "title": "Encuadernaciones y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/259/0b77dfc006034eaae36f4f4b860691d7/master.m3u8?1676404361"
+                },
+                {
+                    "id": null,
+                    "title": "Breve historia de las portadas de libros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/435/59dd30263781fad2f13f4410706c65a6/master.m3u8?1676412747"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/obftfp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparando la portada",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Resumen y lectura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/260/307cd99953ef292ae958602b11863df3/master.m3u8?1676404362"
+                },
+                {
+                    "id": null,
+                    "title": "Buscar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/261/da51764134ba0226a5cbcad2770f3c0f/master.m3u8?1676404362"
+                },
+                {
+                    "id": null,
+                    "title": "Buscar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/262/d8d7256fd6fc8727aca8b33b269b7a5f/master.m3u8?1676404360"
+                },
+                {
+                    "id": null,
+                    "title": "Primeras ideas y boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/263/3de352b983723a1aaf9e69402701f136/master.m3u8?1676404361"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño vectorial y tipografía 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/264/3ea30282c8344323c19a500fa0dd5a25/master.m3u8?1676404365"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujo vectorial y tipografía 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/265/7d4982c4a0f0dcd619f0dad097ba588d/master.m3u8?1676404365"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización y creación de la guardia del libro 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/266/0dae45f804e5d3fd0e7f196a592fe04a/master.m3u8?1676404369"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización y creación de la guardia del libro 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/267/b007490e458092c45166d99051199b2f/master.m3u8?1676404364"
+                },
+                {
+                    "id": null,
+                    "title": "Maqueta y presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/268/d9bb1777a39083d586d19385681d72a9/master.m3u8?1676404365"
+                },
+                {
+                    "id": null,
+                    "title": "Ensamblaje completo de la cubierta 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/269/2eda18c1c2de2ea907c7633d062aafbd/master.m3u8?1676404369"
+                },
+                {
+                    "id": null,
+                    "title": "Conjunto de cubierta completa 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/270/2c33b2d17afcb0e56c69b842f0c81f50/master.m3u8?1676404369"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9th1pg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cerrar el archivo para imprimir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/271/b8bfa4ffe2fdcc391a75ca872cc3e131/master.m3u8?1676404368"
+                },
+                {
+                    "id": null,
+                    "title": "Crear una maqueta física",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/272/3f35f26887fa1bc70ebba2d9875fc8b0/master.m3u8?1676404366"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/otxzbl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/npyoav.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3249,
+        "product_name": "Book Cover Design: Reimagine a Classic",
+        "teacher_name": "Rafael Nobre",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 12856,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

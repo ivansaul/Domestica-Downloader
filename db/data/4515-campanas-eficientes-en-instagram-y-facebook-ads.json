@@ -1,0 +1,168 @@
+{
+    "id": "4515",
+    "title": "Campañas eficientes en Instagram y Facebook Ads",
+    "url": "https://www.domestika.org/es/courses/4515-campanas-eficientes-en-instagram-y-facebook-ads/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/756/ae7c62eed7254b08a72784223b3e0256/master.m3u8?1687966140"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/757/d6c0377c3dba441fea25fd0dcd98770b/master.m3u8?1687966154"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jujntr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de la campaña",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "De qué se trata este curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/758/3aebc4b291493721cf80f5be3a856152/master.m3u8?1687966172"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a Business Manager y la cuenta publicitaria",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/759/43930cfee5e0237710983e0813c772c2/master.m3u8?1687966189"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a la estructura de la campaña",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/760/fe66b53c0401c09b4a2c811db644aa03/master.m3u8?1687966206"
+                },
+                {
+                    "id": null,
+                    "title": "A través de grupos objetivo en Facebook e Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/761/e48dadbc6eecd0ab50291bece0cfcd54/master.m3u8?1687966229"
+                },
+                {
+                    "id": null,
+                    "title": "Objetivos optimizaciones y ofertas en campañas publicitarias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/762/7203af0d1dd4ba59516cdf91ecfc815f/master.m3u8?1687966243"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n6bmtn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Anuncios y mejores prácticas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diferentes pantallas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/763/58fe362c0560c5df3a66b692572836a8/master.m3u8?1687966263"
+                },
+                {
+                    "id": null,
+                    "title": "Mejores prácticas para fotografías en publicidad de Facebook e Instagram",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/764/ab68c318451387fc13f2e87da0069cd5/master.m3u8?1687966276"
+                },
+                {
+                    "id": null,
+                    "title": "Mejores prácticas de vídeo para el rendimiento y la publicidad de marca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/765/5c866d4cb2d643ee0fd304a9819f3a65/master.m3u8?1687966297"
+                },
+                {
+                    "id": null,
+                    "title": "Mejores prácticas informativas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/766/0e9c6ab5fb60b288239d7c54ff79aa1d/master.m3u8?1687966311"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qk63jl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Seguimiento del sitio web",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Instalación del metapíxel y sus eventos estándar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/767/56e5d82aa590fdffa1bdbbfd5a9a3734/master.m3u8?1687966340"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración avanzada para el metapíxel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/768/4d2fa5d344d71c16e12e3473d6ade0a9/master.m3u8?1687966353"
+                },
+                {
+                    "id": null,
+                    "title": "Uso e implementación de parámetros UTM",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/769/3812f65447e2e036b4e267d8f6ec359c/master.m3u8?1687966366"
+                },
+                {
+                    "id": null,
+                    "title": "Métricas y KPIs para medir el éxito de las campañas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/770/c58640982562e1f9734f22eda957501a/master.m3u8?1687966381"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3kwh2o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7q12hf.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4515,
+        "product_name": "Efficient Instagram and Facebook Ads",
+        "teacher_name": "Mathias Bürk",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8452,
+        "total_units": 4,
+        "subtitles_language": [
+            "de",
+            "es",
+            "en",
+            "pt",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "de"
+        ],
+        "original_language": "de"
+    }
+}

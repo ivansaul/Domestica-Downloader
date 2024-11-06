@@ -1,0 +1,248 @@
+{
+    "id": "557",
+    "title": "Carpintería profesional para principiantes",
+    "url": "https://www.domestika.org/es/courses/557-carpinteria-profesional-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/399/fc3eb4a7044f19e1a4a0f4d309491433/master.m3u8?1676386473"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/400/dd33f50262a3b8dda1fe800c669a52fa/master.m3u8?1676386473"
+                },
+                {
+                    "id": null,
+                    "title": "Qué vamos a hacer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/401/09d15f7388cbea986adbce1cd4ff5ce5/master.m3u8?1676386472"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/01ciwp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El material y sus dimensiones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El concepto clave",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/402/84e6548ddf156e353b48e9b1fedcdea8/master.m3u8?1676386476"
+                },
+                {
+                    "id": null,
+                    "title": "El material",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/403/fb89ca59fc5f8a9891d0f204270ab93c/master.m3u8?1676386476"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño y dimensionado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/404/6667aad07db0bddb1ef178292524bad5/master.m3u8?1676386478"
+                },
+                {
+                    "id": null,
+                    "title": "Lista de corte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/405/cf1a0e192ea7a6df3e41fe045600bf8c/master.m3u8?1676386477"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ijpagr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Las herramientas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/406/a0c43759ec132f05aa1e8273048f17b0/master.m3u8?1676386478"
+                },
+                {
+                    "id": null,
+                    "title": "El mesón de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/407/aecb2b1ba5448f76525a4ca86c25efc4/master.m3u8?1676386481"
+                },
+                {
+                    "id": null,
+                    "title": "Medición y trazado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/408/35d3c37af31d100d885f44b0f9a3c31c/master.m3u8?1676386481"
+                },
+                {
+                    "id": null,
+                    "title": "Sierra circular opcional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/409/29e7b3fef5443e770b84543b86aeee06/master.m3u8?1676386483"
+                },
+                {
+                    "id": null,
+                    "title": "Sierra caladora",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/410/5d443297f4e5944396120e34f3d4b98a/master.m3u8?1676386485"
+                },
+                {
+                    "id": null,
+                    "title": "Fresadora",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/413/b5d6600202659be76b90ae19e0324c49/master.m3u8?1676386481"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p5f0m2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proyecto las patas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño y despiece",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/414/9c6e2c253cd4e935fa9899cf3c5f8089/master.m3u8?1676386478"
+                },
+                {
+                    "id": null,
+                    "title": "Corte de piezas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/415/5612f272e46d80edf7cef3ea3fca411c/master.m3u8?1676386480"
+                },
+                {
+                    "id": null,
+                    "title": "Trazado de las patas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/416/c06ceb17362d1adcf4392e4432fecc99/master.m3u8?1676386481"
+                },
+                {
+                    "id": null,
+                    "title": "Corte y construcción de la plantilla de forma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/470/fe71f6208b683961d8e248c1dc5f6eef/master.m3u8?1676386512"
+                },
+                {
+                    "id": null,
+                    "title": "De la plantilla a la pieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/471/2ba1c5ce3a976c4d88cf743a14389f27/master.m3u8?1676386516"
+                },
+                {
+                    "id": null,
+                    "title": "Calado del encastre a media madera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/472/85f0d669c1a821803759e0731165f9b9/master.m3u8?1676386513"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t3p0pm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proyecto el asiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Corte del círculo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/473/dc86f0587e8fdbb585aa282960b26fb9/master.m3u8?1676386512"
+                },
+                {
+                    "id": null,
+                    "title": "Fabricación de la plantilla de encastre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/474/82678a42884c0669670887e32e7010a3/master.m3u8?1676386512"
+                },
+                {
+                    "id": null,
+                    "title": "Corte de caja del asiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/475/48fc9233555c59d5a5f50c6123fb0300/master.m3u8?1676386512"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5lef05.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Montaje y ajustes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ajuste de la espiga a la caja y presentación del taburete",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/476/24e87f2cb945265b0345df119512872c/master.m3u8?1676386511"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de detalles lijado y montaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/477/430af996976bcee1c9c193cdabcdfa42/master.m3u8?1676386515"
+                },
+                {
+                    "id": null,
+                    "title": "Armado del taburete",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/478/1fbbba1246e995476419dd3f6d42f07a/master.m3u8?1676386515"
+                },
+                {
+                    "id": null,
+                    "title": "El acabado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/479/82a70ad6b3dd0d0e93782786d897c364/master.m3u8?1676386512"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9jhuwn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/n22mpr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 557,
+        "product_name": "Professional Woodworking for Beginners",
+        "teacher_name": "Patricio Ortega (Maderística)",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 26,
+        "course_total_duration_sec": 14504,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

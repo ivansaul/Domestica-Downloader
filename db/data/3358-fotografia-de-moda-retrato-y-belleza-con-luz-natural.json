@@ -1,0 +1,158 @@
+{
+    "id": "3358",
+    "title": "Fotografía de moda retrato y belleza con luz natural",
+    "url": "https://www.domestika.org/es/courses/3358-fotografia-de-moda-retrato-y-belleza-con-luz-natural/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/716/94875edd2291c78a0b26d8c8d410d67e/master.m3u8?1676404105"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/717/dbd2ccf8318df246c97053416bf0ab65/master.m3u8?1676404108"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/htd64f.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Inspiración y construcción del concepto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografía con iluminación natural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/718/30183f43270c8cf4c0a4e1ba64ff50c8/master.m3u8?1676404109"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo fotográfico y artístico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/719/adc03bce8d9e10a0496c471882f3ee14/master.m3u8?1676404109"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board y localización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/720/c48447f808ac53832a1f1bf971d1c465/master.m3u8?1676404109"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uby5r9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Experimentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Shooting luz natural y accesorios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/721/cd8569a7f7ab51253baffc0e342d9bb9/master.m3u8?1676404110"
+                },
+                {
+                    "id": null,
+                    "title": "Tomando las fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/771/de1f42add307fc76216bb8189d9389ea/master.m3u8?1676404142"
+                },
+                {
+                    "id": null,
+                    "title": "Añadiendo vida a nuestras fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/772/542cd7aab07e7edbff3fd97c45e95370/master.m3u8?1676404143"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0kauzd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Acabados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección color y retoque 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/723/53a760a6093f59038fd8813edbc0178c/master.m3u8?1676404115"
+                },
+                {
+                    "id": null,
+                    "title": "Selección color y retoque 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/287/875b7728b541643054dbadafe0154c35/master.m3u8?1676405752"
+                },
+                {
+                    "id": null,
+                    "title": "Selección color y retoque 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/725/d1a1eeb09afe7f2e1d3fa4632ff62227/master.m3u8?1676404109"
+                },
+                {
+                    "id": null,
+                    "title": "Composición final del proyecto y maquetación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/726/110e33104de925978a33cbd249cb8c96/master.m3u8?1676404112"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación y optimización del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/727/9a19fb1ee8c2b7403f834e7867130dc9/master.m3u8?1676404109"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d2rh28.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/k612fc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3358,
+        "product_name": "Fashion Photography: Portraiture and Beauty in Natural Light",
+        "teacher_name": "Patricia Bonet",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 10168,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

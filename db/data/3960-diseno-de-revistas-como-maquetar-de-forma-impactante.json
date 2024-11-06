@@ -1,0 +1,163 @@
+{
+    "id": "3960",
+    "title": "Diseño de revistas cómo maquetar de forma impactante",
+    "url": "https://www.domestika.org/es/courses/3960-diseno-de-revistas-como-maquetar-de-forma-impactante/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/674/97913e7cc9f5307817c8be242dae5ad9/master.m3u8?1676406927"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/675/afdcf86544b049fb654648453201e1ba/master.m3u8?1676406930"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zheron.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cimientos preparación y revistas Análisis profundo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a las revistas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/676/fde331f7a8fb6c80cee7a7caa1d1841e/master.m3u8?1676406931"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestro enfoque editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/677/9c2a405e9b38175b475f37f3f18cf2c9/master.m3u8?1676406934"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestro resumen y solución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/679/2b3d014e99a828f05046e2bcaebd3dfe/master.m3u8?1676406929"
+                },
+                {
+                    "id": null,
+                    "title": "La anatomía de una revista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/680/6f3c68c562bf21892871e099145d0683/master.m3u8?1676406934"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/179d1r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fase de producción y diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/681/67538b5d9a4702278471ad2df22ad405/master.m3u8?1676406931"
+                },
+                {
+                    "id": null,
+                    "title": "Márgenes y cuadrículas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/682/845e0b15b74db78a0c2b2ee45e30cbfc/master.m3u8?1676406935"
+                },
+                {
+                    "id": null,
+                    "title": "Contenido y fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/683/174c1696e81d60e3085fe25a441ce9f5/master.m3u8?1676406931"
+                },
+                {
+                    "id": null,
+                    "title": "Composición Spread de apertura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/684/dc2138a73fb17e9caf94eb1370cc9517/master.m3u8?1676406933"
+                },
+                {
+                    "id": null,
+                    "title": "Composición diseño de un artículo destacado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/685/6063e98b80856328edf984fea14bc41c/master.m3u8?1676406936"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/j6w3l1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Revisión y revisión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/686/da0bfe7e7c1af021f34be2dd8362a816/master.m3u8?1676406934"
+                },
+                {
+                    "id": null,
+                    "title": "Preparándose para imprimir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/687/df80b1874853f78e7c6953a89f94a728/master.m3u8?1676406938"
+                },
+                {
+                    "id": null,
+                    "title": "Recurso adicional para obtener más información",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/054/688/5ce8e6d8d78812927ff3a392ec201d05/master.m3u8?1676406936"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fokt7a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/glmzbl.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3960,
+        "product_name": "Magazine Design: How to Create Impactful Layouts",
+        "teacher_name": "Extract Studio",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8395,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "id": "110",
+    "title": "Branding y packaging para una cerveza artesanal",
+    "url": "https://www.domestika.org/es/courses/110-branding-y-packaging-para-una-cerveza-artesanal/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dr Morbito Tixinda y Sideral",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/437/0a082e4f22bc69ecae0ddfc96f05097e/master.m3u8?1676381518"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias y México como inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/454/21da6a74167a0fc6541185ca52254613/master.m3u8?1676381523"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ry3ro7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptualización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "A probar cervezas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/448/7ea3c3fe17cf34f7ee8eac5a6556f795/master.m3u8?1676381519"
+                },
+                {
+                    "id": null,
+                    "title": "Definir el Concepto Madre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/452/47a1019ffd606eaf7eee3ff1f736eca6/master.m3u8?1676381521"
+                },
+                {
+                    "id": null,
+                    "title": "Vivir el Concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/447/d7f4e1f76770ffbf332cd7c281ad8b68/master.m3u8?1678443251"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ci58dh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de tipografía y diseño de elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/445/84024e127ba68e533c02e1f75cfa0b4c/master.m3u8?1676381519"
+                },
+                {
+                    "id": null,
+                    "title": "Formación de los elementos gráficos I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/439/9186d065e1744456cb10b48cfffbe6e5/master.m3u8?1676381523"
+                },
+                {
+                    "id": null,
+                    "title": "Formación de los elementos gráficos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/440/90152717cb3de7d4fbf183406cb50033/master.m3u8?1676381524"
+                },
+                {
+                    "id": null,
+                    "title": "Formación de los elementos gráficos III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/441/03f8fe00a7d7817dd1517afdb7158fb7/master.m3u8?1676381520"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/442/2397d168b3e20d15fed1ee0796cce9e3/master.m3u8?1676381517"
+                },
+                {
+                    "id": null,
+                    "title": "Empaque de cervezas y trabajo en Mockup",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/443/0afccb3cb2115607c8af4f6b7a9699d9/master.m3u8?1676381522"
+                },
+                {
+                    "id": null,
+                    "title": "Empaque de cervezas y trabajo en Mockup II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/444/6e5ed512f74e33eb233e0694ce45f774/master.m3u8?1676381529"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3uml9j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación de Ventas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Shooting",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/450/787ec449bd9350ca6f72f34596fb57fd/master.m3u8?1676381520"
+                },
+                {
+                    "id": null,
+                    "title": "Template de Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/428/a7d74ebf283895e506149adb82b38250/master.m3u8?1676381511"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bulbwz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/0023ht.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 110,
+        "product_name": "Branding and Packaging for Craft Beer",
+        "teacher_name": "drmorbito",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8467,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "id": "281",
+    "title": "Introducción al vídeo testimonial",
+    "url": "https://www.domestika.org/es/courses/281-introduccion-al-video-testimonial/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/290/23ae1f8c48229508f56532170b0cb922/master.m3u8?1676383720"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/291/875b69a2719fa71ab618da1d1b6ff7a2/master.m3u8?1676383720"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lz80am.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "PreProducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La importancia de los personajes y las historias reales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/292/e37c44b7bc696f3d123adbd6c985534e/master.m3u8?1676383722"
+                },
+                {
+                    "id": null,
+                    "title": "Qué queremos decir con la pieza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/293/f01bb61c34e4925b596aceeaa8eb7e74/master.m3u8?1676383720"
+                },
+                {
+                    "id": null,
+                    "title": "Dónde buscar y cómo escoger a los personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/294/c58ac34677d777da5498a17e77302d98/master.m3u8?1676383724"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aru4q2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Scouting",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conoce a tus personajes y su entorno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/295/f9078f4438249d5b9a39f71ab533fbe3/master.m3u8?1676383728"
+                },
+                {
+                    "id": null,
+                    "title": "La primera entrevista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/296/7aef1c093352ecc8567ff743975d94d9/master.m3u8?1676383723"
+                },
+                {
+                    "id": null,
+                    "title": "Scouting y maqueta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/300/e3afcf9ea9d105f362ee283f387d853a/master.m3u8?1676383724"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2socly.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Equipo técnico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/298/9c3fce08efa3c22a78fd11a2f805a496/master.m3u8?1676383724"
+                },
+                {
+                    "id": null,
+                    "title": "Levantamiento de imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/299/f7efe5fa20adfa162b27d879c562d8dc/master.m3u8?1676383725"
+                },
+                {
+                    "id": null,
+                    "title": "Cuestionario y entrevista final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/330/1592fca260c71180a4ff7df0cbd92289/master.m3u8?1676383731"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rfhr4w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elementos dramáticos para editar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/301/a5fb5c0c7b1305000a4010b756d1a275/master.m3u8?1676383729"
+                },
+                {
+                    "id": null,
+                    "title": "Vuelve a empezar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/302/11805a257f0a84d016891478c5afa6e6/master.m3u8?1676383724"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aa1p6l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/d22yhj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 281,
+        "product_name": "Introduction to Video Testimonials",
+        "teacher_name": "David R. Romay",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7318,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

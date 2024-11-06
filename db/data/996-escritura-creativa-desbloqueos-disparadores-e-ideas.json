@@ -1,0 +1,159 @@
+{
+    "id": "996",
+    "title": "Escritura creativa desbloqueos disparadores e ideas",
+    "url": "https://www.domestika.org/es/courses/996-escritura-creativa-desbloqueos-disparadores-e-ideas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/998/a821cad464e5070b9b13f08e9b27c127/master.m3u8?1676399596"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/999/556ef78933bea6a80c0bb9209217c4d6/master.m3u8?1676399598"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cjfbqe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Algunas ideas sobre la creatividad y cómo ponerla en movimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la escritura creativa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/000/8822a86473e18f61d06be45bcf18007b/master.m3u8?1676399595"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo enfocar la mirada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/001/50f7db49b44897da234293bdebc9f404/master.m3u8?1676399596"
+                },
+                {
+                    "id": null,
+                    "title": "Tres cuestiones fundamentales antes de empezar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/229/a3eb465a9968a8297ec1451bcf06989a/master.m3u8?1676399705"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m45f13.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra o más bien palabras en acción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escribir un mundo en cuatro cuadros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/003/c2d3eb74682fc25679d90e68cf76577e/master.m3u8?1676399602"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir todos los días",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/004/3dfea7948ef3550dc8a0a051e165721a/master.m3u8?1676399599"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir los sueños",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/005/7f94d6427a4b0f9e5bd90088591897ec/master.m3u8?1676399598"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir poesía visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/006/41451383731c91ff0102af43b612b48e/master.m3u8?1676399599"
+                },
+                {
+                    "id": null,
+                    "title": "Qué más se puede escribir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/007/e933d99a8d0f004449cd3d31097a63c6/master.m3u8?1676399599"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir todavía más propuestas a partir de un objeto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/008/b446680dcd6c3b342a1e8d0959c83ea1/master.m3u8?1676399605"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gca02y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Después de escribir corregir y editar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección y corrección el trabajo editorial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/009/e8c2f271c22609280fc42b42fbc4617a/master.m3u8?1676399603"
+                },
+                {
+                    "id": null,
+                    "title": "Ideas de publicación artesanal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/040/010/e71936c3895dea23145460e9f619e24f/master.m3u8?1676399602"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vty08d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/aipjmp.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 996,
+        "product_name": "Creative Writing: Unlocking and Inspiring Ideas",
+        "teacher_name": "Natalia Méndez",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8169,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

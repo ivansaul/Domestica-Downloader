@@ -1,0 +1,163 @@
+{
+    "id": "622",
+    "title": "Fotografía estenopeica creando tu propia cámara",
+    "url": "https://www.domestika.org/es/courses/622-fotografia-estenopeica-creando-tu-propia-camara/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación Fotolateras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/463/f8bbc0a52dfa7b31112f155087370016/master.m3u8?1676386854"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/465/af44df1153c21215d4a2c7a033d24e04/master.m3u8?1676386855"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/466/719974e939eee7bf4b60efeca7f4de04/master.m3u8?1676386854"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1z0v87.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Qué necesitamos saber y tener",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Formación de la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/473/61850b7b8a3f4baa3c8e839a6c2ce14b/master.m3u8?1676386858"
+                },
+                {
+                    "id": null,
+                    "title": "Elijo mi lata según el tipo de fotografía que quiero hacer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/474/295e06caf5a1b33342e1ac01e4ae8713/master.m3u8?1676386859"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales necesarios para la cámara y laboratorio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/475/9df7a7b928e14eef46d89942430370ff/master.m3u8?1676386860"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gn31rh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construimos la cámara",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pintamos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/478/73f6212d4ae36c84685b9c3770872783/master.m3u8?1676386860"
+                },
+                {
+                    "id": null,
+                    "title": "Construimos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/479/a5911d46d00a926f78770134ba180f01/master.m3u8?1676386861"
+                },
+                {
+                    "id": null,
+                    "title": "Cargamos la cámara en el laboratorio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/483/febd58c5e3340a4a3c022a59c0d5c743/master.m3u8?1676386861"
+                },
+                {
+                    "id": null,
+                    "title": "Cocinamos la foto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/484/dcc8403023fa7489080d8f45a3b1e0fc/master.m3u8?1676386863"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/meyroo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Revelamos la fotolata",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparamos los químicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/510/be37f9e5103f8b79850bc526743c83a3/master.m3u8?1676386875"
+                },
+                {
+                    "id": null,
+                    "title": "Positivamos con una app gratuita",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/513/4fb138286581d1271c83306473c69af7/master.m3u8?1676386873"
+                },
+                {
+                    "id": null,
+                    "title": "Revelamos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/574/0a8358840d99abb8785e26bb7da0121b/master.m3u8?1676386940"
+                },
+                {
+                    "id": null,
+                    "title": "Positivamos por contacto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/014/626/117dc82f49a45d951c7a3373dda3f46e/master.m3u8?1676386969"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r9zvsq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/d9spqt.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 622,
+        "product_name": "Pinhole Photography Creating your Own Camera",
+        "teacher_name": "Fotolateras",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 2652,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "id": "3684",
+    "title": "Creación y curación de un porfolio audiovisual",
+    "url": "https://www.domestika.org/es/courses/3684-creacion-y-curacion-de-un-porfolio-audiovisual/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/400/9ca8dbd18f7fade709c1893ff8f971b1/master.m3u8?1676403033"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/051/650/de3b06350c2e464ba813de9e97f899d6/master.m3u8?1676405448"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qr2su3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Comprender la cartera",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El portafolio como herramienta de prospección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/402/3b33d24d7e6ea9d57eb24badf6bd04c2/master.m3u8?1676403032"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de cartera comercial o artística 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/403/4e8daf0a98048aee67cfbea8b3e26aac/master.m3u8?1676403033"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de cartera comercial o artística 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/404/cdad6bfc8230ef3a8cfeafe113d82727/master.m3u8?1676403029"
+                },
+                {
+                    "id": null,
+                    "title": "Plataformas y herramientas de prospección 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/405/5b5d106a89516c6e0865f2b0befe5583/master.m3u8?1676403038"
+                },
+                {
+                    "id": null,
+                    "title": "Plataformas y herramientas de prospección 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/406/0beaaa86134b553fb96617b0b5bf126b/master.m3u8?1676403036"
+                },
+                {
+                    "id": null,
+                    "title": "Otras formas de construir su red 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/407/25f9a8ce5dc5da529cc753c36f87c314/master.m3u8?1676403044"
+                },
+                {
+                    "id": null,
+                    "title": "Otras formas de construir su red 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/408/ea56bdc0d09b3c7e0547c80da036eb06/master.m3u8?1676403033"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sf3g6f.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Organizando tu portafolio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Organización del trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/409/2f0fcc605ef4cc693da27cf8982c8217/master.m3u8?1676403033"
+                },
+                {
+                    "id": null,
+                    "title": "Cartera comercial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/410/ddb83ed702903a55c3a1c85850bd2145/master.m3u8?1676403039"
+                },
+                {
+                    "id": null,
+                    "title": "Portafolio artistico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/411/018990d433ce0ae339d731fcebe3de7c/master.m3u8?1676403041"
+                },
+                {
+                    "id": null,
+                    "title": "Las redes sociales a tu favor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/412/deec4f72b65eec43f73b76360249afde/master.m3u8?1676403039"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nc6g1k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crowdfunding y otros consejos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Recaudación de fondos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/413/1080c6b8b019031bedc31271b282ef20/master.m3u8?1676403038"
+                },
+                {
+                    "id": null,
+                    "title": "Cambio de carrera o mercado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/414/6834fa848a5391295388479464cbb0a1/master.m3u8?1676403038"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ttfmwe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/puqmsm.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3684,
+        "product_name": "Creation and Curation of an Audiovisual Portfolio",
+        "teacher_name": "Rafa Jacinto",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 10855,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

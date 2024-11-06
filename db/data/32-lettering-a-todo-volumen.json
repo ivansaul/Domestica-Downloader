@@ -1,0 +1,162 @@
+{
+    "id": "32",
+    "title": "Lettering a todo volumen",
+    "url": "https://www.domestika.org/es/courses/32-lettering-a-todo-volumen/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Quién soy yo y qué hago aquí",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hola me llamo Lobulo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/548/90f69bd43220c6e7ed37c75594b5377c/master.m3u8?1676380707"
+                },
+                {
+                    "id": null,
+                    "title": "Mi background",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/549/11e4f1d38df8ee4d02da1767e78cacf4/master.m3u8?1676380703"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/556/27535c3943eea378cc87098f386505c2/master.m3u8?1676380712"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0iqb59.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los cimientos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tirar ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/551/7447d50f3760c85337f7807d00a9aaef/master.m3u8?1676380706"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto final en papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/552/440d1ea2d76417b27b12fb1d1ac9ba82/master.m3u8?1676380705"
+                },
+                {
+                    "id": null,
+                    "title": "Primeros mockups en papel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/553/74121647b3a741afbdbabbf0310cbc7d/master.m3u8?1676380707"
+                },
+                {
+                    "id": null,
+                    "title": "Corregir y retocar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/554/3acf6445d69b32a4b1e50ab070e7ed22/master.m3u8?1676380709"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rk424n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Al lío",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Opciones de letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/557/c2dd41a2ef71484010d8f6393d3cab59/master.m3u8?1676380710"
+                },
+                {
+                    "id": null,
+                    "title": "Recortar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/558/7f85b4b2beabb3fa826f6762b2a96385/master.m3u8?1676380715"
+                },
+                {
+                    "id": null,
+                    "title": "Recortar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/559/de7140934f7e2eb243d8902177429206/master.m3u8?1676380712"
+                },
+                {
+                    "id": null,
+                    "title": "Pegar 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/560/1dd78c27ba061fd4025d8182a298c04b/master.m3u8?1676380713"
+                },
+                {
+                    "id": null,
+                    "title": "Pegar 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/561/bfb45bc5f42b89ae16417f0fe4cef497/master.m3u8?1676380715"
+                },
+                {
+                    "id": null,
+                    "title": "Resto de las letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/562/167a42f43a8388fa218f4d99a1cc9c28/master.m3u8?1676380711"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gas4nx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Captura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparar el set",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/563/7a88810ccc727f043186ced425e624ba/master.m3u8?1676380712"
+                },
+                {
+                    "id": null,
+                    "title": "El resultado final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/000/565/676bad6a813ea23930066748927de05f/master.m3u8?1676380714"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rzi7x3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/jl0m0i.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 32,
+        "product_name": "Lettering with Volume ",
+        "teacher_name": "Lobulo",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7467,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

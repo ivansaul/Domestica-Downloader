@@ -1,0 +1,168 @@
+{
+    "id": "2870",
+    "title": "ArchViz de interiores crea diseños 3D surrealistas con Blender",
+    "url": "https://www.domestika.org/es/courses/2870-archviz-de-interiores-crea-disenos-3d-surrealistas-con-blender/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Sobre mí",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/203/b3880c8ef82f42b7fe22661a8b531339/master.m3u8?1676398631"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/204/a00d9773061f56a7029832866b8274b8/master.m3u8?1676398633"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b30y5q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Configure Blender y comience el borrador de su interior",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo inspirarse",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/205/fd1a254a82c1842e758850df276face8/master.m3u8?1676398634"
+                },
+                {
+                    "id": null,
+                    "title": "Configurar Blender",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/206/e4ae421668228033607e7607a9489cdd/master.m3u8?1676398633"
+                },
+                {
+                    "id": null,
+                    "title": "Crea tu primer borrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/208/00897bfd14dfb17ad40da448d124a7c1/master.m3u8?1676398637"
+                },
+                {
+                    "id": null,
+                    "title": "Ilumina tu borrador como un profesional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/209/e331320b061a662fdb81abdcaa7b4c12/master.m3u8?1676398633"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/faognk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado de muebles mínimos y escena final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado de los objetos de su escena 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/210/8a6e4f873f7c388bedcc8605b07df5a3/master.m3u8?1676887533"
+                },
+                {
+                    "id": null,
+                    "title": "Modelando los objetos de tu escena 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/211/b153cd51323d9370e43ecccf5d9f8f2a/master.m3u8?1676398636"
+                },
+                {
+                    "id": null,
+                    "title": "Domina la simulación de tela 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/212/1386bffa2163d1776fe88b06a442a8a9/master.m3u8?1676398636"
+                },
+                {
+                    "id": null,
+                    "title": "Domina la simulación de tela 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/213/a5a070070b660d01fda1cee277a43edf/master.m3u8?1676398641"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizado y Material 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/214/65e02b7e98e4770ed9e0f54f93815f88/master.m3u8?1676398638"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizado y material 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/215/aad161be2c18b6990ff51683cbd2172f/master.m3u8?1676398638"
+                },
+                {
+                    "id": null,
+                    "title": "Ajuste final y renderizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/216/c916d2660dbd4df1aa4da5d4e71d6d13/master.m3u8?1676398636"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r144j6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Toque final en Lightroom",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Postproducción en Lightroom",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/217/557cb4837f295fc93478457e805ab7af/master.m3u8?1676398638"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo publico en las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/218/ca939abfd4ffc445aecf89101842b76a/master.m3u8?1676398638"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jwi2h1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8uk9mc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2870,
+        "product_name": "Interior ArchViz: Create Surreal 3D Designs with Blender",
+        "teacher_name": "Camille Boldt",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9172,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

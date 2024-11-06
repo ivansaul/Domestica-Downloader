@@ -1,0 +1,179 @@
+{
+    "id": "512",
+    "title": "Principios básicos de SEO",
+    "url": "https://www.domestika.org/es/courses/512-principios-basicos-de-seo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/966/78160406dd71ff854a9f665a4e4ec108/master.m3u8?1676385914"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/967/87636a7c8c75dcb7843701b14589130d/master.m3u8?1676385918"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/968/4be79605c48eef89f65e7a9b15c94e6f/master.m3u8?1676385913"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7nd3du.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al SEO y a los buscadores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción el SEO",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/969/f100d20cca37c97eb70d930655e02262/master.m3u8?1676385923"
+                },
+                {
+                    "id": null,
+                    "title": "Por qué es importante el SEO",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/970/9d44375c88a483c7fb5be0c3ec213950/master.m3u8?1676385917"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo funciona un buscador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/971/9fa100178bc241f31fd57e9b9cc5becb/master.m3u8?1676385917"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lu2wtl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo crear contenidos para SEO",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué son las palabras clave",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/972/5eac2fa6248e651c2acab3712a4f3063/master.m3u8?1676385928"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo encontrar palabras clave I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/973/8c25c3588cde34e5824e87de6d6b6f4d/master.m3u8?1676385917"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo encontrar palabras clave II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/974/b9b18b1d10b75f47815222275ab24aea/master.m3u8?1676385920"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción básica a elementos clave HTML",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/975/63265fb5d6aca6835de81a9daeaef918/master.m3u8?1676385918"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo optimizar y crear contenidos I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/976/1d839063b3a45a029b1a119b4c2bb92d/master.m3u8?1676385920"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo optimizar y crear contenidos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/977/e46dcb843c464c39ada465824711380c/master.m3u8?1676385918"
+                },
+                {
+                    "id": null,
+                    "title": "Buenas prácticas SEO",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/978/c4802aaf22e990f1afedc920bc74f42b/master.m3u8?1676385918"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wzz60f.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Métricas y recomendaciones finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo medir el éxito de tus acciones SEO I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/979/5b84cac5f2bdda81af824ffa1d09274a/master.m3u8?1676385921"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo medir el éxito de tus acciones SEO II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/980/c4cbdcf9687d2f50c73c0277ed3d55d9/master.m3u8?1676385928"
+                },
+                {
+                    "id": null,
+                    "title": "Recomendaciones finales I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/981/2ab4cf36fcd5f5657ce29a91bc0fe794/master.m3u8?1676385922"
+                },
+                {
+                    "id": null,
+                    "title": "Recomendaciones finales II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/982/65c76d7aa8affa97f271089888d7eb5c/master.m3u8?1676385924"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dvjfpo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8big8x.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 512,
+        "product_name": "Basic Principles of SEO",
+        "teacher_name": "Natzir Turrado",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 10841,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

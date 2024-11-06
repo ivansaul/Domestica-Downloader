@@ -1,0 +1,181 @@
+{
+    "id": "3699",
+    "title": "Fotografía de viajes con smartphone para principiantes",
+    "url": "https://www.domestika.org/es/courses/3699-fotografia-de-viajes-con-smartphone-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/329/c14926089a342805667cdf4b1d130272/master.m3u8?1676407739"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/330/0d213b6d8edc907283e09968bb173a83/master.m3u8?1676407740"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/836580.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografía de viajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/331/90572ee55cc3ae1ef87cd47d3960f8a6/master.m3u8?1676407741"
+                },
+                {
+                    "id": null,
+                    "title": "Haciendo el plan",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/332/a09afa50c3ff2f2aa7c427a4a8b77a41/master.m3u8?1676407743"
+                },
+                {
+                    "id": null,
+                    "title": "Preparándote",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/333/72ea970f22360ce642d2d5ca786e4a76/master.m3u8?1676407743"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bwv9vy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos de fotografía",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/334/0e4e75924d87fc1c78255809c9fcf201/master.m3u8?1676407745"
+                },
+                {
+                    "id": null,
+                    "title": "Entendiendo la Luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/335/37e6a87cdb43248fa6de34c0db5cae6e/master.m3u8?1676407744"
+                },
+                {
+                    "id": null,
+                    "title": "Formas creativas de fotografiar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/336/a9f90af05043ecd2729ce9d49ce33773/master.m3u8?1676407745"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/70kemg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La sesión de fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografiar con un teléfono",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/337/6f90f052b99c67fa6e07447139372641/master.m3u8?1676407746"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografiar un paisaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/338/754cc3a5fac0a0ef9e4bc92dff65db6e/master.m3u8?1676407748"
+                },
+                {
+                    "id": null,
+                    "title": "fotografiar un retrato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/339/88f9e5e73e473fa99b66eb80dedfca79/master.m3u8?1676407745"
+                },
+                {
+                    "id": null,
+                    "title": "Capturando ese algo especial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/340/9219448d4c9566a430236ca88be839fa/master.m3u8?1676407751"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ing8sw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La postproducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Curaduría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/341/afa9eecd5c753ca67818f1a25194109b/master.m3u8?1676407750"
+                },
+                {
+                    "id": null,
+                    "title": "Editando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/342/82df7d67abfa68c72189bf1d3cf9c7f1/master.m3u8?1676407748"
+                },
+                {
+                    "id": null,
+                    "title": "Publicar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/056/343/c2b61e04efd756cbd9d3e9d4dff36356/master.m3u8?1676407750"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9n5qd1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/upo59s.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3699,
+        "product_name": "Travel Photography with Mobile Phone for Beginners",
+        "teacher_name": "Dan Tom",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9547,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

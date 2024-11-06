@@ -1,0 +1,238 @@
+{
+    "id": "1544",
+    "title": "Diseño e impresión 3D de maquetas arquitectónicas",
+    "url": "https://www.domestika.org/es/courses/1544-diseno-e-impresion-3d-de-maquetas-arquitectonicas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/203/4a92c83d81309cb43167306b5c814a03/master.m3u8?1676392821"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/204/38ecad8cd0d7034ceb5f25edb701d678/master.m3u8?1676392829"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/205/476664e299766bcf6b1295ec1ccbd3eb/master.m3u8?1676392821"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wjvcw6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación del entorno 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la impresión 3D y beneficios en la arquitectura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/206/137a0732cac954475d8667e0e2720ce3/master.m3u8?1676392823"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de software de diseño 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/207/aa653623b043c855c007a84a0b8d5dcb/master.m3u8?1676392824"
+                },
+                {
+                    "id": null,
+                    "title": "Autodesk Fusion 360",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/208/394e9771575f17c914fa405ded7a1f62/master.m3u8?1676392829"
+                },
+                {
+                    "id": null,
+                    "title": "PrusaSlicer 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/209/7808f27cbfecda76a9b772c32e4adb23/master.m3u8?1676392824"
+                },
+                {
+                    "id": null,
+                    "title": "PrusaSlicer 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/210/322a5f11fc50b5706ddff4e867459ea5/master.m3u8?1676392824"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6vd3l9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseño 3D de la maqueta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Herramientas básicas en Autodesk Fusion 360 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/211/c05a6d67a3bb56ce0c0b5bdb28bdbb71/master.m3u8?1676392826"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas básicas en Autodesk Fusion 360 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/212/cc1223ed2c00023dfc22d8b848252e6d/master.m3u8?1676392829"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de la estructura 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/213/43f00838f3ce8051d1779ad5e4eb46a3/master.m3u8?1676392830"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de la estructura 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/214/2b178d59b815293677d6af4596b16a91/master.m3u8?1676392839"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de la estructura 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/215/a895dc240173223c4d8cfe6958fc96fd/master.m3u8?1676392844"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de la estructura 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/216/15d9f636aeb37a197ba0536fbc9a460e/master.m3u8?1676392832"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de los detalles 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/217/0581b95d35cc9f3f0217257d23f37337/master.m3u8?1676392841"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de los detalles 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/218/da02b50f66ee9cfa46f267f0797b594f/master.m3u8?1676392831"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de los detalles 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/219/880b384de1b767052b24d00f873f7697/master.m3u8?1676392849"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de los detalles 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/220/3af99372cd874a6a30fc619bd0ae44f3/master.m3u8?1676392839"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de los detalles 5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/221/b8abedc9a97f5450fd6c154211122025/master.m3u8?1676392843"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x7i75n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación de archivos e impresión 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Simplificación de mallas y preparado de archivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/222/1c2e7736118670338886f1dd903232ce/master.m3u8?1676392843"
+                },
+                {
+                    "id": null,
+                    "title": "Software de corrección de mallas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/223/0be92d87e11c12508081931bfc6b2c59/master.m3u8?1676392831"
+                },
+                {
+                    "id": null,
+                    "title": "Parámetros de impresión en PrusaSlicer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/224/8a2c695096f56b41fbc73ace67c74999/master.m3u8?1676392845"
+                },
+                {
+                    "id": null,
+                    "title": "PrusaSlicer uso de material de soporte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/225/691d2c72a16c80e42706d8fdeb9c7736/master.m3u8?1676392850"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yobdf8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postprocesado de piezas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales para impresión 3D FDM",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/226/4f56660967daa1235a44f38e8f0ce5e2/master.m3u8?1676392844"
+                },
+                {
+                    "id": null,
+                    "title": "Postprocesado de superficies y figuras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/227/2e41eb3b764e878ab02716f2a7387fa9/master.m3u8?1676392849"
+                },
+                {
+                    "id": null,
+                    "title": "Uso de pinturas y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/228/410a7c4c3e3f2f4bbaaa71f00e2091a7/master.m3u8?1676392849"
+                },
+                {
+                    "id": null,
+                    "title": "Uso de adhesivos en maquetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/229/f4bc0fa7e383f2158f0c0559058bfab4/master.m3u8?1676392849"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/svrah9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hdktzo.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1544,
+        "product_name": "3D Printing and Design for Architecture Models",
+        "teacher_name": "Agustín Arroyo",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 27,
+        "course_total_duration_sec": 21738,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

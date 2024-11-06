@@ -1,0 +1,163 @@
+{
+    "id": "591",
+    "title": "Introducción al lettering con tinta",
+    "url": "https://www.domestika.org/es/courses/591-introduccion-al-lettering-con-tinta/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conoce un poco de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/146/98e80d6ebee15c62a4082a4175dafc64/master.m3u8?1676386392"
+                },
+                {
+                    "id": null,
+                    "title": "A quienes admiro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/147/84f93124f003fbebc42e71d15cfac551/master.m3u8?1676386388"
+                },
+                {
+                    "id": null,
+                    "title": "Lo que vamos a hacer en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/148/48743542b72cdafac2956a33ecd56b50/master.m3u8?1676386386"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/iksp1l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bases y preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el lettering y qué estilos de letras podemos usar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/149/0930fb94c9688395297ee880442754fa/master.m3u8?1676386394"
+                },
+                {
+                    "id": null,
+                    "title": "Fantásticas Herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/285/4786a96654f61582b2f06d683b379e1c/master.m3u8?1676386430"
+                },
+                {
+                    "id": null,
+                    "title": "Calentamiento de la mano y del ojo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/286/55cd3e85841582837329db1a983d5cf1/master.m3u8?1676386429"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p0kvg9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Frases únicas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Busca una frase que se conecte contigo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/287/30932be7aa272c4bb581d91a7e44c1f9/master.m3u8?1676386430"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetando la composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/288/7a407b24673ce0f97a99ab37ec2298bf/master.m3u8?1676386426"
+                },
+                {
+                    "id": null,
+                    "title": "Nos fuimos al papel final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/289/2eaa74a0db69ddf91d14df0115f978d3/master.m3u8?1676386430"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos geniales con la tinta  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/301/0a891e3ddcebb1779d5e65605c5ac5c6/master.m3u8?1676386433"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos geniales con la tinta  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/329/3a53acc3f9bcdf91179825375e463627/master.m3u8?1676386446"
+                },
+                {
+                    "id": null,
+                    "title": "Ahora sí A entintar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/302/b1caf6e318141a2efdb15b212a6da144/master.m3u8?1676386444"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6js3pm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Quiero mi tote bag",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Digitaliza tu pieza con cariño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/294/3c090e1ea6f1723792a8ff560c0c9340/master.m3u8?1676386429"
+                },
+                {
+                    "id": null,
+                    "title": "Imprime y estampa tu magnífica Tote Bag",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/013/295/f11afc84e49a95b14d41f7db579606b8/master.m3u8?1676386427"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/46facy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vijykj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 591,
+        "product_name": "Introduction to Ink Lettering",
+        "teacher_name": "Marianna Rezk Timcke",
+        "category_id": 16,
+        "category_name": "Calligraphy & Typography",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8178,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}
