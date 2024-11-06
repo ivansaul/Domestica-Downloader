@@ -1,0 +1,164 @@
+{
+    "id": "3838",
+    "title": "Iluminación profesional para fotografía de estudio",
+    "url": "https://www.domestika.org/es/courses/3838-iluminacion-profesional-para-fotografia-de-estudio/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/637/4c2478a6742b2983b087f04e596a2a36/master.m3u8?1676409055"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/638/e33516afbea404d4a2d0cb2e5ab97138/master.m3u8?1676409055"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3x533i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos de la luz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La luz propiedades básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/639/2f0cee234ad498fa5efee26a16745ad2/master.m3u8?1676409051"
+                },
+                {
+                    "id": null,
+                    "title": "Tipos de luz artificial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/361/0eab568ce6a60a6a901652455625fd86/master.m3u8?1676406293"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con luces estroboscópicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/640/ada38bad0b256406506634502ff87e15/master.m3u8?1676409055"
+                },
+                {
+                    "id": null,
+                    "title": "Modificadores de luz comunes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/641/478d86823cffa8bfb2bc7f8edffeb664/master.m3u8?1676409057"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hckn6w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejercicios básicos de iluminación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los fundamentos en acción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/364/8f3b03f692564708f8d8afb3c482b6e6/master.m3u8?1676406294"
+                },
+                {
+                    "id": null,
+                    "title": "Configuraciones de iluminación comunes para retratos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/366/082f31d21e2ed16ed29084391461b861/master.m3u8?1676406294"
+                },
+                {
+                    "id": null,
+                    "title": "El fondo blanco",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/367/7463845063db2d8eba79271842465483/master.m3u8?1677580274"
+                },
+                {
+                    "id": null,
+                    "title": "Caída exponencial de la luz transmitida omnidireccional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/058/642/9afc297303d73159edd7a09d6ba69bc0/master.m3u8?1676409055"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nx6fa5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Teoría en la práctica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ring Flash y la iluminación del día de Mandela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/368/9b8df4e71203e5538c5047e080b28e0e/master.m3u8?1676406296"
+                },
+                {
+                    "id": null,
+                    "title": "Mezcla de luz estroboscópica y continua",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/369/c59e96ca6192e21126baf71aa5c6ff2b/master.m3u8?1677580548"
+                },
+                {
+                    "id": null,
+                    "title": "Sesión de fotos para compuestos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/370/7fce4386462020c50dfc18628836f98f/master.m3u8?1676406295"
+                },
+                {
+                    "id": null,
+                    "title": "Nivel de gusto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/371/d68372f851d47a714de9c21c62cf585f/master.m3u8?1676406294"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yuevcw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ho1jiw.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3838,
+        "product_name": "Professional Lighting for Studio Photography",
+        "teacher_name": "Scott McDermott",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 5094,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "tr"
+        ],
+        "original_language": "en"
+    }
+}

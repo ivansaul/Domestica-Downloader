@@ -1,0 +1,153 @@
+{
+    "id": "373",
+    "title": "Grabado en relieve y estampación contemporánea",
+    "url": "https://www.domestika.org/es/courses/373-grabado-en-relieve-y-estampacion-contemporanea/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/427/877faa18ccdf6d43636016dadbd55ca8/master.m3u8?1676385342"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/428/8bf9f7094d697518d472b40ff2a88661/master.m3u8?1676385343"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wr9tf1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Espacio de trabajo y herramientas básicas para grabar en relieve",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/429/f52e643c52d96f49d65817bce2d0d5b1/master.m3u8?1676385341"
+                },
+                {
+                    "id": null,
+                    "title": "Ley del positivo y negativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/430/d89e3f0e282e97aa98e9b521873b1664/master.m3u8?1676385340"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5ta2m2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra Creando los elementos principales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elección de nuestro diseño bocetando lo que será nuestro mural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/431/575889759862dc7ddf27a6e3c9f2853e/master.m3u8?1676385346"
+                },
+                {
+                    "id": null,
+                    "title": "Gubia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/432/0c5751ec53b680d7567319e7d6f4503d/master.m3u8?1676385345"
+                },
+                {
+                    "id": null,
+                    "title": "Tallamos en DM los elementos principales del mural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/433/ed3a36179d90f881df33ad72a60518c6/master.m3u8?1676385349"
+                },
+                {
+                    "id": null,
+                    "title": "Estampa en papel y textil",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/434/13223a668e34e4f121f3c855bb6d3862/master.m3u8?1676385346"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8iiy3b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Componiendo nuestro mural",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estampando sin tinta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/435/3a27a524cde9769ab1c12d310b67f542/master.m3u8?1676385348"
+                },
+                {
+                    "id": null,
+                    "title": "Color y vida a las matrices",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/436/7ca935f6ca1770a9c4fe720aa598641b/master.m3u8?1676385348"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles para dar luz y volumen a nuestro mural",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/437/d3c9a4e5573200f17ea146376ba29a8a/master.m3u8?1676385345"
+                },
+                {
+                    "id": null,
+                    "title": "Grabado en pared y montaje de todos los elementos en nuestro muro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/438/fc1d4dc54e57d17e3bb97378c40b6055/master.m3u8?1676385350"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/06ma2e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9klvqi.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 373,
+        "product_name": "Relief Engraving and Contemporary Printing",
+        "teacher_name": "Pablo Salvaje",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7955,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

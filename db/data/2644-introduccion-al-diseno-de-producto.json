@@ -1,0 +1,175 @@
+{
+    "id": "2644",
+    "title": "Introducción al diseño de producto",
+    "url": "https://www.domestika.org/es/courses/2644-introduccion-al-diseno-de-producto/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/662/488b18b15e4144b2fc749766b8b6f659/master.m3u8?1676397825"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/663/aeec7cb8198fe8afd720bee16ed077a7/master.m3u8?1676397824"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zku0jd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Antes de empezar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es el diseño de producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/664/ba3a09d0382a9d5892c9684113b73690/master.m3u8?1676397829"
+                },
+                {
+                    "id": null,
+                    "title": "Briefing y presupuesto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/665/ad160e799c3930c206d500e08ce7825d/master.m3u8?1676397827"
+                },
+                {
+                    "id": null,
+                    "title": "Estudio de mercado y mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/666/776d99fa22a14af0583dab15fc7fd0e6/master.m3u8?1676397827"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gxrifd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proyecto de diseño la forma",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sketching 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/667/6a39a45286de2ce3ed71b717e82df040/master.m3u8?1676397831"
+                },
+                {
+                    "id": null,
+                    "title": "Sketching 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/668/7174fa9ae9ce034e135018d9ee216cd4/master.m3u8?1676397830"
+                },
+                {
+                    "id": null,
+                    "title": "Proporción dimensiones y planos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/669/0cbcafbda7e1fbb131dd5fc8b86a9f26/master.m3u8?1676397830"
+                },
+                {
+                    "id": null,
+                    "title": "Dar volumen la maqueta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/670/c42efb69b0e4ffb7a359419e0c3022cb/master.m3u8?1676397829"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/whlvkn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El proyecto de diseño materiales y representación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales procesos y color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/671/9c99e1ae9edfe32c8ec8977d29cb14d7/master.m3u8?1676397828"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado en 3D y renderizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/672/caf87dc70c31f11a2560ead62b8abc26/master.m3u8?1676397828"
+                },
+                {
+                    "id": null,
+                    "title": "El prototipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/673/a82f8ec0d27268dd124b274e44726ee6/master.m3u8?1676397829"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dcdoju.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción y comunicación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La comunicación del producto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/674/63c644e573957a4ef677fc77390f4ee8/master.m3u8?1676397830"
+                },
+                {
+                    "id": null,
+                    "title": "Producción o autoproducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/675/f56652ea2e07134c85f5510de63637a7/master.m3u8?1676397831"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0ce30e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/009baz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2644,
+        "product_name": "Introduction to Product Design",
+        "teacher_name": "Goula / Figuera",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 10072,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

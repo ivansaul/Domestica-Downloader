@@ -1,0 +1,176 @@
+{
+    "id": "85",
+    "title": "Matte Painting creando mundos fotorrealistas",
+    "url": "https://www.domestika.org/es/courses/85-matte-painting-creando-mundos-fotorrealistas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Soy Carles un placer",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encantado de ser tu profe",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/761/4ab6c24fa26da7fd1b6a585883b9df5e/master.m3u8?1676381285"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias inspiracionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/762/d44b7df297d8e1861759cec90cee08d9/master.m3u8?1676381288"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ays50l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ingredientes para un nuevo mundo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/763/66620bf7b33cf35c3775ae15f2d67c0a/master.m3u8?1676381289"
+                },
+                {
+                    "id": null,
+                    "title": "Recopilación de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/764/684c33dfd3f1d1697407386de5bd1f0b/master.m3u8?1676381289"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qvjj73.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Levantando los cimientos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Montaje de la escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/765/bab3a4b3a1e1a73024892af30620ee71/master.m3u8?1676381290"
+                },
+                {
+                    "id": null,
+                    "title": "Montaje de la escena II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/766/0872e78656f6d97652ed827f688f759a/master.m3u8?1676381290"
+                },
+                {
+                    "id": null,
+                    "title": "Integración del conjunto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/767/8561a6811a9e1f1ac9e4d4d6d874e4f2/master.m3u8?1676381291"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/u904gk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El secreto está en la iluminación y la atmósfera",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Trabajando las sombras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/768/83d77284af23cf907bbf71ee06b35567/master.m3u8?1676381293"
+                },
+                {
+                    "id": null,
+                    "title": "Incorporando las luces",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/769/a5e35fbae852a618e1e313028e909b7a/master.m3u8?1676381293"
+                },
+                {
+                    "id": null,
+                    "title": "Incorporando las luces II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/770/3dc390271d58ce54e2b0f7ea784b6650/master.m3u8?1676381290"
+                },
+                {
+                    "id": null,
+                    "title": "Corrigiendo el color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/772/90e1a4c968f11524befd90b451921701/master.m3u8?1676381292"
+                },
+                {
+                    "id": null,
+                    "title": "Ambientación general",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/771/417ab2101e3a8f6f44782f9db3c4a711/master.m3u8?1676381294"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/elu1zw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Lo logré soy Dios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Detalles y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/773/1247650afef771d1bc0a7bc6373e4a4e/master.m3u8?1676381292"
+                },
+                {
+                    "id": null,
+                    "title": "Toques maestros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/781/23d0bf29eda7e146e5099f06b046a4ed/master.m3u8?1676381292"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ul0vol.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ta95be.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 85,
+        "product_name": "Matte Painting: Creating Photorealistic Worlds",
+        "teacher_name": "Carles Marsal",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 11066,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

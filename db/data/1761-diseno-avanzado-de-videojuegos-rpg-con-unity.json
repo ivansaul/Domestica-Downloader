@@ -1,0 +1,251 @@
+{
+    "id": "1761",
+    "title": "Diseño avanzado de videojuegos RPG con Unity",
+    "url": "https://www.domestika.org/es/courses/1761-diseno-avanzado-de-videojuegos-rpg-con-unity/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/561/3167cc85559bd43f9c1a1370a9a58123/master.m3u8?1676398813"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/562/f39a9f22e932e6365a7bdd4272997b9e/master.m3u8?1676398814"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0u9ea0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Instalación de Unity",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/563/3e378b90e201481b109d652ab47567f5/master.m3u8?1676398816"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración y personalización de Visual Studio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/564/2226cc51ff2a9fff52bf89973f31b217/master.m3u8?1676398817"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración básica de nuestro proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/565/f6df60cea3ae742bea679f5aa9e8effb/master.m3u8?1676398818"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ysg32n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción base",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de los escenarios 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/566/ab6f2d9c1b2d05af47880bb18067faea/master.m3u8?1676398818"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de los escenarios 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/567/5f309fceb55094565a9da0e12d7cf973/master.m3u8?1676398822"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de los personajes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/568/06eaaebe2609c00412f908c4dddf4fc4/master.m3u8?1676398818"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de los personajes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/569/0065cf58fc9d45655d8f24510584be9d/master.m3u8?1676398821"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de los personajes 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/570/03f606e2153d8e5ce82dd0d0dfad8084/master.m3u8?1676398821"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de la cámara",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/571/795ea2f930869c359e27852553c594b2/master.m3u8?1676398820"
+                },
+                {
+                    "id": null,
+                    "title": "Objetos scriptables",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/572/e26a034ac509ab257b8aec0f92f7b254/master.m3u8?1676398820"
+                },
+                {
+                    "id": null,
+                    "title": "Cambio de escenas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/573/4e361be8fc2389629d4696ea60ad3a32/master.m3u8?1676398822"
+                },
+                {
+                    "id": null,
+                    "title": "Cambio de escenas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/574/24bcdcc0219c4bf204d0b8a1e8fe5016/master.m3u8?1676398823"
+                },
+                {
+                    "id": null,
+                    "title": "Cambio de escenas 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/986/888b8eb38b6fcbea5e5a767540148743/master.m3u8?1695631497"
+                },
+                {
+                    "id": null,
+                    "title": "Cambio de escenas 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/071/937/bf528b8ec8eb0bd98775577dac55b329/master.m3u8?1695631844"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ifcjqw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ampliando el juego",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Interfaz gráfica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/576/90dcb409bd2a1bfe7ff16054d41aef94/master.m3u8?1676398827"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de un Game Manager 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/577/e2e887c2f5edca98f3e2f8920ee4d293/master.m3u8?1676398826"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de un Game Manager 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/578/244f017fa8c1680584e97f857af46eb7/master.m3u8?1676398825"
+                },
+                {
+                    "id": null,
+                    "title": "Creando un sistema de diálogo básico 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/579/ac2b07e3e235cd660bcea15aa138073b/master.m3u8?1676398827"
+                },
+                {
+                    "id": null,
+                    "title": "Creando un sistema de diálogo básico 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/580/9a345904d7ed6e95112c7e8c1aa25042/master.m3u8?1676398828"
+                },
+                {
+                    "id": null,
+                    "title": "Creando nuestro sistema de combate 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/581/ed35a462c6bdd239e07a0d34af95a8ce/master.m3u8?1676398830"
+                },
+                {
+                    "id": null,
+                    "title": "Creando nuestro sistema de combate 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/582/a956ff705d5608f57ea9d487869ae2fd/master.m3u8?1676398829"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hprv27.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mejorando nuestro personaje 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/583/5fd3b2783e393f45aa5a9e21b4d27a2f/master.m3u8?1676398828"
+                },
+                {
+                    "id": null,
+                    "title": "Mejorando nuestro personaje 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/584/3d1116ad5be2a0a35d674929032276e0/master.m3u8?1676398829"
+                },
+                {
+                    "id": null,
+                    "title": "Mejorando nuestro personaje 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/585/d78ddb56e779be0b3377ddbe3c6504ef/master.m3u8?1676398829"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es y cómo conseguir la persistencia de datos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/586/1bcc5ae36f2fd90d821dba646e11fb26/master.m3u8?1676398829"
+                },
+                {
+                    "id": null,
+                    "title": "Qué es y cómo conseguir la persistencia de datos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/587/bf221778e0960c006908fcdd67aa69ce/master.m3u8?1676398832"
+                },
+                {
+                    "id": null,
+                    "title": "Exporta tu juego",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/588/0b12052e4aa7e5bcc461fce97e014efd/master.m3u8?1676398831"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tdj959.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/51028r.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1761,
+        "product_name": "Advanced RPG Game Design with Unity",
+        "teacher_name": "Juan Diego Vázquez Moreno",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 29,
+        "course_total_duration_sec": 27385,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

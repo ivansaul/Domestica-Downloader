@@ -1,0 +1,158 @@
+{
+    "id": "386",
+    "title": "Infografía creativa entre arte y periodismo",
+    "url": "https://www.domestika.org/es/courses/386-infografia-creativa-entre-arte-y-periodismo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "La infografía como excusa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre el aburrimiento las influencias y las referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/126/fe4a03c52390b723e2e09082b532fcb3/master.m3u8?1676384838"
+                },
+                {
+                    "id": null,
+                    "title": "Mi nombre es Jaime Serra y yo soy otro como todo el mundo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/011/153/33b68f909c001c86ffd7374769edffd0/master.m3u8?1676385604"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h4nq4o.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Del periodismo sin espacio para el arte al arte como periodismo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La estética como ética",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/127/118bdb851a02f2923b72166c69f91b5f/master.m3u8?1676384838"
+                },
+                {
+                    "id": null,
+                    "title": "La estética como ética b",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/128/197e295fee2718262cad3414dd40b5c1/master.m3u8?1676384841"
+                },
+                {
+                    "id": null,
+                    "title": "La elección de un tema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/129/1b9305b9b1501d8e8834b376c9c5257b/master.m3u8?1676384839"
+                },
+                {
+                    "id": null,
+                    "title": "El encuentro con yo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/130/be36aa40c8c2a45f77197cc1d34af44a/master.m3u8?1676384842"
+                },
+                {
+                    "id": null,
+                    "title": "Una opinión abierta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/131/85a6ddaae4ba0ea1b83761d06c49a9b1/master.m3u8?1676384841"
+                },
+                {
+                    "id": null,
+                    "title": "La infografía no puede ser arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/132/379807c815dda11503f3d4e554469fac/master.m3u8?1676384840"
+                },
+                {
+                    "id": null,
+                    "title": "pero el arte si puede ser infografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/133/3bc00cd2c93bf1820df74043115d0dbc/master.m3u8?1676384840"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/cmtens.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construyendo verdades con datos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Datos y verdades Los datos no pueden ser verdad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/134/b7a179cd724eaf37fedac575cbe755ba/master.m3u8?1676384840"
+                },
+                {
+                    "id": null,
+                    "title": "Datos y verdades No existe una entidad como la gente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/135/3cec82ab05fcf0b8a50ae22a08db6819/master.m3u8?1676384840"
+                },
+                {
+                    "id": null,
+                    "title": "Un m2 de tiempo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/136/a38e21cbe2398c1bce8cf01e041b5deb/master.m3u8?1676384842"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z1ftyz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cambia la perspectiva y cambiará el paisaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cambia la perspectiva y cambiará el paisaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/009/137/48744435bfb485c44f83bb16bba6d2ef/master.m3u8?1676384840"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0jl0rp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7exo1p.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 386,
+        "product_name": "Creative Infographics: Between Art and Journalism",
+        "teacher_name": "Jaime Serra Palou",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7510,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

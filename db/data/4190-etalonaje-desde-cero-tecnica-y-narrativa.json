@@ -1,0 +1,158 @@
+{
+    "id": "4190",
+    "title": "Etalonaje desde cero técnica y narrativa",
+    "url": "https://www.domestika.org/es/courses/4190-etalonaje-desde-cero-tecnica-y-narrativa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/464/ac6ede0d5c6a2177ea699e9a15918b60/master.m3u8?1676413388"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/465/e58898a687412415160d3255f9dbcfe6/master.m3u8?1676413385"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ttr3aj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al etalonaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Breve historia del colorista en el cine",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/466/4009f23d166ffd070a89b82601798276/master.m3u8?1676413388"
+                },
+                {
+                    "id": null,
+                    "title": "El software y sus diferentes aplicaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/467/aea1b145e32abf0dfe0fd1388852f227/master.m3u8?1676413388"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/468/e82bd249a7f3c1738eada7dcbf29e878/master.m3u8?1676413388"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando el metraje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/469/28ae3ef385b1cbdc129fdc9d4ff19e20/master.m3u8?1676413392"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hg0xen.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Colorear la película",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conforming",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/470/00fd8c033867bb842b93d83c19d1f9ac/master.m3u8?1676413391"
+                },
+                {
+                    "id": null,
+                    "title": "Corrección de color la teoría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/471/0fffd68e37d64f92bb29dbf4783ff746/master.m3u8?1676413391"
+                },
+                {
+                    "id": null,
+                    "title": "Corrección de color la práctica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/472/fe92354486c3f53c132c8ae7e5ce3286/master.m3u8?1676413394"
+                },
+                {
+                    "id": null,
+                    "title": "Etalonaje la teoría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/473/b491cc71b4b06d1d2922b7e81732994b/master.m3u8?1676413396"
+                },
+                {
+                    "id": null,
+                    "title": "Etalonaje la práctica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/474/40add6758a776749fe92d34a119c1cd9/master.m3u8?1676413397"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rpaxo7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La exportación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Formatos y códecs",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/475/dfc9c1b5a6f5c33c5d5b6c9200aa7c01/master.m3u8?1676413392"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer la exportación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/065/476/158effaf469a40e6122d287de680c9ce/master.m3u8?1676413394"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3rnt6t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/0emcut.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4190,
+        "product_name": "Color Grading from Scratch: Technique and Narrative",
+        "teacher_name": "Cassiana Umetsu",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5551,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

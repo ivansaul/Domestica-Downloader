@@ -1,0 +1,153 @@
+{
+    "id": "2650",
+    "title": "Introducción al diseño de espacios mínimos",
+    "url": "https://www.domestika.org/es/courses/2650-introduccion-al-diseno-de-espacios-minimos/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/069/56f6825e0b5fd2062d6d4804cce21c93/master.m3u8?1676396976"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/070/9c1bf8ed7a0bb59847bf210c1835b0de/master.m3u8?1676396978"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/k9qw19.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vivir en un espacio pequeño la flexibilidad al poder",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué significa vivir en un espacio pequeño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/071/27ebc7021ea90eb67082e79efce5d8cc/master.m3u8?1676396978"
+                },
+                {
+                    "id": null,
+                    "title": "La flexibilidad al poder Be Flexible or Die",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/072/e634efe2bc20345df980bd8b85ef3ef3/master.m3u8?1676396981"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo analizar tu espacio y sus condicionantes previos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/073/b438a05d33782204114abf061eaf7e3c/master.m3u8?1676396980"
+                },
+                {
+                    "id": null,
+                    "title": "Usuarios y objetos vivir con menos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/074/4708bb8a52381b5338b9197838908320/master.m3u8?1676396980"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/opn1w9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo hacer flexible tu espacio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estrategias para equipar el espacio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/075/48961423f8fcdcd6af214a7f59f14781/master.m3u8?1676396984"
+                },
+                {
+                    "id": null,
+                    "title": "Estrategias para activar y separar los espacios",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/076/7c7466368f543de441fe2a8b119b42c3/master.m3u8?1676396983"
+                },
+                {
+                    "id": null,
+                    "title": "Mobiliarios flexibilidad de muebles que existen en el mercado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/077/b9f375bc4010854ea772fe68e025b801/master.m3u8?1676396988"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo iluminar espacios multifuncionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/109/27bd0e5f8c2d8112730e7a0153be3505/master.m3u8?1676396994"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8vvg0m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Cómo comunicar un espacio flexible",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo generar documentos de un espacio dinámico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/078/d0a035505087a28bd4146089e55c1ad7/master.m3u8?1676396984"
+                },
+                {
+                    "id": null,
+                    "title": "Visibilidad y comunicación de tus proyectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/079/36a718f540601c36eec26655df3386ba/master.m3u8?1676396985"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zk06np.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/o194yd.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2650,
+        "product_name": "Introduction to the Design of Small Spaces",
+        "teacher_name": "Enorme Studio",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6140,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

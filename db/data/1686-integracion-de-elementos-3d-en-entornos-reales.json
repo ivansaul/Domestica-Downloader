@@ -1,0 +1,253 @@
+{
+    "id": "1686",
+    "title": "Integración de elementos 3D en entornos reales",
+    "url": "https://www.domestika.org/es/courses/1686-integracion-de-elementos-3d-en-entornos-reales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/739/d31b5f39c85510ffe7b0e7a3bb609005/master.m3u8?1676393612"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/740/f3e8987f2dec6a27cdc847ddbe1f364b/master.m3u8?1676393612"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/741/984229b756bd16e2634b1c09cfe6e36e/master.m3u8?1676393611"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6a1ij3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conoce todo sobre 3ds Max y Nuke",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Repaso de la interfaz del Nuke 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/664/ac0719c6a46688b6186f9544fb6e2567/master.m3u8?1676393575"
+                },
+                {
+                    "id": null,
+                    "title": "Repaso de la interfaz del Nuke 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/665/9f465403483b370aee1a1abbb7c7b138/master.m3u8?1676393576"
+                },
+                {
+                    "id": null,
+                    "title": "Repaso de la interfaz del 3ds Max",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/666/f9f02f45643cd5acd84d981834c171e6/master.m3u8?1676393576"
+                },
+                {
+                    "id": null,
+                    "title": "Formatos framerates y archivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/667/f4638d76ddd1f3e77d5329271db5b244/master.m3u8?1676393576"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pvc4u7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Camera tracking 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/668/194d054d1fd57ee3783bf8eee8228f66/master.m3u8?1676393577"
+                },
+                {
+                    "id": null,
+                    "title": "Camera tracking 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/669/e0b632de3461060f24cb80edcd2fa35c/master.m3u8?1676393577"
+                },
+                {
+                    "id": null,
+                    "title": "Camera tracking 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/670/fb109c6d38ca8704180ab14edb36754c/master.m3u8?1676393583"
+                },
+                {
+                    "id": null,
+                    "title": "Importación de la data y el modelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/671/576381cb50f9e6991144743c58e95c37/master.m3u8?1676393588"
+                },
+                {
+                    "id": null,
+                    "title": "Animación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/672/717e1fcd8ace4effad088532c811c531/master.m3u8?1676393583"
+                },
+                {
+                    "id": null,
+                    "title": "Animación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/673/5ac4a5e78495b3ef209f73c93a600996/master.m3u8?1676393584"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/674/7667920e538dca9f0fe495379bb426f5/master.m3u8?1676393582"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/675/5f18841a96330b320c534ac81ac262f4/master.m3u8?1676393582"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/676/41cfe0458a7d2a85935d7ac03abdec54/master.m3u8?1676393582"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/029/517/4b6dcb65c3bb51b755706df13f59ed0e/master.m3u8?1676393986"
+                },
+                {
+                    "id": null,
+                    "title": "Render",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/677/5ff6e1f2dc0d06f82fcf44e9356be02d/master.m3u8?1676393584"
+                },
+                {
+                    "id": null,
+                    "title": "Compositing 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/742/a6bd4e5696c2ba1a573b74836d0c90e2/master.m3u8?1676393624"
+                },
+                {
+                    "id": null,
+                    "title": "Compositing 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/743/920963b973a77f5fdfbe4356f8a2ff0c/master.m3u8?1676393616"
+                },
+                {
+                    "id": null,
+                    "title": "Compositing 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/744/4b29073bc590255e1766b9aa13d05573/master.m3u8?1676393617"
+                },
+                {
+                    "id": null,
+                    "title": "Compositing 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/745/71970f8678e5dd60016c84a8f9d35839/master.m3u8?1676393619"
+                },
+                {
+                    "id": null,
+                    "title": "Compositing 5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/746/03432e62bdf97421c2579264096dbd44/master.m3u8?1676393619"
+                },
+                {
+                    "id": null,
+                    "title": "Compositing 6",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/747/686ecb9e324fa0204c859bb2a023010c/master.m3u8?1676393618"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2be5hf.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Engañemos al ojo humano",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Partículas 3D 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/678/592233761a3ae839ab55cc27ac6fc301/master.m3u8?1676393584"
+                },
+                {
+                    "id": null,
+                    "title": "Partículas 3D 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/679/fda4675e350031ba9423b8c3b1cb6fc4/master.m3u8?1676393585"
+                },
+                {
+                    "id": null,
+                    "title": "Partículas 3D 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/680/5fcd0a4ce5eb22bec5f0c9f234b8450b/master.m3u8?1676393585"
+                },
+                {
+                    "id": null,
+                    "title": "Partículas 3D 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/681/88290efd3bbbb2546bc38a01d2b9588a/master.m3u8?1676393591"
+                },
+                {
+                    "id": null,
+                    "title": "Partículas 3D 5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/682/e3a751aa4b992eecd3a497d4600660ff/master.m3u8?1676393588"
+                },
+                {
+                    "id": null,
+                    "title": "Partículas 3D 6",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/683/13b15d1424891fd99d3410fca1da67fc/master.m3u8?1676393586"
+                },
+                {
+                    "id": null,
+                    "title": "VFX Adicionales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/684/985800f3b56bd99bcab9839f7e0e1db0/master.m3u8?1676393589"
+                },
+                {
+                    "id": null,
+                    "title": "VFX Adicionales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/028/685/bc31bced18dfff92a0bae505a5f14558/master.m3u8?1676393589"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/a6ijay.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/tf9cqg.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1686,
+        "product_name": "Integration of 3D Elements in Real Environments",
+        "teacher_name": "Diego Velasquez",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 32,
+        "course_total_duration_sec": 24502,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

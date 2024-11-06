@@ -1,0 +1,153 @@
+{
+    "id": "4484",
+    "title": "Narración de una historia personal frente a una audiencia",
+    "url": "https://www.domestika.org/es/courses/4484-narracion-de-una-historia-personal-frente-a-una-audiencia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/193/da3aa0d54517b7191a479a9cecf25ca2/master.m3u8?1676412596"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/194/abd1e04d75c74e5f95d25d4617c2a7c7/master.m3u8?1676412596"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9b9x4a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El arte de contar historias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El arte de contar historias para contarse a sí mismo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/195/a2d77cd02f8bd19c1656f57613a13a15/master.m3u8?1676412598"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/196/0dc9bfb4a6438d6c3901b047e0a24fca/master.m3u8?1676412597"
+                },
+                {
+                    "id": null,
+                    "title": "La estructura y el montaje de la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/197/79cece472b0b203b87003d39f5a7d4ea/master.m3u8?1676412599"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eucsqm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Llevar la historia a la oralidad",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escribir tu historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/198/36a234e89f813a8085c2b4f4bda84ce6/master.m3u8?1676412599"
+                },
+                {
+                    "id": null,
+                    "title": "Aprehender la historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/199/a7d0f2e5aa896ec5f9f3805bfe5be94f/master.m3u8?1676412599"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos escénicos de la narración oral",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/200/28e7798c7bf473f44691b0474893d5f4/master.m3u8?1676412601"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8oy9do.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La práctica y la búsqueda de la propia voz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Practicar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/218/f49cd0be3abe643cc80ee4852bf83767/master.m3u8?1676412609"
+                },
+                {
+                    "id": null,
+                    "title": "La propia voz y el sello personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/219/c51a150bb4aeea957cadcb98e3bc5d71/master.m3u8?1676412612"
+                },
+                {
+                    "id": null,
+                    "title": "Contar tu historia hacer el video",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/220/82275c9954aad1d11a7fd0a671ea01c9/master.m3u8?1676412611"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/064/221/14722e8e4b7190f7831bac9db776155a/master.m3u8?1676412611"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5zb675.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/oszaco.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4484,
+        "product_name": "Telling a Personal Story in Front of an Audience",
+        "teacher_name": "Nicole Castillo",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5932,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

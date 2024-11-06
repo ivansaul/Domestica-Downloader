@@ -1,0 +1,170 @@
+{
+    "id": "379",
+    "title": "Creatividad publicitaria lleva tus ideas al siguiente nivel",
+    "url": "https://www.domestika.org/es/courses/379-creatividad-publicitaria-lleva-tus-ideas-al-siguiente-nivel/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/511/faa2b8d70530b6e0c192a692f2ae8f63/master.m3u8?1676385374"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/512/7022d9b953924a4abd25684ed3cc8ae3/master.m3u8?1676385384"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4zq5lk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Brief  Lo que el cliente quiere vs lo que el cliente necesita",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/513/7cd325bccce7f32f925cf1a114193975/master.m3u8?1676385375"
+                },
+                {
+                    "id": null,
+                    "title": "El dibrief qué es",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/517/924874be918574f4664c5bcdc468b15b/master.m3u8?1676385378"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3vsvj4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estrategia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Estrategia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/529/97ce7da73347730551eaf8c4c32705e6/master.m3u8?1676385388"
+                },
+                {
+                    "id": null,
+                    "title": "Casos de éxito en planeación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/531/7ed370f749f69e110bd3a1d3ea01bfe4/master.m3u8?1676385387"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yq5miu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo Creativo  La Idea el puente entre la lógica y la magia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollo Creativo Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/541/248be56cd0465aedbc1df81e34ea30e6/master.m3u8?1676385392"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo Creativo Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/542/49109bbdfda877257f4c2ad711424e50/master.m3u8?1676385392"
+                },
+                {
+                    "id": null,
+                    "title": "La idea y el criterio creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/543/69bb925624af0437aeebc37161a088c4/master.m3u8?1676385393"
+                },
+                {
+                    "id": null,
+                    "title": "Craft y Ejecución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/544/47a88987a68f8fb607c115ba3c5533d9/master.m3u8?1676385398"
+                },
+                {
+                    "id": null,
+                    "title": "Video Case  Board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/545/e4ab9c4669af1ffa6d0add1cbcc33067/master.m3u8?1676385395"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bt14ly.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Presentación a Cliente  Si No Vende No Es Creativo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Si no vende no es creativo  Conozca al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/546/b9b43af8ce93e0e8befb95e876a46092/master.m3u8?1676385392"
+                },
+                {
+                    "id": null,
+                    "title": "Si no vende no es creativo Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/547/109607836810428e3d91a830c31a93e3/master.m3u8?1676385394"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ti0b9p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ifwin2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 379,
+        "product_name": "Advertising Creativity: Take your Ideas to the Next Level",
+        "teacher_name": "Ruano Rivera",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8971,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

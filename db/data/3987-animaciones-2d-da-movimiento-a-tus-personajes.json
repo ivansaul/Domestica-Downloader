@@ -1,0 +1,240 @@
+{
+    "id": "3987",
+    "title": "Animaciones 2D da movimiento a tus personajes",
+    "url": "https://www.domestika.org/es/courses/3987-animaciones-2d-da-movimiento-a-tus-personajes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/041/93f3c155ceb23723103952f0f791ea3c/master.m3u8?1676408074"
+                },
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/072/542/8b7175a5f67719b5635aa72e6fc142b6/master.m3u8?1699355896"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0f4bnx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empezando",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El brief creativo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/042/730dc1f7f40a474371febfc150f061f7/master.m3u8?1676408074"
+                },
+                {
+                    "id": null,
+                    "title": "Referencias inspiración y color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/043/2a22a8d50248b4521e1450f538d5a560/master.m3u8?1676408078"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto aproximado y guión de color 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/044/b30b3e11250c0e77c6f7b229d0188d56/master.m3u8?1676408077"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto aproximado y guión de color 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/045/cbd63dc0726a06c17fdf40e70e10c494/master.m3u8?1676408074"
+                },
+                {
+                    "id": null,
+                    "title": "Refinando la Ilustración 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/046/6d1ef97d2843920bab7c090e83b001d0/master.m3u8?1676408076"
+                },
+                {
+                    "id": null,
+                    "title": "Refinando la Ilustración 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/047/28639d4037b0068a9dba6678e1c459d3/master.m3u8?1676408077"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/aob54i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparándonos para la Animación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cuáles son los principios de la animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/048/b98d27875b0ad28bdc70a077d3b7cb63/master.m3u8?1676408075"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de la animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/049/ff353468c5bbb0795f07f73cbe6bd987/master.m3u8?1676408077"
+                },
+                {
+                    "id": null,
+                    "title": "La interfaz de After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/050/eff5d1e12e546562636b8f389299f4af/master.m3u8?1676408079"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fex4d6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Animación en After Effects y Procreate",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "After Effects animación básica de personajes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/051/264bde4612e3116ff982b0cc624fd35d/master.m3u8?1676408080"
+                },
+                {
+                    "id": null,
+                    "title": "After Effects animación básica de personajes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/052/16c7ef825c7eac0048a3ea8a1681253b/master.m3u8?1676408079"
+                },
+                {
+                    "id": null,
+                    "title": "After Effects animación básica de personajes 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/053/7c45123c3d605f612739cec4f179a7a4/master.m3u8?1676408080"
+                },
+                {
+                    "id": null,
+                    "title": "After Effects movimiento de personajes superpuestos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/054/821923e78ffcdd319492fc0a261dab5b/master.m3u8?1676408080"
+                },
+                {
+                    "id": null,
+                    "title": "After Effects movimiento de personajes superpuestos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/055/38be5345b773746bb22b2413eaccb142/master.m3u8?1676408082"
+                },
+                {
+                    "id": null,
+                    "title": "After Effects movimiento de personajes superpuestos 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/056/04cb59523447dff419363c26e7ee6210/master.m3u8?1676408083"
+                },
+                {
+                    "id": null,
+                    "title": "After Effects La ropa del personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/057/0e856d6273897b7e7a1da4ab87243f01/master.m3u8?1676408085"
+                },
+                {
+                    "id": null,
+                    "title": "After Effects animando flores y detalles 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/058/26c8a565a4fe59a454e64c664d5ce5c1/master.m3u8?1676408084"
+                },
+                {
+                    "id": null,
+                    "title": "After Effects Animación de flores y detalles 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/059/8c153823805f3380ab1873a36470aa58/master.m3u8?1676408089"
+                },
+                {
+                    "id": null,
+                    "title": "Procreate Animando la hoja 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/060/3d0cb285a2785b92657e89e00f8cc6bf/master.m3u8?1676408084"
+                },
+                {
+                    "id": null,
+                    "title": "Procreate Animando la hoja 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/061/ee0f274a138dde51c72536973d2dd486/master.m3u8?1676408084"
+                },
+                {
+                    "id": null,
+                    "title": "After Effects combinar y ajustar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/062/c3b6b8f1d93c0c7e6f9614ff2cef92be/master.m3u8?1676408085"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/v3nia4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Extras renderizado y uso compartido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Agregar reflejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/063/a0ee9fe489ff2c4849c8e42c5e30be67/master.m3u8?1676408083"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes de color y brillo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/064/4b054141cff3de4ddad357648a532e4c/master.m3u8?1676408083"
+                },
+                {
+                    "id": null,
+                    "title": "Representación para redes sociales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/065/aebb271ebea5d3b74f5df400719efee8/master.m3u8?1676408086"
+                },
+                {
+                    "id": null,
+                    "title": "Representación para redes sociales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/057/066/6dd82b8e08a9fc5698d21c04830837ef/master.m3u8?1676408086"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jebdww.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/cetsbq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3987,
+        "product_name": "2D Animations: Make Your Character Illustrations Move",
+        "teacher_name": "Nuria Boj",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 27,
+        "course_total_duration_sec": 22093,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

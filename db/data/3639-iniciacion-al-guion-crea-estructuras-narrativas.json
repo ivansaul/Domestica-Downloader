@@ -1,0 +1,173 @@
+{
+    "id": "3639",
+    "title": "Iniciación al guion crea estructuras narrativas",
+    "url": "https://www.domestika.org/es/courses/3639-iniciacion-al-guion-crea-estructuras-narrativas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/610/23397ef2bda12ab4548e8651ed5ba0d7/master.m3u8?1676406426"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/611/32750c40a69dcc4180f66a088b8e67c9/master.m3u8?1676406427"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/60vbhp.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los elementos básicos de una historia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/612/c9998d7c3a7bccbe78a9a1965c32b225/master.m3u8?1676406429"
+                },
+                {
+                    "id": null,
+                    "title": "El protagonista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/613/36e7f92b1218c05ff2a827530b7b2f09/master.m3u8?1676406434"
+                },
+                {
+                    "id": null,
+                    "title": "La meta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/614/1f274248f46c862aa47f9052b0f18075/master.m3u8?1676406430"
+                },
+                {
+                    "id": null,
+                    "title": "La oposición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/615/92f3841fb790d35b06133feb7d45e911/master.m3u8?1676406430"
+                },
+                {
+                    "id": null,
+                    "title": "Los desafíos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/616/f734e90ebb51430f90fce1d800ce7f18/master.m3u8?1676406433"
+                },
+                {
+                    "id": null,
+                    "title": "La estructura de tres actos y los puntos de inflexión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/617/ddb0488a5dd3b327c22b61ae9766c2d7/master.m3u8?1676406432"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zk0uvu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Escribir una sinopsis",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El Logline",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/618/aee46814eea443bf90e22c24a6a5b41c/master.m3u8?1676406433"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de la estructura y los puntos de la trama",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/619/9ac5353135cafcfce65a18e42247af0e/master.m3u8?1676406432"
+                },
+                {
+                    "id": null,
+                    "title": "El contexto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/673/86610afcf71486530c24bea348d28a73/master.m3u8?1676406460"
+                },
+                {
+                    "id": null,
+                    "title": "El conflicto y la escalada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/675/4ecdf80ff65e50a1fbfa4fb88f09fa1c/master.m3u8?1676406459"
+                },
+                {
+                    "id": null,
+                    "title": "La resolución",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/676/fae2978503c66b710bc92deb062f4f13/master.m3u8?1676406461"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mblcfe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De la sinopsis al guion",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Consejos para pulir la sinopsis",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/677/701b30b33aef32a614af7b15fa3d59ca/master.m3u8?1676406462"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo comenzar a escribir el guion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/682/eb82fce67fa7e29c74d5e7e3443656f2/master.m3u8?1676406467"
+                },
+                {
+                    "id": null,
+                    "title": "Comercialización del guion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/689/45476ab251465be08bfdc34eb89f3f8f/master.m3u8?1676406467"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ddos2k.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/e3e890.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3639,
+        "product_name": "Screenplay Fundamentals: Build Story Structures",
+        "teacher_name": "Naomi Beaty",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 5928,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

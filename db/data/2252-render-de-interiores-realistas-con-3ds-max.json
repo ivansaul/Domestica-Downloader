@@ -1,0 +1,294 @@
+{
+    "id": "2252",
+    "title": "Render de interiores realistas con 3ds Max",
+    "url": "https://www.domestika.org/es/courses/2252-render-de-interiores-realistas-con-3ds-max/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/806/a98a697c9c8b65ab51832c1e4e474c80/master.m3u8?1676401651"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/807/8dce9b0fa6acfeb7de5648e501a9a0ee/master.m3u8?1676401651"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/prmmop.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cómo entender el brief",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/812/2cdd3e978669ba2b24db0c48e1c1e9e9/master.m3u8?1676401655"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de AutoCAD DWG para la importación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/813/090ed51980889da62df50b6319ac6fa1/master.m3u8?1676401661"
+                },
+                {
+                    "id": null,
+                    "title": "Importación y posicionamiento de dibujos en 3ds Max",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/814/3e2e152e00c56c4cb17a8fb2ecf29500/master.m3u8?1676401656"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sgwre2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado del edificio",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado del volumen básico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/815/d0c8578eedbe9645067fba73e08347fe/master.m3u8?1676401658"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de paneles de Corten",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/816/57cbf0858a6aed887c80da0d3166d155/master.m3u8?1676401665"
+                },
+                {
+                    "id": null,
+                    "title": "Revestimiento de madera de modelado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/817/36506f179b6b1376df5c6478c7b59e21/master.m3u8?1676401660"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado y posicionamiento de persianas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/818/b34d35487c8f399a5cc870c221c16cfc/master.m3u8?1676401664"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de detalles del edificio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/819/5158b51d6926f0857a4c423f331b66df/master.m3u8?1676401662"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lp9nnj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado de detalles y terreno adicionales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Red de modelado en la terraza",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/820/d4932f5504770a0aad2d2c17af3b04b2/master.m3u8?1676401660"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de las paredes del sótano y el estacionamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/821/9ed50ecca95eb21fe566e8f7ebccf823/master.m3u8?1676401663"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de escaleras exteriores 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/822/fac86c3460ea088ed42bdaf6dac3516b/master.m3u8?1676401664"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de escaleras exteriores 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/823/91a97731e5aaf082c318c6cbe61ef03c/master.m3u8?1676401667"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado del estado existente del terreno",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/824/089667188cddadb3947799b252b4f4a7/master.m3u8?1676401661"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado del terreno según el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/825/c1e2f5e0e51eb1e03cc1815036a3119c/master.m3u8?1676401667"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y3mo2s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Composición iluminación y sombreado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Escena predeterminada e importación de un modelo 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/826/5f746a1e19c1f1ea98fcaf46d37b507f/master.m3u8?1676401662"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración básica de iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/827/7ce8d983cd10f5223736c3db627fce1e/master.m3u8?1676401662"
+                },
+                {
+                    "id": null,
+                    "title": "Crear sombreadores simples",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/828/c7ebb29372c60ccdf72b9da7840a5ffa/master.m3u8?1676401666"
+                },
+                {
+                    "id": null,
+                    "title": "Importación de sombreadores desde Quixel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/829/98559c49ed67c90a1947ef9eaeb4b5f2/master.m3u8?1676401668"
+                },
+                {
+                    "id": null,
+                    "title": "Crear sombreadores complejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/483/b19d2b860318ce13b0658a5254e82869/master.m3u8?1676403077"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizar el medio ambiente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/830/162cc7d61af192ec4832b201be70e8ef/master.m3u8?1676401669"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/yjtorv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ambiente y Atmósfera",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Adición de césped con MultiScatter",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/831/c0c35f59a328e82170c9b829b3477188/master.m3u8?1676401670"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar vegetación adicional",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/832/7f04bd2414154e8d2f2b1550065ad65c/master.m3u8?1676401672"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar detalles y elementos circundantes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/833/df8ef3cbc0ba1fcd84d3f4a124cb4f58/master.m3u8?1676401670"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes finales de la escena",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/834/dfa5a0810e13d64e86a90071c1fa70dc/master.m3u8?1676401670"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de renderizado final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/835/1092013c90fe9b28ba393ce52b1a2e2d/master.m3u8?1676401667"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión final de renderizado y LightMix en VRay",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/836/57028ad5d6eb50027ece6b857e93b4d8/master.m3u8?1676401668"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zfkw12.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Postproducción en Photoshop",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Abrir Render en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/837/2d3c22fc470e3b3ab11d798c57705a72/master.m3u8?1676401670"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con pases de renderizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/838/76f2d7edb2345bdd0d2a2597ba886758/master.m3u8?1676401671"
+                },
+                {
+                    "id": null,
+                    "title": "Complemento Nik Color Efex Pro para Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/840/60200f6a63f7533ce75b17e303f0b30e/master.m3u8?1676401669"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/841/9eec53e81221c89f6df4f3ac8f19e3eb/master.m3u8?1676401673"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar séquito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/046/069/f4965c6393597d2c9c4a4400ec147c15/master.m3u8?1676402870"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ygmpw9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/soo84e.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2252,
+        "product_name": "Realistic Rendering of Spaces with 3ds Max",
+        "teacher_name": "Milan Stevanović",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 33,
+        "course_total_duration_sec": 25941,
+        "total_units": 7,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

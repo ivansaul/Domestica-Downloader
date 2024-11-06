@@ -1,0 +1,158 @@
+{
+    "id": "326",
+    "title": "Retrato geométrico minimalista",
+    "url": "https://www.domestika.org/es/courses/326-retrato-geometrico-minimalista/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/040/620bd2ee516754ecf3d7b1e1af09a44a/master.m3u8?1676384371"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/041/5b4a9d7c3b6ac58572eff5a3efda87b3/master.m3u8?1676384374"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rrb4m9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Capturando la esencia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Aprender a observar qué nos hace únicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/042/9729590a65f7cae1337c4ee75793537e/master.m3u8?1676384374"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de referencias e investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/043/c0fb37c201f81e27d42dccc6c2ac54d2/master.m3u8?1676384376"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/044/e9c47ecedb476a56f38e4d5b3285a2b5/master.m3u8?1676384375"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hl7f1e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Liberar la esencia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Moodboard y dirección artística",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/045/bba6851cc4d8f4a468471e6e7cb65b78/master.m3u8?1676384376"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/046/3e3bc5c8a7e167f8c808af85cbd555be/master.m3u8?1676384375"
+                },
+                {
+                    "id": null,
+                    "title": "Espacio de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/047/4725d0f2dd538b59491cc2138d1a289e/master.m3u8?1676384377"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción del retrato geometría y gradientes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/048/bf07ff6588d02e5cfe5e1422fd146e7d/master.m3u8?1676384385"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/049/845fc7230246aa380337c9bcd67eb237/master.m3u8?1676384379"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ppv3jx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ampliando en la colección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/050/ad42b2c5165ee342047330456d4aa41f/master.m3u8?1676384380"
+                },
+                {
+                    "id": null,
+                    "title": "Toques finales y acabados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/051/5e8be614cc96ab9a20d6288fabeff5fc/master.m3u8?1676384378"
+                },
+                {
+                    "id": null,
+                    "title": "Entrega",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/008/052/1533aa8cbc9f93ea592fd23e7d2fd173/master.m3u8?1676384379"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vqbhsc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/38rbdu.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 326,
+        "product_name": "Minimalist Geometric Portrait",
+        "teacher_name": "Maria Picassó i Piquer",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5597,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

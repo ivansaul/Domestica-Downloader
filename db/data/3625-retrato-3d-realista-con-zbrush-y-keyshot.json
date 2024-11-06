@@ -1,0 +1,213 @@
+{
+    "id": "3625",
+    "title": "Retrato 3D realista con ZBrush y KeyShot",
+    "url": "https://www.domestika.org/es/courses/3625-retrato-3d-realista-con-zbrush-y-keyshot/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/123/92c213d0cc6a0b767b79877adf47c51f/master.m3u8?1676405665"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/124/ce627d028336b0a7a42f9290464ceb28/master.m3u8?1676405667"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/acqy3v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación para el modelado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear un mood board 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/120/05d564981795e12a863a0e31427f663a/master.m3u8?1676405668"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un mood board 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/122/2486dac2f5f839d24530c662c5dc53b8/master.m3u8?1676405666"
+                },
+                {
+                    "id": null,
+                    "title": "Software utilizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/125/a1ee452ff8632b43ad4b2091cd89f645/master.m3u8?1676405668"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos clave de un retrato en 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/126/7e5a90261cda975ddb0969d2f9439ffc/master.m3u8?1676405667"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6trqf1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primera fase de bloqueo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/129/cee97f91b4f31b4da92d0ef1d250d41b/master.m3u8?1676405674"
+                },
+                {
+                    "id": null,
+                    "title": "Primer bloqueo fase 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/132/5566ed551515196f832ae140c01bdcab/master.m3u8?1676405674"
+                },
+                {
+                    "id": null,
+                    "title": "Segunda fase de bloqueo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/146/13fcaffbb6e2158196b8a8cd80d5008d/master.m3u8?1676405676"
+                },
+                {
+                    "id": null,
+                    "title": "Segunda fase de bloqueo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/145/f4eaa164ebee9c2bb562cecc5d04d277/master.m3u8?1676405679"
+                },
+                {
+                    "id": null,
+                    "title": "Primera fase de definición de las formas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/147/89139936e44ae43ab5621d49bb9243ca/master.m3u8?1676405679"
+                },
+                {
+                    "id": null,
+                    "title": "Primera fase de definición de las formas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/148/d5a984b0a20671931571a4c30939b4e9/master.m3u8?1676405683"
+                },
+                {
+                    "id": null,
+                    "title": "Segunda fase de definición de las formas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/149/1469ba8fad1d62379770f7ce5cb4d597/master.m3u8?1676405684"
+                },
+                {
+                    "id": null,
+                    "title": "Topología 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/190/d88cbab0151ad7da8996a6bbd2f5213f/master.m3u8?1676405703"
+                },
+                {
+                    "id": null,
+                    "title": "Topología 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/191/170633e50d7eb72cd7c5c17de2cffd03/master.m3u8?1676405706"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vs3zxe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dar realismo y finalizar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Refinamiento del modelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/202/384f03887e551038e688fd7be1a7a1e7/master.m3u8?1676405714"
+                },
+                {
+                    "id": null,
+                    "title": "Procesamiento de la piel 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/210/a16f2828c08c212ed58f091e7782e063/master.m3u8?1676405716"
+                },
+                {
+                    "id": null,
+                    "title": "Procesamiento de la piel 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/216/4a3b61bad67ed785c252cad791f69420/master.m3u8?1676405719"
+                },
+                {
+                    "id": null,
+                    "title": "Primera fase de groom 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/225/ce6c62d3b4469e12650a10b308f40ca1/master.m3u8?1676405723"
+                },
+                {
+                    "id": null,
+                    "title": "Primera fase de groom 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/233/c7abd8a5cbbe8b53d189feaa1e39c0fc/master.m3u8?1676405727"
+                },
+                {
+                    "id": null,
+                    "title": "Segunda fase de groom 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/237/85826d9cfb7dd06c5259ff4c5a8000d8/master.m3u8?1676405729"
+                },
+                {
+                    "id": null,
+                    "title": "Segunda fase de groom 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/241/7d9edd073cff7b143c077e785586ac39/master.m3u8?1676405731"
+                },
+                {
+                    "id": null,
+                    "title": "Renderizado y acabados 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/261/8c929554f0ece9c03d2fdd9e92de836b/master.m3u8?1676405737"
+                },
+                {
+                    "id": null,
+                    "title": "Renderizado y acabados 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/260/26d69575051eada72614fc001d3e82ad/master.m3u8?1676405735"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qyz0on.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/c0b2ed.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3625,
+        "product_name": "Realistic 3D Portraits with ZBrush and KeyShot",
+        "teacher_name": "Davide Sasselli",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 19518,
+        "total_units": 4,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

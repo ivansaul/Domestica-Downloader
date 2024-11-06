@@ -1,0 +1,221 @@
+{
+    "id": "333",
+    "title": "Collage animado con Adobe After Effects",
+    "url": "https://www.domestika.org/es/courses/333-collage-animado-con-adobe-after-effects/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/908/e6f7a29bfe5d6b7effd5a7102bc7edd3/master.m3u8?1676384320"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/909/62a4d0265936938158c1dd422c512bf3/master.m3u8?1676384323"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xfgpsn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Buscando el material",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Imágenes libres y gratuitas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/910/8692675ac4610b707a571696461942a3/master.m3u8?1676384325"
+                },
+                {
+                    "id": null,
+                    "title": "Y dónde consigues esas fotos antiguas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/911/88f726f9bf736b41dca1bcb1d260c3d8/master.m3u8?1676384327"
+                },
+                {
+                    "id": null,
+                    "title": "Bonus Track músicas y sonidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/912/7d4908869fdcf6427c12afb2a297dc96/master.m3u8?1676384327"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/piozph.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación del material",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Storyboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/913/3a66f0314a5d5a16e177bff0f9e7e30d/master.m3u8?1676384333"
+                },
+                {
+                    "id": null,
+                    "title": "Recortar las fotos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/914/b5de08763eacc237960364311b98f93d/master.m3u8?1676384329"
+                },
+                {
+                    "id": null,
+                    "title": "Recortar las fotos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/915/5b50934b5f9b719915280bf5c1a51fcc/master.m3u8?1676384328"
+                },
+                {
+                    "id": null,
+                    "title": "Importa el material en el After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/916/70e5bbc8cbe234b3ac85198976c76558/master.m3u8?1676384327"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vq7unm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De lleno en el After Effects",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción al After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/917/c2326747967095513c84005107202b3a/master.m3u8?1676384327"
+                },
+                {
+                    "id": null,
+                    "title": "La cámara en el After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/919/cc2379dd41966789c75c1e3119a887dc/master.m3u8?1676384329"
+                },
+                {
+                    "id": null,
+                    "title": "Animando escenas 11",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/920/b88319968f6593f6ac825714d3ef5ec0/master.m3u8?1676384332"
+                },
+                {
+                    "id": null,
+                    "title": "Animando escenas 12",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/921/dca87576025af91571243395e32494ee/master.m3u8?1676384332"
+                },
+                {
+                    "id": null,
+                    "title": "Animando Escenas 13",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/922/65eb974524aed54d655c77a724518567/master.m3u8?1676384331"
+                },
+                {
+                    "id": null,
+                    "title": "Animando Escenas 14",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/923/9c3f9d2a8125060940717bbd41923fba/master.m3u8?1676384333"
+                },
+                {
+                    "id": null,
+                    "title": "Animando Escenas 15",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/924/008165d445b27494730867fff63fa328/master.m3u8?1676384334"
+                },
+                {
+                    "id": null,
+                    "title": "Animando escenas 21",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/925/cb485e21114ea317b081730c7826089f/master.m3u8?1676384336"
+                },
+                {
+                    "id": null,
+                    "title": "Animando escenas 22",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/926/8b40faf13bf0fc97fceeed2ed195e417/master.m3u8?1676384333"
+                },
+                {
+                    "id": null,
+                    "title": "Animando escenas 23",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/927/09e3ff3b86e1237baed873522ae46ee0/master.m3u8?1676384335"
+                },
+                {
+                    "id": null,
+                    "title": "Animando escenas 24",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/928/c9789b5d6cb18e4dbdf43a1e6428e830/master.m3u8?1676384335"
+                },
+                {
+                    "id": null,
+                    "title": "Retoques finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/929/7cfa8202b9dc892360cab6b64cf38dba/master.m3u8?1676384337"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/npsfns.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exportar el vídeo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Renderizar el proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/930/c70be19b3c8e5fc6aad87c66dd8f405c/master.m3u8?1676384336"
+                },
+                {
+                    "id": null,
+                    "title": "Crear un GIF con nuestro vídeo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/007/931/a80208b844b6bf2831366d37ce0e2676/master.m3u8?1676384339"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h0uy12.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vmn999.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 333,
+        "product_name": "Animated Collage with Adobe After Effects",
+        "teacher_name": "Joseba Elorza",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 23,
+        "course_total_duration_sec": 16615,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

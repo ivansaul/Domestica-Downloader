@@ -1,0 +1,169 @@
+{
+    "id": "1709",
+    "title": "Libro álbum infantil de principio a fin",
+    "url": "https://www.domestika.org/es/courses/1709-libro-album-infantil-de-principio-a-fin/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/775/e5d0d53704bc0eda69fca7acf6f6c9fd/master.m3u8?1676392047"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/776/79d534cfc3a02c4a7814c68cd8835038/master.m3u8?1676392046"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/777/6cd41d1538223408a3d4357f286d286e/master.m3u8?1676392044"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zlv47e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Entender el libro álbum y la narración visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un libro álbum El poder narrativo y elocuente de la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/778/a2082d8027b4263ff9e774d72155918a/master.m3u8?1676392045"
+                },
+                {
+                    "id": null,
+                    "title": "La secuencia visual y la narración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/779/f4017305a51bf987e100da6f16207100/master.m3u8?1676392046"
+                },
+                {
+                    "id": null,
+                    "title": "La relación entre el actor el escenario y el narrador",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/780/0fa2669284863f9415643ba749aecd9e/master.m3u8?1676392052"
+                },
+                {
+                    "id": null,
+                    "title": "El juego entre el texto y la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/781/5323e17e822933cf9739f60e12cef156/master.m3u8?1676392051"
+                },
+                {
+                    "id": null,
+                    "title": "Caracterización personaje y punto de vista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/782/3685c97666a01ba3cb9d529b04be6460/master.m3u8?1676392046"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/10dc5z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando el storyboard de nuestro libro álbum",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La elección del texto y sus posibles interpretaciones en lo visual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/783/6a744faf889596db0684d78c6122d29d/master.m3u8?1676392047"
+                },
+                {
+                    "id": null,
+                    "title": "Los primeros thumbnails y el storyboard 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/790/07c6282e5cc12fb05e6159b4baf1a194/master.m3u8?1676392051"
+                },
+                {
+                    "id": null,
+                    "title": "Los primeros thumbnails y el storyboard 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/784/c8e8c06cf92341ef0d351445d5d6612f/master.m3u8?1676392050"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión de la secuencia relación entre texto e imagen y la elocuencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/785/b04314f6c181c1508548c6e246bcb8b5/master.m3u8?1676392047"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de los personajes y del escenario",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/786/adb4dd03c2c32b11aad9e959d02e0cf3/master.m3u8?1676392049"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/505xus.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La maqueta y finalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Transferencia del storyboard y prueba de lectura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/787/289b09836a2f1eb2f31d3029708bf9ec/master.m3u8?1676392049"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización de la maqueta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/025/788/cd6151ddfde588ca12374e84e551339d/master.m3u8?1676392049"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8ro49n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/npeqdn.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1709,
+        "product_name": "Creation of a Children's Picturebook",
+        "teacher_name": "Claudia Rueda",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9809,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

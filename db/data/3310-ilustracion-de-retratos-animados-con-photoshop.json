@@ -1,0 +1,225 @@
+{
+    "id": "3310",
+    "title": "Ilustración de retratos animados con Photoshop",
+    "url": "https://www.domestika.org/es/courses/3310-ilustracion-de-retratos-animados-con-photoshop/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/206/8069007fa1671af8cab7ea8dbf974c9f/master.m3u8?1676405712"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/209/6213372738e0d7e62e8db95f307de830/master.m3u8?1676405715"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bq5wmd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear un mood board y una paleta de colores para la ilustración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de un mood board y una paleta de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/211/ad3d924424b7387c3097171ea88401f0/master.m3u8?1676405717"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar una cabeza en perspectiva",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/214/259c35558c6c0202a39629feb2a705da/master.m3u8?1676405716"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo puedo caracterizar el rostro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/218/86b138df5727c0e2c01dbf334eac1cb8/master.m3u8?1676405718"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo dibujar un retrato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/219/21fa80410c43f16e5f6121dee3e7ad01/master.m3u8?1676405721"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2seey1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso digital la figura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Boceto de un personaje para el retrato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/221/7b336b5002524c62bde6baa1670494fb/master.m3u8?1676405719"
+                },
+                {
+                    "id": null,
+                    "title": "Elaboración del retrato la cabeza 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/222/cba7c2df8cbe55489615cd5174d2285a/master.m3u8?1676405720"
+                },
+                {
+                    "id": null,
+                    "title": "Elaboración del retrato la cabeza 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/223/780d4291b44eb7e3d604248cd2a5b690/master.m3u8?1676405720"
+                },
+                {
+                    "id": null,
+                    "title": "El pelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/226/dda78a0e5d9c92e01b568edd81db9a61/master.m3u8?1676405723"
+                },
+                {
+                    "id": null,
+                    "title": "Ropa y complementos qué viste el personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/228/8e637f018b58bfab67e61c56444f359f/master.m3u8?1676405721"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kyk7nu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso digital los detalles",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/229/43cd972627885b897482ecc6879e25c7/master.m3u8?1676405721"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos decorativos y figuras secundarias 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/230/204e362e89663ac904b3a52e9e855e13/master.m3u8?1676405726"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos decorativos y figuras secundarias 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/232/089360de0fa4adfe96f81735faadf17e/master.m3u8?1676405723"
+                },
+                {
+                    "id": null,
+                    "title": "La última revisión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/234/bac6ebad4c91c347ec21f1f8f2ab6efd/master.m3u8?1676405725"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/75btgb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La animación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Animar con Photoshop los ajustes más importantes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/235/8ed1027be470f8b2ecb94f72aee771a3/master.m3u8?1676405724"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajar con capas de vídeo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/236/09649d301be75fe727c0c59c6a619a50/master.m3u8?1676405725"
+                },
+                {
+                    "id": null,
+                    "title": "La animación en bruto 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/238/5e853f85016bb27049286ccb7acbff93/master.m3u8?1676405731"
+                },
+                {
+                    "id": null,
+                    "title": "La animación en bruto 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/239/8facfb4a894bce99b92132c5938bec11/master.m3u8?1676405730"
+                },
+                {
+                    "id": null,
+                    "title": "La animación limpia 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/240/b58a4fc75cc04530cc2f5745da3add7c/master.m3u8?1676405733"
+                },
+                {
+                    "id": null,
+                    "title": "La animación limpia 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/242/4433963a63fdab10aadc0841ab2c3f88/master.m3u8?1676405728"
+                },
+                {
+                    "id": null,
+                    "title": "La animación limpia 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/243/368d2d7a0163a6dddb7957438930fee4/master.m3u8?1676405729"
+                },
+                {
+                    "id": null,
+                    "title": "La animación limpia 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/244/d58862daf2f97791050e9afd901a2133/master.m3u8?1676405731"
+                },
+                {
+                    "id": null,
+                    "title": "La exportación de la animación terminada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/245/c100550d825469da68aac356974a9220/master.m3u8?1676405728"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m6fhf7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/syjc52.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3310,
+        "product_name": "Animated Portrait Illustration with Photoshop",
+        "teacher_name": "Martina Hoffmann",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 15472,
+        "total_units": 5,
+        "subtitles_language": [
+            "de",
+            "es",
+            "en",
+            "pt",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "de"
+        ],
+        "original_language": "de"
+    }
+}

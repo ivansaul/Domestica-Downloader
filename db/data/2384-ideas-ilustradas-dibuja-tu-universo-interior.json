@@ -1,0 +1,153 @@
+{
+    "id": "2384",
+    "title": "Ideas ilustradas dibuja tu universo interior",
+    "url": "https://www.domestika.org/es/courses/2384-ideas-ilustradas-dibuja-tu-universo-interior/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/951/abc01565c96083a1aed33962d8695621/master.m3u8?1676397979"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/952/b23cf07d81838b86e60f659d7331c236/master.m3u8?1676397982"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8hbzv9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparándonos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diferentes viñetistas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/953/b0947a5dd0245ff8a2597c0d6fa9bf48/master.m3u8?1676397982"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios para fomentar la imaginación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/954/8e9600d44ae1623b7ff77878483e1804/master.m3u8?1676397984"
+                },
+                {
+                    "id": null,
+                    "title": "Mapa de ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/955/00cfe49af70c3061e550e76157ad8602/master.m3u8?1676397985"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8ucu4c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de una viñeta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Del concepto al texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/956/6b470ecf53ee7f4f8ddd6f82dd88f7ba/master.m3u8?1676397984"
+                },
+                {
+                    "id": null,
+                    "title": "Del texto a la imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/957/528c7887b1820d4bdb67b7f7b7dbf5ea/master.m3u8?1676397986"
+                },
+                {
+                    "id": null,
+                    "title": "Una historia con varias viñetas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/958/8657e3dfb99897e42e86f726c52e137b/master.m3u8?1676397987"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/0cf8yc.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollando nuestra viñeta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Dibujo en digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/959/8e1d75689a0fe77bedacffb4ebbe2c10/master.m3u8?1676397986"
+                },
+                {
+                    "id": null,
+                    "title": "Color y sombra 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/960/3aa7e1cfa3af3750c68f74aef7bebb14/master.m3u8?1676397985"
+                },
+                {
+                    "id": null,
+                    "title": "Color y sombra 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/961/732b7af6ca1ba83837025105d5cee76e/master.m3u8?1676397984"
+                },
+                {
+                    "id": null,
+                    "title": "Consejos para redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/036/962/c4fd047ddfced8b78b06df31fce8d63d/master.m3u8?1676397986"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p8fn4s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/f743zs.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2384,
+        "product_name": "Illustrated Ideas: Draw Your Inner Universe ",
+        "teacher_name": "72kilos",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 8502,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

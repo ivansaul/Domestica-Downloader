@@ -1,0 +1,148 @@
+{
+    "id": "3218",
+    "title": "Tipografía cinética crea conceptos visuales en movimiento",
+    "url": "https://www.domestika.org/es/courses/3218-tipografia-cinetica-crea-conceptos-visuales-en-movimiento/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/241/8b5bcde0f5b62f9bf814d99a3804bc17/master.m3u8?1676403410"
+                },
+                {
+                    "id": null,
+                    "title": "Encuentros profesionales y artísticos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/242/4d244e3d9c801ca520cd72baa3b7c170/master.m3u8?1676403412"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7d9fzl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "palabras en movimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la tipografía cinética",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/243/cd64e060fa88731f3d116e84db5e18ba/master.m3u8?1676403412"
+                },
+                {
+                    "id": null,
+                    "title": "Dónde buscar inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/244/1212e1bcaa9cd6ab7b53adc66ad5312b/master.m3u8?1676403413"
+                },
+                {
+                    "id": null,
+                    "title": "Formatea tu texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/245/2cbd8911c1a3e18fe098165834c7e657/master.m3u8?1676403413"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x23f1r.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Arma tu orquesta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Generar Variaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/247/c31379312539a2bfaea958f174d6c620/master.m3u8?1676403415"
+                },
+                {
+                    "id": null,
+                    "title": "orquestar todo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/248/29185e29119f751d017ddcd0926510e7/master.m3u8?1676403417"
+                },
+                {
+                    "id": null,
+                    "title": "Exportar todo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/249/0f9868b3d9aa2689583d264ed513fdc5/master.m3u8?1676403414"
+                },
+                {
+                    "id": null,
+                    "title": "construye las letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/216/b06a5cb5a096e53c65019368b35acad8/master.m3u8?1676403897"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/16r2jw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Para ir más lejos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Comparte tu trabajo en las redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/251/dbd13793194dea1c75e63fff21ffdaad/master.m3u8?1676403414"
+                },
+                {
+                    "id": null,
+                    "title": "Exploración de otras técnicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/217/2dcca83d30dac976e525179fc54984c3/master.m3u8?1676403894"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eh7dnt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xij0dr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3218,
+        "product_name": "Kinetic Typography: Create a Visual Concept in Motion",
+        "teacher_name": "Simon François",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 5128,
+        "total_units": 4,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

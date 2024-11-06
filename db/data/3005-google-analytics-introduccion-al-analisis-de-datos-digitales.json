@@ -1,0 +1,178 @@
+{
+    "id": "3005",
+    "title": "Google Analytics introducción al análisis de datos digitales",
+    "url": "https://www.domestika.org/es/courses/3005-google-analytics-introduccion-al-analisis-de-datos-digitales/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/079/e0a45ad70d7c3116d34db364f9442585/master.m3u8?1676405642"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/080/956e6b4a411b5deef84b3374206d8374/master.m3u8?1676405643"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zu6cxu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a la analítica digital",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Analítica digital breve historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/081/0d959f0b06cf1995641099aded0a7174/master.m3u8?1676405645"
+                },
+                {
+                    "id": null,
+                    "title": "Google Analytics qué es y cómo funciona 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/082/032aadad4fa7d63a492952936f8aa10e/master.m3u8?1676405648"
+                },
+                {
+                    "id": null,
+                    "title": "Google Analytics qué es y cómo funciona 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/083/6fd9ce05c41db6e1b87cbb05e4694588/master.m3u8?1676405646"
+                },
+                {
+                    "id": null,
+                    "title": "La evolución de Google Analytics",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/084/29a2045fab59ae67d41ccdb42759d5fc/master.m3u8?1676405643"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3ut3ri.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Informes principales en Google Analytics",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Audiencia quiénes ven mi web o app 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/085/b444bf37e11679a8fe27315b09e2107d/master.m3u8?1676405650"
+                },
+                {
+                    "id": null,
+                    "title": "Audiencia quiénes ven mi web o app 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/086/c616007cde02014517bbbfd320892e1d/master.m3u8?1676405650"
+                },
+                {
+                    "id": null,
+                    "title": "Audiencia quiénes ven mi web o app 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/087/208ec1b3630af6e5ab50aebd900904a4/master.m3u8?1676405649"
+                },
+                {
+                    "id": null,
+                    "title": "Adquisición de dónde vienen mis visitantes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/088/8c0f823ef8e02ea67b1951410455eb53/master.m3u8?1676405648"
+                },
+                {
+                    "id": null,
+                    "title": "Adquisición de dónde vienen mis visitantes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/089/15431dbbace8fa8d8388a0bb75a3ec66/master.m3u8?1676405647"
+                },
+                {
+                    "id": null,
+                    "title": "Comportamiento qué hacen en mi web o app 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/090/9e4b8741f537866700fa538bbd2ed87f/master.m3u8?1676405649"
+                },
+                {
+                    "id": null,
+                    "title": "Comportamiento qué hacen en mi web o app 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/091/ade09de0d7426e47f3becd7e9bed6f8b/master.m3u8?1676405650"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6pz6hd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Objetivos visualización de datos y toma de decisiones",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición de objetivos para medir conversiones 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/092/2d576e879a4e2ca9dc75ae64ba77d59d/master.m3u8?1676405650"
+                },
+                {
+                    "id": null,
+                    "title": "Definición de objetivos para medir conversiones 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/093/3a20048eef366a45770874ab1403f0d6/master.m3u8?1676405649"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de informes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/094/199590dd1043cb7c1eb09f9b480d5580/master.m3u8?1676405650"
+                },
+                {
+                    "id": null,
+                    "title": "Toma de decisiones informadas por datos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/095/68ecc0c308553bebfae32738cf2c774d/master.m3u8?1676405656"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2423uv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/2fdh85.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3005,
+        "product_name": "Google Analytics: Introduction to Data Analysis",
+        "teacher_name": "Ricardo Tayar López",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 14114,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "id": "3459",
+    "title": "Introducción a la impresión 3D de cerámica",
+    "url": "https://www.domestika.org/es/courses/3459-introduccion-a-la-impresion-3d-de-ceramica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/002/5020ef31425434b5b6a19496ed563330/master.m3u8?1676404244"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/003/c292be3b471a3eaa2c801e96972fd2db/master.m3u8?1676404245"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bczaco.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos herramientas y materiales de impresión 3D de cerámica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es la impresión 3D de cerámica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/004/8c3491e7919d26e38a953dade203d98b/master.m3u8?1676404246"
+                },
+                {
+                    "id": null,
+                    "title": "Filosofía de diseño pensar en líneas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/005/5460cfe721838a9c64535ab3848ed15a/master.m3u8?1676404247"
+                },
+                {
+                    "id": null,
+                    "title": "Diferentes tipos de impresoras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/006/0be431b1c2c9be544df97a138cf0a51c/master.m3u8?1676404248"
+                },
+                {
+                    "id": null,
+                    "title": "Diferentes tipos de arcilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/007/64254809d02dce31c43bbe3e4836a8ca/master.m3u8?1676404246"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w433ya.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado 3D y rebanado de su conjunto de leche y azúcar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado de una jarra de leche 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/008/7ec57edc733c535f7d129c64b624f2d4/master.m3u8?1676404248"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado de una jarra de leche 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/009/239909e221d8190240290fe4d032b86a/master.m3u8?1676404249"
+                },
+                {
+                    "id": null,
+                    "title": "Modelar un azucarero con patrones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/010/de53cb2600c2e9459b87a15bc56d1210/master.m3u8?1676404250"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración y corte con Prusa Slice",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/011/00e7b288fc151e1a87700f0ce2419be4/master.m3u8?1676404249"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/07a77h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Imprimir tu conjunto de leche y azúcar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparando la arcilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/012/6df50e1af64b453c1106b740a0403f6e/master.m3u8?1676404256"
+                },
+                {
+                    "id": null,
+                    "title": "Llenar los cartuchos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/013/ddfd6acd33cd349d75dd18ffc4b69863/master.m3u8?1676404252"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración del sistema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/014/071dcd6febf7ca4d86a7ba89f7b1df4d/master.m3u8?1676404253"
+                },
+                {
+                    "id": null,
+                    "title": "Impresión 3D de su jarra de leche y azucarero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/015/fa676983b8aba88792e09ef4b3143a2e/master.m3u8?1676404251"
+                },
+                {
+                    "id": null,
+                    "title": "Tratamiento de superficies y acristalamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/049/016/31d04c5645fd1429e23222e93af7de25/master.m3u8?1676404259"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7ouukd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/qycb48.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3459,
+        "product_name": "Introduction to Ceramic 3D Printing",
+        "teacher_name": "Unfold",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9619,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

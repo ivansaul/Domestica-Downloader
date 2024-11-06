@@ -1,0 +1,154 @@
+{
+    "id": "4493",
+    "title": "Diseño de tatuajes fine line simbología y magia",
+    "url": "https://www.domestika.org/es/courses/4493-diseno-de-tatuajes-fine-line-simbologia-y-magia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/585/cbdfb1904011874ea8e73ff48b0c5a4f/master.m3u8?1676412233"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/586/47a76cfc913839abd93c44104479cf03/master.m3u8?1676412233"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t8p2i2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La geografía de la piel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La modificación corporal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/587/4c4f4b9a1ae04afc862bee76e07ad56b/master.m3u8?1676412235"
+                },
+                {
+                    "id": null,
+                    "title": "Viaje a través del tiempo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/588/d8e8bc13810205f2bb860c1995e29017/master.m3u8?1676412236"
+                },
+                {
+                    "id": null,
+                    "title": "Hacer tu grimorio personal signos símbolos sigilos y arquetipos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/589/f0980a11fe941230ac3a10e506c98e61/master.m3u8?1676412243"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6mb96i.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El tatuaje nos cuenta una historia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La figura femenina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/590/e7647adcd8047a376fe0d64e4432c4ae/master.m3u8?1676412241"
+                },
+                {
+                    "id": null,
+                    "title": "La figura femenina con volumen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/591/a9f3e35be02f5143e98b4224512ca701/master.m3u8?1676412242"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo componer una pieza mucho más interesante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/592/2b2c00420caa1f33a52ebf42fb2de998/master.m3u8?1676412237"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5qf9o2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñar el tatuaje",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Hablar con el cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/593/de4304413280dd57d994183121721190/master.m3u8?1676412236"
+                },
+                {
+                    "id": null,
+                    "title": "Mood board y composición en el cuerpo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/594/f28f674d905d9204b7c563fe5498ae75/master.m3u8?1676412237"
+                },
+                {
+                    "id": null,
+                    "title": "Cómo cuidar el cuerpo antes de dibujar y tatuar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/595/5cc7d3a84c117d735a01cb03cca3d67d/master.m3u8?1676412247"
+                },
+                {
+                    "id": null,
+                    "title": "Ha llegado el día de la cita el dibujo del tatuaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/596/2592ec517a4d393bd34044219fb739bb/master.m3u8?1676412247"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/09wbcq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/vjmtie.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4493,
+        "product_name": "Fine Line Tattoo Design: Symbolism and Magic",
+        "teacher_name": "Christian Castañeda",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 8637,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

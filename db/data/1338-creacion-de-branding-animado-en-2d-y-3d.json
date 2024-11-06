@@ -1,0 +1,188 @@
+{
+    "id": "1338",
+    "title": "Creación de branding animado en 2D y 3D",
+    "url": "https://www.domestika.org/es/courses/1338-creacion-de-branding-animado-en-2d-y-3d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/954/c2c33bc8e3a9caa252e027b5971ab434/master.m3u8?1676395236"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/955/2d2db74658072362c8df26ab5279bce8/master.m3u8?1676395238"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6v42ad.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El ADN",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Atributos esenciales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/956/0fdfce6c168395023ee20fdd4b351b98/master.m3u8?1676395240"
+                },
+                {
+                    "id": null,
+                    "title": "Investigación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/957/4a7fe0925a2ca4bb5d3dee8f49855942/master.m3u8?1676395239"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/958/9234168d8c2f147ed984af1df571af78/master.m3u8?1676395237"
+                },
+                {
+                    "id": null,
+                    "title": "Partido conceptual y partido gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/959/5eb53cb08f17edadfb290d475cc87f68/master.m3u8?1676395241"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uo1y8a.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñando",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Búsqueda de footage y fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/988/1d8a8c3eef6fa889988edc01be5efd5a/master.m3u8?1676395262"
+                },
+                {
+                    "id": null,
+                    "title": "Propuesta de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/989/9dce1c1327b25055d2d6ff476d8581ef/master.m3u8?1676395261"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño 3D modelado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/990/edcd387e6d8bce7e16f1590c788fc872/master.m3u8?1676395262"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño 3D lighting y shading",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/991/fac44dc3045cdb01ed3dc72c8c08d0b3/master.m3u8?1676395263"
+                },
+                {
+                    "id": null,
+                    "title": "Storyboards finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/992/9d4536804114e8721360b130b0eed97a/master.m3u8?1676395263"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dh6gey.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Animando",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparar los archivos para animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/993/f9ea862aa0ebea9d9b6621b8871646a9/master.m3u8?1676395264"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de referencias de música y sonido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/994/b6334592eeef44bb6bba40a4564d5629/master.m3u8?1676395267"
+                },
+                {
+                    "id": null,
+                    "title": "Trackeo 3D y 2D Piezas I II y III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/995/7260bfc6132aa18d93a8578e1a1559ce/master.m3u8?1676395266"
+                },
+                {
+                    "id": null,
+                    "title": "Animación 3D Piezas I II y III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/996/dd273b55050a3af248b9cb5e5097f2a1/master.m3u8?1676395268"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y animación 2D Piezas I II y III 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/997/0fd5737fd94c7e2d2c6a6a4ed7be16ab/master.m3u8?1676395269"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y animación 2D Piezas I II y III 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/998/9bc7e03e9eb8c9d8eea1e131e2f7ec1e/master.m3u8?1676395273"
+                },
+                {
+                    "id": null,
+                    "title": "Composición y animación 2D Piezas I II y III 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/999/1a2bb58e9e43f4c486e0b1927c29da79/master.m3u8?1676395271"
+                },
+                {
+                    "id": null,
+                    "title": "Bonus track y bumper logo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/032/000/68cd6050adfb3d8d878dd9a3c94d12fd/master.m3u8?1676395268"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ikqjgy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/mx19bq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1338,
+        "product_name": "Animated Branding Design in 2D and 3D",
+        "teacher_name": "Martin Ferdkin",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 19,
+        "course_total_duration_sec": 13281,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

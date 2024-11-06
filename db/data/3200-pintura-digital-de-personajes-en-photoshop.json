@@ -1,0 +1,205 @@
+{
+    "id": "3200",
+    "title": "Pintura digital de personajes en Photoshop",
+    "url": "https://www.domestika.org/es/courses/3200-pintura-digital-de-personajes-en-photoshop/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/373/6ec58e85e283f2d5f07b75014f575f56/master.m3u8?1676405793"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/375/7105ee6249ef7741d4677c1f86dabeb3/master.m3u8?1676405793"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fezf48.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseñar un personaje cómo empezar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/478/3c0b0bbc207a267f4d85d117551b6422/master.m3u8?1676405845"
+                },
+                {
+                    "id": null,
+                    "title": "Luces y sombras básicas valores volumen y la importancia de la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/479/d366aca4a6fac8493dea4477b2c3c459/master.m3u8?1676405847"
+                },
+                {
+                    "id": null,
+                    "title": "Técnica de renderizado pinceles y cómo usarlos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/480/7e3601b8e7dcdfb685ff7aaf8b53d1cb/master.m3u8?1676405852"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qwgp21.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando el concepto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrando inspiración mood board y referencias 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/482/774bc7a709ebd732b2125d563545120c/master.m3u8?1676405851"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrando inspiración mood board y referencias 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/481/ee7d1e23a5411c5322c0f4ea4bb79340/master.m3u8?1676405848"
+                },
+                {
+                    "id": null,
+                    "title": "Bosquejar la figura humana y la composición 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/483/13510f4ae3f70329f9a52a21b26c10e7/master.m3u8?1676405852"
+                },
+                {
+                    "id": null,
+                    "title": "Bosquejar de la figura humana y composición 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/484/2c87efdd97201de3e5f963603eb5008d/master.m3u8?1676405850"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de colores y colores base 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/485/653f1c1f03e4e05fa461f2379cc238a5/master.m3u8?1676405853"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de colores y colores base 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/486/933aaf35a607ed8f39dd7a6eb83a35a2/master.m3u8?1676405855"
+                },
+                {
+                    "id": null,
+                    "title": "Paleta de colores y colores base 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/487/6711f1410e8fefa29adac0fec3f4c5b9/master.m3u8?1676405853"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8gpvke.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La pintura digital",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El personaje 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/488/5bc234d247c11974d277d79bc1c52a03/master.m3u8?1676405854"
+                },
+                {
+                    "id": null,
+                    "title": "El personaje 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/490/05c31de5b3fca0db6eb371e9b03b7a7e/master.m3u8?1676405853"
+                },
+                {
+                    "id": null,
+                    "title": "Ropa y accesorios 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/491/512ef6098a1aff7d31934e09a863d02c/master.m3u8?1676405855"
+                },
+                {
+                    "id": null,
+                    "title": "Ropa y accesorios 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/492/44506160af7423fcd56d772e5da2546b/master.m3u8?1676405855"
+                },
+                {
+                    "id": null,
+                    "title": "El fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/493/198a289eaaad93548f6d83605df663a9/master.m3u8?1676405859"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes finales 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/494/b829aeb78f34dcb806cb239d6c6998ca/master.m3u8?1676405856"
+                },
+                {
+                    "id": null,
+                    "title": "Ajustes finales 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/495/57ae9c83cbd4542832ea02247fb7340d/master.m3u8?1676405857"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/neem69.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consejos para la autopromoción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Promocionar tu arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/496/090780f2adf229ea4bb6e32bf6ea384c/master.m3u8?1676405856"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fczl74.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/f9ihvj.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3200,
+        "product_name": "Digital Painting of Characters in Photoshop",
+        "teacher_name": "Fernanda Suarez",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 17336,
+        "total_units": 5,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "2948",
+    "title": "Técnicas de escritura creativa conmueve a tus lectores",
+    "url": "https://www.domestika.org/es/courses/2948-tecnicas-de-escritura-creativa-conmueve-a-tus-lectores/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/735/47c169d030e678afed6370db216bcb8d/master.m3u8?1676401614"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/736/cf720c1b535aa696d9048698e22a1c2f/master.m3u8?1676401614"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/imogj1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pensar antes de escribir",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Por qué escribir es un arte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/737/766679ff461c34becd102cd9e99fb61c/master.m3u8?1676401615"
+                },
+                {
+                    "id": null,
+                    "title": "La escritura como proceso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/738/9892cb4e2200fb0352a2b661528ced4a/master.m3u8?1676401619"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración y elección de una historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/739/86ed1477ed9b293403b407c6d98333ad/master.m3u8?1676401617"
+                },
+                {
+                    "id": null,
+                    "title": "Nociones básicas del relato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/740/43835c70ed0d2feacd4b3db4c2eb385a/master.m3u8?1676401619"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fpn072.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo del relato",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Las bases del cuento 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/741/f2936ffc425b86c49a5ded9c8037ba89/master.m3u8?1676401622"
+                },
+                {
+                    "id": null,
+                    "title": "Las bases del cuento 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/742/7435df0482703e594a1e5e55612ed775/master.m3u8?1676401620"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/743/ec2fdd003c2194d135aa9c08363e26cf/master.m3u8?1676401619"
+                },
+                {
+                    "id": null,
+                    "title": "La creación del artificio escrito",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/744/bd351fa96b3cbd0bd34a7cabc1c5555c/master.m3u8?1676401623"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos sensoriales que aportan",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/745/a502847a46730b16b58754c6a57cf946/master.m3u8?1676401624"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vlofpb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Después del primer manuscrito",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La corrección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/746/7b4ea6e452fb704bc3f906d0ee126a44/master.m3u8?1676401625"
+                },
+                {
+                    "id": null,
+                    "title": "Publicación de tu texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/043/747/c4aa36b6005975a594d8308f266d43a1/master.m3u8?1676401622"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wux4ce.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ab8sun.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2948,
+        "product_name": "Creative Writing Techniques: Move Your Readers",
+        "teacher_name": "Gustavo Rodríguez",
+        "category_id": 18,
+        "category_name": "Writing",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4989,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

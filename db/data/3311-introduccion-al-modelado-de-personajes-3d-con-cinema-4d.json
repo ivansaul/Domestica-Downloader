@@ -1,0 +1,203 @@
+{
+    "id": "3311",
+    "title": "Introducción al modelado de personajes 3D con Cinema 4D",
+    "url": "https://www.domestika.org/es/courses/3311-introduccion-al-modelado-de-personajes-3d-con-cinema-4d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/487/a9be621f088ebd9e594ba80d78e528f2/master.m3u8?1676404007"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/488/a08a75b5e242accf9aa4ba5afb53663f/master.m3u8?1676404008"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nh1r98.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los fundamentos de C4D y Redshift",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Familiarizarse con la interfaz C4D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/489/4d2562f14cfbdbbbe45505ccf436bea3/master.m3u8?1676404014"
+                },
+                {
+                    "id": null,
+                    "title": "Primitivos y generadores introducción al modelado de cajas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/490/1e2b2e862c544955abe4400ff2568949/master.m3u8?1676404014"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a los generadores de spline y al modelado de spline",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/491/3588d5cd640229ab52562b254cac5a0b/master.m3u8?1676404009"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a UV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/492/c9507d46a91c7d8e6a3f188987dcf237/master.m3u8?1676404010"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a deformadores y MoSpline",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/493/2fac5f6f2e4d34483f1ce82adf99fdd0/master.m3u8?1676404010"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción a Mograph",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/494/46dd7a3cceee22fd67b1cf7ab4017951/master.m3u8?1676404009"
+                },
+                {
+                    "id": null,
+                    "title": "Familiarizarse con Redshift 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/495/ee7b50a403c878eff2c2ec2276d8e830/master.m3u8?1676404015"
+                },
+                {
+                    "id": null,
+                    "title": "Familiarizarse con Redshift 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/496/0e3fcf4df081f304936fa9518694300d/master.m3u8?1676404012"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w0m2z8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Amigo de la maceta",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Buscando inspiración y esbozando 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/498/29df53809e0ff80d90baf4d7197016c3/master.m3u8?1676404013"
+                },
+                {
+                    "id": null,
+                    "title": "Buscando inspiración y dibujando 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/499/89d51e8002afbf4880827b35f3f4021b/master.m3u8?1676404012"
+                },
+                {
+                    "id": null,
+                    "title": "Modelando la olla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/500/64c0b1d101b8d6ba44d9f02d9ee4a4d5/master.m3u8?1676404014"
+                },
+                {
+                    "id": null,
+                    "title": "Modelando las hojas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/501/1bcb9ff6e3d33491302f459595759b22/master.m3u8?1676404013"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar hojas a un tallo con MoSpline",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/502/cdda1763490bab3b270b698c1e787fba/master.m3u8?1676404013"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo los ojos y la boca",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/503/a6fefd0f81512a09d9fa5ecd9e7340e9/master.m3u8?1676404015"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo las extremidades y agregándolas a tu personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/504/2f353b76ad491d2f515072d00a8881ea/master.m3u8?1676404013"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/opcqzh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Luces cámara acción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Posar y poner en escena a tu personaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/521/1808305d01c09a2f60203a262489490e/master.m3u8?1676404022"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación texturizado y renderizado de tu personaje 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/522/e0d62e5ecde5b6bc77094c7102895910/master.m3u8?1676404023"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación texturizado y renderizado de tu personaje 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/523/141bb3b03ff0e06302e851814ed47f2a/master.m3u8?1676404025"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación texturizado y renderizado de tu personaje 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/524/5c8b477a53195856269f349f92380d0d/master.m3u8?1676404028"
+                },
+                {
+                    "id": null,
+                    "title": "Exportación para redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/048/525/b091dafc9253b5136313684c7a81c38a/master.m3u8?1676404026"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xewvbq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/is6w7o.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3311,
+        "product_name": "3D Character Modelling with Cinema 4D for Beginners",
+        "teacher_name": "Luke Doyle",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 22,
+        "course_total_duration_sec": 15906,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

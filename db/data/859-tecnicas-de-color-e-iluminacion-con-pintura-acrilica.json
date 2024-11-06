@@ -1,0 +1,173 @@
+{
+    "id": "859",
+    "title": "Técnicas de color e iluminación con pintura acrílica",
+    "url": "https://www.domestika.org/es/courses/859-tecnicas-de-color-e-iluminacion-con-pintura-acrilica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/334/4d886530ed9b126a34dbd83fe101155b/master.m3u8?1676394900"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/335/5485eec135af85a92444844f22d17f8e/master.m3u8?1676394901"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/336/d16693ebdb82e1576edbdfc1e196afce/master.m3u8?1676394898"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/39968x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El acrílico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/337/d5dd8d2bb7882141f2747a39ede0ce7c/master.m3u8?1676394900"
+                },
+                {
+                    "id": null,
+                    "title": "Observando las luces y sombras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/338/28440df0f4dc340ae90975b98c48ee0a/master.m3u8?1676394904"
+                },
+                {
+                    "id": null,
+                    "title": "Eligiendo la paleta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/339/b66dcef2e82512450fd395b308b3053e/master.m3u8?1676394924"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z44tsh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicando paletas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El acrílico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/340/052049fa3ed0674c1c43575c48925612/master.m3u8?1676394907"
+                },
+                {
+                    "id": null,
+                    "title": "La distancia 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/341/a882b28aba0f71cb461c100174a7aa9e/master.m3u8?1676394907"
+                },
+                {
+                    "id": null,
+                    "title": "La distancia 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/342/e4e2652ff8009278cc9953a53fc237e3/master.m3u8?1676394907"
+                },
+                {
+                    "id": null,
+                    "title": "El volumen 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/343/bffcb951f8a675488bd15150b6536159/master.m3u8?1676394911"
+                },
+                {
+                    "id": null,
+                    "title": "El volumen 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/344/7f895321e9f3a26bb6453ddbe098e47b/master.m3u8?1676394907"
+                },
+                {
+                    "id": null,
+                    "title": "Terminando las bases de la ilustración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/345/aac2f15a703edd39cbbbe02277423db3/master.m3u8?1676394905"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vn2geq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicando todo lo aprendido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los detalles 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/346/33389e12dc4587b852a4986e799f82b3/master.m3u8?1676394907"
+                },
+                {
+                    "id": null,
+                    "title": "Los detalles 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/347/93f3d63b9dea9a36541786fd6223d2bb/master.m3u8?1676394908"
+                },
+                {
+                    "id": null,
+                    "title": "Las sombras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/348/e9d932bafc7ebba735c65503d6dc8488/master.m3u8?1676394910"
+                },
+                {
+                    "id": null,
+                    "title": "El archivo final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/031/349/14cf7cd896e6ec845d72f1527f7ffcc9/master.m3u8?1676394910"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p2ea2n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/iaqbee.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 859,
+        "product_name": "Color and Lighting Techniques with Acrylic Paint",
+        "teacher_name": "Sole Otero",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 11278,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

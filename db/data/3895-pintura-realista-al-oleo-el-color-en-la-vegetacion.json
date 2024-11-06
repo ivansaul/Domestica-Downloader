@@ -1,0 +1,163 @@
+{
+    "id": "3895",
+    "title": "Pintura realista al óleo el color en la vegetación",
+    "url": "https://www.domestika.org/es/courses/3895-pintura-realista-al-oleo-el-color-en-la-vegetacion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/400/c7621bca5375ba27b6ec922c9a29e5e2/master.m3u8?1676406309"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/401/5e124aea4d4c5cc67afafca57c904ee1/master.m3u8?1676406310"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/49uidk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos materiales y técnica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La diferencia entre realismo y naturalismo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/406/24c6eb3096ae548071c7395abd4847bd/master.m3u8?1676406312"
+                },
+                {
+                    "id": null,
+                    "title": "Los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/407/19c1e58e77460b6e4750c6c1a32e5308/master.m3u8?1676406313"
+                },
+                {
+                    "id": null,
+                    "title": "Teoría básica del color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/408/e41a67f7d32067365efefbd6e6852ebb/master.m3u8?1676406313"
+                },
+                {
+                    "id": null,
+                    "title": "El comportamiento de la luz sobre la forma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/409/8d0ff03a9a4c19c17815d3d36cd839fd/master.m3u8?1676406312"
+                },
+                {
+                    "id": null,
+                    "title": "La técnica del óleo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/411/419de2fa9f86d0b9518b79cd2e530c37/master.m3u8?1676406317"
+                },
+                {
+                    "id": null,
+                    "title": "La búsqueda de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/412/9d3dbc9f899b1f279b231c938b5dd380/master.m3u8?1676406315"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vjdmsd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso y construcción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Traspaso del dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/414/da1cd0d4a43cd28ad6218a8180129526/master.m3u8?1676406317"
+                },
+                {
+                    "id": null,
+                    "title": "Mancha general",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/415/7b4a1d7b278fe585d3acd4f57f3491b9/master.m3u8?1676406320"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de la pintura en su fase media",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/416/0c0b42efb1739fc98ba1e4be854f59d2/master.m3u8?1676406319"
+                },
+                {
+                    "id": null,
+                    "title": "La pintura final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/417/3a21da7507a8aa48462c86de4562892e/master.m3u8?1676406318"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jl6k57.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Para terminar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué hago con mi pintura terminada",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/419/d283e7c106bed3042d10ab0a2a15cac3/master.m3u8?1676406318"
+                },
+                {
+                    "id": null,
+                    "title": "El barnizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/421/4025de2179cad0874ddc95efb78c0c01/master.m3u8?1676406317"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ata35t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/n11wu9.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3895,
+        "product_name": "Realistic Oil Painting: The Color of Plant Life",
+        "teacher_name": "Antonio Barahona",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 5934,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

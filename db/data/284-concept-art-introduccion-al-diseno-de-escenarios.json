@@ -1,0 +1,226 @@
+{
+    "id": "284",
+    "title": "Concept Art introducción al diseño de escenarios",
+    "url": "https://www.domestika.org/es/courses/284-concept-art-introduccion-al-diseno-de-escenarios/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Mi mundo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Curva de aprendizaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/196/0e3073b90910bc477af5b72dae731a26/master.m3u8?1676383684"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/197/efde6ea5409e7be53cf29b398185608a/master.m3u8?1676383687"
+                },
+                {
+                    "id": null,
+                    "title": "El proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/198/18b6c3f4cb615e6b040a3b3f2b903ddc/master.m3u8?1676383685"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/200/977d332d2254ccede26669c0fc8e68bc/master.m3u8?1676383687"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7e48y8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El mundo del volumen",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Secreto 1 Basta con saber dónde estás parado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/202/454cedb5169abeef342eeff8eec232cd/master.m3u8?1676383687"
+                },
+                {
+                    "id": null,
+                    "title": "Pensaste que te salvarías de la teoría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/203/2e0720b8563fbb907877f6e57de751d2/master.m3u8?1676383689"
+                },
+                {
+                    "id": null,
+                    "title": "El truco de los pros  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/204/1b3e2e8bd9426d6734cf53b41a178fa0/master.m3u8?1676383687"
+                },
+                {
+                    "id": null,
+                    "title": "El truco de los pros  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/205/2f5163b1242d111c3e4a26c67e4edfeb/master.m3u8?1676383698"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zm2p56.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El mundo de la forma",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "No necesitas aprenderte las reglas  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/216/e75c9214481b68c624d4809f3cf7af40/master.m3u8?1676383691"
+                },
+                {
+                    "id": null,
+                    "title": "No necesitas aprenderte las reglas  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/217/404765a75fac1f336c720cf2b6982dcf/master.m3u8?1676383691"
+                },
+                {
+                    "id": null,
+                    "title": "En qué pienso cuando creo  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/218/8c2aad8e3c41be3d510862061babdcca/master.m3u8?1676383691"
+                },
+                {
+                    "id": null,
+                    "title": "En qué pienso cuando creo  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/219/1607ff73c58c643979fed099a24cfdde/master.m3u8?1676383693"
+                },
+                {
+                    "id": null,
+                    "title": "Hazlo con estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/220/40c0ba8b5e72ec2acd233da37885f2cb/master.m3u8?1676383696"
+                },
+                {
+                    "id": null,
+                    "title": "Ya sabemos componer  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/221/1fbb979a015a14aa5b5a6887cb6183c3/master.m3u8?1676383697"
+                },
+                {
+                    "id": null,
+                    "title": "Ya sabemos componer  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/223/01b3bc08259dd59f7a1f2cd9443f77a3/master.m3u8?1676383698"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t41mnt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El mundo de las historias",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Todos somos Sherlock Holmes  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/228/530a9b18980b2f35e1d536dd9cb8c28a/master.m3u8?1676383698"
+                },
+                {
+                    "id": null,
+                    "title": "Todos somos Sherlock Holmes  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/229/72fe07af0f8c389b55ba0b8c56dc40a0/master.m3u8?1676383698"
+                },
+                {
+                    "id": null,
+                    "title": "Una capa de historia  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/230/afa70030b7374c2dbace9cfe7a21d8b4/master.m3u8?1676383701"
+                },
+                {
+                    "id": null,
+                    "title": "Una capa de historia  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/231/6e5c753d3e37fd0977399bb98ccb85cc/master.m3u8?1676383698"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ceq5zg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Un mundo colorido",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Secreto 2 El color no necesita color  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/232/26d7364070468364f258f3e4d3c917b5/master.m3u8?1676383707"
+                },
+                {
+                    "id": null,
+                    "title": "Secreto 2 El color no necesita color  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/233/b885f5dda25a5315cf8994293a89ecb4/master.m3u8?1676383700"
+                },
+                {
+                    "id": null,
+                    "title": "Secreto 3 El color está en la vida diaria  Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/234/259b91004602c4f5ecf6f00db7b59a5a/master.m3u8?1676383699"
+                },
+                {
+                    "id": null,
+                    "title": "Secreto 3 El color está en la vida diaria  Parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/236/0ce5ba30f0e256e329a292cf4f65763b/master.m3u8?1676383699"
+                },
+                {
+                    "id": null,
+                    "title": "Secreto 3 El color está en la vida diaria  Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/006/327/c9e5f67a10d50efbdf4fbfd6fb11c0ab/master.m3u8?1676383733"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xotkzk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/23ull6.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 284,
+        "product_name": "Concept Art: Introduction to Set Design",
+        "teacher_name": "Jean Fraisse",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 24,
+        "course_total_duration_sec": 18010,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,244 @@
+{
+    "id": "126",
+    "title": "Revelado de archivos RAW con Lightroom Classic",
+    "url": "https://www.domestika.org/es/courses/126-revelado-de-archivos-raw-con-lightroom-classic/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/880/894cb2234b03e5f2ab4b9969cb4aee92/master.m3u8?1676381730"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/852/e0489f2a6168a2ace97f55364b073261/master.m3u8?1676381713"
+                },
+                {
+                    "id": null,
+                    "title": "El Formato Raw Qué es y para qué sirve",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/853/276c254464c7e821ec3bcfd5bc94ce94/master.m3u8?1676381714"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kvnslx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción al  Lightroom",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creando nuestro primer catálogo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/854/aeed28cfcd38845e6bc89f6ba56d347e/master.m3u8?1676381714"
+                },
+                {
+                    "id": null,
+                    "title": "Interfaz y configuración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/855/a737fbf3aa70a97b7557af0775624a88/master.m3u8?1676381715"
+                },
+                {
+                    "id": null,
+                    "title": "Importando imágenes al catálogo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/856/c5763ea37b862a30f5c5adbc57a34195/master.m3u8?1676381718"
+                },
+                {
+                    "id": null,
+                    "title": "Biblioteca I Visualización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/894/120fcf7a738a6414f6db733546a2d475/master.m3u8?1676381736"
+                },
+                {
+                    "id": null,
+                    "title": "Biblioteca II Filtrar y etiquetar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/857/da7b04033eece09012025cdacbf898c8/master.m3u8?1676381720"
+                },
+                {
+                    "id": null,
+                    "title": "Biblioteca III Renombrar y mover imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/858/b78a047d20d05761f6ed9b61f226c9e6/master.m3u8?1676381720"
+                },
+                {
+                    "id": null,
+                    "title": "Biblioteca IV  Colecciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/859/c0a136d6731b713773d050c5939af0d4/master.m3u8?1676381722"
+                },
+                {
+                    "id": null,
+                    "title": "Biblioteca V Metadatos palabras clave y detección de caras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/860/aa88f85d191cd3161c3cf9ce905d6ed7/master.m3u8?1676381722"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/svcnr2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Revelado en Lightroom",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Calibración de Cámara con Color Checker Passport",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/861/8c4321a8773684db56bfb61052875dd2/master.m3u8?1676381722"
+                },
+                {
+                    "id": null,
+                    "title": "Herramienta de Recorte y Ajustes Básicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/862/5ad7654c7c3613636f0ac1d9bfcdd895/master.m3u8?1676381722"
+                },
+                {
+                    "id": null,
+                    "title": "Curva de Tonos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/863/dcdc45310d3157665de7a903c168ac81/master.m3u8?1676381721"
+                },
+                {
+                    "id": null,
+                    "title": "HSL  Herramienta eliminación de manchas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/864/0e8ac93890a1ff9fbfa61553bdacf7c3/master.m3u8?1676381721"
+                },
+                {
+                    "id": null,
+                    "title": "Blanco y Negro  Copia virtual",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/865/998c90432baf43e13a6359992d284d6f/master.m3u8?1676381721"
+                },
+                {
+                    "id": null,
+                    "title": "Dividir Tonos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/866/9d248b5731ccd70130776e36bd4b8a6c/master.m3u8?1676381723"
+                },
+                {
+                    "id": null,
+                    "title": "Detalle",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/867/208237fa9506fae2351b98027a53741d/master.m3u8?1676381723"
+                },
+                {
+                    "id": null,
+                    "title": "Correcciones de lente  Efectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/868/7890da5604fd6a87d946db4de7c0917a/master.m3u8?1676969348"
+                },
+                {
+                    "id": null,
+                    "title": "De principio a fin Degradados y Pincel de ajuste Instantáneas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/869/aa62155239492e3e6bf8b10b95546882/master.m3u8?1676969477"
+                },
+                {
+                    "id": null,
+                    "title": "Presets",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/895/f661e302b3b1850b66c4c3733b5cadd0/master.m3u8?1676381739"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ftgl0m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exportar en Lightroom",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Exportar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/886/baf75c847d1a0286e1086d88eb782774/master.m3u8?1676381729"
+                },
+                {
+                    "id": null,
+                    "title": "Módulo Libro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/885/de8592e8c5179ddc0720980eba3d6f01/master.m3u8?1676381731"
+                },
+                {
+                    "id": null,
+                    "title": "Módulo Web",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/884/30a46c7ec2e4640bbe6c45fa83447bfc/master.m3u8?1676381729"
+                },
+                {
+                    "id": null,
+                    "title": "Módulo Imprimir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/882/a5d9a8cbdd6c4edf30d24a4804a4ec5b/master.m3u8?1676381728"
+                },
+                {
+                    "id": null,
+                    "title": "Módulo Proyección",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/883/fadc940679b4b4858139053888ae381d/master.m3u8?1676381728"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gmcx99.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Otros reveladores y flujo personal",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Adobe Camera RAW  Bridge",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/888/c54aa46fa4b46bb78d64a08f6a2adb3e/master.m3u8?1676381735"
+                },
+                {
+                    "id": null,
+                    "title": "Recorrido por Capture One",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/889/3a610f47fb376c677c0a2740b6f51b1b/master.m3u8?1676381737"
+                },
+                {
+                    "id": null,
+                    "title": "Flujo de trabajo personal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/002/887/3158de43a8f8f555949eac75dd35a161/master.m3u8?1676381730"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ms1n1d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/3l1vfn.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 126,
+        "product_name": "Developing RAW Files on Lightroom Classic",
+        "teacher_name": "Edu Gómez",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 29,
+        "course_total_duration_sec": 14508,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

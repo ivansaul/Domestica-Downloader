@@ -1,0 +1,178 @@
+{
+    "id": "871",
+    "title": "Retoque fotográfico para publicidad",
+    "url": "https://www.domestika.org/es/courses/871-retoque-fotografico-para-publicidad/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Hola",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/753/ef2274540390266cbfc5bcbcb867ed76/master.m3u8?1676387566"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/840/127ddc0851e2b068caf6c32680d0003e/master.m3u8?1676387607"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/841/a3786852615eb5e5436d9f7b6c1225db/master.m3u8?1676387605"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xodq0b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos generales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Workflow",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/842/bae80279423d258c826cb552ef5f0c2f/master.m3u8?1676387607"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/843/a4ac216947a12de5bd62c022f706acf3/master.m3u8?1676387609"
+                },
+                {
+                    "id": null,
+                    "title": "Personalización de interfaz y acciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/844/42b8f9dd5552a0cfc0f067f68f7dd650/master.m3u8?1676387606"
+                },
+                {
+                    "id": null,
+                    "title": "Concepto moodboard y boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/771/ade88034c5bdec609f26b4efc9a76ebc/master.m3u8?1676389788"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bwalp6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Integración y look del motivo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Técnicas de recorte parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/846/8ea2398d0c8d7cd872b0211bbb4b037e/master.m3u8?1676387609"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas de recorte parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/015/947/34f1bd3f82c36d499ae9c75d0f7dda2d/master.m3u8?1676387643"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de los assets e integración Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/772/19c07692421c5911dc72641008dc3b41/master.m3u8?1676389785"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de los assets e integración Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/773/46afb266987df3c45ab1ad338454f6e5/master.m3u8?1676389788"
+                },
+                {
+                    "id": null,
+                    "title": "Dodge u0026 Burn",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/774/a2208eb29a96b76a8c3f7e66be4e9202/master.m3u8?1676389786"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos visuales Parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/775/94f34ad195c21e91d3ed1a7a951c39d8/master.m3u8?1676389792"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos visuales Parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/776/549388bac908283e4f3fd78b4b0eec80/master.m3u8?1676389789"
+                },
+                {
+                    "id": null,
+                    "title": "Efectos visuales Parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/777/fafb45db37f67942959fd67e16b33635/master.m3u8?1676389796"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bv3ujb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos acabados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Colorimetría y look final en Camera Raw",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/778/f1c59c9b2db660483f99424c482416db/master.m3u8?1676389789"
+                },
+                {
+                    "id": null,
+                    "title": "Detalles finales y exportación del motivo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/779/01a8c717252c47ed3e26aa0a72d89879/master.m3u8?1676389789"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/75jr2j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/xrbiev.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 871,
+        "product_name": "Photograph Retouching for Advertising",
+        "teacher_name": "Jonathan Chafloque",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 9410,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

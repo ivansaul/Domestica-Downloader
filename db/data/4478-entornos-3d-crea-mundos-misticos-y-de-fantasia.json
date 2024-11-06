@@ -1,0 +1,436 @@
+{
+    "id": "4478",
+    "title": "Entornos 3D crea mundos místicos y de fantasía",
+    "url": "https://www.domestika.org/es/courses/4478-entornos-3d-crea-mundos-misticos-y-de-fantasia/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/881/5fb5b5e94a2b17f91933740e468667cb/master.m3u8?1682586103"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/882/478cb3865b9ee07d43352159e032e02f/master.m3u8?1682586253"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xrs0s4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Flujo de trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Canalización y flujo de trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/883/158062820954850ea1ae81022e21a71d/master.m3u8?1682586446"
+                },
+                {
+                    "id": null,
+                    "title": "El tablero de humor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/884/b250d36ea2e35322146cd6901b9d44a4/master.m3u8?1682586519"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/of1uua.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El diseño y el bloqueo de la escena",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El diseño 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/885/4c25f19d8d5ba36c6d28febdc59de4b5/master.m3u8?1682586587"
+                },
+                {
+                    "id": null,
+                    "title": "el diseño 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/886/98896b23124e4a547094dac2b7c78a4b/master.m3u8?1682586671"
+                },
+                {
+                    "id": null,
+                    "title": "el diseño 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/887/8e80f7be277dc35e0ee6cc0913aa0f52/master.m3u8?1682586783"
+                },
+                {
+                    "id": null,
+                    "title": "La revisión intermedia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/888/a232c144ce2dcf2cc910528ebb53d286/master.m3u8?1682587048"
+                },
+                {
+                    "id": null,
+                    "title": "Exportando a Houdini",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/889/388725b3318fb5b63475f31d3784b02f/master.m3u8?1682587111"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/48s7r8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado de terreno de Houdini",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Una descripción general de Heightfields en Houdini 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/890/ccf914fcaa31f73e859b8c1558c69547/master.m3u8?1682587169"
+                },
+                {
+                    "id": null,
+                    "title": "Una descripción general de Heightfields en Houdini 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/891/e0abae8edffb2989984e5bde9c663bbe/master.m3u8?1682587395"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando en la montaña de fondo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/892/0684ba10d5f2b78d5e999c8069243c41/master.m3u8?1682587432"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando en la montaña de fondo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/893/7d3a78396d614b424144067a1a62565a/master.m3u8?1682587718"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando en la montaña de fondo 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/894/e3e678f12694627a43b349bf3c87d4ae/master.m3u8?1682588032"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajando en la montaña de fondo 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/895/028ee4d00937a275ca40ff1c764bc3dd/master.m3u8?1682588208"
+                },
+                {
+                    "id": null,
+                    "title": "La montaña del castillo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/896/a2abb966ffa263f5a292ebd25ef62a8c/master.m3u8?1682588288"
+                },
+                {
+                    "id": null,
+                    "title": "La montaña del castillo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/897/95878e3acfe60438137d69b762d0ce13/master.m3u8?1682588571"
+                },
+                {
+                    "id": null,
+                    "title": "La montaña del castillo 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/898/70f37276f0689e9bb733c6a8c8b87c6e/master.m3u8?1682588839"
+                },
+                {
+                    "id": null,
+                    "title": "El terreno en primer plano 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/899/32767241bb4602fb54b09a6624de4b25/master.m3u8?1682588900"
+                },
+                {
+                    "id": null,
+                    "title": "El terreno en primer plano 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/900/4822b7b5814c698643b62859ace2c421/master.m3u8?1682589161"
+                },
+                {
+                    "id": null,
+                    "title": "El terreno acuático y la exportación a Clarisse iFX",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/901/4c87c0edc14388601cf54fbb9986cf17/master.m3u8?1682589213"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hhzvke.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preiluminación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Una descripción general de Clarisse iFX 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/902/518c8a5e0b77b3789f9fe51c8cef8391/master.m3u8?1682589603"
+                },
+                {
+                    "id": null,
+                    "title": "Una descripción general de Clarisse iFX 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/903/467ccb9309f2dec0bae024de9b6c121a/master.m3u8?1682590019"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de una biblioteca de activos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/904/6e03943007196bed6e433c80f71d6381/master.m3u8?1682590078"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de una biblioteca de activos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/906/3ee18c4c73bad68788da8485bab57998/master.m3u8?1682593865"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de una biblioteca de activos 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/907/b907512505dfc785a90a0c0d32e9ebb0/master.m3u8?1682594653"
+                },
+                {
+                    "id": null,
+                    "title": "El Primer Paso de Iluminación y Referencias 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/908/7c463273ab6f9340935370eac5ff1c29/master.m3u8?1682594729"
+                },
+                {
+                    "id": null,
+                    "title": "El Primer Paso de Iluminación y Referencias 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/909/b668d453cd0e7dbb7accec7224a3c546/master.m3u8?1682595133"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xaak19.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollo de miradas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Desarrollo de textura y apariencia para el castillo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/910/4461c57690402461253dd60229e4231e/master.m3u8?1682595216"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de textura y apariencia para Castle 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/911/365293b04169183c51ba7e211b6dec4f/master.m3u8?1682596449"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de textura y apariencia para Castle 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/912/9eec419b5e1bc62faca10367e1fbd066/master.m3u8?1682596562"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de textura y apariencia para Castle 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/913/369e0665a5a8142970e81d3adb12267f/master.m3u8?1682596583"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de textura y apariencia para Castle 5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/914/6959407aea70b21657c9ae564fa0eae8/master.m3u8?1682596601"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de textura y apariencia para Castle 6",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/915/a9048793d59cb330e6966801d6a2bd82/master.m3u8?1682596621"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de aspecto procedimental para el terreno 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/916/0aefaed99e1a4d813aa1a34223c4366a/master.m3u8?1682596646"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de aspecto procedimental para el terreno 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/917/e07dd1d59757524cc93f1e0be243bfe9/master.m3u8?1682596669"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de aspecto procedimental para el terreno 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/918/a6f30cafa0b94256da46e53e7a8ccf4c/master.m3u8?1682596690"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de aspecto procedimental para el terreno 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/919/0a057277f307b7b0cf6bf6b015a8c982/master.m3u8?1682596766"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollo de aspecto procedimental para el terreno 5",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/920/f719331a4117cb7fa4c37efd64d73e2a/master.m3u8?1682596793"
+                },
+                {
+                    "id": null,
+                    "title": "Mira Desarrollo para el Río 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/921/2d917fd06d61d2dbec682988375eb161/master.m3u8?1682596900"
+                },
+                {
+                    "id": null,
+                    "title": "Mira Desarrollo para el Río 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/922/54e13c802e75e504c300566ac2ab25fb/master.m3u8?1682596935"
+                },
+                {
+                    "id": null,
+                    "title": "Busque Desarrollo para la Atmósfera",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/923/19b031d257957262415f392e4b0c052d/master.m3u8?1682597065"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/85z3v7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Vestir el conjunto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Montaje de las rocas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/924/f405d5fb4cf6125e4696f79c3561900f/master.m3u8?1682597275"
+                },
+                {
+                    "id": null,
+                    "title": "Montaje de las rocas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/925/cfcc61e5fb2a3da2219b07bc5e2c3638/master.m3u8?1682597309"
+                },
+                {
+                    "id": null,
+                    "title": "Montaje de las rocas 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/926/9e59413e092eba37448e2fd9cdfa1c44/master.m3u8?1682597334"
+                },
+                {
+                    "id": null,
+                    "title": "Montaje de las rocas 4",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/927/6600118d1f98828988059729da4247c0/master.m3u8?1682597356"
+                },
+                {
+                    "id": null,
+                    "title": "Dispersión de rocas pequeñas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/928/56cdb57b8c69111cf91f400cc4c0f3f3/master.m3u8?1682597383"
+                },
+                {
+                    "id": null,
+                    "title": "Dispersión de rocas pequeñas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/929/7def5c5842b458f4ecdd69fbfa0b2145/master.m3u8?1682597465"
+                },
+                {
+                    "id": null,
+                    "title": "Dispersión de hierba y flores 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/930/d160dd2c1fd6fe9e0e21604032c3453b/master.m3u8?1682597610"
+                },
+                {
+                    "id": null,
+                    "title": "Dispersión de hierba y flores 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/931/d513d0a3e0f8775e84f367af69fa7435/master.m3u8?1682597623"
+                },
+                {
+                    "id": null,
+                    "title": "Dispersión de hierba y flores 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/932/ec7d5c5d12b521644aabbaa695624299/master.m3u8?1682597635"
+                },
+                {
+                    "id": null,
+                    "title": "Arbustos de dispersión 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/933/2731e90d31258e38e285366963bd9e0e/master.m3u8?1682597658"
+                },
+                {
+                    "id": null,
+                    "title": "Arbustos de dispersión 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/934/6146cf7842c949f68df003b575af0a6e/master.m3u8?1682597676"
+                },
+                {
+                    "id": null,
+                    "title": "árboles de dispersión 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/935/347ab496b31b5b7d718795f7a7255d76/master.m3u8?1682597760"
+                },
+                {
+                    "id": null,
+                    "title": "árboles de dispersión 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/936/7da484ea2d8740ce5da237b73d8c2d72/master.m3u8?1682597776"
+                },
+                {
+                    "id": null,
+                    "title": "árboles de dispersión 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/937/f0b31f33c256815356553b198c4a5eb9/master.m3u8?1682597800"
+                },
+                {
+                    "id": null,
+                    "title": "Adición de volúmenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/938/b34ede7700fc74a1fd9e0c3eb362c340/master.m3u8?1682597827"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z3r5l7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Renderizado y Composición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Creación de capas optimización del renderizado y renderizado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/939/1c1a986880c3f187afb85ec47842e732/master.m3u8?1682597855"
+                },
+                {
+                    "id": null,
+                    "title": "El compuesto final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/068/940/fa05da3cbc1bcf8998b6e9ec334b3963/master.m3u8?1682597875"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/7hqx8x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/to5g4j.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4478,
+        "product_name": "3D Environments: Create Otherworldly Fantasy Lands",
+        "teacher_name": "Ale Barbosa",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 59,
+        "course_total_duration_sec": 56810,
+        "total_units": 8,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

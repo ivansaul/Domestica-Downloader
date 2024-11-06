@@ -1,0 +1,168 @@
+{
+    "id": "987",
+    "title": "Escritura de guion para cortometrajes de ficción",
+    "url": "https://www.domestika.org/es/courses/987-escritura-de-guion-para-cortometrajes-de-ficcion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/114/0c003a5f663c3a1b226f93a668196d6b/master.m3u8?1676390376"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/115/e9501fc358eee032d49950f7f9ad3b83/master.m3u8?1676390380"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/116/df5f5d1429c26c5c674b242e3585e80d/master.m3u8?1676390378"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mvxfpm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Recolectar para diseñar y armar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué historia queremos contar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/117/f848cb5fdc422d17a0562c3bce5aa8bc/master.m3u8?1676390383"
+                },
+                {
+                    "id": null,
+                    "title": "Distinguir la naturaleza de una idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/118/fbabe1f58087302b9bc93603958feb81/master.m3u8?1676390378"
+                },
+                {
+                    "id": null,
+                    "title": "Los primeros ingredientes 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/059/362/acdc14ed90840563147556e667b0fa74/master.m3u8?1676409652"
+                },
+                {
+                    "id": null,
+                    "title": "Los primeros ingredientes 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/122/d7df1a27be54c6a9fe6eeb873148a825/master.m3u8?1676390379"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de la trama 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/120/4176f78a19861f4a34fcdf95fc5e2f63/master.m3u8?1676390383"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño de la trama 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/121/d1b92dd960293cf7368b3a961d8e29c8/master.m3u8?1676390385"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/m9oe73.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La maniobra de un buen diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Construcción de inicio a fin",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/123/b99fc56e8f4c8de4748836edc2050d18/master.m3u8?1676390388"
+                },
+                {
+                    "id": null,
+                    "title": "El arte de crear una estructura con imágenes y sonidos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/124/5051a7ade8d011b01bcd83eb3f2f03fc/master.m3u8?1676390387"
+                },
+                {
+                    "id": null,
+                    "title": "El corte de las escenas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/125/dc73729f751f64dfcd6a8cf40c2e79ed/master.m3u8?1676390392"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uwje7n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Poner en un procesador de texto la acción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los detalles de la reescritura de una escaleta 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/126/bb1c16c1f4d42ac75d754c3b5b19f9a6/master.m3u8?1676390389"
+                },
+                {
+                    "id": null,
+                    "title": "Los detalles de la reescritura de una escaleta 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/127/07e14db29923ab6ed168f3234d1efd3e/master.m3u8?1676390389"
+                },
+                {
+                    "id": null,
+                    "title": "Escribir para un equipo de producción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/022/128/7713a8316ff7f90727f80cc0edf9ab23/master.m3u8?1676390392"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hm7aj9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/tpn1q0.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 987,
+        "product_name": "Screenwriting for Fiction Short Films",
+        "teacher_name": "Alejandra Moffat",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 11052,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

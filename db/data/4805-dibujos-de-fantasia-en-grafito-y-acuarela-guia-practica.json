@@ -1,0 +1,154 @@
+{
+    "id": "4805",
+    "title": "Dibujos de fantasía en grafito y acuarela guía práctica",
+    "url": "https://www.domestika.org/es/courses/4805-dibujos-de-fantasia-en-grafito-y-acuarela-guia-practica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acerca de mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/773/3e1169df776a5ca0608ecdc6dff50003/master.m3u8?1717683169"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias e inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/774/3014e62c19b950e1b82c12f50db13e6b/master.m3u8?1717683441"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r0iben.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exploración y descubrimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Un bestiario o diario de campo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/775/7db5a3c6d71dbc1dd4b0fea1bfcb3d9a/master.m3u8?1688084436"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/776/7b27c0f4655f94caf149fafe21893ec3/master.m3u8?1688084453"
+                },
+                {
+                    "id": null,
+                    "title": "Acerca de las criaturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/777/1a26a82177e400325754f4c746cad0f5/master.m3u8?1688084470"
+                },
+                {
+                    "id": null,
+                    "title": "Desarrollar una historia en torno a la criatura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/778/2ed88b9fc9a984a906ee902b6126b846/master.m3u8?1688084485"
+                },
+                {
+                    "id": null,
+                    "title": "Encontrar referencias e inspiración para tu criatura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/779/1ea4ef58c712c9682bdbf21cf26db6c4/master.m3u8?1688084503"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/09zzgv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Observar y documentar Creemos una entrada en el diario de campo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Vamos a explorar Es hora de dibujar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/780/60e294611db7defe317ba13775ad4ef1/master.m3u8?1688084524"
+                },
+                {
+                    "id": null,
+                    "title": "Dar cuerpo a algunas ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/781/11d4e2a6fbd2f557d18b59edacdfed88/master.m3u8?1688084540"
+                },
+                {
+                    "id": null,
+                    "title": "Agregar otra dimensión dibujar con acuarelas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/782/51afd7f0aaaf44d7abc8b6f504929b4b/master.m3u8?1688084556"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3yjkbq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Diseñar el diseño de la extensión de la revista y superar los bloqueos creativos mediante bocetos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Reuniendo todo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/783/e47d5420a991076c13b50aafe5e33195/master.m3u8?1688084625"
+                },
+                {
+                    "id": null,
+                    "title": "Perfección bloqueos artísticos miedo al fracaso Sigue dibujando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/784/83107ec80333cc4d4410f2cbacd4523b/master.m3u8?1688084643"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4pg670.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9narxe.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4805,
+        "product_name": "Fantasy Drawings in Graphite and Watercolor: A Field Guide",
+        "teacher_name": "Iris Compiet",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 5065,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en",
+            "es"
+        ],
+        "original_language": "en"
+    }
+}

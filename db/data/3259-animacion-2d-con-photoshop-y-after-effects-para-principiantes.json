@@ -1,0 +1,158 @@
+{
+    "id": "3259",
+    "title": "Animación 2D con Photoshop y After Effects para principiantes",
+    "url": "https://www.domestika.org/es/courses/3259-animacion-2d-con-photoshop-y-after-effects-para-principiantes/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/740/c021f9c30194b4ca75f23cebd804db14/master.m3u8?1676403670"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/741/ee3fd03574012472e09a8677fa83de03/master.m3u8?1676403670"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/31net2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Haciendo realidad tu idea",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipos de animacion",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/742/b5b838886b6e181490c55b35d8b38c3b/master.m3u8?1676403684"
+                },
+                {
+                    "id": null,
+                    "title": "Referencias e inspiraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/743/a0cb105d962b86f4f7bf41596bc0d3ec/master.m3u8?1676403672"
+                },
+                {
+                    "id": null,
+                    "title": "Dejando caer el rastro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/744/504a02d418bf500fa36c4e8a40152950/master.m3u8?1676403670"
+                },
+                {
+                    "id": null,
+                    "title": "Preparando tu boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/745/a750053a5f87374d2e378237639c86a5/master.m3u8?1676403676"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rv9io6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dando vida a tu borrador",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Definición y prueba de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/748/0d1d6f64b2aaa41d8d93e592ea167b73/master.m3u8?1676403678"
+                },
+                {
+                    "id": null,
+                    "title": "Finalizando el dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/749/195fd058e7005b4b782c323afafe89fe/master.m3u8?1676403675"
+                },
+                {
+                    "id": null,
+                    "title": "Fotogramas adicionales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/750/aa12642ce34ee0d2dce4aa9542e646ad/master.m3u8?1676403676"
+                },
+                {
+                    "id": null,
+                    "title": "Iniciar animación en After Effects",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/751/b22613de0de6ad5bb852b4c1212420af/master.m3u8?1676403677"
+                },
+                {
+                    "id": null,
+                    "title": "Movimiento y efectos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/752/3122df829cb8296918cb4d6d77f66cab/master.m3u8?1676403678"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/gak0nd.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "De tu mente al mundo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Cerrando el loop y exportando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/753/aee505f161d670264e9a83510bab219c/master.m3u8?1676403686"
+                },
+                {
+                    "id": null,
+                    "title": "Las redes sociales a tu favor",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/047/754/fab402d125b2506571767d1073d83566/master.m3u8?1676403676"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o2106v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/uzkqq5.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3259,
+        "product_name": "2D Animation for Beginners with Photoshop and After Effects",
+        "teacher_name": "Bruno Bayeux",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7424,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

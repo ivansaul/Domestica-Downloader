@@ -1,0 +1,159 @@
+{
+    "id": "3213",
+    "title": "Retrato artístico al óleo sobre papel",
+    "url": "https://www.domestika.org/es/courses/3213-retrato-artistico-al-oleo-sobre-papel/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/455/a39fddca39a0dd3a25e40d812fa7bf60/master.m3u8?1676404906"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/456/d838ee714b5508028464fae2cea572d5/master.m3u8?1676404909"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5ea418.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La mesa de trabajo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La fotografía de referencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/457/424fb4978dc433e9152c00ce404c4b7f/master.m3u8?1676404907"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/458/09445fe349d86bf16c8ae09c946cc1a9/master.m3u8?1676404908"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación de papel y óleos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/459/e608e80300bee3ec25abaaea26241d2b/master.m3u8?1676404910"
+                },
+                {
+                    "id": null,
+                    "title": "Ejercicios de valor tonal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/460/27e80af134a0389c427f8bb48396d983/master.m3u8?1676404911"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/b0ojci.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El retrato",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primeras marcas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/461/41f05ad8e6bd297b5116adbf2b91d49a/master.m3u8?1676404910"
+                },
+                {
+                    "id": null,
+                    "title": "Tonos de luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/463/197e77d2fdab036dfe94b13a97dcac52/master.m3u8?1676404911"
+                },
+                {
+                    "id": null,
+                    "title": "Mezcla de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/464/bca01ecbfdf0ab144541e39840264fd3/master.m3u8?1676404911"
+                },
+                {
+                    "id": null,
+                    "title": "Contrastes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/465/c07141e81ae4f93ff0bd91452982e172/master.m3u8?1676404918"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p12lrj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Retoques",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Rasgos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/467/31a65d229076ecfdf9fb4baf7d362515/master.m3u8?1676404915"
+                },
+                {
+                    "id": null,
+                    "title": "Relación entre los planos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/468/f398086452762bb1d919d7f1499c074b/master.m3u8?1676404914"
+                },
+                {
+                    "id": null,
+                    "title": "Últimos detalles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/050/469/7353be25181e6d90cf6b86d0fbc000ee/master.m3u8?1676404919"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t7m1bg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8mb9qa.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3213,
+        "product_name": "Artistic Oil Portraiture on Paper",
+        "teacher_name": "Camila O'Gorman",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 8544,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

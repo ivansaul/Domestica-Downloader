@@ -1,0 +1,163 @@
+{
+    "id": "3881",
+    "title": "Introducción al diseño gráfico minimalista",
+    "url": "https://www.domestika.org/es/courses/3881-introduccion-al-diseno-grafico-minimalista/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/489/a1f30c79fb9b1ef2689312c6a1d561a4/master.m3u8?1676407333"
+                },
+                {
+                    "id": null,
+                    "title": "inspiraciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/490/2dee33f23bb5895f61ccc5c830bb412d/master.m3u8?1676407335"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3i1vm1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/491/b8d361dcb285eb763535151f50c6f779/master.m3u8?1676407333"
+                },
+                {
+                    "id": null,
+                    "title": "Formas geométricas básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/492/d98954ef3e12a898888573752ce0b0fb/master.m3u8?1676407334"
+                },
+                {
+                    "id": null,
+                    "title": "construcción geométrica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/495/c3ff3eeef569979bb9354454ff00d249/master.m3u8?1676407333"
+                },
+                {
+                    "id": null,
+                    "title": "diseño y composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/496/9761af70aa1cdf3a4d8b5bc6f2315550/master.m3u8?1676407342"
+                },
+                {
+                    "id": null,
+                    "title": "encontrar letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/497/b24780ddb3d2053b136fa96081e588a3/master.m3u8?1676407338"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fqgw7y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "cartel de diseño minimalista",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encuentre una declaración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/499/6e47c79871944b8fdb95abed3af4b33c/master.m3u8?1676407337"
+                },
+                {
+                    "id": null,
+                    "title": "El diseño del cartel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/500/c0fb67ea1cd8c6a1c462a946f660c1ad/master.m3u8?1676407340"
+                },
+                {
+                    "id": null,
+                    "title": "creación 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/501/5bef8ddd428d782d9bbc5b2200503ab5/master.m3u8?1676407341"
+                },
+                {
+                    "id": null,
+                    "title": "creación 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/502/096b145c1460f588faaee3154ae7adf5/master.m3u8?1676407338"
+                },
+                {
+                    "id": null,
+                    "title": "creación 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/503/9723d4f1529773feccce8a62fd5f2c7a/master.m3u8?1676407341"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bhsm6g.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Más inspiración",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pon el cartel en el centro de atención",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/504/bfc79d42aca1c8ab4490246059e6eaf6/master.m3u8?1676407338"
+                },
+                {
+                    "id": null,
+                    "title": "plantilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/505/1be5ad131bb1507dab7d896b7bc8fc24/master.m3u8?1676407341"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/55v12v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/iroi9e.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3881,
+        "product_name": "Introduction to Minimalist Graphic Design",
+        "teacher_name": "Rafael Bernardo",
+        "category_id": 3,
+        "category_name": "Design",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 8490,
+        "total_units": 4,
+        "subtitles_language": [
+            "de",
+            "es",
+            "en",
+            "pt",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "de"
+        ],
+        "original_language": "de"
+    }
+}

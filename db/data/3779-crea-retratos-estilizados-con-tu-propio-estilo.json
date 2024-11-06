@@ -1,0 +1,168 @@
+{
+    "id": "3779",
+    "title": "Crea retratos estilizados con tu propio estilo",
+    "url": "https://www.domestika.org/es/courses/3779-crea-retratos-estilizados-con-tu-propio-estilo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/932/7f03b5e9892a2474d64a5a5850f62eaf/master.m3u8?1676407542"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/933/1fa49b9681b2c83d7092781af4ca936b/master.m3u8?1676407543"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1492lt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasos iniciales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tu propio estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/934/bfb798967a37b4e333513f205452e28d/master.m3u8?1676407543"
+                },
+                {
+                    "id": null,
+                    "title": "Anatomía del rostro humano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/935/cfab42ceda82ad0abb885776ffb21960/master.m3u8?1676407542"
+                },
+                {
+                    "id": null,
+                    "title": "La esencia dentro de tu dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/936/939be2a46944d7e9f0676541e53267df/master.m3u8?1676407544"
+                },
+                {
+                    "id": null,
+                    "title": "Panel semántico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/937/7f5bfe05b3c3cd2ec76cc22dea4dcba0/master.m3u8?1676407544"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto inicial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/938/5fe5a557c9af8ad9e214c880203fe5cf/master.m3u8?1676407544"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/vlpveg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "bocetos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bocetos avanzados",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/939/760e83f3fc91ae157f2d114a23af1cb4/master.m3u8?1676407549"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto refinado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/940/0638dd0dd3d5d7be4fa63eb270842b43/master.m3u8?1676407548"
+                },
+                {
+                    "id": null,
+                    "title": "Obra final rastro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/941/27c297aa2245b5b8aefaf5900cf859fe/master.m3u8?1676407549"
+                },
+                {
+                    "id": null,
+                    "title": "Color de base",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/942/569c785b32fb3b11c8af290b3ea34141/master.m3u8?1676407548"
+                },
+                {
+                    "id": null,
+                    "title": "color final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/943/e0c4fd57df015eaa4633a5a2551889da/master.m3u8?1676407550"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/944/768ef2747cde7cea1a3dae5dfe8011a7/master.m3u8?1676407547"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t51qbm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Refinamiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Acabado letras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/945/bca786c08972ce384f80d1b37af579ba/master.m3u8?1676407550"
+                },
+                {
+                    "id": null,
+                    "title": "Redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/055/946/391b7560d1da9219bbb8a40414a96d55/master.m3u8?1676407548"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/oumu4l.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ww1zan.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3779,
+        "product_name": "Create Stylized Portraits with your Own Style",
+        "teacher_name": "Thobias Daneluz",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 5509,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

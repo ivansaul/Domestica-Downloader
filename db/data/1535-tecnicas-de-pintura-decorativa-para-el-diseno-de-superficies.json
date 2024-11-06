@@ -1,0 +1,153 @@
+{
+    "id": "1535",
+    "title": "Técnicas de pintura decorativa para el diseño de superficies",
+    "url": "https://www.domestika.org/es/courses/1535-tecnicas-de-pintura-decorativa-para-el-diseno-de-superficies/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Quienes somos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/041/a372b1eec1c11a9f7dc1c8840c14357e/master.m3u8?1676401773"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestras influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/042/005bc2713d4037951a29f9031417c170/master.m3u8?1676401775"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tl8476.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptualización y planificación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elección de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/043/812ed4eaa0102a8da35b755786abbc20/master.m3u8?1676401774"
+                },
+                {
+                    "id": null,
+                    "title": "Muestras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/044/aae3c2bc05fe7743552cfbf5790f5d2b/master.m3u8?1676401772"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/045/3818caa521f0174744e82cd5556f9815/master.m3u8?1676401774"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/r2wq8p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Técnicas de aprendizaje en muestras",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación base",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/046/b536955ca0d7f0fce7bdc22450cba2cb/master.m3u8?1676401775"
+                },
+                {
+                    "id": null,
+                    "title": "Stucco Berlin",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/047/8d8ec3331b7ba5019e3b450254f55bde/master.m3u8?1676401782"
+                },
+                {
+                    "id": null,
+                    "title": "Tie Dye",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/048/7a15563e554a019d13533f19f33dfe84/master.m3u8?1676401783"
+                },
+                {
+                    "id": null,
+                    "title": "Policromo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/049/d6852a0453caf6f051af772d88e8967f/master.m3u8?1676401784"
+                },
+                {
+                    "id": null,
+                    "title": "Rayas gastadas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/050/03c1108138eb60851d8eaa3067abae43/master.m3u8?1676401779"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pgge9q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Terminando la muestra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/051/03569767d66efbe1da103d95048aafb5/master.m3u8?1676401777"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de superficie",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/044/052/96d93c338dce00dbb506e1255e939104/master.m3u8?1676401776"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9oaiba.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/2r7w2q.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1535,
+        "product_name": "Decorative Painting Techniques for Surface Design",
+        "teacher_name": "Adriana e Carlota Atelier",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6380,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "id": "488",
+    "title": "Introducción a la composición digital en postproducción",
+    "url": "https://www.domestika.org/es/courses/488-introduccion-a-la-composicion-digital-en-postproduccion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/407/a4ed1ebe34a6e4759511fd031a0fe406/master.m3u8?1676385331"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/408/e8866e3335775a2485c13383e8a6ada6/master.m3u8?1676385332"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/uuas1t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción a la composición y preparación del proyecto",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la composición digital",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/409/8aefdb2333e3aa3e94861673a642f7f5/master.m3u8?1676385337"
+                },
+                {
+                    "id": null,
+                    "title": "Búsqueda de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/410/70cbeb7d1936fa65f4c43600dce3e9d2/master.m3u8?1676385334"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/411/3e7f223f21777f7596bdb1c50a0ecf23/master.m3u8?1676385335"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación para grabar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/413/2360e1841e6d236246361e215434e424/master.m3u8?1676385337"
+                },
+                {
+                    "id": null,
+                    "title": "Croma casero",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/414/7fe202ed5eb9dc707375117bb20f80ed/master.m3u8?1676385337"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/nxzqbe.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Producción de nuestro plano",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación del plano parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/415/2474d4c75281e79df1f423ddedd7ba2e/master.m3u8?1676385338"
+                },
+                {
+                    "id": null,
+                    "title": "Preparación del plano parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/416/6e6507beb56ad6ae2e1780cd4afffb3a/master.m3u8?1676385338"
+                },
+                {
+                    "id": null,
+                    "title": "Recorte de croma y luminancia parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/417/1575f8daefa6059a6e897e1491030252/master.m3u8?1676385340"
+                },
+                {
+                    "id": null,
+                    "title": "Recorte de croma y luminancia parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/418/ad785d57f26b8a92e8af708ee4f65e9d/master.m3u8?1676385341"
+                },
+                {
+                    "id": null,
+                    "title": "Tracking 2D parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/420/74eedd43bede0315f64110f31575858a/master.m3u8?1676385344"
+                },
+                {
+                    "id": null,
+                    "title": "Tracking 2D parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/421/15313b7c3f51b5289487add440781728/master.m3u8?1676385343"
+                },
+                {
+                    "id": null,
+                    "title": "Tracking 3D parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/422/32a53e4623d9d88f0b99c261f7d7a68d/master.m3u8?1676385342"
+                },
+                {
+                    "id": null,
+                    "title": "Tracking 3D parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/423/c45602b112083ed161732225fe9d1616/master.m3u8?1676385342"
+                },
+                {
+                    "id": null,
+                    "title": "Tracking 2D parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/425/f6c9993cddd53e3720001bd4b29bc32e/master.m3u8?1676385341"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/92u4fz.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Integración refinado y retoques finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Integración de color parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/458/0bc83a5e0d2c5adddeb99e14620bd840/master.m3u8?1676385363"
+                },
+                {
+                    "id": null,
+                    "title": "Integración de color parte 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/459/cd4338869e31abc746e8994420b9e918/master.m3u8?1676385354"
+                },
+                {
+                    "id": null,
+                    "title": "Refinado parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/460/e09312bea2a638c8c058299cd46f51f2/master.m3u8?1676385356"
+                },
+                {
+                    "id": null,
+                    "title": "Refinado parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/461/25ca41019c0cadb691ab69f0ad965935/master.m3u8?1676385356"
+                },
+                {
+                    "id": null,
+                    "title": "Color Grading",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/462/81ac79f278e30b8824c90a97a7d0c1d6/master.m3u8?1676385353"
+                },
+                {
+                    "id": null,
+                    "title": "Integración de color parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/010/466/22e8e73e747bf0a367aa1ed3113e59cd/master.m3u8?1676385358"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hjs6uu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/1y96dc.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 488,
+        "product_name": "Introduction to Digital Compositing in Post-production",
+        "teacher_name": "Juan Olivares",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 22,
+        "course_total_duration_sec": 20196,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

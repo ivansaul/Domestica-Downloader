@@ -1,0 +1,236 @@
+{
+    "id": "254",
+    "title": "Ilustración 3D con Cinema 4D",
+    "url": "https://www.domestika.org/es/courses/254-ilustracion-3d-con-cinema-4d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/789/6497c523fbbfeac47f992c79752a7cd6/master.m3u8?1676383407"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/790/52795ac09aa279462f49bc6d072d928f/master.m3u8?1676383409"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kd8f1e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Base del cartel",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/791/0b573fcfac7376fe9d61a1efd31d4446/master.m3u8?1676383413"
+                },
+                {
+                    "id": null,
+                    "title": "Boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/796/08019b1f44e432f0d7f47e30877f943f/master.m3u8?1676383413"
+                },
+                {
+                    "id": null,
+                    "title": "Vectorización",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/797/b1ceb5a32b214632c8b59e5a9fd97f5f/master.m3u8?1676383416"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2scu8x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Modelado de elementos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/798/769662ba22b0ab0ab97c59846a28f8fd/master.m3u8?1676383416"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos simples I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/799/8d16bdd8be5581de40966658978ddc8c/master.m3u8?1676383417"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos simples II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/800/f4d469f643e31e59666562ba10ffa970/master.m3u8?1676383419"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos complejos I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/801/5068cfc119914b97e9a0cfdf73ea798d/master.m3u8?1676383420"
+                },
+                {
+                    "id": null,
+                    "title": "Elementos complejos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/802/67efe952373d78be6dc4d81a290b9d06/master.m3u8?1676383422"
+                },
+                {
+                    "id": null,
+                    "title": "Personajes I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/803/9f5c3daa7772b244d0c2bc1665ed9a44/master.m3u8?1676383422"
+                },
+                {
+                    "id": null,
+                    "title": "Personajes II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/804/28e90bd7db946ba232fd70abc4ed5fd1/master.m3u8?1676383422"
+                },
+                {
+                    "id": null,
+                    "title": "Personalidad I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/805/125bc101fe0b4417f51126fa52718110/master.m3u8?1676383426"
+                },
+                {
+                    "id": null,
+                    "title": "Personalidad II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/807/23c83d2d33789f160c15ae0fd91c22c6/master.m3u8?1676383422"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/owqp8m.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Composición y acabados",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Composición del cartel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/808/356a740362e43eb965f3f7bfac00dc97/master.m3u8?1676383425"
+                },
+                {
+                    "id": null,
+                    "title": "Escena de render",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/809/b45cfb59cb6ff02525a04fc15292f0e0/master.m3u8?1676383420"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/810/3d5fdf7ae922fbb99e131dc4b727a457/master.m3u8?1676383421"
+                },
+                {
+                    "id": null,
+                    "title": "Encuadre final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/811/c66bdb16781cfee60debeb474430986c/master.m3u8?1676383427"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/x2w5ue.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Movimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Animando la tipografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/812/cedfc5fb07f84973a9dc2f92db157749/master.m3u8?1676383424"
+                },
+                {
+                    "id": null,
+                    "title": "Moviendo los elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/813/da0764d8ca089e0536dd814368a7b68e/master.m3u8?1676383425"
+                },
+                {
+                    "id": null,
+                    "title": "Moviendo los personajes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/814/5a8d3efb6de729c56348dacccce4cdf7/master.m3u8?1676383428"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z6kxe4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Render y salida a medios",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Render de animación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/817/b9b64fb8c556ea8e880433f511a6bf58/master.m3u8?1676383427"
+                },
+                {
+                    "id": null,
+                    "title": "Salida para impresión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/818/3b8ca010d99d12c58f4727c9f6c0d6a3/master.m3u8?1676383428"
+                },
+                {
+                    "id": null,
+                    "title": "Banners",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/819/3cc8c00820b9ed85a09ed4cbd3c69642/master.m3u8?1676383434"
+                },
+                {
+                    "id": null,
+                    "title": "Stickers",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/820/cddb6d1354ff0eee466294b14eb7e60f/master.m3u8?1676383436"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/zrl8w8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/v532jk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 254,
+        "product_name": "3D Illustration with Cinema 4D",
+        "teacher_name": "Aarón Martínez",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 25,
+        "course_total_duration_sec": 14977,
+        "total_units": 6,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

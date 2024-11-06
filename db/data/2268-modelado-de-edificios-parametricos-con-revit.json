@@ -1,0 +1,243 @@
+{
+    "id": "2268",
+    "title": "Modelado de edificios paramétricos con Revit",
+    "url": "https://www.domestika.org/es/courses/2268-modelado-de-edificios-parametricos-con-revit/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/362/17bc41a745686b88f18c39a723c09389/master.m3u8?1676397140"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/363/70778517c9ce9198ce90010728956400/master.m3u8?1676397140"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/d4wnxv.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Componentes básicos para la modelación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparar planilla de diseño 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/364/7783ef04b238794044191a9a3cacf758/master.m3u8?1676397140"
+                },
+                {
+                    "id": null,
+                    "title": "Preparar planilla de diseño 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/365/5b94d16c0498931e6de8e47bca07f942/master.m3u8?1676397141"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño y creación de tipología en departamento 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/366/ceb3c89b8ac099ad221da5a5baffd4ee/master.m3u8?1676397142"
+                },
+                {
+                    "id": null,
+                    "title": "Diseño y creación de tipología en departamento 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/367/c1fc0f0a460ed014887451099ec1af74/master.m3u8?1676397143"
+                },
+                {
+                    "id": null,
+                    "title": "Proyecta la cocina in situ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/368/b40ffb8ffa0aaf8f74209165dfa6975c/master.m3u8?1676397148"
+                },
+                {
+                    "id": null,
+                    "title": "Transformación de la tipología paramétrica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/369/aea44d89108d4223616209252865c3bb/master.m3u8?1676397151"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hjju6z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Configuración paramétrica para el modelado",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Configuración de la tipología de los departamentos 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/370/06e871a197665377e5ca4308e2604759/master.m3u8?1676397144"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de la tipología de los departamentos 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/371/5cc00af5d5201f7d46861b9e0c53cfc3/master.m3u8?1676397143"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión y diseño de planta de arquitectura tipo 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/372/a97e16e1502314ef072a7b238144ab89/master.m3u8?1676397145"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión y diseño de planta de arquitectura tipo 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/373/704417a7b2b9fc2aa8f24ef51509677c/master.m3u8?1676397145"
+                },
+                {
+                    "id": null,
+                    "title": "Modelación de nivel cubierta 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/374/f2620bc9c2cf24c3b90e55fd26a3fe5a/master.m3u8?1676397148"
+                },
+                {
+                    "id": null,
+                    "title": "Modelación de nivel cubierta 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/375/f288dad5adbeef1b931252d56c97be08/master.m3u8?1676397152"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo los conectores entre niveles y escalera 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/376/cef270ec68a42b20ccae919177e98546/master.m3u8?1676397148"
+                },
+                {
+                    "id": null,
+                    "title": "Construyendo los conectores entre niveles y escalera 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/377/1666671d1a691ce12b0ddbafe559a0ac/master.m3u8?1676397152"
+                },
+                {
+                    "id": null,
+                    "title": "Modelación de nivel acceso 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/378/8ad4bbb3951503f32a81dfb790823182/master.m3u8?1676397147"
+                },
+                {
+                    "id": null,
+                    "title": "Modelación de nivel acceso 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/379/48260bd4cbb8b078abd67a6fb4aaac78/master.m3u8?1676397151"
+                },
+                {
+                    "id": null,
+                    "title": "Modelación de cortina muro en fachada 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/380/736bd4b65c98720283eea626939eefa8/master.m3u8?1676397150"
+                },
+                {
+                    "id": null,
+                    "title": "Modelación de cortina muro en fachada 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/381/4e16a61e5a76b2c5bc2cff6356841a70/master.m3u8?1676397149"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de muro cortina en nivel acceso mediante masas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/382/262370930fc84b48476d3b53959f3ed1/master.m3u8?1676397149"
+                },
+                {
+                    "id": null,
+                    "title": "Configuración de muro cortina en nivel acceso mediante masas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/383/e12f116e7395f3a0f16c234005e976e8/master.m3u8?1676397153"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión y diseño de terreno mediante tablas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/384/c9735ba73a8dcaeaad1f1861e4660af1/master.m3u8?1676397153"
+                },
+                {
+                    "id": null,
+                    "title": "Revisión y diseño de terreno mediante tablas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/385/1f6dae72c85ef0cfa4280eb0a644bad4/master.m3u8?1676397157"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rs7tvt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Componentes avanzados para la presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Transformación de envolvente ondulada mediante masas 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/495/9f8c4bf0e66655ee9d49d223264f34a5/master.m3u8?1676397210"
+                },
+                {
+                    "id": null,
+                    "title": "Transformación de envolvente ondulada mediante masas 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/496/7e89ae377fcdac76e0b178269ebedcf4/master.m3u8?1676397208"
+                },
+                {
+                    "id": null,
+                    "title": "Transformación de envolvente ondulada mediante masas 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/497/0ac2e850fa56d11c1881683ba707b4e7/master.m3u8?1676397213"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del edificio 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/498/d04ec17ed28fc2ec656e744004de4c6f/master.m3u8?1676397213"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del edificio 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/499/087a066ba466f8a7f4084c3ca60d87c4/master.m3u8?1676397219"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación del edificio 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/035/500/550e1b4391a49f8d9f819188efdde093/master.m3u8?1676397214"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xeil1v.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/ke6uwd.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2268,
+        "product_name": "Modeling for Parametric Buildings with Revit ",
+        "teacher_name": "Arturo Bustíos Casanova",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 30,
+        "course_total_duration_sec": 23605,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

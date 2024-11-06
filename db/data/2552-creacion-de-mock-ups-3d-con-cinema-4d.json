@@ -1,0 +1,168 @@
+{
+    "id": "2552",
+    "title": "Creación de mockups 3D con Cinema 4D",
+    "url": "https://www.domestika.org/es/courses/2552-creacion-de-mock-ups-3d-con-cinema-4d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/437/5b0c7f07674a1b376e0e52f8722edbaf/master.m3u8?1676399306"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/438/1c084ee8b00eed5fa0707a1dbca5b4c5/master.m3u8?1676399307"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/45t9i0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Primeros pasos en 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Interfaz y navegación Cinema 4D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/439/d8d7f5c844d2c25656333aa842da7aed/master.m3u8?1676399308"
+                },
+                {
+                    "id": null,
+                    "title": "Modificadores y objetos primitivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/440/bd3dad0b550f6d288a83f43edca59815/master.m3u8?1676399311"
+                },
+                {
+                    "id": null,
+                    "title": "Objetos editables",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/441/af327689298b8cf0160d52661d8e28fc/master.m3u8?1676399309"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al Octane y las texturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/442/8b1d42fae7bb912eb4cebb34642dcf98/master.m3u8?1676399311"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ga6u1h.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creando tus maquetas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado a partir de archivos de Illustrator",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/443/8642d21d1ed22036775c9313fa658099/master.m3u8?1676399311"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación de luz de área de octano",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/444/a54aa04cc12dc9596e8d3455eae90765/master.m3u8?1676399313"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado a partir de objetos primitivos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/445/5d13002b6f6ac7cede2b3c7a7c0b0ce4/master.m3u8?1676399309"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación HDRI",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/446/5f36ec9c1fe103da04e33ee698228244/master.m3u8?1676399312"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado a partir de cuchillos de corte y objetos Quixel",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/447/985d4be1373982aba3734de8972def02/master.m3u8?1676399311"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación con Octane Daylight",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/448/50aacba4c0a38c3bbfaafe8922d41ccd/master.m3u8?1676399314"
+                },
+                {
+                    "id": null,
+                    "title": "representación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/449/3294524b4f7bc807b5c661cf156d99a4/master.m3u8?1676399310"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bjegwl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicando el diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Postproducción de color en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/450/d2b28a45448cf7a668d7dad91a5219c5/master.m3u8?1676399312"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de diseños a imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/039/451/4fb5a40c367816b7aa763a7ee6634cf5/master.m3u8?1676399315"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/n9t43d.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/d3zwap.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2552,
+        "product_name": "3D Mock-up Creation with Cinema 4D",
+        "teacher_name": "Lucas Luz",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 9656,
+        "total_units": 4,
+        "subtitles_language": [
+            "pt",
+            "es",
+            "en",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "pt"
+        ],
+        "original_language": "pt"
+    }
+}

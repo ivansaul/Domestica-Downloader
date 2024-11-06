@@ -1,0 +1,205 @@
+{
+    "id": "2303",
+    "title": "Introducción al dibujo de retrato",
+    "url": "https://www.domestika.org/es/courses/2303-introduccion-al-dibujo-de-retrato/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/702/51181da49e84d5ef9f25fbd0d40fbf16/master.m3u8?1676396241"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/703/b563d4db5de3981db5cc35cecddfbd7a/master.m3u8?1676396243"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/704/690bf9f9ffa3d13b45b54a09aefccb2f/master.m3u8?1676396242"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wrdtfm.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Principios básicos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El dibujo como arte esencial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/705/2053943e6784515987c987509366ac8d/master.m3u8?1676396243"
+                },
+                {
+                    "id": null,
+                    "title": "Presentación de los materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/706/6140353bcf1bb283052f1e954f9290d4/master.m3u8?1676396244"
+                },
+                {
+                    "id": null,
+                    "title": "Pensar en 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/707/c926e45ab85c2f536592d16356ee7e30/master.m3u8?1676396245"
+                },
+                {
+                    "id": null,
+                    "title": "La luz y la sombra",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/708/4ee7ef91361a0c6fbd3ccf33f763e8b2/master.m3u8?1676396246"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6yfgl7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Construcción de la cabeza humana y rostro",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Iluminación ideal para retrato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/709/1fcb4e7fb2a6c0a09d482189b7bd5eb9/master.m3u8?1676396245"
+                },
+                {
+                    "id": null,
+                    "title": "Principales huesos y músculos de la cabeza humana",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/710/956308db2022d29f92b5fa4325efc265/master.m3u8?1676396249"
+                },
+                {
+                    "id": null,
+                    "title": "Proporciones generales de la cabeza humana",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/711/4f43319da707a5209d4c660b98b9acb4/master.m3u8?1676396250"
+                },
+                {
+                    "id": null,
+                    "title": "Emblocamiento",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/712/5e38800e9781130eb04c283b0fb90a7b/master.m3u8?1676396248"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de partes del rostro 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/713/a41870e3fc14a16f5931d4b4b25c2ae2/master.m3u8?1676396256"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción de partes del rostro 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/714/6a431c4209dcc6bab7c2f1011d1224d7/master.m3u8?1676396250"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ev4c4x.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujando un retrato",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elección de fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/715/adde1e9dd2d48934f87606955e6cf51f/master.m3u8?1676396247"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetando y encajando",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/716/229e247413cdfa71e1ad2ac477d72fa0/master.m3u8?1676396254"
+                },
+                {
+                    "id": null,
+                    "title": "Definiendo los rasgos faciales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/717/21f32027e6f342b8112a4df4e15ed936/master.m3u8?1676396252"
+                },
+                {
+                    "id": null,
+                    "title": "Luces medios tonos y sombras 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/718/22fe71ee6650be24709b753ecf34a6db/master.m3u8?1676396254"
+                },
+                {
+                    "id": null,
+                    "title": "Luces medios tonos y sombras 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/719/9bf8364b36c0cdd04f4acf8b134aa384/master.m3u8?1676396252"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6lps9t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Exhibición y conservación de la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bonus uso de la tinta como técnica para el retrato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/720/97153c3c38e119f4a16997183648eb98/master.m3u8?1676396255"
+                },
+                {
+                    "id": null,
+                    "title": "Conservación del retrato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/033/721/6f58b72fa7811d15e8d75127bb22ef8b/master.m3u8?1676396250"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ba3xez.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/kub9sq.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2303,
+        "product_name": "Introduction to Portrait Drawing",
+        "teacher_name": "Alonso Palomino",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 9003,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

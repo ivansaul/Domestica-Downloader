@@ -1,0 +1,163 @@
+{
+    "id": "4922",
+    "title": "Introducción a la Ilustración comercial",
+    "url": "https://www.domestika.org/es/courses/4922-introduccion-a-la-ilustracion-comercial/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/198/1b87a2d021e76789b29292a78d0aa0af/master.m3u8?1685726108"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/199/e937267843770b02961e37725551a0c8/master.m3u8?1685726220"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6h6day.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dirección de arte",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La ilustración comercial",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/200/344bd7135992ed62c545e150b79e994d/master.m3u8?1685726241"
+                },
+                {
+                    "id": null,
+                    "title": "El briefing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/201/17e8a837c3b3296160a64e94ae078785/master.m3u8?1685726280"
+                },
+                {
+                    "id": null,
+                    "title": "Key visuals",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/202/be18bb54b9c4417a7bc516818cf6baa5/master.m3u8?1685726314"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/y1jkgt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación del key visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El mood board",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/203/d11ff27e9f5b12f1313f0125edeb3ee5/master.m3u8?1685726344"
+                },
+                {
+                    "id": null,
+                    "title": "Identificación de elementos visuales y su jerarquía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/204/23b7e729935d705aa9d541e890199f1c/master.m3u8?1685726361"
+                },
+                {
+                    "id": null,
+                    "title": "Color definir la paleta de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/205/56572032ed7970d82c32bbb563a82f6c/master.m3u8?1685726376"
+                },
+                {
+                    "id": null,
+                    "title": "Composición el ADN de la marca en la ilustración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/206/ea067d0be33d3821fefb30719bc9fe72/master.m3u8?1685726400"
+                },
+                {
+                    "id": null,
+                    "title": "Ilustrar elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/207/9db4f6e3889f1e7fc965943587fadb34/master.m3u8?1685726428"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicación de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/208/343b557cff4ce8fa3264f9b81184068c/master.m3u8?1685726465"
+                },
+                {
+                    "id": null,
+                    "title": "Key visual final",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/209/676a6728a1a9291078c0a21fc31113ee/master.m3u8?1685726514"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fuym2n.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aplicaciones del key visual",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Adaptaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/210/22b87d76d448aaad3f1308b8cbc1a74e/master.m3u8?1685726536"
+                },
+                {
+                    "id": null,
+                    "title": "La presentación del proyecto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/070/211/9a6ed22f640362e783e0d670c5a944f6/master.m3u8?1685726552"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/4ye0bl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rdy13q.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4922,
+        "product_name": "Commercial Illustration for Beginners",
+        "teacher_name": "Raul Urias",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 6901,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

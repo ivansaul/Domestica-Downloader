@@ -1,0 +1,163 @@
+{
+    "id": "3339",
+    "title": "Diseño de workshops potencia la colaboración creativa",
+    "url": "https://www.domestika.org/es/courses/3339-diseno-de-workshops-potencia-la-colaboracion-creativa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/705/1257903f23aa112c22ee2587e2ca8848/master.m3u8?1676406475"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/706/e0f7577eade7bab4e57b5a93d15499fc/master.m3u8?1676406476"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/trudav.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Los primeros pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es un taller de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/707/5d70804a3d1d47505157d5ca320161bd/master.m3u8?1676406478"
+                },
+                {
+                    "id": null,
+                    "title": "El briefing",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/708/60ba71995027c8c759be0a2440c5c2ea/master.m3u8?1676406477"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación del taller de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/710/fe3f7b4381cf67ca4692432b816ea1c6/master.m3u8?1676406478"
+                },
+                {
+                    "id": null,
+                    "title": "Presencial versus online adaptándose a diferentes formatos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/711/8bbff35bc21e27136b39db2988c135be/master.m3u8?1676406479"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/47q3y9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Realización de un taller las etapas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción y calentamientos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/712/e10c6dd1b3f37dbbe7b9b43a9abacd18/master.m3u8?1676406479"
+                },
+                {
+                    "id": null,
+                    "title": "Comprender el problema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/713/d9351f0329f175eb136415bc762351d2/master.m3u8?1676406479"
+                },
+                {
+                    "id": null,
+                    "title": "Enmarcando el problema",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/714/581ea96eddf255320706f6a6b89fcc87/master.m3u8?1676406479"
+                },
+                {
+                    "id": null,
+                    "title": "Generando ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/715/89a955d7ab502b98656cd152d610c56b/master.m3u8?1676406480"
+                },
+                {
+                    "id": null,
+                    "title": "Refinamientos y cierre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/716/77b3830dc1558f4ece8011bad70102d4/master.m3u8?1676406480"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6yn8x2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Consejos y trucos finales",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La agenda del taller",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/732/b4a178c0550364b3c2cbab6f25f5688c/master.m3u8?1676406490"
+                },
+                {
+                    "id": null,
+                    "title": "Lidiando con situaciones difíciles",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/739/6b61f4dcc11a2dc9ba15c7322fac06b5/master.m3u8?1676406491"
+                },
+                {
+                    "id": null,
+                    "title": "Últimos pensamientos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/740/9d358234bddb17be348ddbfc5c5f79af/master.m3u8?1676406491"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ab4fv2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/v71i1y.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3339,
+        "product_name": "Design Workshops: Boost Creative Collaboration",
+        "teacher_name": "Grace Ascuasiati",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 14,
+        "course_total_duration_sec": 3888,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

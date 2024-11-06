@@ -1,0 +1,215 @@
+{
+    "id": "4657",
+    "title": "Diseño y modelado 3D de paisajes surrealistas",
+    "url": "https://www.domestika.org/es/courses/4657-diseno-y-modelado-3d-de-paisajes-surrealistas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/458/51110be919c4b450aebdad334bbd624a/master.m3u8?1676412154"
+                },
+                {
+                    "id": null,
+                    "title": "Fuentes de inspiración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/459/3ab837105e731c7a464875667ea63fca/master.m3u8?1676412154"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h3bwsy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Técnicas básicas de modelado en 3ds Max",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/460/790d78719aa8477f830cca57401347a6/master.m3u8?1676412156"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas básicas para usar Corona Renderer",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/461/ed814d64153f695940517417d77a4052/master.m3u8?1676412159"
+                },
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/462/5c971da806c215c4a99d3a6e54b3d931/master.m3u8?1676412158"
+                },
+                {
+                    "id": null,
+                    "title": "Elección de tema investigación y moodboard",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/463/b048662375f8c3edbb47904a60266e1b/master.m3u8?1676412157"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eswa9z.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ambientación y arquitectura",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Diseño y ambientación del paisaje",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/464/4a6e3cb966d639b346c8bc8aa73e2534/master.m3u8?1676412159"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado del módulo único del edificio 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/465/56e202626f1d56057e2bec6db90a1392/master.m3u8?1676412160"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado del módulo único del edificio 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/466/d9a5ece4e11c2dd7413538fd707aecce/master.m3u8?1676412162"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado del módulo único del edificio 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/467/eadd93211887e7b7289c29a32a6de0ff/master.m3u8?1676412173"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado y montaje de edificios 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/468/71ba57ec8a37468df1dd268ef88479cd/master.m3u8?1676412168"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado y montaje de edificios 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/469/07cd8b20f6db3e9d07b553e8ebeb0f6c/master.m3u8?1676412165"
+                },
+                {
+                    "id": null,
+                    "title": "Modificaciones acabados y posicionamiento del edificio en el paisaje 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/470/b36f1970126616998173e520d1587e74/master.m3u8?1676412167"
+                },
+                {
+                    "id": null,
+                    "title": "Modificaciones acabados y posicionamiento del edificio en el paisaje 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/471/cd783f5f8ab991bb5619a415552eb582/master.m3u8?1676412168"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xga6rt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Del texturizado a la iluminación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Texturizado y mapeado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/472/faf42488e4e9acdc173b072f9ab87574/master.m3u8?1676412166"
+                },
+                {
+                    "id": null,
+                    "title": "Dispersión modelado de la porción de hierba",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/473/065d69e51ee9334ba8edcb53667dfb93/master.m3u8?1676412168"
+                },
+                {
+                    "id": null,
+                    "title": "Hierba esparcida por el suelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/474/052f63c1c56df4d149fe8fddca9be513/master.m3u8?1676412168"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación principal y modificaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/475/22565ad7c4e2a8b334f9e72cbc12abeb/master.m3u8?1676412167"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación final 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/476/c30e32c0a0d4d2f359773160d1cf1e56/master.m3u8?1676412170"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación final 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/477/9631da85c387926a309f919d978ec1f6/master.m3u8?1676412168"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/t9ltq9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Finalización",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Primer render en calidad media configuración de render final y render alto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/478/8949f9ba7bec54374dc002786947e3c0/master.m3u8?1676412170"
+                },
+                {
+                    "id": null,
+                    "title": "Postproducción final en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/063/479/3a4da71101b1f6d1dfc4a72333e778a2/master.m3u8?1676412173"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/bxg6v3.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4k26uv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4657,
+        "product_name": "Surrealist Landscapes: Design and 3D Modeling",
+        "teacher_name": "Massimo Colonna",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 22,
+        "course_total_duration_sec": 17540,
+        "total_units": 5,
+        "subtitles_language": [
+            "it",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "it"
+        ],
+        "original_language": "it"
+    }
+}

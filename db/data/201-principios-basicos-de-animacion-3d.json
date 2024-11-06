@@ -1,0 +1,199 @@
+{
+    "id": "201",
+    "title": "Principios básicos de animación 3D",
+    "url": "https://www.domestika.org/es/courses/201-principios-basicos-de-animacion-3d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/697/aaebb9ec0424c5f36c69d1b8ba1fe6ca/master.m3u8?1676382788"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/699/9b082b49934e40d6061f5c897b944025/master.m3u8?1676382775"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/c6dlb0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Repaso a los principios de animación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Los 12 principios básicos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/700/522e557495132614d1593c269e304589/master.m3u8?1676382779"
+                },
+                {
+                    "id": null,
+                    "title": "Los 12 principios básicos III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/701/6b8cbd33107b0abfe1788852bdad4e59/master.m3u8?1676382781"
+                },
+                {
+                    "id": null,
+                    "title": "Los 12 principios básicos III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/702/66f94cd77560b2c86a26e1eb0f1d973f/master.m3u8?1676382779"
+                },
+                {
+                    "id": null,
+                    "title": "Los 12 principios básicos IIII",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/703/ce1b365a8c29efc92c6de96be137bf82/master.m3u8?1676382775"
+                },
+                {
+                    "id": null,
+                    "title": "Los 12 principios básicos III",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/704/babae584222d9df49c533e1e2eaa2ab0/master.m3u8?1676382781"
+                },
+                {
+                    "id": null,
+                    "title": "Los 12 principios básicos IV",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/705/3cc9280b54542e12f460456b9adcf869/master.m3u8?1676382777"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/funyt7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Aprender a analizar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Observación y referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/706/2c2494cc39df6d6bf90cf3f501b82747/master.m3u8?1676382785"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación y thumbnails",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/712/e37d26b231fe696a86fa0f3f48dcb7a2/master.m3u8?1676382776"
+                },
+                {
+                    "id": null,
+                    "title": "Keys Breakdowns e Inbetweens",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/713/950cbdace7adbde52adaa24ce684534d/master.m3u8?1676382780"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/jk7ncq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pasamos al ordenador",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Editor de curvas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/714/bc62e6701ced0c0d855cdbcbce4749e3/master.m3u8?1676382784"
+                },
+                {
+                    "id": null,
+                    "title": "Tips",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/715/039dbb6b0a2c7e6fe0389ae36313f3c0/master.m3u8?1676382780"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/pjbocq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Empezamos a animar",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Ejercicio bola desplazándose",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/716/91b5bf652563be3c400f30ba277d204e/master.m3u8?1676382784"
+                },
+                {
+                    "id": null,
+                    "title": "Animar pelota botando y desplazándose",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/717/26f3c40e4d577400bf956dc39003e0f1/master.m3u8?1676382784"
+                },
+                {
+                    "id": null,
+                    "title": "Comparativa de pesos I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/718/323c1e252fc3948c190381683437420c/master.m3u8?1676382786"
+                },
+                {
+                    "id": null,
+                    "title": "Comparativa de pesos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/719/1581f3d9d1c92ca60367617b5a6c0d38/master.m3u8?1676382787"
+                },
+                {
+                    "id": null,
+                    "title": "Animar con Squash u0026 Strech",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/720/f1318ed257cd72e0443dc75904b46fdb/master.m3u8?1676382788"
+                },
+                {
+                    "id": null,
+                    "title": "Animar pelota con cola",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/721/9e5ca04186c179dc109d0c04297bf9f9/master.m3u8?1676382789"
+                },
+                {
+                    "id": null,
+                    "title": "Animar péndulo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/004/722/cdaa5965edb206b24c5e1391c3181073/master.m3u8?1676382787"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5l7rtu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/8o87f2.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 201,
+        "product_name": "Basic Principles of 3D Animation",
+        "teacher_name": "Hugo García",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 20,
+        "course_total_duration_sec": 14284,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

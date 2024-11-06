@@ -1,0 +1,168 @@
+{
+    "id": "974",
+    "title": "Del relato autobiográfico al cuento ilustrado",
+    "url": "https://www.domestika.org/es/courses/974-del-relato-autobiografico-al-cuento-ilustrado/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/011/08de14a6725c71f86ce738be8170e700/master.m3u8?1676392727"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/012/d3993ff87f077bea8a3adde116ad6ea3/master.m3u8?1676392724"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/054/173860ac87f7719988abdbc708472806/master.m3u8?1676392745"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rhe0nh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Teoría narrativa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Autobiografía como recurso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/014/0d3aa1543774bd98431575c5aa9bc4da/master.m3u8?1676392726"
+                },
+                {
+                    "id": null,
+                    "title": "La importancia del registro",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/015/645025dcd5f531247a8df7af434c8573/master.m3u8?1676392728"
+                },
+                {
+                    "id": null,
+                    "title": "El objeto y la memoria",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/053/22fa75f86f3b99a32ca70b7f74a58fde/master.m3u8?1676392745"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales y cómo utilizarlos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/017/c4319700f4d24913bc3f7a1679f959d0/master.m3u8?1676392727"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mljgg0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrándonos con el objeto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/018/c23bc1cafb8fb966e9e207b031f59a22/master.m3u8?1676392728"
+                },
+                {
+                    "id": null,
+                    "title": "Construcción del relato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/019/3ff59c42e8e1255d7a0432b7088b9012/master.m3u8?1676392728"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de primeros bocetos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/020/96cdb23f8b501797d64d753dfce70948/master.m3u8?1676392732"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dyxs2c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Crear el relato",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pasando en limpio el boceto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/021/b0c3566dc97e272633ed416bfe47479c/master.m3u8?1676392728"
+                },
+                {
+                    "id": null,
+                    "title": "Trabajo con grafito y tinta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/022/7f9b97081204787860396900f9cd28d9/master.m3u8?1676392732"
+                },
+                {
+                    "id": null,
+                    "title": "Uso de color y detalles finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/023/453f47d26d769f9a106cdb9af5e4897c/master.m3u8?1676392733"
+                },
+                {
+                    "id": null,
+                    "title": "Portada escritura de texto y el cierre",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/024/99889a15ca99e82aca4bad4ca448e4f9/master.m3u8?1676392734"
+                },
+                {
+                    "id": null,
+                    "title": "Compartir el relato",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/025/80ff81186200eda46d4f6785bb60d6df/master.m3u8?1676392731"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z494xb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/akocxk.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 974,
+        "product_name": "From Autobiography to Illustrated Story",
+        "teacher_name": "Paloma Valdivia",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 6592,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "id": "2847",
+    "title": "Diseño de ampliación de vivienda transforma un espacio habitable",
+    "url": "https://www.domestika.org/es/courses/2847-diseno-de-ampliacion-de-vivienda-transforma-un-espacio-habitable/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre nosotros",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/120/a8faaea46131aa42ff1ecb4796f36845/master.m3u8?1676402366"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/121/911d5460a48d9b578fd79d0e3235734d/master.m3u8?1676402363"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eza1w6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Introducción descripción general",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Qué es una extensión",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/122/d189f814577f194187a6f90ad2e88082/master.m3u8?1676402365"
+                },
+                {
+                    "id": null,
+                    "title": "Nuestro Enfoque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/123/6481c1f04c516d9c53120beb5c0dbe1b/master.m3u8?1676402366"
+                },
+                {
+                    "id": null,
+                    "title": "Comprensión de medidas y proporciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/127/10e4a9c61da81094602abb87fa5afd00/master.m3u8?1676402366"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/md1stl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Casa de corcho un proyecto de ejemplo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Establecer el resumen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/130/4500e83f5f0577f85942783c2cbdb728/master.m3u8?1676402370"
+                },
+                {
+                    "id": null,
+                    "title": "Comprensión de las oportunidades y las limitaciones",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/135/0aff4622e3a8e229abf9a8e149b778d4/master.m3u8?1676402373"
+                },
+                {
+                    "id": null,
+                    "title": "Crear opciones de diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/140/5c930553ff84881685403ec77d00d752/master.m3u8?1676402379"
+                },
+                {
+                    "id": null,
+                    "title": "Antecedentes y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/142/84230749393fa92d3775570ea354461e/master.m3u8?1676402378"
+                },
+                {
+                    "id": null,
+                    "title": "Bocetos y visuales en 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/147/3f2b80cb2d075adbf038802ef1c0266a/master.m3u8?1676402377"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8gfsp4.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos Pasos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Preparación del informe y presentación al cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/143/5a349a19cffc8cc4dee613b3e4dda14a/master.m3u8?1676402376"
+                },
+                {
+                    "id": null,
+                    "title": "Finalización y perfeccionamiento del diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/045/144/723516369d628e57374da81742464b53/master.m3u8?1676402375"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e8h65c.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/gsxtkr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2847,
+        "product_name": "Home Extension Design: Transform a Living Space",
+        "teacher_name": "nimtim architects",
+        "category_id": 15,
+        "category_name": "Architecture & Spaces",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 6497,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

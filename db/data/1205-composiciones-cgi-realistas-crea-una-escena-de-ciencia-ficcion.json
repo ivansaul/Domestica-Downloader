@@ -1,0 +1,178 @@
+{
+    "id": "1205",
+    "title": "Composiciones CGI realistas crea una escena de ciencia ficción",
+    "url": "https://www.domestika.org/es/courses/1205-composiciones-cgi-realistas-crea-una-escena-de-ciencia-ficcion/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/166/feb798aa25219b8873ba5386dbcacb04/master.m3u8?1676400721"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/167/84e5fcd25150126d1aa19d29c62c3fa2/master.m3u8?1676400720"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/q1fige.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El monólogo del artista",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La idea",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/168/8aa785e7a86322e55635c2c461beca83/master.m3u8?1676400721"
+                },
+                {
+                    "id": null,
+                    "title": "El concepto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/169/aaa45050a3503efa0a722da8aed25ba2/master.m3u8?1676400721"
+                },
+                {
+                    "id": null,
+                    "title": "Introducción al software",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/170/d2b469ff52a3e6e649424ed43036b8ae/master.m3u8?1676400722"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mxg8pt.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "El flujo de trabajo 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Modelado del objeto principal",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/171/47313137bd1944c722f8d9cce35c2321/master.m3u8?1676400726"
+                },
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/172/781b5afc76880928148048f2396b61c1/master.m3u8?1676400728"
+                },
+                {
+                    "id": null,
+                    "title": "Crea sombreadores realistas con Octane 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/173/74b336c010f4bf9010cf7d663ce7a98d/master.m3u8?1676400729"
+                },
+                {
+                    "id": null,
+                    "title": "Crea sombreadores realistas con Octane 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/174/9c633d7f9ec19399b4a3db840bada2a6/master.m3u8?1676400740"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales adicionales para la escena 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/175/0e5c3c32122d4f510b20f7fd2c59d736/master.m3u8?1676400729"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales adicionales para la escena 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/176/40dcde06c77fbe738f384e0f62791d5a/master.m3u8?1676400727"
+                },
+                {
+                    "id": null,
+                    "title": "Proceso de iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/177/6af0599d79a8853f09367e40e9a474b8/master.m3u8?1676400732"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fwzh1j.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Generando la imagen final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Renderizar en Octane 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/178/55c06ef0547dec13b4f2e3ff21bb09f9/master.m3u8?1676400729"
+                },
+                {
+                    "id": null,
+                    "title": "Renderizar en Octane 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/179/b9df6c9e4c1d9065d08af25bc1c94e17/master.m3u8?1676400731"
+                },
+                {
+                    "id": null,
+                    "title": "Postprocesamiento en Adobe Photoshop 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/180/ee90b909acfcfaabb77ef851580e671a/master.m3u8?1676400748"
+                },
+                {
+                    "id": null,
+                    "title": "Postprocesamiento en Adobe Photoshop 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/181/c58938b70b03b96febf4175409e1681d/master.m3u8?1676400727"
+                },
+                {
+                    "id": null,
+                    "title": "Pasos finales para generar el archivo de imagen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/042/182/ccc448e750ac0f1487c639a3ff19ff7c/master.m3u8?1676400728"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lqsuoq.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/9etmga.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1205,
+        "product_name": "Realistic CGI Compositions: Create a Sci-Fi Scene",
+        "teacher_name": "Timo Noack",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 11331,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

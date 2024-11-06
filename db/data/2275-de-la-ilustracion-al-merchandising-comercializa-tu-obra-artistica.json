@@ -1,0 +1,148 @@
+{
+    "id": "2275",
+    "title": "De la ilustración al merchandising comercializa tu obra artística",
+    "url": "https://www.domestika.org/es/courses/2275-de-la-ilustracion-al-merchandising-comercializa-tu-obra-artistica/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/206/833fc7c668368239341e401745c1e477/master.m3u8?1676398103"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/207/0f1ad879890fdf2b044569f026a954eb/master.m3u8?1676398103"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/mmnooo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Encontrar tu voz",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Encontrar su inspiración y estilo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/208/074dbae59b9105332fc18e18f21ad399/master.m3u8?1676398106"
+                },
+                {
+                    "id": null,
+                    "title": "Convirtiendo su arte en diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/209/9847234fec5f495af72f8f8c57a9848f/master.m3u8?1676398105"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación de su diseño",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/210/344ee7f546a303f5d9ec17d548452089/master.m3u8?1676398105"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/z643b6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Hacer y comercializar su diseño",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Precios y presupuestos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/211/3e5849b7db53e538f63a96d45e29b111/master.m3u8?1676398105"
+                },
+                {
+                    "id": null,
+                    "title": "Aplicar su diseño a su bolso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/212/9eaea7f31f1a4b0d875bfe8561438ce8/master.m3u8?1676398108"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas de marketing para promover",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/213/1d03c92900452f3101e701a8c92b3d8b/master.m3u8?1676398104"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/62594b.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Estableciendo su marca",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Piense en la experiencia del cliente",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/214/7b9c75935c5c0b285d8a92977093fbfa/master.m3u8?1676398106"
+                },
+                {
+                    "id": null,
+                    "title": "Ampliando su gama de productos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/215/3c3b568e27e3c301a7653a2783ace5cb/master.m3u8?1676398110"
+                },
+                {
+                    "id": null,
+                    "title": "Dirigir una tienda",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/037/216/420195447a25724d57e79e830a5434ed/master.m3u8?1676398107"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/w8nzy6.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/akm5wi.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2275,
+        "product_name": "From Illustrations to Merchandise: Market Your Artwork",
+        "teacher_name": "Louise Lockhart",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 11,
+        "course_total_duration_sec": 5819,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

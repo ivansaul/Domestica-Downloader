@@ -1,0 +1,143 @@
+{
+    "id": "3460",
+    "title": "Fotografía culinaria de estilismos de mesa",
+    "url": "https://www.domestika.org/es/courses/3460-fotografia-culinaria-de-estilismos-de-mesa/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/835/7dfe437481af00d56d41927658023c14/master.m3u8?1676406537"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/836/28adfee77403944cad05852e31285dae/master.m3u8?1676406540"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wxbej1.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Food styling",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fundamentos y materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/837/5163fa0457cd987175e7502454dc0ba5/master.m3u8?1676406538"
+                },
+                {
+                    "id": null,
+                    "title": "El arte de la mesa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/838/32f27ff78bd3c28b0812a74df4c5e143/master.m3u8?1676406540"
+                },
+                {
+                    "id": null,
+                    "title": "Inspiración y mood boards",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/839/3041890ecf7e9facadb49814f269a428/master.m3u8?1676406541"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xen7bx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Fotografía culinaria",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografiar la comida",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/840/52890a1a13f021d20e60d06692e6c8a9/master.m3u8?1676406545"
+                },
+                {
+                    "id": null,
+                    "title": "El trabajo de la luz",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/841/ac998d0949ac6a78ecf4eaff0f4f37a8/master.m3u8?1676406544"
+                },
+                {
+                    "id": null,
+                    "title": "Ángulos y composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/842/9df7cd4e396ceb50b4e817d382b6b514/master.m3u8?1676406546"
+                },
+                {
+                    "id": null,
+                    "title": "Selección y retoque",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/843/452faeb4c9da2ec289e403007a0392be/master.m3u8?1676406546"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/835cfy.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Últimos consejos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Comunicar sobre tu trabajo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/844/d30f4b2900bb0e76f4c8e648d9014181/master.m3u8?1676406541"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ws5kga.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/y00xm0.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3460,
+        "product_name": "Food Photography: Styling the Perfect Table",
+        "teacher_name": "Emilie Guelpa",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 10,
+        "course_total_duration_sec": 4800,
+        "total_units": 4,
+        "subtitles_language": [
+            "fr",
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "fr"
+        ],
+        "original_language": "fr"
+    }
+}

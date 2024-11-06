@@ -1,0 +1,169 @@
+{
+    "id": "3793",
+    "title": "Sketching urbano dibuja tu ciudad en movimiento",
+    "url": "https://www.domestika.org/es/courses/3793-sketching-urbano-dibuja-tu-ciudad-en-movimiento/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/966/09c1ec46ce39534cf369f024f8d507ce/master.m3u8?1676406087"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/967/57a5d76e59c790c9f596399ae0ba50ea/master.m3u8?1676406088"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/babtch.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Ejercicios de calentamiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Mis materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/969/5d0db251af0ea3d289b84f459584d291/master.m3u8?1676406090"
+                },
+                {
+                    "id": null,
+                    "title": "El lenguaje gráfico",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/970/865a4e9a9ea769437136efaf4400c067/master.m3u8?1676406094"
+                },
+                {
+                    "id": null,
+                    "title": "Humanizar la arquitectura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/971/263179f07c56343f0c9ffc1c7efca6f5/master.m3u8?1676406093"
+                },
+                {
+                    "id": null,
+                    "title": "Recorridos visuales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/972/f2c6122a17cd65c8aa08c70b7b6d7349/master.m3u8?1678809416"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dfnpbn.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujar el movimiento",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Caligrafía humana",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/994/bffc39302802ae4d239637c5b85dbec7/master.m3u8?1676406102"
+                },
+                {
+                    "id": null,
+                    "title": "La secuencia y la repetición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/995/e4152717949ab8a6a5c96caa560f4380/master.m3u8?1678809455"
+                },
+                {
+                    "id": null,
+                    "title": "El solapamiento y el barrido",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/996/b22109ed2eea80d34f9e2a3ea653695f/master.m3u8?1676406103"
+                },
+                {
+                    "id": null,
+                    "title": "Otras formas de dibujar el paso del tiempo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/997/5ffae49e9a1df002bd2d2240441b39ab/master.m3u8?1676406105"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/h8obtl.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Desarrollar una ilustración urbana",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Elección del punto de vista",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/998/9aea97e07225f2cd11f01fababd6c124/master.m3u8?1676406103"
+                },
+                {
+                    "id": null,
+                    "title": "Composición colores y volúmenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/052/999/5cf9ac74f6d341cbd8a406c5a6203741/master.m3u8?1676406106"
+                },
+                {
+                    "id": null,
+                    "title": "Recorridos visuales aplicación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/000/0cfa778c43779bc5cef00abad738248a/master.m3u8?1676406113"
+                },
+                {
+                    "id": null,
+                    "title": "Del planteamiento al detalle",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/001/0348c0941d2824d19f651dcef5a5d878/master.m3u8?1676406112"
+                },
+                {
+                    "id": null,
+                    "title": "El dibujo in situ",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/053/002/3c5a921625b10313477ec0d8ba444c82/master.m3u8?1676406108"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/p8e7fg.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/fd97zv.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 3793,
+        "product_name": "Urban Sketching: Capture Your City in Motion",
+        "teacher_name": "Inma Serrano",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 8343,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

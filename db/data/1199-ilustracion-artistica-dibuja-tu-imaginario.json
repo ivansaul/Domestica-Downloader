@@ -1,0 +1,159 @@
+{
+    "id": "1199",
+    "title": "Ilustración artística dibuja tu imaginario",
+    "url": "https://www.domestika.org/es/courses/1199-ilustracion-artistica-dibuja-tu-imaginario/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Quién soy",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/566/db82ce4bc209b212fbbe40a2c47ce05f/master.m3u8?1676389698"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/567/3dac0288e3fc36382375c36f15ad6fde/master.m3u8?1676389699"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos durante el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/568/9c8b4190b942fea0788f8eb78c30987e/master.m3u8?1676389698"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/xdtz0p.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Bajando las ideas",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conectarse con uno mismo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/569/f4e2e48a43054078c0da15fa36dea7ea/master.m3u8?1676389694"
+                },
+                {
+                    "id": null,
+                    "title": "Pensar y sentir",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/570/3857e5922a89224ed671713a24832542/master.m3u8?1676389694"
+                },
+                {
+                    "id": null,
+                    "title": "La imagen y el texto",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/571/ea5e36afedca8452d272ecbbec74bf8d/master.m3u8?1676389695"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/eq7054.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Manos a la obra",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bocetear sobre la cartulina",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/572/961291affa4a8f25e3c254497334782d/master.m3u8?1676389696"
+                },
+                {
+                    "id": null,
+                    "title": "Color parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/577/42558341279fae6a9e26af3e12153e4c/master.m3u8?1676389700"
+                },
+                {
+                    "id": null,
+                    "title": "Color parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/579/ba4f043ccc74dde03408351477760bc4/master.m3u8?1676389708"
+                },
+                {
+                    "id": null,
+                    "title": "Entintado parte 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/580/ce492e22f33d50ac6b2970cb66570393/master.m3u8?1676389704"
+                },
+                {
+                    "id": null,
+                    "title": "Entintado parte 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/581/e8be588ac251aabb92aaacf42139eaea/master.m3u8?1676389708"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/3ihfv8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Un estilo un universo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "No solo un dibujo sino un mundo propio",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/584/ad71cbf8092471816ecd3f795d8e8bb0/master.m3u8?1676389708"
+                },
+                {
+                    "id": null,
+                    "title": "Contar una historia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/585/3ec047cf47aa81af5bc0c80a5de10acf/master.m3u8?1676389703"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/64brr2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/hmdzaz.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1199,
+        "product_name": "Artistic Illustration: Draw from Your Imagination",
+        "teacher_name": "Fito Espinosa",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 7103,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en"
+        ],
+        "original_language": "es"
+    }
+}

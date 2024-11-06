@@ -1,0 +1,192 @@
+{
+    "id": "260",
+    "title": "Ilustración botánica con acuarela",
+    "url": "https://www.domestika.org/es/courses/260-ilustracion-botanica-con-acuarela/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/771/6abc2169df6450ef1013f64dc411636c/master.m3u8?1676383393"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/772/949878003ac95e6c413e17d2173cc52f/master.m3u8?1676383394"
+                },
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/773/a9dc5d4e7ae65e48e55cdf2412fdc7de/master.m3u8?1676383395"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1chhwa.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pintando el agua",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción a la acuarela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/321/b783208c498afeb63b7bbf3770af1886/master.m3u8?1676389063"
+                },
+                {
+                    "id": null,
+                    "title": "Volumen",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/322/ebca9f4071a35deb7731cc52de06c18a/master.m3u8?1676389057"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas opacas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/323/bbfa41aa794f9a156ba812a80bcd6513/master.m3u8?1676389055"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas brillantes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/324/b239f3cc25e161cb2b2586d1ef4c98d4/master.m3u8?1676389056"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas con vellos y espinas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/325/67143de9ebd627d8e31da060b9854c83/master.m3u8?1676389062"
+                },
+                {
+                    "id": null,
+                    "title": "Texturas rugosas y secas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/326/71e5e3674e836192664ed847c74d8f0e/master.m3u8?1676389059"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qy7m6q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Buscando el estilo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La ilustración botánica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/780/16b7ebcbe17b952156802094e3a7e86c/master.m3u8?1676383397"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos de ilustración botánica I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/781/10fb2ea5227b7518256ff963c7a72f79/master.m3u8?1676383404"
+                },
+                {
+                    "id": null,
+                    "title": "Estilos de ilustración botánica II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/782/f95103b93216d27d13b6893d83ae77ad/master.m3u8?1676383401"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/8tdk3u.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La composición botánica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Morfología de la planta",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/783/cb43a94462f81e64e162fefe3886a16b/master.m3u8?1676383399"
+                },
+                {
+                    "id": null,
+                    "title": "Composición botánica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/784/4827a47a69ab0e1d4168d4cc027a21ab/master.m3u8?1676383405"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ui6bfb.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Terminamos en pantalla",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Digitalizar acuarela",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/785/ad55f04c9545050e0997c1fba52556aa/master.m3u8?1676383401"
+                },
+                {
+                    "id": null,
+                    "title": "Recorte",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/786/cfa5aebcb486c99a6ce5f8630b44eb9d/master.m3u8?1676383406"
+                },
+                {
+                    "id": null,
+                    "title": "Composición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/005/787/e39469c6db6bbe92cc00e5c45175c9fa/master.m3u8?1676383409"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/umegbx.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/rfm338.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 260,
+        "product_name": "Botanical Illustration with Watercolors",
+        "teacher_name": "Paulina Maciel · Canela",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 17,
+        "course_total_duration_sec": 9124,
+        "total_units": 5,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "it",
+            "fr",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es",
+            "en",
+            "tr"
+        ],
+        "original_language": "es"
+    }
+}

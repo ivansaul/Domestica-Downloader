@@ -1,0 +1,168 @@
+{
+    "id": "1175",
+    "title": "Fotografía de paisaje y naturaleza",
+    "url": "https://www.domestika.org/es/courses/1175-fotografia-de-paisaje-y-naturaleza/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/883/2449c9cfa7129890f825c27332685885/master.m3u8?1676393168"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/884/b43e43339a74b574683ff606cd2f23e4/master.m3u8?1676393170"
+                },
+                {
+                    "id": null,
+                    "title": "Qué haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/885/5a370ce6071b51ace35c60f681e4e306/master.m3u8?1676393169"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/av2p2y.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Conceptos básicos material y preparación previa",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Conceptos básicos de la fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/886/bf7c7d1bd426d0ee0afcde1fe640256d/master.m3u8?1676393172"
+                },
+                {
+                    "id": null,
+                    "title": "Buenas prácticas en la fotografía",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/887/b9baf891d4807f593c3b45941cd08af9/master.m3u8?1676393175"
+                },
+                {
+                    "id": null,
+                    "title": "Qué necesitamos para estar preparados para la aventura",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/888/d27d943c5b597f4ecca7985c22f84296/master.m3u8?1676393172"
+                },
+                {
+                    "id": null,
+                    "title": "Estudio previo del lugar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/889/eae8116768b3490e90029f83fbe84c23/master.m3u8?1676393177"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/hgkfh5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "A la aventura es hora de hacer fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Fotografía que incluirá un sujeto en la misma",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/890/9591e61657be31df4dd9ab202c69f3d7/master.m3u8?1676393172"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía de detalle",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/891/a33a213be2067cfc0724a304711f50d4/master.m3u8?1676393172"
+                },
+                {
+                    "id": null,
+                    "title": "El paisaje en toda su esencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/892/015d0973db4995393b04732deb6640a7/master.m3u8?1676393174"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/rwu27q.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Retoque y edición fotográfica",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Selección de imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/893/a88acbf8a0d4287b88724f06237b68aa/master.m3u8?1676393176"
+                },
+                {
+                    "id": null,
+                    "title": "Flujo de trabajo en Lightroom 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/894/93fb0ba66c891bfbddc070fa05e1da1b/master.m3u8?1676393180"
+                },
+                {
+                    "id": null,
+                    "title": "Flujo de trabajo en Lightroom 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/895/eb4e9cc211715ae30e2d3fa595431e9c/master.m3u8?1676393178"
+                },
+                {
+                    "id": null,
+                    "title": "Flujo de trabajo en Lightroom 3",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/896/5de47bb004203a0b0bdd1a835f5f0a94/master.m3u8?1676393184"
+                },
+                {
+                    "id": null,
+                    "title": "Fotografía y redes sociales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/027/897/321bb31e83c2739f21865f172c73c76d/master.m3u8?1676393176"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sji277.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/s8hp4s.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1175,
+        "product_name": "Landscape and Nature Photography",
+        "teacher_name": "Alvaro Valiente",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 15,
+        "course_total_duration_sec": 7489,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

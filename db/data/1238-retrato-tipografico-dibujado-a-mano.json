@@ -1,0 +1,158 @@
+{
+    "id": "1238",
+    "title": "Retrato tipográfico dibujado a mano",
+    "url": "https://www.domestika.org/es/courses/1238-retrato-tipografico-dibujado-a-mano/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Presentación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/658/592a4b1fc3b0fe9818596d484fe60da5/master.m3u8?1676389737"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/659/ad29e2a8313e3ce8a146c2e2b0b03788/master.m3u8?1676389737"
+                },
+                {
+                    "id": null,
+                    "title": "Lo que haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/660/1a0edd5554c0eb1f65d9b3c3c38f377b/master.m3u8?1676389736"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/wyps4w.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Investigación materiales y técnicas de dibujo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Materiales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/661/ae9a53e961fa691662b6271bd580b1c4/master.m3u8?1676389738"
+                },
+                {
+                    "id": null,
+                    "title": "Técnicas y ejercicios de dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/662/5f5407f4b794ba768c434a229900c28a/master.m3u8?1676389753"
+                },
+                {
+                    "id": null,
+                    "title": "Buscar el texto y las imágenes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/663/00c7c2dc1d2fca91a9ebf468dd797322/master.m3u8?1676389739"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ryc4zi.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Dibujando el retrato tipográfico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Crear la plantilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/664/25539ffe6fd430f1cc787c545c7cf1d4/master.m3u8?1676389740"
+                },
+                {
+                    "id": null,
+                    "title": "Numeración y preparación de la plantilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/665/39e764fcf60ff62451e6dea8a1247f28/master.m3u8?1676389749"
+                },
+                {
+                    "id": null,
+                    "title": "Dibujar tipografía en la plantilla",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/666/a6de6664062fc2b98c4a432afd37a83a/master.m3u8?1676389748"
+                },
+                {
+                    "id": null,
+                    "title": "Usar los dibujos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/667/b7e91594352c781bb1285df3effa57e1/master.m3u8?1676389748"
+                },
+                {
+                    "id": null,
+                    "title": "Limpiar el dibujo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/668/b4e6517640125e3cdcbe63d5f099fbc5/master.m3u8?1676389742"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/fduyju.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Edición final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Separar las imágenes y eliminar el fondo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/669/ed184ef4d54f96833100c2fb4f5e9fa6/master.m3u8?1676389744"
+                },
+                {
+                    "id": null,
+                    "title": "Limpiar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/020/670/dd86c3f7729f17c570dcecc83d622e57/master.m3u8?1676389743"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/06w04s.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/tt644o.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1238,
+        "product_name": "Hand-Drawn Typographic Portrait",
+        "teacher_name": "Sarah King",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 5989,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

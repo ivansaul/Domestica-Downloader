@@ -1,0 +1,158 @@
+{
+    "id": "4618",
+    "title": "Creación de acuarelas líquidas y tintas botánicas",
+    "url": "https://www.domestika.org/es/courses/4618-creacion-de-acuarelas-liquidas-y-tintas-botanicas/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/977/9d7626b989563950d115f934d65caffc/master.m3u8?1676411878"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/978/e7a77537ff2fae71ec9f579ecd4b2503/master.m3u8?1676411880"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e3mzr8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "La esencia y las bases",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Arte sustentable y curiosidad",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/979/38b3580ad6670a93051f0ed9e6c5528b/master.m3u8?1676411879"
+                },
+                {
+                    "id": null,
+                    "title": "Fuentes tintóreas botánicas y su ciclo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/980/31f1897967c804f83d61bf6bd985ba5b/master.m3u8?1676411878"
+                },
+                {
+                    "id": null,
+                    "title": "Clasificación natural de los tintes vegetales y botánicos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/981/07ce85c225e9708dbc99de7e845ae80c/master.m3u8?1676411880"
+                },
+                {
+                    "id": null,
+                    "title": "Reconocimiento de materiales y herramientas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/982/3a922f450972ac99daf411364a6fa7d3/master.m3u8?1676411880"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o2ttfo.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Creación de tintes",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Procedimiento de extracción cocción y triturado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/983/e248a9373bde913e3941d3c3f2672b19/master.m3u8?1676411887"
+                },
+                {
+                    "id": null,
+                    "title": "Procedimiento de extracción macerado en agua",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/985/74371d8d4641463c5892cd6246cede86/master.m3u8?1676411885"
+                },
+                {
+                    "id": null,
+                    "title": "Procedimiento de extracción macerado en alcohol",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/986/5bb0191056376d28e1136ce222fde5dc/master.m3u8?1676411883"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/5ckk4e.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Metamorfosis del color",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Transformaciones de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/990/7aec14a99692fbd0dcdc9956c98959ce/master.m3u8?1676411887"
+                },
+                {
+                    "id": null,
+                    "title": "Experimentación en composiciones orgánicas con tinturas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/991/dac5cf2364c696c5bd15fbef2d77cb58/master.m3u8?1676411886"
+                },
+                {
+                    "id": null,
+                    "title": "Conservación y aglutinante",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/993/61b3a1f931f1d57b098b2eac92763970/master.m3u8?1676411884"
+                },
+                {
+                    "id": null,
+                    "title": "Montar la bitácora en un libro viejo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/062/994/6a81272a7674b9a18e4b926145be1181/master.m3u8?1676411886"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/tr9o35.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/7ao5mx.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 4618,
+        "product_name": "Creating Liquid Watercolors and Botanical Inks",
+        "teacher_name": "Gina y Miguel (Tortolita Inventiva)",
+        "category_id": 12,
+        "category_name": "Craft",
+        "course_level": "beginner",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 4779,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

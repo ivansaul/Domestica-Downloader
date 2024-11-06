@@ -1,0 +1,158 @@
+{
+    "id": "1012",
+    "title": "Retrato creativo en claroscuro con lápiz",
+    "url": "https://www.domestika.org/es/courses/1012-retrato-creativo-en-claroscuro-con-lapiz/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Introducción sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/037/22e6103b08dca87cd596347802fee91a/master.m3u8?1676388938"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/038/260b67774512955ce5a3ab53b0477d89/master.m3u8?1676388953"
+                },
+                {
+                    "id": null,
+                    "title": "Lo que haremos en el curso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/039/6bb0601daf5a65da1c3f1f98e12aaaa1/master.m3u8?1676388937"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/o85wei.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Preparación",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "La importancia de bosquejar",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/040/dce528497fc3578e01b53ea3571599c3/master.m3u8?1676388943"
+                },
+                {
+                    "id": null,
+                    "title": "Planificación del retrato conceptualización y elección de elementos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/041/35e1a79729543924007b97a6e19bde04/master.m3u8?1676388938"
+                },
+                {
+                    "id": null,
+                    "title": "Composición  Líneas Básicas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/042/681bb5ebc9a6c4596d1a2c270dabb0e4/master.m3u8?1676388938"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/thn8tk.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Claroscuro y Color Básico",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Claroscuro Blanco y Negro  Teoría",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/043/4cc12c7280053ac188962a41ff4b5c97/master.m3u8?1676388937"
+                },
+                {
+                    "id": null,
+                    "title": "Claroscuro Blanco y Negro  Práctica",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/044/4d37cc3d9720432620c243a174923db7/master.m3u8?1676388938"
+                },
+                {
+                    "id": null,
+                    "title": "Segunda base de color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/045/6be693b70fc04709f461aea816423f93/master.m3u8?1676388942"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/slsqgr.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Colores",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "El círculo de Itten y la elección opcional de colores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/046/3b9889a1d4ee8738d137d51ff3d19af9/master.m3u8?1676388941"
+                },
+                {
+                    "id": null,
+                    "title": "Dando el primer color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/047/44d88ef213ed47efd7241a6a277f76c0/master.m3u8?1676388942"
+                },
+                {
+                    "id": null,
+                    "title": "Dando el segundo color",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/048/103d366c4d070fa3f2680d2dc205c200/master.m3u8?1676388943"
+                },
+                {
+                    "id": null,
+                    "title": "Dando los toques finales",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/019/049/44a6dd9115a614a53c5a5dc2542079b5/master.m3u8?1676388944"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/sb9lg7.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/v4kpyb.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 1012,
+        "product_name": "Chiaroscuro Creative Portrait with Pencils",
+        "teacher_name": "Marco Mazzoni",
+        "category_id": 11,
+        "category_name": "Illustration",
+        "course_level": "intermediate",
+        "course_number_of_lessons": 13,
+        "course_total_duration_sec": 3794,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "id": "59",
+    "title": "Dirección de Arte con Cinema 4D",
+    "url": "https://www.domestika.org/es/courses/59-direccion-de-arte-con-cinema-4d/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/187/ad98486c19486bb57aac4720770f4d95/master.m3u8?1676381010"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/204/0d516c14b874530e8fcf49c6d5bf8586/master.m3u8?1676381029"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/qmegn5.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Perdiendo el miedo al 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Workflow de trabajo en 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/188/350d25366f9b413ad9bbb108bb22f657/master.m3u8?1676381003"
+                },
+                {
+                    "id": null,
+                    "title": "VRay y recursos de texturas e iluminación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/189/ac09ef692ce3e80bb8c9212b04324c9e/master.m3u8?1676381008"
+                },
+                {
+                    "id": null,
+                    "title": "Conocimientos básicos de 3D",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/190/5bef117810f0713ab4f698187e493fff/master.m3u8?1676381009"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas básicas de Cinema 4D I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/191/ad0115883f616952f7678201c3a134b9/master.m3u8?1676381016"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas básicas de Cinema 4D II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/192/0189755bc91274309e41f03fc4597bf2/master.m3u8?1676381012"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/dn4ktj.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Del papel al 3D",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Bocetado",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/193/36883dd911d5f50262b60b0a4addf297/master.m3u8?1676381009"
+                },
+                {
+                    "id": null,
+                    "title": "Herramientas vectoriales e importación de vectores",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/194/fbf689e8ab1e40151bef22151c8bbf25/master.m3u8?1676381009"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado e importación de objetos I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/201/edad911b6907a3dc2ca3c6daad42812e/master.m3u8?1676381022"
+                },
+                {
+                    "id": null,
+                    "title": "Modelado e importación de objetos II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/195/ce5e95038075a25bc687968b0e27ba80/master.m3u8?1676381015"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e8rceh.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Del 3D al arte final",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Texturizado I",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/196/cbc83f2d75e0dd4fcdca00a052b5f1f2/master.m3u8?1676381013"
+                },
+                {
+                    "id": null,
+                    "title": "Texturizado II",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/197/644bdeadda5a1ecf598deed0595a377b/master.m3u8?1676381015"
+                },
+                {
+                    "id": null,
+                    "title": "Iluminación y cámaras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/198/785b94ffa3bf76487fc2ae25da427bb3/master.m3u8?1676381022"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de imagen final y máscaras",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/200/dfb7fe1c48247166b4f4dfa35aeb7f12/master.m3u8?1676381023"
+                },
+                {
+                    "id": null,
+                    "title": "Importación de render y máscaras en Photoshop",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/202/3984bcf8f27cdc3b3b45440a3c5655d4/master.m3u8?1676381025"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/6m157t.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/4c2bkf.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 59,
+        "product_name": "Art Direction with 4D Cinema",
+        "teacher_name": "TAVO STUDIO",
+        "category_id": 13,
+        "category_name": "3D & Animation",
+        "course_level": "beginner",
+        "course_number_of_lessons": 16,
+        "course_total_duration_sec": 14510,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}

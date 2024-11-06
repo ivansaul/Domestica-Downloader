@@ -1,0 +1,153 @@
+{
+    "id": "2734",
+    "title": "Liderazgo para creativos encuentra tu propio estilo",
+    "url": "https://www.domestika.org/es/courses/2734-liderazgo-para-creativos-encuentra-tu-propio-estilo/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Sobre mí",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/220/8a7cf6af723dc83cbf60665744a3cd38/master.m3u8?1676398640"
+                },
+                {
+                    "id": null,
+                    "title": "Influencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/221/1e84c0146d186796660d4c62a21a5ef3/master.m3u8?1676398638"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/e0jqmw.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Liderar frente a gestionar y la importancia de la autoconciencia",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Descripción general de liderazgo frente a administración",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/223/431275e8d6e981869509bc852e67fab4/master.m3u8?1676398641"
+                },
+                {
+                    "id": null,
+                    "title": "Empieza contigo la importancia de la autoconciencia",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/224/e933902811490a93bc297a5ef4b0ca7f/master.m3u8?1676398645"
+                },
+                {
+                    "id": null,
+                    "title": "Equilibrio en el péndulo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/225/db18b3f50d14c3da05caae61e98e955b/master.m3u8?1676398645"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ahoux2.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sea deliberado con una visión un propósito y un estilo de liderazgo claros",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentando nuestro estudio de caso",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/227/ed82a85d072feb8f63d24b150b806bbe/master.m3u8?1676398647"
+                },
+                {
+                    "id": null,
+                    "title": "Creación de una luz de guía para usted y su empresa",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/229/552e35eda5fe64d14e000d90d23736e0/master.m3u8?1676398649"
+                },
+                {
+                    "id": null,
+                    "title": "Dar forma a cómo presentarse estilo de liderazgo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/232/59942e2780307cd65428a1aff10ada4c/master.m3u8?1676398648"
+                },
+                {
+                    "id": null,
+                    "title": "Clientes felices 1",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/234/74bd60535c50b1cb77a2658e32039f85/master.m3u8?1676398645"
+                },
+                {
+                    "id": null,
+                    "title": "Clientes felices 2",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/235/acfcbb8a0647a8ff23e5a6ee92f28e6c/master.m3u8?1676398649"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/1zaxsu.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Compromiso con el liderazgo",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Siempre aprende y crece",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/237/c8dd5b4e26de4f098882140bfa93a067/master.m3u8?1676398645"
+                },
+                {
+                    "id": null,
+                    "title": "GRACIA y consejos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/038/238/6c319c6eb60b4743c7b00156134d1d31/master.m3u8?1676398647"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/lcert8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/jy6fmr.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 2734,
+        "product_name": "Leadership for Creatives: Find Your Own Style",
+        "teacher_name": "Gillian Davis",
+        "category_id": 17,
+        "category_name": "Marketing & Business",
+        "course_level": "beginner",
+        "course_number_of_lessons": 12,
+        "course_total_duration_sec": 7893,
+        "total_units": 4,
+        "subtitles_language": [
+            "en",
+            "es",
+            "pt",
+            "de",
+            "fr",
+            "it",
+            "pl",
+            "nl",
+            "tr"
+        ],
+        "audio_language": [
+            "en"
+        ],
+        "original_language": "en"
+    }
+}

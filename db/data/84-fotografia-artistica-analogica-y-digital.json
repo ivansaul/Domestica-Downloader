@@ -1,0 +1,132 @@
+{
+    "id": "84",
+    "title": "Fotografía artística analógica y digital",
+    "url": "https://www.domestika.org/es/courses/84-fotografia-artistica-analogica-y-digital/course",
+    "sections": [
+        {
+            "id": null,
+            "title": "Introducción",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Presentación",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/804/9667e0aaeb2ab231d78e8a4cef1f9843/master.m3u8?1676381299"
+                },
+                {
+                    "id": null,
+                    "title": "Referentes",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/747/25278ee178a20eb670f069a9769f0ae4/master.m3u8?1676381281"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/9hzu60.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Pensando las fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Blog de referencias",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/748/8965dd0ce02c35933aee16c3489ac957/master.m3u8?1676381282"
+                },
+                {
+                    "id": null,
+                    "title": "Cuadernos de ideas",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/805/0ec45b708ed1cd5c136157cb0b75c908/master.m3u8?1676381300"
+                },
+                {
+                    "id": null,
+                    "title": "Equipo que utilizo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/806/7c9c1342d4a34b1c36e278e026ee7ade/master.m3u8?1676381298"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/2s3xx0.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Sesión de fotos",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Pintamos la pared",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/807/90e08e33fa675764c19261fc17948087/master.m3u8?1676381299"
+                },
+                {
+                    "id": null,
+                    "title": "Pintamos a la modelo",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/808/d33c893d33b2f3e73c6bd9c4cc48088a/master.m3u8?1676381298"
+                },
+                {
+                    "id": null,
+                    "title": "Tomamos las fotos",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/809/ad9f498e77acae4499c0da2a5004b60f/master.m3u8?1676381307"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/ib6qy9.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Proceso de edición",
+            "videos": [
+                {
+                    "id": null,
+                    "title": "Proceso de edición",
+                    "m3u8_url": "https://cdn-videos.domestika.org/videos/000/001/755/00536701d09ce0f36fc2ece537c920d4/master.m3u8?1676381286"
+                }
+            ],
+            "assets": [
+                {
+                    "name": "content",
+                    "url": "https://files.catbox.moe/kucej8.pdf"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "title": "Final Project",
+            "videos": [],
+            "assets": []
+        }
+    ],
+    "assets": [
+        {
+            "name": "content",
+            "url": "https://files.catbox.moe/h8148a.pdf"
+        }
+    ],
+    "info": {
+        "product_id": 84,
+        "product_name": "Analog and Digital Artistic Photography",
+        "teacher_name": "Berta Vicente",
+        "category_id": 8,
+        "category_name": "Photography & Video",
+        "course_level": "beginner",
+        "course_number_of_lessons": 9,
+        "course_total_duration_sec": 3848,
+        "total_units": 4,
+        "subtitles_language": [
+            "es",
+            "en",
+            "pt"
+        ],
+        "audio_language": [
+            "es"
+        ],
+        "original_language": "es"
+    }
+}
