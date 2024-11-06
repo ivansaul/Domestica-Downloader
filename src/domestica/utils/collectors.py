@@ -112,6 +112,7 @@ async def fetch_section(url: str, context: BrowserContext) -> Section:
 
     # TODO: implement this
     if url.endswith("/final_project"):
+        await page.close()
         return Section(
             title="Final Project",
             videos=[],
@@ -132,6 +133,7 @@ async def fetch_section(url: str, context: BrowserContext) -> Section:
     pattern = r"window\.__INITIAL_PROPS__ = JSON\.parse\('(.*?)'\)"
     match = re.search(pattern, await page.content())
     if not match:
+        await page.close()
         raise Exception("Could not get section content")
 
     json_str = match.group(1).replace("\\", "")
