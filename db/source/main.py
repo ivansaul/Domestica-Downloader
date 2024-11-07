@@ -18,12 +18,14 @@ async def main():
             # "https://www.domestika.org/es/courses/category/8-fotografia-y-video/popular?catalog_option=plus"
             # "https://www.domestika.org/es/courses/category/18-escritura/popular?catalog_option=plus"
             # "https://www.domestika.org/es/courses/category/16-caligrafia-y-tipografia/popular?catalog_option=plus"
-            "https://www.domestika.org/es/courses/category/17-marketing-y-negocios/popular?catalog_option=plus"
+            # "https://www.domestika.org/es/courses/category/17-marketing-y-negocios/popular?catalog_option=plus"
+            # "https://www.domestika.org/es/courses/category/11-ilustracion/popular?catalog_option=plus"
+            "https://www.domestika.org/es/courses/category/13-3d-y-animacion/popular?catalog_option=plus"
         )
 
         await page.evaluate("document.body.style.zoom='50%'")
 
-        await asyncio.sleep(60 * 3)
+        await asyncio.sleep(60 * 5)
 
         with open("source.html", "w") as f:
             f.write(await page.content())
@@ -31,5 +33,4 @@ async def main():
         await browser.close()
 
 
-# Ejecutar la función principal
 asyncio.run(main())
