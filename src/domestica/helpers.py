@@ -1,4 +1,5 @@
 import json
+import re
 from pathlib import Path
 from typing import Any
 
@@ -29,3 +30,19 @@ def write_json(data: Any, path: str) -> None:
     Path(path).parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
+
+
+def clean_string(text: str) -> str:
+    """
+    Cleans the input string by removing special characters and
+    leading/trailing white spaces.
+
+    Args:
+        text (str): The input string to be cleaned.
+
+    Returns:
+        str: The cleaned string, with special characters removed and
+        leading/trailing spaces stripped.
+    """
+    pattern = r"[ºª]|[^\w\s]"
+    return re.sub(pattern, "", text).strip()

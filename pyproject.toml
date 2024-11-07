@@ -31,6 +31,7 @@ pytest-playwright = "^0.5.2"
 pytest = "^8.3.3"
 ruff = "^0.6.8"
 pytest-mock = "^3.14.0"
+python-semantic-release = "^9.12.2"
 
 [build-system]
 requires = ["poetry-core"]
@@ -41,3 +42,14 @@ preview = true
 select = ['E', 'F', 'W', 'I']
 ignore = ["E501"]
 
+[tool.semantic_release]
+version_source = "tag"
+version_variable = ["src/domestica/version.py:__version__"]
+version_toml = ["pyproject.toml:tool.poetry.version"]
+branch = "master"
+build_command = "pip install poetry && poetry build"
+major_on_zero = true
+allow_zero_version = true
+upload_to_pypi = true
+upload_to_release = true
+commit_version_number = true
